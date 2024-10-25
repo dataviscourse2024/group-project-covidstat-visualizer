@@ -1,0 +1,27 @@
+body { 
+    font-family: Arial, sans-serif; 
+}
+.chart { 
+    margin: 20px; 
+}
+.axis-label { 
+    font-size: 12px; 
+}
+.tooltip {
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 5px;
+    font-size: 12px;
+    pointer-events: none;
+}
+.line { 
+    fill: none; 
+    stroke-width: 2; 
+}
+.bar { 
+    fill-opacity: 0.7; 
+}
+.selector { 
+    margin: 20px; 
+}

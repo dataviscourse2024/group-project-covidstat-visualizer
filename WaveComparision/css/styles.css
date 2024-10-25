@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f9;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 600px;
+}
+
+svg {
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
