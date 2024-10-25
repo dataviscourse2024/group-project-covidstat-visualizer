@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Cases Line Chart with Response Measures</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h2 style="text-align: center;">Weekly Cases and Response Measures by Country</h2>
+    <div style="text-align: center; margin-bottom: 20px;">
+        <label for="countrySelect">Select Country:</label>
+        <select id="countrySelect"></select>
+    </div>
+
+    <!-- Container for the line chart -->
+    <div id="chart-container">
+        <div id="cases-chart" class="chart"></div>
+    </div>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

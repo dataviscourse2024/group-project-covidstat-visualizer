@@ -1,0 +1,49 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Tooltip styling */
+.tooltip {
+    position: absolute;
+    opacity: 0.9;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    pointer-events: none;
+}
+
+/* Axis labels */
+.axis-label {
+    font-size: 12px;
+    font-weight: bold;
+    fill: #333;
+}
+
+/* Grid styling */
+.grid line {
+    stroke: #ddd;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+
+/* Line and marker styles */
+.line-path {
+    stroke-width: 2.5px;
+    fill: none;
+}
+
+.response-marker {
+    fill: #e74c3c;
+    stroke: white;
+    stroke-width: 1.5;
+}
+
+/* Chart container */
+#chart-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

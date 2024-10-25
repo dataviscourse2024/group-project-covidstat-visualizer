@@ -1,0 +1,3325 @@
+country,year_week,indicator,weekly_count,week
+Albania,2020-03-09,cases,2.0,1
+Albania,2020-03-16,cases,40.0,2
+Albania,2020-03-23,cases,47.0,3
+Albania,2020-03-30,cases,123.0,4
+Albania,2020-04-06,cases,149.0,5
+Albania,2020-04-13,cases,85.0,6
+Albania,2020-04-20,cases,116.0,7
+Albania,2020-04-27,cases,164.0,8
+Albania,2020-05-04,cases,69.0,9
+Albania,2020-05-11,cases,73.0,10
+Albania,2020-05-18,cases,78.0,11
+Albania,2020-05-25,cases,52.0,12
+Albania,2020-06-01,cases,139.0,13
+Albania,2020-06-08,cases,109.0,14
+Albania,2020-06-15,cases,275.0,15
+Albania,2020-06-22,cases,406.0,16
+Albania,2020-06-29,cases,475.0,17
+Albania,2020-07-06,cases,491.0,18
+Albania,2020-07-13,cases,561.0,19
+Albania,2020-07-20,cases,636.0,20
+Albania,2020-07-27,cases,673.0,21
+Albania,2020-08-03,cases,756.0,22
+Albania,2020-08-10,cases,892.0,23
+Albania,2020-08-17,cases,969.0,24
+Albania,2020-08-24,cases,1047.0,25
+Albania,2020-08-31,cases,953.0,26
+Albania,2020-09-07,cases,875.0,27
+Albania,2020-09-14,cases,1098.0,28
+Albania,2020-09-21,cases,1032.0,29
+Albania,2020-09-28,cases,874.0,30
+Albania,2020-10-05,cases,1007.0,31
+Albania,2020-10-12,cases,1133.0,32
+Albania,2020-10-19,cases,1656.0,33
+Albania,2020-10-26,cases,2102.0,34
+Albania,2020-11-02,cases,2045.0,35
+Albania,2020-11-09,cases,3004.0,36
+Albania,2020-11-16,cases,3624.0,37
+Albania,2020-11-23,cases,4931.0,38
+Albania,2020-11-30,cases,4864.0,39
+Albania,2020-12-07,cases,5363.0,40
+Albania,2020-12-14,cases,5542.0,41
+Albania,2020-12-21,cases,4473.0,42
+Albania,2020-12-28,cases,3569.0,43
+Albania,2021-01-04,cases,2866.0,44
+Albania,2021-01-04,cases,4157.0,45
+Albania,2021-01-11,cases,4095.0,46
+Albania,2021-01-18,cases,4584.0,47
+Albania,2021-01-25,cases,5853.0,48
+Albania,2021-02-01,cases,7209.0,49
+Albania,2021-02-08,cases,7739.0,50
+Albania,2021-02-15,cases,7171.0,51
+Albania,2021-02-22,cases,6921.0,52
+Andorra,2020-03-16,cases,5.0,1
+Andorra,2020-03-23,cases,108.0,2
+Andorra,2020-03-30,cases,221.0,3
+Andorra,2020-04-06,cases,167.0,4
+Andorra,2020-04-13,cases,137.0,5
+Andorra,2020-04-20,cases,75.0,6
+Andorra,2020-04-27,cases,27.0,7
+Andorra,2020-05-04,cases,8.0,8
+Andorra,2020-05-11,cases,7.0,9
+Andorra,2020-05-18,cases,6.0,10
+Andorra,2020-05-25,cases,2.0,11
+Andorra,2020-06-01,cases,1.0,12
+Andorra,2020-06-08,cases,88.0,13
+Andorra,2020-06-15,cases,1.0,14
+Andorra,2020-06-22,cases,2.0,15
+Andorra,2020-06-29,cases,0.0,16
+Andorra,2020-07-06,cases,0.0,17
+Andorra,2020-07-13,cases,0.0,18
+Andorra,2020-07-20,cases,25.0,19
+Andorra,2020-07-27,cases,17.0,20
+Andorra,2020-08-03,cases,28.0,21
+Andorra,2020-08-10,cases,31.0,22
+Andorra,2020-08-17,cases,33.0,23
+Andorra,2020-08-24,cases,56.0,24
+Andorra,2020-08-31,cases,79.0,25
+Andorra,2020-09-07,cases,91.0,26
+Andorra,2020-09-14,cases,129.0,27
+Andorra,2020-09-21,cases,220.0,28
+Andorra,2020-09-28,cases,272.0,29
+Andorra,2020-10-05,cases,274.0,30
+Andorra,2020-10-12,cases,586.0,31
+Andorra,2020-10-19,cases,681.0,32
+Andorra,2020-10-26,cases,661.0,33
+Andorra,2020-11-02,cases,787.0,34
+Andorra,2020-11-09,cases,558.0,35
+Andorra,2020-11-16,cases,489.0,36
+Andorra,2020-11-23,cases,384.0,37
+Andorra,2020-11-30,cases,456.0,38
+Andorra,2020-12-07,cases,338.0,39
+Andorra,2020-12-14,cases,288.0,40
+Andorra,2020-12-21,cases,239.0,41
+Andorra,2020-12-28,cases,10.0,42
+Andorra,2021-01-04,cases,605.0,43
+Andorra,2021-01-04,cases,490.0,44
+Andorra,2021-01-11,cases,401.0,45
+Andorra,2021-01-18,cases,466.0,46
+Andorra,2021-01-25,cases,388.0,47
+Andorra,2021-02-01,cases,314.0,48
+Andorra,2021-02-08,cases,287.0,49
+Andorra,2021-02-15,cases,161.0,50
+Andorra,2021-02-22,cases,190.0,51
+Armenia,2020-01-06,cases,0.0,1
+Armenia,2020-01-13,cases,0.0,2
+Armenia,2020-01-20,cases,0.0,3
+Armenia,2020-01-27,cases,0.0,4
+Armenia,2020-02-03,cases,0.0,5
+Armenia,2020-02-10,cases,0.0,6
+Armenia,2020-02-17,cases,0.0,7
+Armenia,2020-02-24,cases,0.0,8
+Armenia,2020-03-02,cases,1.0,9
+Armenia,2020-03-09,cases,0.0,10
+Armenia,2020-03-16,cases,27.0,11
+Armenia,2020-03-23,cases,166.0,12
+Armenia,2020-03-30,cases,288.0,13
+Armenia,2020-04-06,cases,351.0,14
+Armenia,2020-04-13,cases,206.0,15
+Armenia,2020-04-20,cases,300.0,16
+Armenia,2020-04-27,cases,469.0,17
+Armenia,2020-05-04,cases,699.0,18
+Armenia,2020-05-11,cases,885.0,19
+Armenia,2020-05-18,cases,1431.0,20
+Armenia,2020-05-25,cases,2290.0,21
+Armenia,2020-06-01,cases,2379.0,22
+Armenia,2020-06-08,cases,3833.0,23
+Armenia,2020-06-15,cases,3739.0,24
+Armenia,2020-06-22,cases,3524.0,25
+Armenia,2020-06-29,cases,4539.0,26
+Armenia,2020-07-06,cases,3809.0,27
+Armenia,2020-07-13,cases,3215.0,28
+Armenia,2020-07-20,cases,2830.0,29
+Armenia,2020-07-27,cases,2409.0,30
+Armenia,2020-08-03,cases,1712.0,31
+Armenia,2020-08-10,cases,1308.0,32
+Armenia,2020-08-17,cases,1253.0,33
+Armenia,2020-08-24,cases,1129.0,34
+Armenia,2020-08-31,cases,958.0,35
+Armenia,2020-09-07,cases,1033.0,36
+Armenia,2020-09-14,cases,1079.0,37
+Armenia,2020-09-21,cases,1569.0,38
+Armenia,2020-09-28,cases,1969.0,39
+Armenia,2020-10-05,cases,3096.0,40
+Armenia,2020-10-12,cases,3955.0,41
+Armenia,2020-10-19,cases,8243.0,42
+Armenia,2020-10-26,cases,14116.0,43
+Armenia,2020-11-02,cases,14638.0,44
+Armenia,2020-11-09,cases,14018.0,45
+Armenia,2020-11-16,cases,10420.0,46
+Armenia,2020-11-23,cases,8823.0,47
+Armenia,2020-11-30,cases,8415.0,48
+Armenia,2020-12-07,cases,7220.0,49
+Armenia,2020-12-14,cases,6338.0,50
+Armenia,2020-12-21,cases,5383.0,51
+Armenia,2020-12-28,cases,3883.0,52
+Armenia,2021-01-04,cases,2272.0,53
+Armenia,2021-01-04,cases,2068.0,54
+Armenia,2021-01-11,cases,2388.0,55
+Armenia,2021-01-18,cases,1418.0,56
+Armenia,2021-01-25,cases,994.0,57
+Armenia,2021-02-01,cases,1089.0,58
+Armenia,2021-02-08,cases,1078.0,59
+Armenia,2021-02-15,cases,1147.0,60
+Armenia,2021-02-22,cases,1814.0,61
+Austria,2020-01-06,cases,0.0,1
+Austria,2020-01-13,cases,0.0,2
+Austria,2020-01-20,cases,0.0,3
+Austria,2020-01-27,cases,0.0,4
+Austria,2020-02-03,cases,0.0,5
+Austria,2020-02-10,cases,0.0,6
+Austria,2020-02-17,cases,0.0,7
+Austria,2020-02-24,cases,0.0,8
+Austria,2020-03-02,cases,12.0,9
+Austria,2020-03-09,cases,114.0,10
+Austria,2020-03-16,cases,874.0,11
+Austria,2020-03-23,cases,3068.0,12
+Austria,2020-03-30,cases,5128.0,13
+Austria,2020-04-06,cases,3116.0,14
+Austria,2020-04-13,cases,1838.0,15
+Austria,2020-04-20,cases,684.0,16
+Austria,2020-04-27,cases,448.0,17
+Austria,2020-05-04,cases,312.0,18
+Austria,2020-05-11,cases,264.0,19
+Austria,2020-05-18,cases,335.0,20
+Austria,2020-05-25,cases,265.0,21
+Austria,2020-06-01,cases,195.0,22
+Austria,2020-06-08,cases,227.0,23
+Austria,2020-06-15,cases,172.0,24
+Austria,2020-06-22,cases,248.0,25
+Austria,2020-06-29,cases,335.0,26
+Austria,2020-07-06,cases,640.0,27
+Austria,2020-07-13,cases,596.0,28
+Austria,2020-07-20,cases,784.0,29
+Austria,2020-07-27,cases,872.0,30
+Austria,2020-08-03,cases,794.0,31
+Austria,2020-08-10,cases,722.0,32
+Austria,2020-08-17,cases,1462.0,33
+Austria,2020-08-24,cases,1907.0,34
+Austria,2020-08-31,cases,1941.0,35
+Austria,2020-09-07,cases,2268.0,36
+Austria,2020-09-14,cases,3997.0,37
+Austria,2020-09-21,cases,5211.0,38
+Austria,2020-09-28,cases,4656.0,39
+Austria,2020-10-05,cases,5597.0,40
+Austria,2020-10-12,cases,7486.0,41
+Austria,2020-10-19,cases,9903.0,42
+Austria,2020-10-26,cases,18273.0,43
+Austria,2020-11-02,cases,31613.0,44
+Austria,2020-11-09,cases,44758.0,45
+Austria,2020-11-16,cases,47880.0,46
+Austria,2020-11-23,cases,40742.0,47
+Austria,2020-11-30,cases,31162.0,48
+Austria,2020-12-07,cases,23078.0,49
+Austria,2020-12-14,cases,18701.0,50
+Austria,2020-12-21,cases,14864.0,51
+Austria,2020-12-28,cases,13340.0,52
+Austria,2021-01-04,cases,14894.0,53
+Austria,2021-01-04,cases,14633.0,54
+Austria,2021-01-11,cases,10946.0,55
+Austria,2021-01-18,cases,10165.0,56
+Austria,2021-01-25,cases,9513.0,57
+Austria,2021-02-01,cases,9119.0,58
+Austria,2021-02-08,cases,9457.0,59
+Austria,2021-02-15,cases,11635.0,60
+Austria,2021-02-22,cases,14195.0,61
+Azerbaijan,2020-01-06,cases,0.0,1
+Azerbaijan,2020-01-13,cases,0.0,2
+Azerbaijan,2020-01-20,cases,0.0,3
+Azerbaijan,2020-01-27,cases,0.0,4
+Azerbaijan,2020-02-03,cases,0.0,5
+Azerbaijan,2020-02-10,cases,0.0,6
+Azerbaijan,2020-02-17,cases,0.0,7
+Azerbaijan,2020-02-24,cases,0.0,8
+Azerbaijan,2020-03-02,cases,3.0,9
+Azerbaijan,2020-03-09,cases,6.0,10
+Azerbaijan,2020-03-16,cases,10.0,11
+Azerbaijan,2020-03-23,cases,46.0,12
+Azerbaijan,2020-03-30,cases,144.0,13
+Azerbaijan,2020-04-06,cases,375.0,14
+Azerbaijan,2020-04-13,cases,514.0,15
+Azerbaijan,2020-04-20,cases,300.0,16
+Azerbaijan,2020-04-27,cases,247.0,17
+Azerbaijan,2020-05-04,cases,287.0,18
+Azerbaijan,2020-05-11,cases,587.0,19
+Azerbaijan,2020-05-18,cases,755.0,20
+Azerbaijan,2020-05-25,cases,848.0,21
+Azerbaijan,2020-06-01,cases,1372.0,22
+Azerbaijan,2020-06-08,cases,2059.0,23
+Azerbaijan,2020-06-15,cases,2404.0,24
+Azerbaijan,2020-06-22,cases,2772.0,25
+Azerbaijan,2020-06-29,cases,3695.0,26
+Azerbaijan,2020-07-06,cases,3900.0,27
+Azerbaijan,2020-07-13,cases,3717.0,28
+Azerbaijan,2020-07-20,cases,3480.0,29
+Azerbaijan,2020-07-27,cases,2529.0,30
+Azerbaijan,2020-08-03,cases,2393.0,31
+Azerbaijan,2020-08-10,cases,1125.0,32
+Azerbaijan,2020-08-17,cases,651.0,33
+Azerbaijan,2020-08-24,cases,1055.0,34
+Azerbaijan,2020-08-31,cases,1035.0,35
+Azerbaijan,2020-09-07,cases,1020.0,36
+Azerbaijan,2020-09-14,cases,998.0,37
+Azerbaijan,2020-09-21,cases,861.0,38
+Azerbaijan,2020-09-28,cases,835.0,39
+Azerbaijan,2020-10-05,cases,668.0,40
+Azerbaijan,2020-10-12,cases,1291.0,41
+Azerbaijan,2020-10-19,cases,2982.0,42
+Azerbaijan,2020-10-26,cases,4995.0,43
+Azerbaijan,2020-11-02,cases,6485.0,44
+Azerbaijan,2020-11-09,cases,8967.0,45
+Azerbaijan,2020-11-16,cases,10277.0,46
+Azerbaijan,2020-11-23,cases,17406.0,47
+Azerbaijan,2020-11-30,cases,25101.0,48
+Azerbaijan,2020-12-07,cases,28484.0,49
+Azerbaijan,2020-12-14,cases,29195.0,50
+Azerbaijan,2020-12-21,cases,26214.0,51
+Azerbaijan,2020-12-28,cases,13395.0,52
+Azerbaijan,2021-01-04,cases,4782.0,53
+Azerbaijan,2021-01-04,cases,4562.0,54
+Azerbaijan,2021-01-11,cases,2564.0,55
+Azerbaijan,2021-01-18,cases,1641.0,56
+Azerbaijan,2021-01-25,cases,1187.0,57
+Azerbaijan,2021-02-01,cases,935.0,58
+Azerbaijan,2021-02-08,cases,1043.0,59
+Azerbaijan,2021-02-15,cases,1004.0,60
+Azerbaijan,2021-02-22,cases,1461.0,61
+Belarus,2020-01-06,cases,0.0,1
+Belarus,2020-01-13,cases,0.0,2
+Belarus,2020-01-20,cases,0.0,3
+Belarus,2020-01-27,cases,0.0,4
+Belarus,2020-02-03,cases,0.0,5
+Belarus,2020-02-10,cases,0.0,6
+Belarus,2020-02-17,cases,0.0,7
+Belarus,2020-02-24,cases,0.0,8
+Belarus,2020-03-02,cases,1.0,9
+Belarus,2020-03-09,cases,5.0,10
+Belarus,2020-03-16,cases,21.0,11
+Belarus,2020-03-23,cases,49.0,12
+Belarus,2020-03-30,cases,18.0,13
+Belarus,2020-04-06,cases,470.0,14
+Belarus,2020-04-13,cases,2014.0,15
+Belarus,2020-04-20,cases,3229.0,16
+Belarus,2020-04-27,cases,4656.0,17
+Belarus,2020-05-04,cases,6242.0,18
+Belarus,2020-05-11,cases,6268.0,19
+Belarus,2020-05-18,cases,6677.0,20
+Belarus,2020-05-25,cases,6548.0,21
+Belarus,2020-06-01,cases,6358.0,22
+Belarus,2020-06-08,cases,6074.0,23
+Belarus,2020-06-15,cases,5343.0,24
+Belarus,2020-06-22,cases,4532.0,25
+Belarus,2020-06-29,cases,2970.0,26
+Belarus,2020-07-06,cases,2079.0,27
+Belarus,2020-07-13,cases,1378.0,28
+Belarus,2020-07-20,cases,1163.0,29
+Belarus,2020-07-27,cases,1037.0,30
+Belarus,2020-08-03,cases,935.0,31
+Belarus,2020-08-10,cases,783.0,32
+Belarus,2020-08-17,cases,666.0,33
+Belarus,2020-08-24,cases,952.0,34
+Belarus,2020-08-31,cases,1219.0,35
+Belarus,2020-09-07,cases,1172.0,36
+Belarus,2020-09-14,cases,1314.0,37
+Belarus,2020-09-21,cases,1501.0,38
+Belarus,2020-09-28,cases,1935.0,39
+Belarus,2020-10-05,cases,2686.0,40
+Belarus,2020-10-12,cases,3239.0,41
+Belarus,2020-10-19,cases,4164.0,42
+Belarus,2020-10-26,cases,5125.0,43
+Belarus,2020-11-02,cases,6636.0,44
+Belarus,2020-11-09,cases,6820.0,45
+Belarus,2020-11-16,cases,7906.0,46
+Belarus,2020-11-23,cases,9814.0,47
+Belarus,2020-11-30,cases,11009.0,48
+Belarus,2020-12-07,cases,12149.0,49
+Belarus,2020-12-14,cases,13138.0,50
+Belarus,2020-12-21,cases,13228.0,51
+Belarus,2020-12-28,cases,15065.0,52
+Belarus,2021-01-04,cases,11374.0,53
+Belarus,2021-01-04,cases,14031.0,54
+Belarus,2021-01-11,cases,13367.0,55
+Belarus,2021-01-18,cases,10251.0,56
+Belarus,2021-01-25,cases,10725.0,57
+Belarus,2021-02-01,cases,10163.0,58
+Belarus,2021-02-08,cases,10188.0,59
+Belarus,2021-02-15,cases,10769.0,60
+Belarus,2021-02-22,cases,8811.0,61
+Belgium,2020-01-06,cases,0.0,1
+Belgium,2020-01-13,cases,0.0,2
+Belgium,2020-01-20,cases,0.0,3
+Belgium,2020-01-27,cases,0.0,4
+Belgium,2020-02-03,cases,2.0,5
+Belgium,2020-02-10,cases,1.0,6
+Belgium,2020-02-17,cases,0.0,7
+Belgium,2020-02-24,cases,0.0,8
+Belgium,2020-03-02,cases,0.0,9
+Belgium,2020-03-09,cases,0.0,10
+Belgium,2020-03-16,cases,3678.0,11
+Belgium,2020-03-23,cases,3673.0,12
+Belgium,2020-03-30,cases,8130.0,13
+Belgium,2020-04-06,cases,9694.0,14
+Belgium,2020-04-13,cases,11175.0,15
+Belgium,2020-04-20,cases,7963.0,16
+Belgium,2020-04-27,cases,5703.0,17
+Belgium,2020-05-04,cases,3095.0,18
+Belgium,2020-05-11,cases,3051.0,19
+Belgium,2020-05-18,cases,2071.0,20
+Belgium,2020-05-25,cases,1510.0,21
+Belgium,2020-06-01,cases,1144.0,22
+Belgium,2020-06-08,cases,847.0,23
+Belgium,2020-06-15,cases,671.0,24
+Belgium,2020-06-22,cases,668.0,25
+Belgium,2020-06-29,cases,607.0,26
+Belgium,2020-07-06,cases,637.0,27
+Belgium,2020-07-13,cases,704.0,28
+Belgium,2020-07-20,cases,1385.0,29
+Belgium,2020-07-27,cases,2489.0,30
+Belgium,2020-08-03,cases,3759.0,31
+Belgium,2020-08-10,cases,4340.0,32
+Belgium,2020-08-17,cases,3751.0,33
+Belgium,2020-08-24,cases,3453.0,34
+Belgium,2020-08-31,cases,3121.0,35
+Belgium,2020-09-07,cases,3655.0,36
+Belgium,2020-09-14,cases,6158.0,37
+Belgium,2020-09-21,cases,10108.0,38
+Belgium,2020-09-28,cases,11274.0,39
+Belgium,2020-10-05,cases,18895.0,40
+Belgium,2020-10-12,cases,38852.0,41
+Belgium,2020-10-19,cases,72232.0,42
+Belgium,2020-10-26,cases,105383.0,43
+Belgium,2020-11-02,cases,99584.0,44
+Belgium,2020-11-09,cases,54006.0,45
+Belgium,2020-11-16,cases,33967.0,46
+Belgium,2020-11-23,cases,22312.0,47
+Belgium,2020-11-30,cases,16261.0,48
+Belgium,2020-12-07,cases,15289.0,49
+Belgium,2020-12-14,cases,16840.0,50
+Belgium,2020-12-21,cases,17714.0,51
+Belgium,2020-12-28,cases,12607.0,52
+Belgium,2021-01-04,cases,8976.0,53
+Belgium,2021-01-04,cases,13692.0,54
+Belgium,2021-01-11,cases,13093.0,55
+Belgium,2021-01-18,cases,14641.0,56
+Belgium,2021-01-25,cases,16375.0,57
+Belgium,2021-02-01,cases,14892.0,58
+Belgium,2021-02-08,cases,12527.0,59
+Belgium,2021-02-15,cases,15361.0,60
+Belgium,2021-02-22,cases,16648.0,61
+Bosnia And Herzegovina,2020-03-16,cases,18.0,1
+Bosnia And Herzegovina,2020-03-23,cases,113.0,2
+Bosnia And Herzegovina,2020-03-30,cases,221.0,3
+Bosnia And Herzegovina,2020-04-06,cases,296.0,4
+Bosnia And Herzegovina,2020-04-13,cases,352.0,5
+Bosnia And Herzegovina,2020-04-20,cases,285.0,6
+Bosnia And Herzegovina,2020-04-27,cases,231.0,7
+Bosnia And Herzegovina,2020-05-04,cases,341.0,8
+Bosnia And Herzegovina,2020-05-11,cases,260.0,9
+Bosnia And Herzegovina,2020-05-18,cases,173.0,10
+Bosnia And Herzegovina,2020-05-25,cases,111.0,11
+Bosnia And Herzegovina,2020-06-01,cases,109.0,12
+Bosnia And Herzegovina,2020-06-08,cases,164.0,13
+Bosnia And Herzegovina,2020-06-15,cases,328.0,14
+Bosnia And Herzegovina,2020-06-22,cases,430.0,15
+Bosnia And Herzegovina,2020-06-29,cases,774.0,16
+Bosnia And Herzegovina,2020-07-06,cases,1188.0,17
+Bosnia And Herzegovina,2020-07-13,cases,1490.0,18
+Bosnia And Herzegovina,2020-07-20,cases,1568.0,19
+Bosnia And Herzegovina,2020-07-27,cases,1863.0,20
+Bosnia And Herzegovina,2020-08-03,cases,1857.0,21
+Bosnia And Herzegovina,2020-08-10,cases,2153.0,22
+Bosnia And Herzegovina,2020-08-17,cases,1684.0,23
+Bosnia And Herzegovina,2020-08-24,cases,1893.0,24
+Bosnia And Herzegovina,2020-08-31,cases,1891.0,25
+Bosnia And Herzegovina,2020-09-07,cases,1767.0,26
+Bosnia And Herzegovina,2020-09-14,cases,1907.0,27
+Bosnia And Herzegovina,2020-09-21,cases,1962.0,28
+Bosnia And Herzegovina,2020-09-28,cases,1492.0,29
+Bosnia And Herzegovina,2020-10-05,cases,1384.0,30
+Bosnia And Herzegovina,2020-10-12,cases,2342.0,31
+Bosnia And Herzegovina,2020-10-19,cases,3469.0,32
+Bosnia And Herzegovina,2020-10-26,cases,6777.0,33
+Bosnia And Herzegovina,2020-11-02,cases,10612.0,34
+Bosnia And Herzegovina,2020-11-09,cases,10918.0,35
+Bosnia And Herzegovina,2020-11-16,cases,9533.0,36
+Bosnia And Herzegovina,2020-11-23,cases,8050.0,37
+Bosnia And Herzegovina,2020-11-30,cases,7268.0,38
+Bosnia And Herzegovina,2020-12-07,cases,7233.0,39
+Bosnia And Herzegovina,2020-12-14,cases,6610.0,40
+Bosnia And Herzegovina,2020-12-21,cases,4889.0,41
+Bosnia And Herzegovina,2020-12-28,cases,3685.0,42
+Bosnia And Herzegovina,2021-01-04,cases,2954.0,43
+Bosnia And Herzegovina,2021-01-04,cases,2988.0,44
+Bosnia And Herzegovina,2021-01-11,cases,2340.0,45
+Bosnia And Herzegovina,2021-01-18,cases,2070.0,46
+Bosnia And Herzegovina,2021-01-25,cases,2043.0,47
+Bosnia And Herzegovina,2021-02-01,cases,1858.0,48
+Bosnia And Herzegovina,2021-02-08,cases,2079.0,49
+Bosnia And Herzegovina,2021-02-15,cases,2295.0,50
+Bosnia And Herzegovina,2021-02-22,cases,3820.0,51
+Bulgaria,2020-01-06,cases,0.0,1
+Bulgaria,2020-01-13,cases,0.0,2
+Bulgaria,2020-01-20,cases,0.0,3
+Bulgaria,2020-01-27,cases,0.0,4
+Bulgaria,2020-02-03,cases,0.0,5
+Bulgaria,2020-02-10,cases,0.0,6
+Bulgaria,2020-02-17,cases,0.0,7
+Bulgaria,2020-02-24,cases,0.0,8
+Bulgaria,2020-03-02,cases,0.0,9
+Bulgaria,2020-03-09,cases,4.0,10
+Bulgaria,2020-03-16,cases,47.0,11
+Bulgaria,2020-03-23,cases,134.0,12
+Bulgaria,2020-03-30,cases,161.0,13
+Bulgaria,2020-04-06,cases,185.0,14
+Bulgaria,2020-04-13,cases,144.0,15
+Bulgaria,2020-04-20,cases,219.0,16
+Bulgaria,2020-04-27,cases,406.0,17
+Bulgaria,2020-05-04,cases,318.0,18
+Bulgaria,2020-05-11,cases,347.0,19
+Bulgaria,2020-05-18,cases,246.0,20
+Bulgaria,2020-05-25,cases,216.0,21
+Bulgaria,2020-06-01,cases,86.0,22
+Bulgaria,2020-06-08,cases,198.0,23
+Bulgaria,2020-06-15,cases,555.0,24
+Bulgaria,2020-06-22,cases,606.0,25
+Bulgaria,2020-06-29,cases,753.0,26
+Bulgaria,2020-07-06,cases,1052.0,27
+Bulgaria,2020-07-13,cases,1498.0,28
+Bulgaria,2020-07-20,cases,1463.0,29
+Bulgaria,2020-07-27,cases,1674.0,30
+Bulgaria,2020-08-03,cases,1524.0,31
+Bulgaria,2020-08-10,cases,1507.0,32
+Bulgaria,2020-08-17,cases,990.0,33
+Bulgaria,2020-08-24,cases,894.0,34
+Bulgaria,2020-08-31,cases,937.0,35
+Bulgaria,2020-09-07,cases,886.0,36
+Bulgaria,2020-09-14,cases,841.0,37
+Bulgaria,2020-09-21,cases,928.0,38
+Bulgaria,2020-09-28,cases,1178.0,39
+Bulgaria,2020-10-05,cases,1521.0,40
+Bulgaria,2020-10-12,cases,2801.0,41
+Bulgaria,2020-10-19,cases,4789.0,42
+Bulgaria,2020-10-26,cases,8454.0,43
+Bulgaria,2020-11-02,cases,15282.0,44
+Bulgaria,2020-11-09,cases,21641.0,45
+Bulgaria,2020-11-16,cases,22950.0,46
+Bulgaria,2020-11-23,cases,23262.0,47
+Bulgaria,2020-11-30,cases,21050.0,48
+Bulgaria,2020-12-07,cases,19097.0,49
+Bulgaria,2020-12-14,cases,18108.0,50
+Bulgaria,2020-12-21,cases,12077.0,51
+Bulgaria,2020-12-28,cases,6355.0,52
+Bulgaria,2021-01-04,cases,5496.0,53
+Bulgaria,2021-01-04,cases,5526.0,54
+Bulgaria,2021-01-11,cases,3330.0,55
+Bulgaria,2021-01-18,cases,2960.0,56
+Bulgaria,2021-01-25,cases,3922.0,57
+Bulgaria,2021-02-01,cases,4934.0,58
+Bulgaria,2021-02-08,cases,5964.0,59
+Bulgaria,2021-02-15,cases,6923.0,60
+Bulgaria,2021-02-22,cases,10267.0,61
+Croatia,2020-01-06,cases,0.0,1
+Croatia,2020-01-13,cases,0.0,2
+Croatia,2020-01-20,cases,0.0,3
+Croatia,2020-01-27,cases,0.0,4
+Croatia,2020-02-03,cases,0.0,5
+Croatia,2020-02-10,cases,0.0,6
+Croatia,2020-02-17,cases,0.0,7
+Croatia,2020-02-24,cases,0.0,8
+Croatia,2020-03-02,cases,7.0,9
+Croatia,2020-03-09,cases,5.0,10
+Croatia,2020-03-16,cases,37.0,11
+Croatia,2020-03-23,cases,157.0,12
+Croatia,2020-03-30,cases,451.0,13
+Croatia,2020-04-06,cases,525.0,14
+Croatia,2020-04-13,cases,418.0,15
+Croatia,2020-04-20,cases,271.0,16
+Croatia,2020-04-27,cases,159.0,17
+Croatia,2020-05-04,cases,66.0,18
+Croatia,2020-05-11,cases,91.0,19
+Croatia,2020-05-18,cases,39.0,20
+Croatia,2020-05-25,cases,18.0,21
+Croatia,2020-06-01,cases,2.0,22
+Croatia,2020-06-08,cases,1.0,23
+Croatia,2020-06-15,cases,5.0,24
+Croatia,2020-06-22,cases,65.0,25
+Croatia,2020-06-29,cases,374.0,26
+Croatia,2020-07-06,cases,460.0,27
+Croatia,2020-07-13,cases,571.0,28
+Croatia,2020-07-20,cases,623.0,29
+Croatia,2020-07-27,cases,512.0,30
+Croatia,2020-08-03,cases,403.0,31
+Croatia,2020-08-10,cases,344.0,32
+Croatia,2020-08-17,cases,967.0,33
+Croatia,2020-08-24,cases,1604.0,34
+Croatia,2020-08-31,cases,1948.0,35
+Croatia,2020-09-07,cases,1841.0,36
+Croatia,2020-09-14,cases,1569.0,37
+Croatia,2020-09-21,cases,1389.0,38
+Croatia,2020-09-28,cases,1275.0,39
+Croatia,2020-10-05,cases,1462.0,40
+Croatia,2020-10-12,cases,2781.0,41
+Croatia,2020-10-19,cases,5140.0,42
+Croatia,2020-10-26,cases,10800.0,43
+Croatia,2020-11-02,cases,15115.0,44
+Croatia,2020-11-09,cases,15752.0,45
+Croatia,2020-11-16,cases,16959.0,46
+Croatia,2020-11-23,cases,19512.0,47
+Croatia,2020-11-30,cases,22894.0,48
+Croatia,2020-12-07,cases,23741.0,49
+Croatia,2020-12-14,cases,25533.0,50
+Croatia,2020-12-21,cases,19076.0,51
+Croatia,2020-12-28,cases,9968.0,52
+Croatia,2021-01-04,cases,8028.0,53
+Croatia,2021-01-04,cases,7035.0,54
+Croatia,2021-01-11,cases,4961.0,55
+Croatia,2021-01-18,cases,3966.0,56
+Croatia,2021-01-25,cases,3506.0,57
+Croatia,2021-02-01,cases,2976.0,58
+Croatia,2021-02-08,cases,2255.0,59
+Croatia,2021-02-15,cases,2288.0,60
+Croatia,2021-02-22,cases,3028.0,61
+Cyprus,2020-01-06,cases,0.0,1
+Cyprus,2020-01-13,cases,0.0,2
+Cyprus,2020-01-20,cases,0.0,3
+Cyprus,2020-01-27,cases,0.0,4
+Cyprus,2020-02-03,cases,0.0,5
+Cyprus,2020-02-10,cases,0.0,6
+Cyprus,2020-02-17,cases,0.0,7
+Cyprus,2020-02-24,cases,0.0,8
+Cyprus,2020-03-02,cases,0.0,9
+Cyprus,2020-03-09,cases,1.0,10
+Cyprus,2020-03-16,cases,44.0,11
+Cyprus,2020-03-23,cases,76.0,12
+Cyprus,2020-03-30,cases,168.0,13
+Cyprus,2020-04-06,cases,208.0,14
+Cyprus,2020-04-13,cases,193.0,15
+Cyprus,2020-04-20,cases,84.0,16
+Cyprus,2020-04-27,cases,54.0,17
+Cyprus,2020-05-04,cases,49.0,18
+Cyprus,2020-05-11,cases,29.0,19
+Cyprus,2020-05-18,cases,14.0,20
+Cyprus,2020-05-25,cases,20.0,21
+Cyprus,2020-06-01,cases,11.0,22
+Cyprus,2020-06-08,cases,22.0,23
+Cyprus,2020-06-15,cases,16.0,24
+Cyprus,2020-06-22,cases,3.0,25
+Cyprus,2020-06-29,cases,8.0,26
+Cyprus,2020-07-06,cases,8.0,27
+Cyprus,2020-07-13,cases,18.0,28
+Cyprus,2020-07-20,cases,16.0,29
+Cyprus,2020-07-27,cases,23.0,30
+Cyprus,2020-08-03,cases,107.0,31
+Cyprus,2020-08-10,cases,83.0,32
+Cyprus,2020-08-17,cases,102.0,33
+Cyprus,2020-08-24,cases,79.0,34
+Cyprus,2020-08-31,cases,58.0,35
+Cyprus,2020-09-07,cases,22.0,36
+Cyprus,2020-09-14,cases,23.0,37
+Cyprus,2020-09-21,cases,79.0,38
+Cyprus,2020-09-28,cases,110.0,39
+Cyprus,2020-10-05,cases,135.0,40
+Cyprus,2020-10-12,cases,208.0,41
+Cyprus,2020-10-19,cases,657.0,42
+Cyprus,2020-10-26,cases,978.0,43
+Cyprus,2020-11-02,cases,1106.0,44
+Cyprus,2020-11-09,cases,1324.0,45
+Cyprus,2020-11-16,cases,1237.0,46
+Cyprus,2020-11-23,cases,1716.0,47
+Cyprus,2020-11-30,cases,1702.0,48
+Cyprus,2020-12-07,cases,2557.0,49
+Cyprus,2020-12-14,cases,2605.0,50
+Cyprus,2020-12-21,cases,2467.0,51
+Cyprus,2020-12-28,cases,2280.0,52
+Cyprus,2021-01-04,cases,3834.0,53
+Cyprus,2021-01-04,cases,3104.0,54
+Cyprus,2021-01-11,cases,1571.0,55
+Cyprus,2021-01-18,cases,943.0,56
+Cyprus,2021-01-25,cases,798.0,57
+Cyprus,2021-02-01,cases,810.0,58
+Cyprus,2021-02-08,cases,701.0,59
+Cyprus,2021-02-15,cases,704.0,60
+Cyprus,2021-02-22,cases,1347.0,61
+Czechia,2020-01-06,cases,0.0,1
+Czechia,2020-01-13,cases,0.0,2
+Czechia,2020-01-20,cases,0.0,3
+Czechia,2020-01-27,cases,0.0,4
+Czechia,2020-02-03,cases,0.0,5
+Czechia,2020-02-10,cases,0.0,6
+Czechia,2020-02-17,cases,0.0,7
+Czechia,2020-02-24,cases,0.0,8
+Czechia,2020-03-02,cases,3.0,9
+Czechia,2020-03-09,cases,30.0,10
+Czechia,2020-03-16,cases,266.0,11
+Czechia,2020-03-23,cases,866.0,12
+Czechia,2020-03-30,cases,1661.0,13
+Czechia,2020-04-06,cases,1773.0,14
+Czechia,2020-04-13,cases,1405.0,15
+Czechia,2020-04-20,cases,755.0,16
+Czechia,2020-04-27,cases,658.0,17
+Czechia,2020-05-04,cases,379.0,18
+Czechia,2020-05-11,cases,344.0,19
+Czechia,2020-05-18,cases,359.0,20
+Czechia,2020-05-25,cases,486.0,21
+Czechia,2020-06-01,cases,318.0,22
+Czechia,2020-06-08,cases,367.0,23
+Czechia,2020-06-15,cases,399.0,24
+Czechia,2020-06-22,cases,475.0,25
+Czechia,2020-06-29,cases,1106.0,26
+Czechia,2020-07-06,cases,910.0,27
+Czechia,2020-07-13,cases,656.0,28
+Czechia,2020-07-20,cases,771.0,29
+Czechia,2020-07-27,cases,1375.0,30
+Czechia,2020-08-03,cases,1454.0,31
+Czechia,2020-08-10,cases,1567.0,32
+Czechia,2020-08-17,cases,1657.0,33
+Czechia,2020-08-24,cases,1907.0,34
+Czechia,2020-08-31,cases,2449.0,35
+Czechia,2020-09-07,cases,3784.0,36
+Czechia,2020-09-14,cases,8033.0,37
+Czechia,2020-09-21,cases,13099.0,38
+Czechia,2020-09-28,cases,15306.0,39
+Czechia,2020-10-05,cases,17864.0,40
+Czechia,2020-10-12,cases,34665.0,41
+Czechia,2020-10-19,cases,56775.0,42
+Czechia,2020-10-26,cases,84210.0,43
+Czechia,2020-11-02,cases,83550.0,44
+Czechia,2020-11-09,cases,73172.0,45
+Czechia,2020-11-16,cases,45344.0,46
+Czechia,2020-11-23,cases,32156.0,47
+Czechia,2020-11-30,cases,27421.0,48
+Czechia,2020-12-07,cases,27109.0,49
+Czechia,2020-12-14,cases,34259.0,50
+Czechia,2020-12-21,cases,46543.0,51
+Czechia,2020-12-28,cases,46905.0,52
+Czechia,2021-01-04,cases,72541.0,53
+Czechia,2021-01-04,cases,88963.0,54
+Czechia,2021-01-11,cases,56497.0,55
+Czechia,2021-01-18,cases,48223.0,56
+Czechia,2021-01-25,cases,47437.0,57
+Czechia,2021-02-01,cases,50109.0,58
+Czechia,2021-02-08,cases,53555.0,59
+Czechia,2021-02-15,cases,66344.0,60
+Czechia,2021-02-22,cases,82987.0,61
+Denmark,2020-01-06,cases,10.0,1
+Denmark,2020-01-13,cases,12.0,2
+Denmark,2020-01-20,cases,8.0,3
+Denmark,2020-01-27,cases,15.0,4
+Denmark,2020-02-03,cases,13.0,5
+Denmark,2020-02-10,cases,12.0,6
+Denmark,2020-02-17,cases,14.0,7
+Denmark,2020-02-24,cases,11.0,8
+Denmark,2020-03-02,cases,21.0,9
+Denmark,2020-03-09,cases,97.0,10
+Denmark,2020-03-16,cases,850.0,11
+Denmark,2020-03-23,cases,565.0,12
+Denmark,2020-03-30,cases,1153.0,13
+Denmark,2020-04-06,cases,2181.0,14
+Denmark,2020-04-13,cases,1666.0,15
+Denmark,2020-04-20,cases,1190.0,16
+Denmark,2020-04-27,cases,1316.0,17
+Denmark,2020-05-04,cases,1005.0,18
+Denmark,2020-05-11,cases,677.0,19
+Denmark,2020-05-18,cases,448.0,20
+Denmark,2020-05-25,cases,396.0,21
+Denmark,2020-06-01,cases,310.0,22
+Denmark,2020-06-08,cases,252.0,23
+Denmark,2020-06-15,cases,272.0,24
+Denmark,2020-06-22,cases,324.0,25
+Denmark,2020-06-29,cases,196.0,26
+Denmark,2020-07-06,cases,125.0,27
+Denmark,2020-07-13,cases,170.0,28
+Denmark,2020-07-20,cases,264.0,29
+Denmark,2020-07-27,cases,249.0,30
+Denmark,2020-08-03,cases,494.0,31
+Denmark,2020-08-10,cases,896.0,32
+Denmark,2020-08-17,cases,893.0,33
+Denmark,2020-08-24,cases,623.0,34
+Denmark,2020-08-31,cases,592.0,35
+Denmark,2020-09-07,cases,1194.0,36
+Denmark,2020-09-14,cases,2237.0,37
+Denmark,2020-09-21,cases,3208.0,38
+Denmark,2020-09-28,cases,3631.0,39
+Denmark,2020-10-05,cases,2827.0,40
+Denmark,2020-10-12,cases,2704.0,41
+Denmark,2020-10-19,cases,3213.0,42
+Denmark,2020-10-26,cases,5859.0,43
+Denmark,2020-11-02,cases,4393.0,44
+Denmark,2020-11-09,cases,5199.0,45
+Denmark,2020-11-16,cases,7542.0,46
+Denmark,2020-11-23,cases,2755.0,47
+Denmark,2020-11-30,cases,8594.0,48
+Denmark,2020-12-07,cases,12830.0,49
+Denmark,2020-12-14,cases,3246.0,50
+Denmark,2020-12-21,cases,15370.0,51
+Denmark,2020-12-28,cases,17038.0,52
+Denmark,2021-01-04,cases,9673.0,53
+Denmark,2021-01-04,cases,11367.0,54
+Denmark,2021-01-11,cases,7169.0,55
+Denmark,2021-01-18,cases,5408.0,56
+Denmark,2021-01-25,cases,3255.0,57
+Denmark,2021-02-01,cases,3129.0,58
+Denmark,2021-02-08,cases,2776.0,59
+Denmark,2021-02-15,cases,3602.0,60
+Denmark,2021-02-22,cases,3955.0,61
+EU/EEA (total),2020-01-06,cases,12.0,1
+EU/EEA (total),2020-01-13,cases,12.0,2
+EU/EEA (total),2020-01-20,cases,10.0,3
+EU/EEA (total),2020-01-27,cases,20.0,4
+EU/EEA (total),2020-02-03,cases,33.0,5
+EU/EEA (total),2020-02-10,cases,47.0,6
+EU/EEA (total),2020-02-17,cases,24.0,7
+EU/EEA (total),2020-02-24,cases,206.0,8
+EU/EEA (total),2020-03-02,cases,2497.0,9
+EU/EEA (total),2020-03-09,cases,12676.0,10
+EU/EEA (total),2020-03-16,cases,54336.0,11
+EU/EEA (total),2020-03-23,cases,126542.0,12
+EU/EEA (total),2020-03-30,cases,197981.0,13
+EU/EEA (total),2020-04-06,cases,187625.0,14
+EU/EEA (total),2020-04-13,cases,158206.0,15
+EU/EEA (total),2020-04-20,cases,114680.0,16
+EU/EEA (total),2020-04-27,cases,87566.0,17
+EU/EEA (total),2020-05-04,cases,55739.0,18
+EU/EEA (total),2020-05-11,cases,44460.0,19
+EU/EEA (total),2020-05-18,cases,35315.0,20
+EU/EEA (total),2020-05-25,cases,31805.0,21
+EU/EEA (total),2020-06-01,cases,28034.0,22
+EU/EEA (total),2020-06-08,cases,26417.0,23
+EU/EEA (total),2020-06-15,cases,27637.0,24
+EU/EEA (total),2020-06-22,cases,29430.0,25
+EU/EEA (total),2020-06-29,cases,29708.0,26
+EU/EEA (total),2020-07-06,cases,27594.0,27
+EU/EEA (total),2020-07-13,cases,29374.0,28
+EU/EEA (total),2020-07-20,cases,38525.0,29
+EU/EEA (total),2020-07-27,cases,51191.0,30
+EU/EEA (total),2020-08-03,cases,63976.0,31
+EU/EEA (total),2020-08-10,cases,82242.0,32
+EU/EEA (total),2020-08-17,cases,103930.0,33
+EU/EEA (total),2020-08-24,cases,132283.0,34
+EU/EEA (total),2020-08-31,cases,156091.0,35
+EU/EEA (total),2020-09-07,cases,178941.0,36
+EU/EEA (total),2020-09-14,cases,216905.0,37
+EU/EEA (total),2020-09-21,cases,261859.0,38
+EU/EEA (total),2020-09-28,cases,271341.0,39
+EU/EEA (total),2020-10-05,cases,309690.0,40
+EU/EEA (total),2020-10-12,cases,481847.0,41
+EU/EEA (total),2020-10-19,cases,726865.0,42
+EU/EEA (total),2020-10-26,cases,1124369.0,43
+EU/EEA (total),2020-11-02,cases,1408834.0,44
+EU/EEA (total),2020-11-09,cases,1451977.0,45
+EU/EEA (total),2020-11-16,cases,1264943.0,46
+EU/EEA (total),2020-11-23,cases,1092724.0,47
+EU/EEA (total),2020-11-30,cases,913517.0,48
+EU/EEA (total),2020-12-07,cases,835657.0,49
+EU/EEA (total),2020-12-14,cases,867257.0,50
+EU/EEA (total),2020-12-21,cases,935622.0,51
+EU/EEA (total),2020-12-28,cases,797198.0,52
+EU/EEA (total),2021-01-04,cases,895731.0,53
+EU/EEA (total),2021-01-04,cases,1093358.0,54
+EU/EEA (total),2021-01-11,cases,965649.0,55
+EU/EEA (total),2021-01-18,cases,934824.0,56
+EU/EEA (total),2021-01-25,cases,851431.0,57
+EU/EEA (total),2021-02-01,cases,728930.0,58
+EU/EEA (total),2021-02-08,cases,622173.0,59
+EU/EEA (total),2021-02-15,cases,648947.0,60
+EU/EEA (total),2021-02-22,cases,753215.0,61
+Estonia,2020-01-06,cases,0.0,1
+Estonia,2020-01-13,cases,0.0,2
+Estonia,2020-01-20,cases,0.0,3
+Estonia,2020-01-27,cases,0.0,4
+Estonia,2020-02-03,cases,0.0,5
+Estonia,2020-02-10,cases,0.0,6
+Estonia,2020-02-17,cases,0.0,7
+Estonia,2020-02-24,cases,0.0,8
+Estonia,2020-03-02,cases,1.0,9
+Estonia,2020-03-09,cases,9.0,10
+Estonia,2020-03-16,cases,210.0,11
+Estonia,2020-03-23,cases,165.0,12
+Estonia,2020-03-30,cases,5570.0,13
+Estonia,2020-04-06,cases,404.0,14
+Estonia,2020-04-13,cases,223.0,15
+Estonia,2020-04-20,cases,199.0,16
+Estonia,2020-04-27,cases,109.0,17
+Estonia,2020-05-04,cases,56.0,18
+Estonia,2020-05-11,cases,38.0,19
+Estonia,2020-05-18,cases,43.0,20
+Estonia,2020-05-25,cases,39.0,21
+Estonia,2020-06-01,cases,46.0,22
+Estonia,2020-06-08,cases,71.0,23
+Estonia,2020-06-15,cases,35.0,24
+Estonia,2020-06-22,cases,8.0,25
+Estonia,2020-06-29,cases,6.0,26
+Estonia,2020-07-06,cases,6.0,27
+Estonia,2020-07-13,cases,21.0,28
+Estonia,2020-07-20,cases,4.0,29
+Estonia,2020-07-27,cases,11.0,30
+Estonia,2020-08-03,cases,45.0,31
+Estonia,2020-08-10,cases,74.0,32
+Estonia,2020-08-17,cases,35.0,33
+Estonia,2020-08-24,cases,88.0,34
+Estonia,2020-08-31,cases,100.0,35
+Estonia,2020-09-07,cases,157.0,36
+Estonia,2020-09-14,cases,160.0,37
+Estonia,2020-09-21,cases,244.0,38
+Estonia,2020-09-28,cases,337.0,39
+Estonia,2020-10-05,cases,344.0,40
+Estonia,2020-10-12,cases,255.0,41
+Estonia,2020-10-19,cases,211.0,42
+Estonia,2020-10-26,cases,343.0,43
+Estonia,2020-11-02,cases,614.0,44
+Estonia,2020-11-09,cases,1202.0,45
+Estonia,2020-11-16,cases,1591.0,46
+Estonia,2020-11-23,cases,2104.0,47
+Estonia,2020-11-30,cases,2350.0,48
+Estonia,2020-12-07,cases,2921.0,49
+Estonia,2020-12-14,cases,3156.0,50
+Estonia,2020-12-21,cases,3696.0,51
+Estonia,2020-12-28,cases,3730.0,52
+Estonia,2021-01-04,cases,3709.0,53
+Estonia,2021-01-04,cases,4276.0,54
+Estonia,2021-01-11,cases,3543.0,55
+Estonia,2021-01-18,cases,3631.0,56
+Estonia,2021-01-25,cases,3604.0,57
+Estonia,2021-02-01,cases,3762.0,58
+Estonia,2021-02-08,cases,4561.0,59
+Estonia,2021-02-15,cases,5572.0,60
+Estonia,2021-02-22,cases,8183.0,61
+Europe (total),2020-01-06,cases,12.0,1
+Europe (total),2020-01-13,cases,13.0,2
+Europe (total),2020-01-20,cases,10.0,3
+Europe (total),2020-01-27,cases,20.0,4
+Europe (total),2020-02-03,cases,38.0,5
+Europe (total),2020-02-10,cases,52.0,6
+Europe (total),2020-02-17,cases,27.0,7
+Europe (total),2020-02-24,cases,209.0,8
+Europe (total),2020-03-02,cases,2600.0,9
+Europe (total),2020-03-09,cases,13461.0,10
+Europe (total),2020-03-16,cases,59207.0,11
+Europe (total),2020-03-23,cases,141281.0,12
+Europe (total),2020-03-30,cases,236486.0,13
+Europe (total),2020-04-06,cases,252363.0,14
+Europe (total),2020-04-13,cases,243314.0,15
+Europe (total),2020-04-20,cases,217666.0,16
+Europe (total),2020-04-27,cases,195242.0,17
+Europe (total),2020-05-04,cases,170629.0,18
+Europe (total),2020-05-11,cases,167912.0,19
+Europe (total),2020-05-18,cases,152049.0,20
+Europe (total),2020-05-25,cases,132395.0,21
+Europe (total),2020-06-01,cases,122503.0,22
+Europe (total),2020-06-08,cases,121278.0,23
+Europe (total),2020-06-15,cases,124575.0,24
+Europe (total),2020-06-22,cases,123192.0,25
+Europe (total),2020-06-29,cases,118118.0,26
+Europe (total),2020-07-06,cases,110316.0,27
+Europe (total),2020-07-13,cases,109615.0,28
+Europe (total),2020-07-20,cases,116316.0,29
+Europe (total),2020-07-27,cases,127018.0,30
+Europe (total),2020-08-03,cases,179700.0,31
+Europe (total),2020-08-10,cases,204808.0,32
+Europe (total),2020-08-17,cases,227152.0,33
+Europe (total),2020-08-24,cases,256930.0,34
+Europe (total),2020-08-31,cases,284933.0,35
+Europe (total),2020-09-07,cases,322055.0,36
+Europe (total),2020-09-14,cases,369967.0,37
+Europe (total),2020-09-21,cases,432038.0,38
+Europe (total),2020-09-28,cases,468886.0,39
+Europe (total),2020-10-05,cases,565771.0,40
+Europe (total),2020-10-12,cases,803496.0,41
+Europe (total),2020-10-19,cases,1106921.0,42
+Europe (total),2020-10-26,cases,1584926.0,43
+Europe (total),2020-11-02,cases,1929569.0,44
+Europe (total),2020-11-09,cases,2043948.0,45
+Europe (total),2020-11-16,cases,1886331.0,46
+Europe (total),2020-11-23,cases,1716334.0,47
+Europe (total),2020-11-30,cases,1652924.0,48
+Europe (total),2020-12-07,cases,1641411.0,49
+Europe (total),2020-12-14,cases,1706054.0,50
+Europe (total),2020-12-21,cases,1708964.0,51
+Europe (total),2020-12-28,cases,1687571.0,52
+Europe (total),2021-01-04,cases,1708519.0,53
+Europe (total),2021-01-04,cases,1861893.0,54
+Europe (total),2021-01-11,cases,1613139.0,55
+Europe (total),2021-01-18,cases,1443400.0,56
+Europe (total),2021-01-25,cases,1284514.0,57
+Europe (total),2021-02-01,cases,1104992.0,58
+Europe (total),2021-02-08,cases,950552.0,59
+Europe (total),2021-02-15,cases,973551.0,60
+Europe (total),2021-02-22,cases,1071915.0,61
+Faroe Islands,2020-03-09,cases,3.0,1
+Faroe Islands,2020-03-16,cases,6.0,2
+Faroe Islands,2020-03-23,cases,106.0,3
+Faroe Islands,2020-03-30,cases,44.0,4
+Faroe Islands,2020-04-06,cases,22.0,5
+Faroe Islands,2020-04-13,cases,3.0,6
+Faroe Islands,2020-04-20,cases,1.0,7
+Faroe Islands,2020-04-27,cases,2.0,8
+Faroe Islands,2020-05-04,cases,0.0,9
+Faroe Islands,2020-05-11,cases,0.0,10
+Faroe Islands,2020-05-18,cases,0.0,11
+Faroe Islands,2020-05-25,cases,0.0,12
+Faroe Islands,2020-06-01,cases,0.0,13
+Faroe Islands,2020-06-08,cases,0.0,14
+Faroe Islands,2020-06-15,cases,0.0,15
+Faroe Islands,2020-06-22,cases,0.0,16
+Faroe Islands,2020-06-29,cases,0.0,17
+Faroe Islands,2020-07-06,cases,0.0,18
+Faroe Islands,2020-07-13,cases,1.0,19
+Faroe Islands,2020-07-20,cases,3.0,20
+Faroe Islands,2020-07-27,cases,0.0,21
+Faroe Islands,2020-08-03,cases,34.0,22
+Faroe Islands,2020-08-10,cases,66.0,23
+Faroe Islands,2020-08-17,cases,81.0,24
+Faroe Islands,2020-08-24,cases,12.0,25
+Faroe Islands,2020-08-31,cases,27.0,26
+Faroe Islands,2020-09-07,cases,2.0,27
+Faroe Islands,2020-09-14,cases,10.0,28
+Faroe Islands,2020-09-21,cases,11.0,29
+Faroe Islands,2020-09-28,cases,26.0,30
+Faroe Islands,2020-10-05,cases,14.0,31
+Faroe Islands,2020-10-12,cases,3.0,32
+Faroe Islands,2020-10-19,cases,8.0,33
+Faroe Islands,2020-10-26,cases,5.0,34
+Faroe Islands,2020-11-02,cases,5.0,35
+Faroe Islands,2020-11-09,cases,2.0,36
+Faroe Islands,2020-11-16,cases,1.0,37
+Faroe Islands,2020-11-23,cases,2.0,38
+Faroe Islands,2020-11-30,cases,2.0,39
+Faroe Islands,2020-12-07,cases,8.0,40
+Faroe Islands,2020-12-14,cases,18.0,41
+Faroe Islands,2020-12-21,cases,18.0,42
+Faroe Islands,2020-12-28,cases,36.0,43
+Faroe Islands,2021-01-04,cases,38.0,44
+Faroe Islands,2021-01-04,cases,26.0,45
+Faroe Islands,2021-01-11,cases,3.0,46
+Faroe Islands,2021-01-18,cases,3.0,47
+Faroe Islands,2021-01-25,cases,2.0,48
+Faroe Islands,2021-02-01,cases,2.0,49
+Faroe Islands,2021-02-08,cases,1.0,50
+Faroe Islands,2021-02-15,cases,1.0,51
+Faroe Islands,2021-02-22,cases,0.0,52
+Finland,2020-01-06,cases,1.0,1
+Finland,2020-01-13,cases,0.0,2
+Finland,2020-01-20,cases,0.0,3
+Finland,2020-01-27,cases,0.0,4
+Finland,2020-02-03,cases,1.0,5
+Finland,2020-02-10,cases,0.0,6
+Finland,2020-02-17,cases,1.0,7
+Finland,2020-02-24,cases,1.0,8
+Finland,2020-03-02,cases,7.0,9
+Finland,2020-03-09,cases,34.0,10
+Finland,2020-03-16,cases,317.0,11
+Finland,2020-03-23,cases,540.0,12
+Finland,2020-03-30,cases,642.0,13
+Finland,2020-04-06,cases,966.0,14
+Finland,2020-04-13,cases,931.0,15
+Finland,2020-04-20,cases,790.0,16
+Finland,2020-04-27,cases,736.0,17
+Finland,2020-05-04,cases,623.0,18
+Finland,2020-05-11,cases,617.0,19
+Finland,2020-05-18,cases,396.0,20
+Finland,2020-05-25,cases,221.0,21
+Finland,2020-06-01,cases,163.0,22
+Finland,2020-06-08,cases,99.0,23
+Finland,2020-06-15,cases,54.0,24
+Finland,2020-06-22,cases,51.0,25
+Finland,2020-06-29,cases,53.0,26
+Finland,2020-07-06,cases,46.0,27
+Finland,2020-07-13,cases,38.0,28
+Finland,2020-07-20,cases,43.0,29
+Finland,2020-07-27,cases,56.0,30
+Finland,2020-08-03,cases,84.0,31
+Finland,2020-08-10,cases,169.0,32
+Finland,2020-08-17,cases,175.0,33
+Finland,2020-08-24,cases,192.0,34
+Finland,2020-08-31,cases,156.0,35
+Finland,2020-09-07,cases,236.0,36
+Finland,2020-09-14,cases,354.0,37
+Finland,2020-09-21,cases,470.0,38
+Finland,2020-09-28,cases,719.0,39
+Finland,2020-10-05,cases,1130.0,40
+Finland,2020-10-12,cases,1626.0,41
+Finland,2020-10-19,cases,1276.0,42
+Finland,2020-10-26,cases,1246.0,43
+Finland,2020-11-02,cases,1457.0,44
+Finland,2020-11-09,cases,1416.0,45
+Finland,2020-11-16,cases,1651.0,46
+Finland,2020-11-23,cases,2601.0,47
+Finland,2020-11-30,cases,3137.0,48
+Finland,2020-12-07,cases,3015.0,49
+Finland,2020-12-14,cases,2907.0,50
+Finland,2020-12-21,cases,2328.0,51
+Finland,2020-12-28,cases,1654.0,52
+Finland,2021-01-04,cases,1847.0,53
+Finland,2021-01-04,cases,1948.0,54
+Finland,2021-01-11,cases,1769.0,55
+Finland,2021-01-18,cases,2352.0,56
+Finland,2021-01-25,cases,2714.0,57
+Finland,2021-02-01,cases,2609.0,58
+Finland,2021-02-08,cases,2555.0,59
+Finland,2021-02-15,cases,3554.0,60
+Finland,2021-02-22,cases,3993.0,61
+France,2020-01-06,cases,0.0,1
+France,2020-01-13,cases,0.0,2
+France,2020-01-20,cases,0.0,3
+France,2020-01-27,cases,3.0,4
+France,2020-02-03,cases,3.0,5
+France,2020-02-10,cases,6.0,6
+France,2020-02-17,cases,0.0,7
+France,2020-02-24,cases,4.0,8
+France,2020-03-02,cases,133.0,9
+France,2020-03-09,cases,981.0,10
+France,2020-03-16,cases,4297.0,11
+France,2020-03-23,cases,11266.0,12
+France,2020-03-30,cases,23485.0,13
+France,2020-04-06,cases,31002.0,14
+France,2020-04-13,cases,25898.0,15
+France,2020-04-20,cases,16220.0,16
+France,2020-04-27,cases,11120.0,17
+France,2020-05-04,cases,6144.0,18
+France,2020-05-11,cases,4046.0,19
+France,2020-05-18,cases,3392.0,20
+France,2020-05-25,cases,4668.0,21
+France,2020-06-01,cases,4012.0,22
+France,2020-06-08,cases,3170.0,23
+France,2020-06-15,cases,3284.0,24
+France,2020-06-22,cases,3559.0,25
+France,2020-06-29,cases,3575.0,26
+France,2020-07-06,cases,3834.0,27
+France,2020-07-13,cases,4005.0,28
+France,2020-07-20,cases,4513.0,29
+France,2020-07-27,cases,6639.0,30
+France,2020-08-03,cases,8517.0,31
+France,2020-08-10,cases,11935.0,32
+France,2020-08-17,cases,17353.0,33
+France,2020-08-24,cases,28177.0,34
+France,2020-08-31,cases,39986.0,35
+France,2020-09-07,cases,52854.0,36
+France,2020-09-14,cases,64706.0,37
+France,2020-09-21,cases,75853.0,38
+France,2020-09-28,cases,74124.0,39
+France,2020-10-05,cases,79973.0,40
+France,2020-10-12,cases,123089.0,41
+France,2020-10-19,cases,174828.0,42
+France,2020-10-26,cases,275475.0,43
+France,2020-11-02,cases,334606.0,44
+France,2020-11-09,cases,304647.0,45
+France,2020-11-16,cases,178339.0,46
+France,2020-11-23,cases,116391.0,47
+France,2020-11-30,cases,78267.0,48
+France,2020-12-07,cases,72129.0,49
+France,2020-12-14,cases,78745.0,50
+France,2020-12-21,cases,94319.0,51
+France,2020-12-28,cases,85104.0,52
+France,2021-01-04,cases,89728.0,53
+France,2021-01-04,cases,123771.0,54
+France,2021-01-11,cases,120598.0,55
+France,2021-01-18,cases,132695.0,56
+France,2021-01-25,cases,134230.0,57
+France,2021-02-01,cases,131751.0,58
+France,2021-02-08,cases,114509.0,59
+France,2021-02-15,cases,120536.0,60
+France,2021-02-22,cases,130618.0,61
+Georgia,2020-01-06,cases,0.0,1
+Georgia,2020-01-13,cases,0.0,2
+Georgia,2020-01-20,cases,0.0,3
+Georgia,2020-01-27,cases,0.0,4
+Georgia,2020-02-03,cases,0.0,5
+Georgia,2020-02-10,cases,0.0,6
+Georgia,2020-02-17,cases,0.0,7
+Georgia,2020-02-24,cases,0.0,8
+Georgia,2020-03-02,cases,3.0,9
+Georgia,2020-03-09,cases,10.0,10
+Georgia,2020-03-16,cases,17.0,11
+Georgia,2020-03-23,cases,24.0,12
+Georgia,2020-03-30,cases,36.0,13
+Georgia,2020-04-06,cases,84.0,14
+Georgia,2020-04-13,cases,83.0,15
+Georgia,2020-04-20,cases,137.0,16
+Georgia,2020-04-27,cases,92.0,17
+Georgia,2020-05-04,cases,103.0,18
+Georgia,2020-05-11,cases,46.0,19
+Georgia,2020-05-18,cases,66.0,20
+Georgia,2020-05-25,cases,29.0,21
+Georgia,2020-06-01,cases,53.0,22
+Georgia,2020-06-08,cases,25.0,23
+Georgia,2020-06-15,cases,71.0,24
+Georgia,2020-06-22,cases,29.0,25
+Georgia,2020-06-29,cases,18.0,26
+Georgia,2020-07-06,cases,27.0,27
+Georgia,2020-07-13,cases,42.0,28
+Georgia,2020-07-20,cases,33.0,29
+Georgia,2020-07-27,cases,109.0,30
+Georgia,2020-08-03,cases,40.0,31
+Georgia,2020-08-10,cases,73.0,32
+Georgia,2020-08-17,cases,91.0,33
+Georgia,2020-08-24,cases,70.0,34
+Georgia,2020-08-31,cases,76.0,35
+Georgia,2020-09-07,cases,153.0,36
+Georgia,2020-09-14,cases,752.0,37
+Georgia,2020-09-21,cases,1303.0,38
+Georgia,2020-09-28,cases,1857.0,39
+Georgia,2020-10-05,cases,2566.0,40
+Georgia,2020-10-12,cases,3676.0,41
+Georgia,2020-10-19,cases,5683.0,42
+Georgia,2020-10-26,cases,12826.0,43
+Georgia,2020-11-02,cases,12276.0,44
+Georgia,2020-11-09,cases,18101.0,45
+Georgia,2020-11-16,cases,22155.0,46
+Georgia,2020-11-23,cases,25855.0,47
+Georgia,2020-11-30,cases,26894.0,48
+Georgia,2020-12-07,cases,29392.0,49
+Georgia,2020-12-14,cases,26087.0,50
+Georgia,2020-12-21,cases,18399.0,51
+Georgia,2020-12-28,cases,12681.0,52
+Georgia,2021-01-04,cases,7620.0,53
+Georgia,2021-01-04,cases,10017.0,54
+Georgia,2021-01-11,cases,8135.0,55
+Georgia,2021-01-18,cases,5901.0,56
+Georgia,2021-01-25,cases,4535.0,57
+Georgia,2021-02-01,cases,3877.0,58
+Georgia,2021-02-08,cases,3494.0,59
+Georgia,2021-02-15,cases,2780.0,60
+Georgia,2021-02-22,cases,2416.0,61
+Germany,2020-01-06,cases,1.0,1
+Germany,2020-01-13,cases,0.0,2
+Germany,2020-01-20,cases,0.0,3
+Germany,2020-01-27,cases,1.0,4
+Germany,2020-02-03,cases,10.0,5
+Germany,2020-02-10,cases,9.0,6
+Germany,2020-02-17,cases,5.0,7
+Germany,2020-02-24,cases,5.0,8
+Germany,2020-03-02,cases,140.0,9
+Germany,2020-03-09,cases,904.0,10
+Germany,2020-03-16,cases,6437.0,11
+Germany,2020-03-23,cases,22409.0,12
+Germany,2020-03-30,cases,33972.0,13
+Germany,2020-04-06,cases,36056.0,14
+Germany,2020-04-13,cases,27138.0,15
+Germany,2020-04-20,cases,17340.0,16
+Germany,2020-04-27,cases,12355.0,17
+Germany,2020-05-04,cases,7438.0,18
+Germany,2020-05-11,cases,6240.0,19
+Germany,2020-05-18,cases,4764.0,20
+Germany,2020-05-25,cases,3605.0,21
+Germany,2020-06-01,cases,3205.0,22
+Germany,2020-06-08,cases,2353.0,23
+Germany,2020-06-15,cases,2345.0,24
+Germany,2020-06-22,cases,4186.0,25
+Germany,2020-06-29,cases,3162.0,26
+Germany,2020-07-06,cases,2693.0,27
+Germany,2020-07-13,cases,2422.0,28
+Germany,2020-07-20,cases,3040.0,29
+Germany,2020-07-27,cases,3937.0,30
+Germany,2020-08-03,cases,4841.0,31
+Germany,2020-08-10,cases,6068.0,32
+Germany,2020-08-17,cases,7955.0,33
+Germany,2020-08-24,cases,9596.0,34
+Germany,2020-08-31,cases,8834.0,35
+Germany,2020-09-07,cases,8617.0,36
+Germany,2020-09-14,cases,9764.0,37
+Germany,2020-09-21,cases,12291.0,38
+Germany,2020-09-28,cases,13070.0,39
+Germany,2020-10-05,cases,15938.0,40
+Germany,2020-10-12,cases,26129.0,41
+Germany,2020-10-19,cases,42057.0,42
+Germany,2020-10-26,cases,74882.0,43
+Germany,2020-11-02,cases,111000.0,44
+Germany,2020-11-09,cases,125747.0,45
+Germany,2020-11-16,cases,127860.0,46
+Germany,2020-11-23,cases,128406.0,47
+Germany,2020-11-30,cases,123149.0,48
+Germany,2020-12-07,cases,128361.0,49
+Germany,2020-12-14,cases,156300.0,50
+Germany,2020-12-21,cases,174673.0,51
+Germany,2020-12-28,cases,138879.0,52
+Germany,2021-01-04,cases,123070.0,53
+Germany,2021-01-04,cases,145483.0,54
+Germany,2021-01-11,cases,118906.0,55
+Germany,2021-01-18,cases,95543.0,56
+Germany,2021-01-25,cases,78153.0,57
+Germany,2021-02-01,cases,64578.0,58
+Germany,2021-02-08,cases,50815.0,59
+Germany,2021-02-15,cases,52433.0,60
+Germany,2021-02-22,cases,56384.0,61
+Gibraltar,2020-03-23,cases,15.0,1
+Gibraltar,2020-03-30,cases,50.0,2
+Gibraltar,2020-04-06,cases,38.0,3
+Gibraltar,2020-04-13,cases,26.0,4
+Gibraltar,2020-04-20,cases,4.0,5
+Gibraltar,2020-04-27,cases,8.0,6
+Gibraltar,2020-05-04,cases,3.0,7
+Gibraltar,2020-05-11,cases,2.0,8
+Gibraltar,2020-05-18,cases,1.0,9
+Gibraltar,2020-05-25,cases,4.0,10
+Gibraltar,2020-06-01,cases,18.0,11
+Gibraltar,2020-06-08,cases,6.0,12
+Gibraltar,2020-06-15,cases,1.0,13
+Gibraltar,2020-06-22,cases,0.0,14
+Gibraltar,2020-06-29,cases,1.0,15
+Gibraltar,2020-07-06,cases,1.0,16
+Gibraltar,2020-07-13,cases,2.0,17
+Gibraltar,2020-07-20,cases,0.0,18
+Gibraltar,2020-07-27,cases,5.0,19
+Gibraltar,2020-08-03,cases,3.0,20
+Gibraltar,2020-08-10,cases,9.0,21
+Gibraltar,2020-08-17,cases,18.0,22
+Gibraltar,2020-08-24,cases,14.0,23
+Gibraltar,2020-08-31,cases,56.0,24
+Gibraltar,2020-09-07,cases,30.0,25
+Gibraltar,2020-09-14,cases,15.0,26
+Gibraltar,2020-09-21,cases,20.0,27
+Gibraltar,2020-09-28,cases,29.0,28
+Gibraltar,2020-10-05,cases,53.0,29
+Gibraltar,2020-10-12,cases,53.0,30
+Gibraltar,2020-10-19,cases,86.0,31
+Gibraltar,2020-10-26,cases,96.0,32
+Gibraltar,2020-11-02,cases,36.0,33
+Gibraltar,2020-11-09,cases,90.0,34
+Gibraltar,2020-11-16,cases,109.0,35
+Gibraltar,2020-11-23,cases,56.0,36
+Gibraltar,2020-11-30,cases,56.0,37
+Gibraltar,2020-12-07,cases,39.0,38
+Gibraltar,2020-12-14,cases,22.0,39
+Gibraltar,2020-12-21,cases,169.0,40
+Gibraltar,2020-12-28,cases,462.0,41
+Gibraltar,2021-01-04,cases,700.0,42
+Gibraltar,2021-01-04,cases,764.0,43
+Gibraltar,2021-01-11,cases,500.0,44
+Gibraltar,2021-01-18,cases,296.0,45
+Gibraltar,2021-01-25,cases,148.0,46
+Gibraltar,2021-02-01,cases,73.0,47
+Gibraltar,2021-02-08,cases,32.0,48
+Gibraltar,2021-02-15,cases,9.0,49
+Gibraltar,2021-02-22,cases,11.0,50
+Greece,2020-01-06,cases,0.0,1
+Greece,2020-01-13,cases,0.0,2
+Greece,2020-01-20,cases,0.0,3
+Greece,2020-01-27,cases,0.0,4
+Greece,2020-02-03,cases,0.0,5
+Greece,2020-02-10,cases,0.0,6
+Greece,2020-02-17,cases,0.0,7
+Greece,2020-02-24,cases,0.0,8
+Greece,2020-03-02,cases,6.0,9
+Greece,2020-03-09,cases,80.0,10
+Greece,2020-03-16,cases,323.0,11
+Greece,2020-03-23,cases,378.0,12
+Greece,2020-03-30,cases,537.0,13
+Greece,2020-04-06,cases,530.0,14
+Greece,2020-04-13,cases,288.0,15
+Greece,2020-04-20,cases,117.0,16
+Greece,2020-04-27,cases,301.0,17
+Greece,2020-05-04,cases,103.0,18
+Greece,2020-05-11,cases,100.0,19
+Greece,2020-05-18,cases,104.0,20
+Greece,2020-05-25,cases,47.0,21
+Greece,2020-06-01,cases,47.0,22
+Greece,2020-06-08,cases,135.0,23
+Greece,2020-06-15,cases,120.0,24
+Greece,2020-06-22,cases,114.0,25
+Greece,2020-06-29,cases,119.0,26
+Greece,2020-07-06,cases,203.0,27
+Greece,2020-07-13,cases,257.0,28
+Greece,2020-07-20,cases,175.0,29
+Greece,2020-07-27,cases,246.0,30
+Greece,2020-08-03,cases,560.0,31
+Greece,2020-08-10,cases,1080.0,32
+Greece,2020-08-17,cases,1594.0,33
+Greece,2020-08-24,cases,1662.0,34
+Greece,2020-08-31,cases,1445.0,35
+Greece,2020-09-07,cases,1343.0,36
+Greece,2020-09-14,cases,1758.0,37
+Greece,2020-09-21,cases,2235.0,38
+Greece,2020-09-28,cases,2188.0,39
+Greece,2020-10-05,cases,2390.0,40
+Greece,2020-10-12,cases,2489.0,41
+Greece,2020-10-19,cases,3346.0,42
+Greece,2020-10-26,cases,6286.0,43
+Greece,2020-11-02,cases,11261.0,44
+Greece,2020-11-09,cases,17209.0,45
+Greece,2020-11-16,cases,18341.0,46
+Greece,2020-11-23,cases,16355.0,47
+Greece,2020-11-30,cases,12347.0,48
+Greece,2020-12-07,cases,10606.0,49
+Greece,2020-12-14,cases,8296.0,50
+Greece,2020-12-21,cases,6011.0,51
+Greece,2020-12-28,cases,4283.0,52
+Greece,2021-01-04,cases,4503.0,53
+Greece,2021-01-04,cases,4620.0,54
+Greece,2021-01-11,cases,3558.0,55
+Greece,2021-01-18,cases,3367.0,56
+Greece,2021-01-25,cases,5462.0,57
+Greece,2021-02-01,cases,7429.0,58
+Greece,2021-02-08,cases,8490.0,59
+Greece,2021-02-15,cases,8126.0,60
+Greece,2021-02-22,cases,11842.0,61
+Guernsey,2020-03-23,cases,17.0,1
+Guernsey,2020-03-30,cases,28.0,2
+Guernsey,2020-04-06,cases,109.0,3
+Guernsey,2020-04-13,cases,64.0,4
+Guernsey,2020-04-20,cases,21.0,5
+Guernsey,2020-04-27,cases,8.0,6
+Guernsey,2020-05-04,cases,5.0,7
+Guernsey,2020-05-11,cases,0.0,8
+Guernsey,2020-05-18,cases,0.0,9
+Guernsey,2020-05-25,cases,0.0,10
+Guernsey,2020-06-01,cases,0.0,11
+Guernsey,2020-06-08,cases,0.0,12
+Guernsey,2020-06-15,cases,0.0,13
+Guernsey,2020-06-22,cases,0.0,14
+Guernsey,2020-06-29,cases,0.0,15
+Guernsey,2020-07-06,cases,0.0,16
+Guernsey,2020-07-13,cases,0.0,17
+Guernsey,2020-07-20,cases,0.0,18
+Guernsey,2020-07-27,cases,0.0,19
+Guernsey,2020-08-03,cases,0.0,20
+Guernsey,2020-08-10,cases,0.0,21
+Guernsey,2020-08-17,cases,0.0,22
+Guernsey,2020-08-24,cases,0.0,23
+Guernsey,2020-08-31,cases,0.0,24
+Guernsey,2020-09-07,cases,0.0,25
+Guernsey,2020-09-14,cases,1.0,26
+Guernsey,2020-09-21,cases,2.0,27
+Guernsey,2020-09-28,cases,1.0,28
+Guernsey,2020-10-05,cases,1.0,29
+Guernsey,2020-10-12,cases,1.0,30
+Guernsey,2020-10-19,cases,0.0,31
+Guernsey,2020-10-26,cases,7.0,32
+Guernsey,2020-11-02,cases,5.0,33
+Guernsey,2020-11-09,cases,9.0,34
+Guernsey,2020-11-16,cases,3.0,35
+Guernsey,2020-11-23,cases,1.0,36
+Guernsey,2020-11-30,cases,3.0,37
+Guernsey,2020-12-07,cases,2.0,38
+Guernsey,2020-12-14,cases,1.0,39
+Guernsey,2020-12-21,cases,4.0,40
+Guernsey,2020-12-28,cases,4.0,41
+Guernsey,2021-01-04,cases,3.0,42
+Guernsey,2021-01-04,cases,5.0,43
+Guernsey,2021-01-11,cases,4.0,44
+Guernsey,2021-01-18,cases,12.0,45
+Guernsey,2021-01-25,cases,218.0,46
+Guernsey,2021-02-01,cases,202.0,47
+Guernsey,2021-02-08,cases,56.0,48
+Guernsey,2021-02-15,cases,16.0,49
+Guernsey,2021-02-22,cases,8.0,50
+Holy See,2020-03-16,cases,1.0,1
+Holy See,2020-03-23,cases,0.0,2
+Holy See,2020-03-30,cases,5.0,3
+Holy See,2020-04-06,cases,1.0,4
+Holy See,2020-04-13,cases,1.0,5
+Holy See,2020-04-20,cases,0.0,6
+Holy See,2020-04-27,cases,1.0,7
+Holy See,2020-05-04,cases,2.0,8
+Holy See,2020-05-11,cases,1.0,9
+Holy See,2020-05-18,cases,0.0,10
+Holy See,2020-05-25,cases,0.0,11
+Holy See,2020-06-01,cases,0.0,12
+Holy See,2020-06-08,cases,0.0,13
+Holy See,2020-06-15,cases,0.0,14
+Holy See,2020-06-22,cases,0.0,15
+Holy See,2020-06-29,cases,0.0,16
+Holy See,2020-07-06,cases,0.0,17
+Holy See,2020-07-13,cases,0.0,18
+Holy See,2020-07-20,cases,0.0,19
+Holy See,2020-07-27,cases,0.0,20
+Holy See,2020-08-03,cases,0.0,21
+Holy See,2020-08-10,cases,0.0,22
+Holy See,2020-08-17,cases,0.0,23
+Holy See,2020-08-24,cases,0.0,24
+Holy See,2020-08-31,cases,0.0,25
+Holy See,2020-09-07,cases,0.0,26
+Holy See,2020-09-14,cases,0.0,27
+Holy See,2020-09-21,cases,0.0,28
+Holy See,2020-09-28,cases,0.0,29
+Holy See,2020-10-05,cases,0.0,30
+Holy See,2020-10-12,cases,0.0,31
+Holy See,2020-10-19,cases,14.0,32
+Holy See,2020-10-26,cases,0.0,33
+Holy See,2020-11-02,cases,0.0,34
+Holy See,2020-11-09,cases,0.0,35
+Holy See,2020-11-16,cases,0.0,36
+Holy See,2020-11-23,cases,0.0,37
+Holy See,2020-11-30,cases,0.0,38
+Holy See,2020-12-07,cases,0.0,39
+Holy See,2020-12-14,cases,0.0,40
+Holy See,2020-12-21,cases,0.0,41
+Holy See,2020-12-28,cases,0.0,42
+Holy See,2021-01-04,cases,0.0,43
+Holy See,2021-01-04,cases,0.0,44
+Holy See,2021-01-11,cases,0.0,45
+Holy See,2021-01-18,cases,0.0,46
+Holy See,2021-01-25,cases,0.0,47
+Holy See,2021-02-01,cases,0.0,48
+Holy See,2021-02-08,cases,0.0,49
+Holy See,2021-02-15,cases,0.0,50
+Holy See,2021-02-22,cases,0.0,51
+Hungary,2020-01-06,cases,0.0,1
+Hungary,2020-01-13,cases,0.0,2
+Hungary,2020-01-20,cases,0.0,3
+Hungary,2020-01-27,cases,0.0,4
+Hungary,2020-02-03,cases,0.0,5
+Hungary,2020-02-10,cases,0.0,6
+Hungary,2020-02-17,cases,0.0,7
+Hungary,2020-02-24,cases,0.0,8
+Hungary,2020-03-02,cases,0.0,9
+Hungary,2020-03-09,cases,9.0,10
+Hungary,2020-03-16,cases,30.0,11
+Hungary,2020-03-23,cases,126.0,12
+Hungary,2020-03-30,cases,279.0,13
+Hungary,2020-04-06,cases,296.0,14
+Hungary,2020-04-13,cases,711.0,15
+Hungary,2020-04-20,cases,523.0,16
+Hungary,2020-04-27,cases,602.0,17
+Hungary,2020-05-04,cases,454.0,18
+Hungary,2020-05-11,cases,249.0,19
+Hungary,2020-05-18,cases,251.0,20
+Hungary,2020-05-25,cases,220.0,21
+Hungary,2020-06-01,cases,137.0,22
+Hungary,2020-06-08,cases,122.0,23
+Hungary,2020-06-15,cases,61.0,24
+Hungary,2020-06-22,cases,32.0,25
+Hungary,2020-06-29,cases,43.0,26
+Hungary,2020-07-06,cases,44.0,27
+Hungary,2020-07-13,cases,57.0,28
+Hungary,2020-07-20,cases,90.0,29
+Hungary,2020-07-27,cases,112.0,30
+Hungary,2020-08-03,cases,96.0,31
+Hungary,2020-08-10,cases,187.0,32
+Hungary,2020-08-17,cases,215.0,33
+Hungary,2020-08-24,cases,245.0,34
+Hungary,2020-08-31,cases,948.0,35
+Hungary,2020-09-07,cases,2814.0,36
+Hungary,2020-09-14,cases,4197.0,37
+Hungary,2020-09-21,cases,5706.0,38
+Hungary,2020-09-28,cases,5855.0,39
+Hungary,2020-10-05,cases,6761.0,40
+Hungary,2020-10-12,cases,7360.0,41
+Hungary,2020-10-19,cases,8931.0,42
+Hungary,2020-10-26,cases,13797.0,43
+Hungary,2020-11-02,cases,21208.0,44
+Hungary,2020-11-09,cases,32004.0,45
+Hungary,2020-11-16,cases,32677.0,46
+Hungary,2020-11-23,cases,30498.0,47
+Hungary,2020-11-30,cases,39173.0,48
+Hungary,2020-12-07,cases,37025.0,49
+Hungary,2020-12-14,cases,29698.0,50
+Hungary,2020-12-21,cases,21255.0,51
+Hungary,2020-12-28,cases,11534.0,52
+Hungary,2021-01-04,cases,12180.0,53
+Hungary,2021-01-04,cases,14805.0,54
+Hungary,2021-01-11,cases,9047.0,55
+Hungary,2021-01-18,cases,7713.0,56
+Hungary,2021-01-25,cases,8290.0,57
+Hungary,2021-02-01,cases,8944.0,58
+Hungary,2021-02-08,cases,11173.0,59
+Hungary,2021-02-15,cases,16714.0,60
+Hungary,2021-02-22,cases,27374.0,61
+Iceland,2020-01-06,cases,0.0,1
+Iceland,2020-01-13,cases,0.0,2
+Iceland,2020-01-20,cases,0.0,3
+Iceland,2020-01-27,cases,0.0,4
+Iceland,2020-02-03,cases,0.0,5
+Iceland,2020-02-10,cases,15.0,6
+Iceland,2020-02-17,cases,0.0,7
+Iceland,2020-02-24,cases,0.0,8
+Iceland,2020-03-02,cases,7.0,9
+Iceland,2020-03-09,cases,53.0,10
+Iceland,2020-03-16,cases,117.0,11
+Iceland,2020-03-23,cases,461.0,12
+Iceland,2020-03-30,cases,509.0,13
+Iceland,2020-04-06,cases,440.0,14
+Iceland,2020-04-13,cases,135.0,15
+Iceland,2020-04-20,cases,53.0,16
+Iceland,2020-04-27,cases,16.0,17
+Iceland,2020-05-04,cases,7.0,18
+Iceland,2020-05-11,cases,2.0,19
+Iceland,2020-05-18,cases,1.0,20
+Iceland,2020-05-25,cases,2.0,21
+Iceland,2020-06-01,cases,2.0,22
+Iceland,2020-06-08,cases,1.0,23
+Iceland,2020-06-15,cases,2.0,24
+Iceland,2020-06-22,cases,5.0,25
+Iceland,2020-06-29,cases,6.0,26
+Iceland,2020-07-06,cases,9.0,27
+Iceland,2020-07-13,cases,3.0,28
+Iceland,2020-07-20,cases,6.0,29
+Iceland,2020-07-27,cases,16.0,30
+Iceland,2020-08-03,cases,59.0,31
+Iceland,2020-08-10,cases,47.0,32
+Iceland,2020-08-17,cases,54.0,33
+Iceland,2020-08-24,cases,55.0,34
+Iceland,2020-08-31,cases,41.0,35
+Iceland,2020-09-07,cases,32.0,36
+Iceland,2020-09-14,cases,25.0,37
+Iceland,2020-09-21,cases,212.0,38
+Iceland,2020-09-28,cases,280.0,39
+Iceland,2020-10-05,cases,321.0,40
+Iceland,2020-10-12,cases,603.0,41
+Iceland,2020-10-19,cases,532.0,42
+Iceland,2020-10-26,cases,397.0,43
+Iceland,2020-11-02,cases,408.0,44
+Iceland,2020-11-09,cases,174.0,45
+Iceland,2020-11-16,cases,108.0,46
+Iceland,2020-11-23,cases,80.0,47
+Iceland,2020-11-30,cases,107.0,48
+Iceland,2020-12-07,cases,105.0,49
+Iceland,2020-12-14,cases,64.0,50
+Iceland,2020-12-21,cases,89.0,51
+Iceland,2020-12-28,cases,82.0,52
+Iceland,2021-01-04,cases,73.0,53
+Iceland,2021-01-04,cases,102.0,54
+Iceland,2021-01-11,cases,70.0,55
+Iceland,2021-01-18,cases,19.0,56
+Iceland,2021-01-25,cases,22.0,57
+Iceland,2021-02-01,cases,12.0,58
+Iceland,2021-02-08,cases,15.0,59
+Iceland,2021-02-15,cases,10.0,60
+Iceland,2021-02-22,cases,10.0,61
+Ireland,2020-01-06,cases,0.0,1
+Ireland,2020-01-13,cases,0.0,2
+Ireland,2020-01-20,cases,0.0,3
+Ireland,2020-01-27,cases,0.0,4
+Ireland,2020-02-03,cases,0.0,5
+Ireland,2020-02-10,cases,0.0,6
+Ireland,2020-02-17,cases,0.0,7
+Ireland,2020-02-24,cases,0.0,8
+Ireland,2020-03-02,cases,0.0,9
+Ireland,2020-03-09,cases,18.0,10
+Ireland,2020-03-16,cases,152.0,11
+Ireland,2020-03-23,cases,781.0,12
+Ireland,2020-03-30,cases,1689.0,13
+Ireland,2020-04-06,cases,2885.0,14
+Ireland,2020-04-13,cases,4727.0,15
+Ireland,2020-04-20,cases,4971.0,16
+Ireland,2020-04-27,cases,3900.0,17
+Ireland,2020-05-04,cases,2339.0,18
+Ireland,2020-05-11,cases,1453.0,19
+Ireland,2020-05-18,cases,1124.0,20
+Ireland,2020-05-25,cases,481.0,21
+Ireland,2020-06-01,cases,445.0,22
+Ireland,2020-06-08,cases,166.0,23
+Ireland,2020-06-15,cases,119.0,24
+Ireland,2020-06-22,cases,81.0,25
+Ireland,2020-06-29,cases,81.0,26
+Ireland,2020-07-06,cases,72.0,27
+Ireland,2020-07-13,cases,134.0,28
+Ireland,2020-07-20,cases,134.0,29
+Ireland,2020-07-27,cases,122.0,30
+Ireland,2020-08-03,cases,319.0,31
+Ireland,2020-08-10,cases,552.0,32
+Ireland,2020-08-17,cases,542.0,33
+Ireland,2020-08-24,cases,804.0,34
+Ireland,2020-08-31,cases,703.0,35
+Ireland,2020-09-07,cases,959.0,36
+Ireland,2020-09-14,cases,1407.0,37
+Ireland,2020-09-21,cases,1926.0,38
+Ireland,2020-09-28,cases,2258.0,39
+Ireland,2020-10-05,cases,3163.0,40
+Ireland,2020-10-12,cases,4756.0,41
+Ireland,2020-10-19,cases,7588.0,42
+Ireland,2020-10-26,cases,7000.0,43
+Ireland,2020-11-02,cases,4652.0,44
+Ireland,2020-11-09,cases,2939.0,45
+Ireland,2020-11-16,cases,2769.0,46
+Ireland,2020-11-23,cases,2379.0,47
+Ireland,2020-11-30,cases,1849.0,48
+Ireland,2020-12-07,cases,1965.0,49
+Ireland,2020-12-14,cases,1984.0,50
+Ireland,2020-12-21,cases,3830.0,51
+Ireland,2020-12-28,cases,6632.0,52
+Ireland,2021-01-04,cases,21057.0,53
+Ireland,2021-01-04,cases,44394.0,54
+Ireland,2021-01-11,cases,22332.0,55
+Ireland,2021-01-18,cases,14059.0,56
+Ireland,2021-01-25,cases,8609.0,57
+Ireland,2021-02-01,cases,6906.0,58
+Ireland,2021-02-08,cases,6014.0,59
+Ireland,2021-02-15,cases,5388.0,60
+Ireland,2021-02-22,cases,4547.0,61
+Isle Of Man,2020-03-23,cases,2.0,1
+Isle Of Man,2020-03-30,cases,40.0,2
+Isle Of Man,2020-04-06,cases,85.0,3
+Isle Of Man,2020-04-13,cases,23.0,4
+Isle Of Man,2020-04-20,cases,133.0,5
+Isle Of Man,2020-04-27,cases,24.0,6
+Isle Of Man,2020-05-04,cases,2.0,7
+Isle Of Man,2020-05-11,cases,17.0,8
+Isle Of Man,2020-05-18,cases,4.0,9
+Isle Of Man,2020-05-25,cases,5.0,10
+Isle Of Man,2020-06-01,cases,1.0,11
+Isle Of Man,2020-06-08,cases,0.0,12
+Isle Of Man,2020-06-15,cases,0.0,13
+Isle Of Man,2020-06-22,cases,0.0,14
+Isle Of Man,2020-06-29,cases,0.0,15
+Isle Of Man,2020-07-06,cases,0.0,16
+Isle Of Man,2020-07-13,cases,0.0,17
+Isle Of Man,2020-07-20,cases,0.0,18
+Isle Of Man,2020-07-27,cases,0.0,19
+Isle Of Man,2020-08-03,cases,0.0,20
+Isle Of Man,2020-08-10,cases,0.0,21
+Isle Of Man,2020-08-17,cases,0.0,22
+Isle Of Man,2020-08-24,cases,0.0,23
+Isle Of Man,2020-08-31,cases,0.0,24
+Isle Of Man,2020-09-07,cases,0.0,25
+Isle Of Man,2020-09-14,cases,1.0,26
+Isle Of Man,2020-09-21,cases,2.0,27
+Isle Of Man,2020-09-28,cases,1.0,28
+Isle Of Man,2020-10-05,cases,0.0,29
+Isle Of Man,2020-10-12,cases,5.0,30
+Isle Of Man,2020-10-19,cases,1.0,31
+Isle Of Man,2020-10-26,cases,2.0,32
+Isle Of Man,2020-11-02,cases,4.0,33
+Isle Of Man,2020-11-09,cases,3.0,34
+Isle Of Man,2020-11-16,cases,2.0,35
+Isle Of Man,2020-11-23,cases,6.0,36
+Isle Of Man,2020-11-30,cases,6.0,37
+Isle Of Man,2020-12-07,cases,0.0,38
+Isle Of Man,2020-12-14,cases,1.0,39
+Isle Of Man,2020-12-21,cases,3.0,40
+Isle Of Man,2020-12-28,cases,1.0,41
+Isle Of Man,2021-01-04,cases,0.0,42
+Isle Of Man,2021-01-04,cases,6.0,43
+Isle Of Man,2021-01-11,cases,23.0,44
+Isle Of Man,2021-01-18,cases,29.0,45
+Isle Of Man,2021-01-25,cases,0.0,46
+Isle Of Man,2021-02-01,cases,3.0,47
+Isle Of Man,2021-02-08,cases,1.0,48
+Isle Of Man,2021-02-15,cases,20.0,49
+Isle Of Man,2021-02-22,cases,30.0,50
+Italy,2020-01-06,cases,0.0,1
+Italy,2020-01-13,cases,0.0,2
+Italy,2020-01-20,cases,0.0,3
+Italy,2020-01-27,cases,0.0,4
+Italy,2020-02-03,cases,2.0,5
+Italy,2020-02-10,cases,1.0,6
+Italy,2020-02-17,cases,0.0,7
+Italy,2020-02-24,cases,175.0,8
+Italy,2020-03-02,cases,1978.0,9
+Italy,2020-03-09,cases,8241.0,10
+Italy,2020-03-16,cases,21095.0,11
+Italy,2020-03-23,cases,36642.0,12
+Italy,2020-03-30,cases,36853.0,13
+Italy,2020-04-06,cases,30959.0,14
+Italy,2020-04-13,cases,28192.0,15
+Italy,2020-04-20,cases,20725.0,16
+Italy,2020-04-27,cases,16924.0,17
+Italy,2020-05-04,cases,11427.0,18
+Italy,2020-05-11,cases,8271.0,19
+Italy,2020-05-18,cases,5273.0,20
+Italy,2020-05-25,cases,3860.0,21
+Italy,2020-06-01,cases,2853.0,22
+Italy,2020-06-08,cases,1855.0,23
+Italy,2020-06-15,cases,2162.0,24
+Italy,2020-06-22,cases,1608.0,25
+Italy,2020-06-29,cases,1413.0,26
+Italy,2020-07-06,cases,1467.0,27
+Italy,2020-07-13,cases,1455.0,28
+Italy,2020-07-20,cases,1507.0,29
+Italy,2020-07-27,cases,1754.0,30
+Italy,2020-08-03,cases,2112.0,31
+Italy,2020-08-10,cases,2768.0,32
+Italy,2020-08-17,cases,3476.0,33
+Italy,2020-08-24,cases,7076.0,34
+Italy,2020-08-31,cases,9453.0,35
+Italy,2020-09-07,cases,9463.0,36
+Italy,2020-09-14,cases,9916.0,37
+Italy,2020-09-21,cases,10798.0,38
+Italy,2020-09-28,cases,12503.0,39
+Italy,2020-10-05,cases,18020.0,40
+Italy,2020-10-12,cases,37831.0,41
+Italy,2020-10-19,cases,75967.0,42
+Italy,2020-10-26,cases,142383.0,43
+Italy,2020-11-02,cases,203576.0,44
+Italy,2020-11-09,cases,244340.0,45
+Italy,2020-11-16,cases,243009.0,46
+Italy,2020-11-23,cases,214366.0,47
+Italy,2020-11-30,cases,162446.0,48
+Italy,2020-12-07,cases,130039.0,49
+Italy,2020-12-14,cases,108068.0,50
+Italy,2020-12-21,cases,106922.0,51
+Italy,2020-12-28,cases,92470.0,52
+Italy,2021-01-04,cases,117233.0,53
+Italy,2021-01-04,cases,122542.0,54
+Italy,2021-01-11,cases,94237.0,55
+Italy,2021-01-18,cases,85187.0,56
+Italy,2021-01-25,cases,82867.0,57
+Italy,2021-02-01,cases,83484.0,58
+Italy,2021-02-08,cases,83462.0,59
+Italy,2021-02-15,cases,89960.0,60
+Italy,2021-02-22,cases,121675.0,61
+Jersey,2020-03-23,cases,15.0,1
+Jersey,2020-03-30,cases,48.0,2
+Jersey,2020-04-06,cases,92.0,3
+Jersey,2020-04-13,cases,58.0,4
+Jersey,2020-04-20,cases,36.0,5
+Jersey,2020-04-27,cases,32.0,6
+Jersey,2020-05-04,cases,11.0,7
+Jersey,2020-05-11,cases,2.0,8
+Jersey,2020-05-18,cases,8.0,9
+Jersey,2020-05-25,cases,4.0,10
+Jersey,2020-06-01,cases,2.0,11
+Jersey,2020-06-08,cases,3.0,12
+Jersey,2020-06-15,cases,2.0,13
+Jersey,2020-06-22,cases,5.0,14
+Jersey,2020-06-29,cases,1.0,15
+Jersey,2020-07-06,cases,1.0,16
+Jersey,2020-07-13,cases,5.0,17
+Jersey,2020-07-20,cases,6.0,18
+Jersey,2020-07-27,cases,1.0,19
+Jersey,2020-08-03,cases,3.0,20
+Jersey,2020-08-10,cases,10.0,21
+Jersey,2020-08-17,cases,10.0,22
+Jersey,2020-08-24,cases,8.0,23
+Jersey,2020-08-31,cases,11.0,24
+Jersey,2020-09-07,cases,10.0,25
+Jersey,2020-09-14,cases,-4.0,26
+Jersey,2020-09-21,cases,13.0,27
+Jersey,2020-09-28,cases,7.0,28
+Jersey,2020-10-05,cases,21.0,29
+Jersey,2020-10-12,cases,28.0,30
+Jersey,2020-10-19,cases,41.0,31
+Jersey,2020-10-26,cases,40.0,32
+Jersey,2020-11-02,cases,44.0,33
+Jersey,2020-11-09,cases,69.0,34
+Jersey,2020-11-16,cases,89.0,35
+Jersey,2020-11-23,cases,79.0,36
+Jersey,2020-11-30,cases,117.0,37
+Jersey,2020-12-07,cases,429.0,38
+Jersey,2020-12-14,cases,422.0,39
+Jersey,2020-12-21,cases,557.0,40
+Jersey,2020-12-28,cases,327.0,41
+Jersey,2021-01-04,cases,158.0,42
+Jersey,2021-01-04,cases,151.0,43
+Jersey,2021-01-11,cases,82.0,44
+Jersey,2021-01-18,cases,68.0,45
+Jersey,2021-01-25,cases,30.0,46
+Jersey,2021-02-01,cases,24.0,47
+Jersey,2021-02-08,cases,26.0,48
+Jersey,2021-02-15,cases,11.0,49
+Jersey,2021-02-22,cases,4.0,50
+Kosovo,2020-03-16,cases,13.0,1
+Kosovo,2020-03-23,cases,20.0,2
+Kosovo,2020-03-30,cases,65.0,3
+Kosovo,2020-04-06,cases,67.0,4
+Kosovo,2020-04-13,cases,197.0,5
+Kosovo,2020-04-20,cases,199.0,6
+Kosovo,2020-04-27,cases,203.0,7
+Kosovo,2020-05-04,cases,87.0,8
+Kosovo,2020-05-11,cases,33.0,9
+Kosovo,2020-05-18,cases,101.0,10
+Kosovo,2020-05-25,cases,47.0,11
+Kosovo,2020-06-01,cases,51.0,12
+Kosovo,2020-06-08,cases,151.0,13
+Kosovo,2020-06-15,cases,252.0,14
+Kosovo,2020-06-22,cases,683.0,15
+Kosovo,2020-06-29,cases,508.0,16
+Kosovo,2020-07-06,cases,679.0,17
+Kosovo,2020-07-13,cases,1575.0,18
+Kosovo,2020-07-20,cases,804.0,19
+Kosovo,2020-07-27,cases,1182.0,20
+Kosovo,2020-08-03,cases,1882.0,21
+Kosovo,2020-08-10,cases,1448.0,22
+Kosovo,2020-08-17,cases,1169.0,23
+Kosovo,2020-08-24,cases,1032.0,24
+Kosovo,2020-08-31,cases,886.0,25
+Kosovo,2020-09-07,cases,785.0,26
+Kosovo,2020-09-14,cases,518.0,27
+Kosovo,2020-09-21,cases,426.0,28
+Kosovo,2020-09-28,cases,409.0,29
+Kosovo,2020-10-05,cases,342.0,30
+Kosovo,2020-10-12,cases,365.0,31
+Kosovo,2020-10-19,cases,712.0,32
+Kosovo,2020-10-26,cases,1052.0,33
+Kosovo,2020-11-02,cases,2236.0,34
+Kosovo,2020-11-09,cases,3976.0,35
+Kosovo,2020-11-16,cases,4962.0,36
+Kosovo,2020-11-23,cases,5178.0,37
+Kosovo,2020-11-30,cases,4762.0,38
+Kosovo,2020-12-07,cases,3748.0,39
+Kosovo,2020-12-14,cases,3775.0,40
+Kosovo,2020-12-21,cases,2589.0,41
+Kosovo,2020-12-28,cases,1632.0,42
+Kosovo,2021-01-04,cases,1164.0,43
+Kosovo,2021-01-04,cases,1811.0,44
+Kosovo,2021-01-11,cases,2075.0,45
+Kosovo,2021-01-18,cases,2237.0,46
+Kosovo,2021-01-25,cases,2130.0,47
+Kosovo,2021-02-01,cases,2040.0,48
+Kosovo,2021-02-08,cases,2083.0,49
+Kosovo,2021-02-15,cases,2039.0,50
+Kosovo,2021-02-22,cases,2850.0,51
+Latvia,2020-01-06,cases,0.0,1
+Latvia,2020-01-13,cases,0.0,2
+Latvia,2020-01-20,cases,0.0,3
+Latvia,2020-01-27,cases,0.0,4
+Latvia,2020-02-03,cases,0.0,5
+Latvia,2020-02-10,cases,0.0,6
+Latvia,2020-02-17,cases,0.0,7
+Latvia,2020-02-24,cases,0.0,8
+Latvia,2020-03-02,cases,0.0,9
+Latvia,2020-03-09,cases,3.0,10
+Latvia,2020-03-16,cases,27.0,11
+Latvia,2020-03-23,cases,106.0,12
+Latvia,2020-03-30,cases,211.0,13
+Latvia,2020-04-06,cases,187.0,14
+Latvia,2020-04-13,cases,118.0,15
+Latvia,2020-04-20,cases,76.0,16
+Latvia,2020-04-27,cases,85.0,17
+Latvia,2020-05-04,cases,67.0,18
+Latvia,2020-05-11,cases,60.0,19
+Latvia,2020-05-18,cases,68.0,20
+Latvia,2020-05-25,cases,39.0,21
+Latvia,2020-06-01,cases,19.0,22
+Latvia,2020-06-08,cases,22.0,23
+Latvia,2020-06-15,cases,9.0,24
+Latvia,2020-06-22,cases,14.0,25
+Latvia,2020-06-29,cases,5.0,26
+Latvia,2020-07-06,cases,8.0,27
+Latvia,2020-07-13,cases,49.0,28
+Latvia,2020-07-20,cases,19.0,29
+Latvia,2020-07-27,cases,27.0,30
+Latvia,2020-08-03,cases,24.0,31
+Latvia,2020-08-10,cases,47.0,32
+Latvia,2020-08-17,cases,32.0,33
+Latvia,2020-08-24,cases,15.0,34
+Latvia,2020-08-31,cases,56.0,35
+Latvia,2020-09-07,cases,35.0,36
+Latvia,2020-09-14,cases,46.0,37
+Latvia,2020-09-21,cases,51.0,38
+Latvia,2020-09-28,cases,151.0,39
+Latvia,2020-10-05,cases,410.0,40
+Latvia,2020-10-12,cases,584.0,41
+Latvia,2020-10-19,cases,780.0,42
+Latvia,2020-10-26,cases,1228.0,43
+Latvia,2020-11-02,cases,1458.0,44
+Latvia,2020-11-09,cases,1959.0,45
+Latvia,2020-11-16,cases,2452.0,46
+Latvia,2020-11-23,cases,2573.0,47
+Latvia,2020-11-30,cases,3855.0,48
+Latvia,2020-12-07,cases,4338.0,49
+Latvia,2020-12-14,cases,4362.0,50
+Latvia,2020-12-21,cases,5265.0,51
+Latvia,2020-12-28,cases,5390.0,52
+Latvia,2021-01-04,cases,6167.0,53
+Latvia,2021-01-04,cases,7071.0,54
+Latvia,2021-01-11,cases,6096.0,55
+Latvia,2021-01-18,cases,5342.0,56
+Latvia,2021-01-25,cases,5233.0,57
+Latvia,2021-02-01,cases,5559.0,58
+Latvia,2021-02-08,cases,4906.0,59
+Latvia,2021-02-15,cases,4813.0,60
+Latvia,2021-02-22,cases,4667.0,61
+Liechtenstein,2020-01-06,cases,0.0,1
+Liechtenstein,2020-01-13,cases,0.0,2
+Liechtenstein,2020-01-20,cases,0.0,3
+Liechtenstein,2020-01-27,cases,0.0,4
+Liechtenstein,2020-02-03,cases,0.0,5
+Liechtenstein,2020-02-10,cases,0.0,6
+Liechtenstein,2020-02-17,cases,0.0,7
+Liechtenstein,2020-02-24,cases,0.0,8
+Liechtenstein,2020-03-02,cases,0.0,9
+Liechtenstein,2020-03-09,cases,2.0,10
+Liechtenstein,2020-03-16,cases,11.0,11
+Liechtenstein,2020-03-23,cases,35.0,12
+Liechtenstein,2020-03-30,cases,17.0,13
+Liechtenstein,2020-04-06,cases,13.0,14
+Liechtenstein,2020-04-13,cases,3.0,15
+Liechtenstein,2020-04-20,cases,1.0,16
+Liechtenstein,2020-04-27,cases,0.0,17
+Liechtenstein,2020-05-04,cases,0.0,18
+Liechtenstein,2020-05-11,cases,0.0,19
+Liechtenstein,2020-05-18,cases,0.0,20
+Liechtenstein,2020-05-25,cases,0.0,21
+Liechtenstein,2020-06-01,cases,0.0,22
+Liechtenstein,2020-06-08,cases,0.0,23
+Liechtenstein,2020-06-15,cases,0.0,24
+Liechtenstein,2020-06-22,cases,0.0,25
+Liechtenstein,2020-06-29,cases,0.0,26
+Liechtenstein,2020-07-06,cases,2.0,27
+Liechtenstein,2020-07-13,cases,0.0,28
+Liechtenstein,2020-07-20,cases,2.0,29
+Liechtenstein,2020-07-27,cases,0.0,30
+Liechtenstein,2020-08-03,cases,2.0,31
+Liechtenstein,2020-08-10,cases,0.0,32
+Liechtenstein,2020-08-17,cases,8.0,33
+Liechtenstein,2020-08-24,cases,4.0,34
+Liechtenstein,2020-08-31,cases,7.0,35
+Liechtenstein,2020-09-07,cases,0.0,36
+Liechtenstein,2020-09-14,cases,4.0,37
+Liechtenstein,2020-09-21,cases,2.0,38
+Liechtenstein,2020-09-28,cases,4.0,39
+Liechtenstein,2020-10-05,cases,10.0,40
+Liechtenstein,2020-10-12,cases,21.0,41
+Liechtenstein,2020-10-19,cases,76.0,42
+Liechtenstein,2020-10-26,cases,177.0,43
+Liechtenstein,2020-11-02,cases,196.0,44
+Liechtenstein,2020-11-09,cases,199.0,45
+Liechtenstein,2020-11-16,cases,186.0,46
+Liechtenstein,2020-11-23,cases,166.0,47
+Liechtenstein,2020-11-30,cases,118.0,48
+Liechtenstein,2020-12-07,cases,127.0,49
+Liechtenstein,2020-12-14,cases,170.0,50
+Liechtenstein,2020-12-21,cases,216.0,51
+Liechtenstein,2020-12-28,cases,256.0,52
+Liechtenstein,2021-01-04,cases,186.0,53
+Liechtenstein,2021-01-04,cases,122.0,54
+Liechtenstein,2021-01-11,cases,50.0,55
+Liechtenstein,2021-01-18,cases,63.0,56
+Liechtenstein,2021-01-25,cases,43.0,57
+Liechtenstein,2021-02-01,cases,29.0,58
+Liechtenstein,2021-02-08,cases,14.0,59
+Liechtenstein,2021-02-15,cases,11.0,60
+Liechtenstein,2021-02-22,cases,26.0,61
+Lithuania,2020-01-06,cases,0.0,1
+Lithuania,2020-01-13,cases,0.0,2
+Lithuania,2020-01-20,cases,0.0,3
+Lithuania,2020-01-27,cases,0.0,4
+Lithuania,2020-02-03,cases,0.0,5
+Lithuania,2020-02-10,cases,0.0,6
+Lithuania,2020-02-17,cases,0.0,7
+Lithuania,2020-02-24,cases,0.0,8
+Lithuania,2020-03-02,cases,0.0,9
+Lithuania,2020-03-09,cases,0.0,10
+Lithuania,2020-03-16,cases,0.0,11
+Lithuania,2020-03-23,cases,0.0,12
+Lithuania,2020-03-30,cases,0.0,13
+Lithuania,2020-04-06,cases,0.0,14
+Lithuania,2020-04-13,cases,0.0,15
+Lithuania,2020-04-20,cases,0.0,16
+Lithuania,2020-04-27,cases,155.0,17
+Lithuania,2020-05-04,cases,79.0,18
+Lithuania,2020-05-11,cases,72.0,19
+Lithuania,2020-05-18,cases,72.0,20
+Lithuania,2020-05-25,cases,77.0,21
+Lithuania,2020-06-01,cases,43.0,22
+Lithuania,2020-06-08,cases,45.0,23
+Lithuania,2020-06-15,cases,52.0,24
+Lithuania,2020-06-22,cases,28.0,25
+Lithuania,2020-06-29,cases,15.0,26
+Lithuania,2020-07-06,cases,25.0,27
+Lithuania,2020-07-13,cases,33.0,28
+Lithuania,2020-07-20,cases,73.0,29
+Lithuania,2020-07-27,cases,72.0,30
+Lithuania,2020-08-03,cases,100.0,31
+Lithuania,2020-08-10,cases,145.0,32
+Lithuania,2020-08-17,cases,172.0,33
+Lithuania,2020-08-24,cases,236.0,34
+Lithuania,2020-08-31,cases,233.0,35
+Lithuania,2020-09-07,cases,193.0,36
+Lithuania,2020-09-14,cases,286.0,37
+Lithuania,2020-09-21,cases,428.0,38
+Lithuania,2020-09-28,cases,676.0,39
+Lithuania,2020-10-05,cases,793.0,40
+Lithuania,2020-10-12,cases,960.0,41
+Lithuania,2020-10-19,cases,1478.0,42
+Lithuania,2020-10-26,cases,3229.0,43
+Lithuania,2020-11-02,cases,5590.0,44
+Lithuania,2020-11-09,cases,9143.0,45
+Lithuania,2020-11-16,cases,10206.0,46
+Lithuania,2020-11-23,cases,12323.0,47
+Lithuania,2020-11-30,cases,13115.0,48
+Lithuania,2020-12-07,cases,14691.0,49
+Lithuania,2020-12-14,cases,18977.0,50
+Lithuania,2020-12-21,cases,19481.0,51
+Lithuania,2020-12-28,cases,17880.0,52
+Lithuania,2021-01-04,cases,15632.0,53
+Lithuania,2021-01-04,cases,12460.0,54
+Lithuania,2021-01-11,cases,7554.0,55
+Lithuania,2021-01-18,cases,6404.0,56
+Lithuania,2021-01-25,cases,5438.0,57
+Lithuania,2021-02-01,cases,3956.0,58
+Lithuania,2021-02-08,cases,3238.0,59
+Lithuania,2021-02-15,cases,3252.0,60
+Lithuania,2021-02-22,cases,3479.0,61
+Luxembourg,2020-01-06,cases,0.0,1
+Luxembourg,2020-01-13,cases,0.0,2
+Luxembourg,2020-01-20,cases,0.0,3
+Luxembourg,2020-01-27,cases,0.0,4
+Luxembourg,2020-02-03,cases,0.0,5
+Luxembourg,2020-02-10,cases,0.0,6
+Luxembourg,2020-02-17,cases,0.0,7
+Luxembourg,2020-02-24,cases,0.0,8
+Luxembourg,2020-03-02,cases,1.0,9
+Luxembourg,2020-03-09,cases,3.0,10
+Luxembourg,2020-03-16,cases,83.0,11
+Luxembourg,2020-03-23,cases,682.0,12
+Luxembourg,2020-03-30,cases,1070.0,13
+Luxembourg,2020-04-06,cases,627.0,14
+Luxembourg,2020-04-13,cases,300.0,15
+Luxembourg,2020-04-20,cases,115.0,16
+Luxembourg,2020-04-27,cases,18.0,17
+Luxembourg,2020-05-04,cases,25.0,18
+Luxembourg,2020-05-11,cases,3.0,19
+Luxembourg,2020-05-18,cases,17.0,20
+Luxembourg,2020-05-25,cases,8.0,21
+Luxembourg,2020-06-01,cases,2.0,22
+Luxembourg,2020-06-08,cases,13.0,23
+Luxembourg,2020-06-15,cases,1.0,24
+Luxembourg,2020-06-22,cases,42.0,25
+Luxembourg,2020-06-29,cases,126.0,26
+Luxembourg,2020-07-06,cases,249.0,27
+Luxembourg,2020-07-13,cases,340.0,28
+Luxembourg,2020-07-20,cases,562.0,29
+Luxembourg,2020-07-27,cases,576.0,30
+Luxembourg,2020-08-03,cases,435.0,31
+Luxembourg,2020-08-10,cases,299.0,32
+Luxembourg,2020-08-17,cases,203.0,33
+Luxembourg,2020-08-24,cases,279.0,34
+Luxembourg,2020-08-31,cases,299.0,35
+Luxembourg,2020-09-07,cases,289.0,36
+Luxembourg,2020-09-14,cases,283.0,37
+Luxembourg,2020-09-21,cases,667.0,38
+Luxembourg,2020-09-28,cases,460.0,39
+Luxembourg,2020-10-05,cases,549.0,40
+Luxembourg,2020-10-12,cases,798.0,41
+Luxembourg,2020-10-19,cases,1264.0,42
+Luxembourg,2020-10-26,cases,3258.0,43
+Luxembourg,2020-11-02,cases,4432.0,44
+Luxembourg,2020-11-09,cases,3929.0,45
+Luxembourg,2020-11-16,cases,3791.0,46
+Luxembourg,2020-11-23,cases,3839.0,47
+Luxembourg,2020-11-30,cases,3560.0,48
+Luxembourg,2020-12-07,cases,3815.0,49
+Luxembourg,2020-12-14,cases,3429.0,50
+Luxembourg,2020-12-21,cases,2706.0,51
+Luxembourg,2020-12-28,cases,1309.0,52
+Luxembourg,2021-01-04,cases,1166.0,53
+Luxembourg,2021-01-04,cases,1062.0,54
+Luxembourg,2021-01-11,cases,883.0,55
+Luxembourg,2021-01-18,cases,856.0,56
+Luxembourg,2021-01-25,cases,1042.0,57
+Luxembourg,2021-02-01,cases,1231.0,58
+Luxembourg,2021-02-08,cases,1192.0,59
+Luxembourg,2021-02-15,cases,1329.0,60
+Luxembourg,2021-02-22,cases,1406.0,61
+Malta,2020-01-06,cases,0.0,1
+Malta,2020-01-13,cases,0.0,2
+Malta,2020-01-20,cases,0.0,3
+Malta,2020-01-27,cases,0.0,4
+Malta,2020-02-03,cases,0.0,5
+Malta,2020-02-10,cases,0.0,6
+Malta,2020-02-17,cases,0.0,7
+Malta,2020-02-24,cases,0.0,8
+Malta,2020-03-02,cases,0.0,9
+Malta,2020-03-09,cases,3.0,10
+Malta,2020-03-16,cases,18.0,11
+Malta,2020-03-23,cases,69.0,12
+Malta,2020-03-30,cases,61.0,13
+Malta,2020-04-06,cases,76.0,14
+Malta,2020-04-13,cases,151.0,15
+Malta,2020-04-20,cases,49.0,16
+Malta,2020-04-27,cases,21.0,17
+Malta,2020-05-04,cases,29.0,18
+Malta,2020-05-11,cases,19.0,19
+Malta,2020-05-18,cases,57.0,20
+Malta,2020-05-25,cases,57.0,21
+Malta,2020-06-01,cases,8.0,22
+Malta,2020-06-08,cases,11.0,23
+Malta,2020-06-15,cases,20.0,24
+Malta,2020-06-22,cases,16.0,25
+Malta,2020-06-29,cases,5.0,26
+Malta,2020-07-06,cases,2.0,27
+Malta,2020-07-13,cases,2.0,28
+Malta,2020-07-20,cases,2.0,29
+Malta,2020-07-27,cases,24.0,30
+Malta,2020-08-03,cases,160.0,31
+Malta,2020-08-10,cases,229.0,32
+Malta,2020-08-17,cases,217.0,33
+Malta,2020-08-24,cases,306.0,34
+Malta,2020-08-31,cases,250.0,35
+Malta,2020-09-07,cases,177.0,36
+Malta,2020-09-14,cases,313.0,37
+Malta,2020-09-21,cases,379.0,38
+Malta,2020-09-28,cases,248.0,39
+Malta,2020-10-05,cases,291.0,40
+Malta,2020-10-12,cases,506.0,41
+Malta,2020-10-19,cases,852.0,42
+Malta,2020-10-26,cases,870.0,43
+Malta,2020-11-02,cases,684.0,44
+Malta,2020-11-09,cases,959.0,45
+Malta,2020-11-16,cases,893.0,46
+Malta,2020-11-23,cases,890.0,47
+Malta,2020-11-30,cases,828.0,48
+Malta,2020-12-07,cases,768.0,49
+Malta,2020-12-14,cases,633.0,50
+Malta,2020-12-21,cases,561.0,51
+Malta,2020-12-28,cases,611.0,52
+Malta,2021-01-04,cases,757.0,53
+Malta,2021-01-04,cases,1314.0,54
+Malta,2021-01-11,cases,1192.0,55
+Malta,2021-01-18,cases,1070.0,56
+Malta,2021-01-25,cases,1245.0,57
+Malta,2021-02-01,cases,773.0,58
+Malta,2021-02-08,cases,1113.0,59
+Malta,2021-02-15,cases,1103.0,60
+Malta,2021-02-22,cases,1590.0,61
+Moldova,2020-03-16,cases,23.0,1
+Moldova,2020-03-23,cases,71.0,2
+Moldova,2020-03-30,cases,169.0,3
+Moldova,2020-04-06,cases,601.0,4
+Moldova,2020-04-13,cases,798.0,5
+Moldova,2020-04-20,cases,810.0,6
+Moldova,2020-04-27,cases,936.0,7
+Moldova,2020-05-04,cases,713.0,8
+Moldova,2020-05-11,cases,806.0,9
+Moldova,2020-05-18,cases,1133.0,10
+Moldova,2020-05-25,cases,1033.0,11
+Moldova,2020-06-01,cases,1158.0,12
+Moldova,2020-06-08,cases,1449.0,13
+Moldova,2020-06-15,cases,2040.0,14
+Moldova,2020-06-22,cases,2460.0,15
+Moldova,2020-06-29,cases,2050.0,16
+Moldova,2020-07-06,cases,1564.0,17
+Moldova,2020-07-13,cases,1568.0,18
+Moldova,2020-07-20,cases,1598.0,19
+Moldova,2020-07-27,cases,2054.0,20
+Moldova,2020-08-03,cases,2328.0,21
+Moldova,2020-08-10,cases,2298.0,22
+Moldova,2020-08-17,cases,2523.0,23
+Moldova,2020-08-24,cases,3295.0,24
+Moldova,2020-08-31,cases,3222.0,25
+Moldova,2020-09-07,cases,3097.0,26
+Moldova,2020-09-14,cases,3181.0,27
+Moldova,2020-09-21,cases,3618.0,28
+Moldova,2020-09-28,cases,4279.0,29
+Moldova,2020-10-05,cases,5704.0,30
+Moldova,2020-10-12,cases,5572.0,31
+Moldova,2020-10-19,cases,4899.0,32
+Moldova,2020-10-26,cases,4453.0,33
+Moldova,2020-11-02,cases,5079.0,34
+Moldova,2020-11-09,cases,5764.0,35
+Moldova,2020-11-16,cases,6933.0,36
+Moldova,2020-11-23,cases,8662.0,37
+Moldova,2020-11-30,cases,9076.0,38
+Moldova,2020-12-07,cases,9618.0,39
+Moldova,2020-12-14,cases,9883.0,40
+Moldova,2020-12-21,cases,8689.0,41
+Moldova,2020-12-28,cases,6148.0,42
+Moldova,2021-01-04,cases,4518.0,43
+Moldova,2021-01-04,cases,3518.0,44
+Moldova,2021-01-11,cases,3463.0,45
+Moldova,2021-01-18,cases,3348.0,46
+Moldova,2021-01-25,cases,3602.0,47
+Moldova,2021-02-01,cases,4765.0,48
+Moldova,2021-02-08,cases,5617.0,49
+Moldova,2021-02-15,cases,6566.0,50
+Moldova,2021-02-22,cases,8701.0,51
+Monaco,2020-01-06,cases,0.0,1
+Monaco,2020-01-13,cases,0.0,2
+Monaco,2020-01-20,cases,0.0,3
+Monaco,2020-01-27,cases,0.0,4
+Monaco,2020-02-03,cases,0.0,5
+Monaco,2020-02-10,cases,0.0,6
+Monaco,2020-02-17,cases,0.0,7
+Monaco,2020-02-24,cases,0.0,8
+Monaco,2020-03-02,cases,1.0,9
+Monaco,2020-03-09,cases,0.0,10
+Monaco,2020-03-16,cases,8.0,11
+Monaco,2020-03-23,cases,11.0,12
+Monaco,2020-03-30,cases,15.0,13
+Monaco,2020-04-06,cases,16.0,14
+Monaco,2020-04-13,cases,13.0,15
+Monaco,2020-04-20,cases,1.0,16
+Monaco,2020-04-27,cases,0.0,17
+Monaco,2020-05-04,cases,1.0,18
+Monaco,2020-05-11,cases,0.0,19
+Monaco,2020-05-18,cases,0.0,20
+Monaco,2020-05-25,cases,1.0,21
+Monaco,2020-06-01,cases,0.0,22
+Monaco,2020-06-08,cases,0.0,23
+Monaco,2020-06-15,cases,0.0,24
+Monaco,2020-06-22,cases,1.0,25
+Monaco,2020-06-29,cases,2.0,26
+Monaco,2020-07-06,cases,5.0,27
+Monaco,2020-07-13,cases,1.0,28
+Monaco,2020-07-20,cases,0.0,29
+Monaco,2020-07-27,cases,5.0,30
+Monaco,2020-08-03,cases,3.0,31
+Monaco,2020-08-10,cases,10.0,32
+Monaco,2020-08-17,cases,5.0,33
+Monaco,2020-08-24,cases,12.0,34
+Monaco,2020-08-31,cases,20.0,35
+Monaco,2020-09-07,cases,17.0,36
+Monaco,2020-09-14,cases,23.0,37
+Monaco,2020-09-21,cases,22.0,38
+Monaco,2020-09-28,cases,17.0,39
+Monaco,2020-10-05,cases,12.0,40
+Monaco,2020-10-12,cases,12.0,41
+Monaco,2020-10-19,cases,31.0,42
+Monaco,2020-10-26,cases,41.0,43
+Monaco,2020-11-02,cases,60.0,44
+Monaco,2020-11-09,cases,120.0,45
+Monaco,2020-11-16,cases,62.0,46
+Monaco,2020-11-23,cases,34.0,47
+Monaco,2020-11-30,cases,26.0,48
+Monaco,2020-12-07,cases,30.0,49
+Monaco,2020-12-14,cases,30.0,50
+Monaco,2020-12-21,cases,60.0,51
+Monaco,2020-12-28,cases,75.0,52
+Monaco,2021-01-04,cases,104.0,53
+Monaco,2021-01-04,cases,150.0,54
+Monaco,2021-01-11,cases,148.0,55
+Monaco,2021-01-18,cases,152.0,56
+Monaco,2021-01-25,cases,132.0,57
+Monaco,2021-02-01,cases,166.0,58
+Monaco,2021-02-08,cases,105.0,59
+Monaco,2021-02-15,cases,110.0,60
+Monaco,2021-02-22,cases,86.0,61
+Montenegro,2020-03-23,cases,21.0,1
+Montenegro,2020-03-30,cases,64.0,2
+Montenegro,2020-04-06,cases,129.0,3
+Montenegro,2020-04-13,cases,58.0,4
+Montenegro,2020-04-20,cases,36.0,5
+Montenegro,2020-04-27,cases,13.0,6
+Montenegro,2020-05-04,cases,1.0,7
+Montenegro,2020-05-11,cases,2.0,8
+Montenegro,2020-05-18,cases,0.0,9
+Montenegro,2020-05-25,cases,0.0,10
+Montenegro,2020-06-01,cases,0.0,11
+Montenegro,2020-06-08,cases,0.0,12
+Montenegro,2020-06-15,cases,1.0,13
+Montenegro,2020-06-22,cases,37.0,14
+Montenegro,2020-06-29,cases,119.0,15
+Montenegro,2020-07-06,cases,300.0,16
+Montenegro,2020-07-13,cases,440.0,17
+Montenegro,2020-07-20,cases,550.0,18
+Montenegro,2020-07-27,cases,798.0,19
+Montenegro,2020-08-03,cases,689.0,20
+Montenegro,2020-08-10,cases,360.0,21
+Montenegro,2020-08-17,cases,417.0,22
+Montenegro,2020-08-24,cases,308.0,23
+Montenegro,2020-08-31,cases,447.0,24
+Montenegro,2020-09-07,cases,763.0,25
+Montenegro,2020-09-14,cases,1159.0,26
+Montenegro,2020-09-21,cases,1900.0,27
+Montenegro,2020-09-28,cases,1701.0,28
+Montenegro,2020-10-05,cases,1814.0,29
+Montenegro,2020-10-12,cases,1742.0,30
+Montenegro,2020-10-19,cases,1746.0,31
+Montenegro,2020-10-26,cases,1182.0,32
+Montenegro,2020-11-02,cases,1917.0,33
+Montenegro,2020-11-09,cases,4091.0,34
+Montenegro,2020-11-16,cases,4372.0,35
+Montenegro,2020-11-23,cases,3885.0,36
+Montenegro,2020-11-30,cases,3819.0,37
+Montenegro,2020-12-07,cases,3365.0,38
+Montenegro,2020-12-14,cases,3180.0,39
+Montenegro,2020-12-21,cases,2529.0,40
+Montenegro,2020-12-28,cases,2739.0,41
+Montenegro,2021-01-04,cases,2501.0,42
+Montenegro,2021-01-04,cases,3236.0,43
+Montenegro,2021-01-11,cases,3062.0,44
+Montenegro,2021-01-18,cases,2823.0,45
+Montenegro,2021-01-25,cases,3343.0,46
+Montenegro,2021-02-01,cases,3568.0,47
+Montenegro,2021-02-08,cases,3694.0,48
+Montenegro,2021-02-15,cases,3074.0,49
+Montenegro,2021-02-22,cases,3838.0,50
+Netherlands,2020-01-06,cases,0.0,1
+Netherlands,2020-01-13,cases,0.0,2
+Netherlands,2020-01-20,cases,0.0,3
+Netherlands,2020-01-27,cases,0.0,4
+Netherlands,2020-02-03,cases,0.0,5
+Netherlands,2020-02-10,cases,0.0,6
+Netherlands,2020-02-17,cases,0.0,7
+Netherlands,2020-02-24,cases,0.0,8
+Netherlands,2020-03-02,cases,5.0,9
+Netherlands,2020-03-09,cases,158.0,10
+Netherlands,2020-03-16,cases,946.0,11
+Netherlands,2020-03-23,cases,3076.0,12
+Netherlands,2020-03-30,cases,6557.0,13
+Netherlands,2020-04-06,cases,6919.0,14
+Netherlands,2020-04-13,cases,7693.0,15
+Netherlands,2020-04-20,cases,7063.0,16
+Netherlands,2020-04-27,cases,5149.0,17
+Netherlands,2020-05-04,cases,2746.0,18
+Netherlands,2020-05-11,cases,2049.0,19
+Netherlands,2020-05-18,cases,1392.0,20
+Netherlands,2020-05-25,cases,1234.0,21
+Netherlands,2020-06-01,cases,1209.0,22
+Netherlands,2020-06-08,cases,1126.0,23
+Netherlands,2020-06-15,cases,1205.0,24
+Netherlands,2020-06-22,cases,823.0,25
+Netherlands,2020-06-29,cases,564.0,26
+Netherlands,2020-07-06,cases,483.0,27
+Netherlands,2020-07-13,cases,436.0,28
+Netherlands,2020-07-20,cases,797.0,29
+Netherlands,2020-07-27,cases,1238.0,30
+Netherlands,2020-08-03,cases,2153.0,31
+Netherlands,2020-08-10,cases,3470.0,32
+Netherlands,2020-08-17,cases,4416.0,33
+Netherlands,2020-08-24,cases,3558.0,34
+Netherlands,2020-08-31,cases,3579.0,35
+Netherlands,2020-09-07,cases,4624.0,36
+Netherlands,2020-09-14,cases,7320.0,37
+Netherlands,2020-09-21,cases,11640.0,38
+Netherlands,2020-09-28,cases,17758.0,39
+Netherlands,2020-10-05,cases,24166.0,40
+Netherlands,2020-10-12,cases,38609.0,41
+Netherlands,2020-10-19,cases,53366.0,42
+Netherlands,2020-10-26,cases,62878.0,43
+Netherlands,2020-11-02,cases,68407.0,44
+Netherlands,2020-11-09,cases,50046.0,45
+Netherlands,2020-11-16,cases,37696.0,46
+Netherlands,2020-11-23,cases,36684.0,47
+Netherlands,2020-11-30,cases,34287.0,48
+Netherlands,2020-12-07,cases,38293.0,49
+Netherlands,2020-12-14,cases,56302.0,50
+Netherlands,2020-12-21,cases,76212.0,51
+Netherlands,2020-12-28,cases,73177.0,52
+Netherlands,2021-01-04,cases,58181.0,53
+Netherlands,2021-01-04,cases,51800.0,54
+Netherlands,2021-01-11,cases,39870.0,55
+Netherlands,2021-01-18,cases,36512.0,56
+Netherlands,2021-01-25,cases,29699.0,57
+Netherlands,2021-02-01,cases,27317.0,58
+Netherlands,2021-02-08,cases,23534.0,59
+Netherlands,2021-02-15,cases,27336.0,60
+Netherlands,2021-02-22,cases,31982.0,61
+North Macedonia,2020-01-06,cases,0.0,1
+North Macedonia,2020-01-13,cases,0.0,2
+North Macedonia,2020-01-20,cases,0.0,3
+North Macedonia,2020-01-27,cases,0.0,4
+North Macedonia,2020-02-03,cases,0.0,5
+North Macedonia,2020-02-10,cases,0.0,6
+North Macedonia,2020-02-17,cases,0.0,7
+North Macedonia,2020-02-24,cases,0.0,8
+North Macedonia,2020-03-02,cases,1.0,9
+North Macedonia,2020-03-09,cases,2.0,10
+North Macedonia,2020-03-16,cases,10.0,11
+North Macedonia,2020-03-23,cases,101.0,12
+North Macedonia,2020-03-30,cases,145.0,13
+North Macedonia,2020-04-06,cases,224.0,14
+North Macedonia,2020-04-13,cases,345.0,15
+North Macedonia,2020-04-20,cases,379.0,16
+North Macedonia,2020-04-27,cases,179.0,17
+North Macedonia,2020-05-04,cases,125.0,18
+North Macedonia,2020-05-11,cases,131.0,19
+North Macedonia,2020-05-18,cases,150.0,20
+North Macedonia,2020-05-25,cases,186.0,21
+North Macedonia,2020-06-01,cases,248.0,22
+North Macedonia,2020-06-08,cases,802.0,23
+North Macedonia,2020-06-15,cases,1029.0,24
+North Macedonia,2020-06-22,cases,1049.0,25
+North Macedonia,2020-06-29,cases,986.0,26
+North Macedonia,2020-07-06,cases,954.0,27
+North Macedonia,2020-07-13,cases,1065.0,28
+North Macedonia,2020-07-20,cases,1021.0,29
+North Macedonia,2020-07-27,cases,954.0,30
+North Macedonia,2020-08-03,cases,968.0,31
+North Macedonia,2020-08-10,cases,802.0,32
+North Macedonia,2020-08-17,cases,883.0,33
+North Macedonia,2020-08-24,cases,775.0,34
+North Macedonia,2020-08-31,cases,413.0,35
+North Macedonia,2020-09-07,cases,835.0,36
+North Macedonia,2020-09-14,cases,932.0,37
+North Macedonia,2020-09-21,cases,1041.0,38
+North Macedonia,2020-09-28,cases,894.0,39
+North Macedonia,2020-10-05,cases,973.0,40
+North Macedonia,2020-10-12,cases,2335.0,41
+North Macedonia,2020-10-19,cases,2691.0,42
+North Macedonia,2020-10-26,cases,3326.0,43
+North Macedonia,2020-11-02,cases,5482.0,44
+North Macedonia,2020-11-09,cases,7324.0,45
+North Macedonia,2020-11-16,cases,7290.0,46
+North Macedonia,2020-11-23,cases,7693.0,47
+North Macedonia,2020-11-30,cases,6800.0,48
+North Macedonia,2020-12-07,cases,6425.0,49
+North Macedonia,2020-12-14,cases,5670.0,50
+North Macedonia,2020-12-21,cases,4667.0,51
+North Macedonia,2020-12-28,cases,3499.0,52
+North Macedonia,2021-01-04,cases,2220.0,53
+North Macedonia,2021-01-04,cases,2470.0,54
+North Macedonia,2021-01-11,cases,2444.0,55
+North Macedonia,2021-01-18,cases,1716.0,56
+North Macedonia,2021-01-25,cases,2039.0,57
+North Macedonia,2021-02-01,cases,2105.0,58
+North Macedonia,2021-02-08,cases,2254.0,59
+North Macedonia,2021-02-15,cases,2233.0,60
+North Macedonia,2021-02-22,cases,3502.0,61
+Norway,2020-01-06,cases,0.0,1
+Norway,2020-01-13,cases,0.0,2
+Norway,2020-01-20,cases,0.0,3
+Norway,2020-01-27,cases,0.0,4
+Norway,2020-02-03,cases,0.0,5
+Norway,2020-02-10,cases,0.0,6
+Norway,2020-02-17,cases,0.0,7
+Norway,2020-02-24,cases,1.0,8
+Norway,2020-03-02,cases,30.0,9
+Norway,2020-03-09,cases,217.0,10
+Norway,2020-03-16,cases,1215.0,11
+Norway,2020-03-23,cases,1438.0,12
+Norway,2020-03-30,cases,1733.0,13
+Norway,2020-04-06,cases,1192.0,14
+Norway,2020-04-13,cases,762.0,15
+Norway,2020-04-20,cases,575.0,16
+Norway,2020-04-27,cases,423.0,17
+Norway,2020-05-04,cases,309.0,18
+Norway,2020-05-11,cases,222.0,19
+Norway,2020-05-18,cases,127.0,20
+Norway,2020-05-25,cases,108.0,21
+Norway,2020-06-01,cases,86.0,22
+Norway,2020-06-08,cases,114.0,23
+Norway,2020-06-15,cases,83.0,24
+Norway,2020-06-22,cases,110.0,25
+Norway,2020-06-29,cases,112.0,26
+Norway,2020-07-06,cases,67.0,27
+Norway,2020-07-13,cases,65.0,28
+Norway,2020-07-20,cases,53.0,29
+Norway,2020-07-27,cases,94.0,30
+Norway,2020-08-03,cases,199.0,31
+Norway,2020-08-10,cases,372.0,32
+Norway,2020-08-17,cases,370.0,33
+Norway,2020-08-24,cases,360.0,34
+Norway,2020-08-31,cases,377.0,35
+Norway,2020-09-07,cases,741.0,36
+Norway,2020-09-14,cases,765.0,37
+Norway,2020-09-21,cases,720.0,38
+Norway,2020-09-28,cases,787.0,39
+Norway,2020-10-05,cases,818.0,40
+Norway,2020-10-12,cases,1058.0,41
+Norway,2020-10-19,cases,943.0,42
+Norway,2020-10-26,cases,1709.0,43
+Norway,2020-11-02,cases,3149.0,44
+Norway,2020-11-09,cases,4045.0,45
+Norway,2020-11-16,cases,4090.0,46
+Norway,2020-11-23,cases,3659.0,47
+Norway,2020-11-30,cases,2926.0,48
+Norway,2020-12-07,cases,2526.0,49
+Norway,2020-12-14,cases,2724.0,50
+Norway,2020-12-21,cases,2948.0,51
+Norway,2020-12-28,cases,3244.0,52
+Norway,2021-01-04,cases,3869.0,53
+Norway,2021-01-04,cases,4682.0,54
+Norway,2021-01-11,cases,3009.0,55
+Norway,2021-01-18,cases,2221.0,56
+Norway,2021-01-25,cases,1945.0,57
+Norway,2021-02-01,cases,1844.0,58
+Norway,2021-02-08,cases,1735.0,59
+Norway,2021-02-15,cases,2034.0,60
+Norway,2021-02-22,cases,3110.0,61
+Poland,2020-01-06,cases,0.0,1
+Poland,2020-01-13,cases,0.0,2
+Poland,2020-01-20,cases,0.0,3
+Poland,2020-01-27,cases,0.0,4
+Poland,2020-02-03,cases,0.0,5
+Poland,2020-02-10,cases,0.0,6
+Poland,2020-02-17,cases,0.0,7
+Poland,2020-02-24,cases,0.0,8
+Poland,2020-03-02,cases,0.0,9
+Poland,2020-03-09,cases,11.0,10
+Poland,2020-03-16,cases,114.0,11
+Poland,2020-03-23,cases,509.0,12
+Poland,2020-03-30,cases,1228.0,13
+Poland,2020-04-06,cases,2240.0,14
+Poland,2020-04-13,cases,2572.0,15
+Poland,2020-04-20,cases,2550.0,16
+Poland,2020-04-27,cases,2330.0,17
+Poland,2020-05-04,cases,2139.0,18
+Poland,2020-05-11,cases,2303.0,19
+Poland,2020-05-18,cases,2533.0,20
+Poland,2020-05-25,cases,2759.0,21
+Poland,2020-06-01,cases,2496.0,22
+Poland,2020-06-08,cases,2777.0,23
+Poland,2020-06-15,cases,2831.0,24
+Poland,2020-06-22,cases,2539.0,25
+Poland,2020-06-29,cases,1976.0,26
+Poland,2020-07-06,cases,2043.0,27
+Poland,2020-07-13,cases,1941.0,28
+Poland,2020-07-20,cases,2213.0,29
+Poland,2020-07-27,cases,2961.0,30
+Poland,2020-08-03,cases,3829.0,31
+Poland,2020-08-10,cases,4897.0,32
+Poland,2020-08-17,cases,4893.0,33
+Poland,2020-08-24,cases,5078.0,34
+Poland,2020-08-31,cases,5108.0,35
+Poland,2020-09-07,cases,3954.0,36
+Poland,2020-09-14,cases,3328.0,37
+Poland,2020-09-21,cases,5088.0,38
+Poland,2020-09-28,cases,8090.0,39
+Poland,2020-10-05,cases,12744.0,40
+Poland,2020-10-12,cases,25742.0,41
+Poland,2020-10-19,cases,49950.0,42
+Poland,2020-10-26,cases,77922.0,43
+Poland,2020-11-02,cases,126214.0,44
+Poland,2020-11-09,cases,166613.0,45
+Poland,2020-11-16,cases,166547.0,46
+Poland,2020-11-23,cases,148359.0,47
+Poland,2020-11-30,cases,100911.0,48
+Poland,2020-12-07,cases,77033.0,49
+Poland,2020-12-14,cases,72664.0,50
+Poland,2020-12-21,cases,66790.0,51
+Poland,2020-12-28,cases,53668.0,52
+Poland,2021-01-04,cases,62386.0,53
+Poland,2021-01-04,cases,67219.0,54
+Poland,2021-01-11,cases,48578.0,55
+Poland,2021-01-18,cases,38948.0,56
+Poland,2021-01-25,cases,37763.0,57
+Poland,2021-02-01,cases,36794.0,58
+Poland,2021-02-08,cases,38814.0,59
+Poland,2021-02-15,cases,51154.0,60
+Poland,2021-02-22,cases,69123.0,61
+Portugal,2020-01-06,cases,0.0,1
+Portugal,2020-01-13,cases,0.0,2
+Portugal,2020-01-20,cases,0.0,3
+Portugal,2020-01-27,cases,0.0,4
+Portugal,2020-02-03,cases,0.0,5
+Portugal,2020-02-10,cases,0.0,6
+Portugal,2020-02-17,cases,0.0,7
+Portugal,2020-02-24,cases,1.0,8
+Portugal,2020-03-02,cases,1.0,9
+Portugal,2020-03-09,cases,27.0,10
+Portugal,2020-03-16,cases,289.0,11
+Portugal,2020-03-23,cases,1407.0,12
+Portugal,2020-03-30,cases,3722.0,13
+Portugal,2020-04-06,cases,5053.0,14
+Portugal,2020-04-13,cases,4444.0,15
+Portugal,2020-04-20,cases,4247.0,16
+Portugal,2020-04-27,cases,3195.0,17
+Portugal,2020-05-04,cases,2372.0,18
+Portugal,2020-05-11,cases,2330.0,19
+Portugal,2020-05-18,cases,1850.0,20
+Portugal,2020-05-25,cases,2005.0,21
+Portugal,2020-06-01,cases,1967.0,22
+Portugal,2020-06-08,cases,2129.0,23
+Portugal,2020-06-15,cases,1981.0,24
+Portugal,2020-06-22,cases,2480.0,25
+Portugal,2020-06-29,cases,2693.0,26
+Portugal,2020-07-06,cases,2459.0,27
+Portugal,2020-07-13,cases,2559.0,28
+Portugal,2020-07-20,cases,2120.0,29
+Portugal,2020-07-27,cases,1707.0,30
+Portugal,2020-08-03,cases,1447.0,31
+Portugal,2020-08-10,cases,1486.0,32
+Portugal,2020-08-17,cases,1607.0,33
+Portugal,2020-08-24,cases,1536.0,34
+Portugal,2020-08-31,cases,2322.0,35
+Portugal,2020-09-07,cases,2561.0,36
+Portugal,2020-09-14,cases,3846.0,37
+Portugal,2020-09-21,cases,4541.0,38
+Portugal,2020-09-28,cases,4799.0,39
+Portugal,2020-10-05,cases,5407.0,40
+Portugal,2020-10-12,cases,7525.0,41
+Portugal,2020-10-19,cases,12983.0,42
+Portugal,2020-10-26,cases,17509.0,43
+Portugal,2020-11-02,cases,23342.0,44
+Portugal,2020-11-09,cases,32268.0,45
+Portugal,2020-11-16,cases,34682.0,46
+Portugal,2020-11-23,cases,36994.0,47
+Portugal,2020-11-30,cases,33426.0,48
+Portugal,2020-12-07,cases,26525.0,49
+Portugal,2020-12-14,cases,26139.0,50
+Portugal,2020-12-21,cases,26223.0,51
+Portugal,2020-12-28,cases,20197.0,52
+Portugal,2021-01-04,cases,32782.0,53
+Portugal,2021-01-04,cases,53654.0,54
+Portugal,2021-01-11,cases,63295.0,55
+Portugal,2021-01-18,cases,82168.0,56
+Portugal,2021-01-25,cases,79395.0,57
+Portugal,2021-02-01,cases,44664.0,58
+Portugal,2021-02-08,cases,22970.0,59
+Portugal,2021-02-15,cases,13897.0,60
+Portugal,2021-02-22,cases,8838.0,61
+Romania,2020-01-06,cases,0.0,1
+Romania,2020-01-13,cases,0.0,2
+Romania,2020-01-20,cases,0.0,3
+Romania,2020-01-27,cases,0.0,4
+Romania,2020-02-03,cases,0.0,5
+Romania,2020-02-10,cases,0.0,6
+Romania,2020-02-17,cases,0.0,7
+Romania,2020-02-24,cases,0.0,8
+Romania,2020-03-02,cases,3.0,9
+Romania,2020-03-09,cases,14.0,10
+Romania,2020-03-16,cases,177.0,11
+Romania,2020-03-23,cases,407.0,12
+Romania,2020-03-30,cases,1409.0,13
+Romania,2020-04-06,cases,2210.0,14
+Romania,2020-04-13,cases,2541.0,15
+Romania,2020-04-20,cases,2469.0,16
+Romania,2020-04-27,cases,2411.0,17
+Romania,2020-05-04,cases,2237.0,18
+Romania,2020-05-11,cases,1784.0,19
+Romania,2020-05-18,cases,1461.0,20
+Romania,2020-05-25,cases,1398.0,21
+Romania,2020-06-01,cases,1134.0,22
+Romania,2020-06-08,cases,1251.0,23
+Romania,2020-06-15,cases,1692.0,24
+Romania,2020-06-22,cases,2017.0,25
+Romania,2020-06-29,cases,2430.0,26
+Romania,2020-07-06,cases,2736.0,27
+Romania,2020-07-13,cases,4038.0,28
+Romania,2020-07-20,cases,5778.0,29
+Romania,2020-07-27,cases,8134.0,30
+Romania,2020-08-03,cases,8303.0,31
+Romania,2020-08-10,cases,8368.0,32
+Romania,2020-08-17,cases,8157.0,33
+Romania,2020-08-24,cases,8021.0,34
+Romania,2020-08-31,cases,8140.0,35
+Romania,2020-09-07,cases,8388.0,36
+Romania,2020-09-14,cases,8406.0,37
+Romania,2020-09-21,cases,9796.0,38
+Romania,2020-09-28,cases,10722.0,39
+Romania,2020-10-05,cases,14143.0,40
+Romania,2020-10-12,cases,21397.0,41
+Romania,2020-10-19,cases,26116.0,42
+Romania,2020-10-26,cases,30749.0,43
+Romania,2020-11-02,cases,41857.0,44
+Romania,2020-11-09,cases,53582.0,45
+Romania,2020-11-16,cases,56981.0,46
+Romania,2020-11-23,cases,57962.0,47
+Romania,2020-11-30,cases,51773.0,48
+Romania,2020-12-07,cases,42839.0,49
+Romania,2020-12-14,cases,40758.0,50
+Romania,2020-12-21,cases,33674.0,51
+Romania,2020-12-28,cases,23897.0,52
+Romania,2021-01-04,cases,24961.0,53
+Romania,2021-01-04,cases,29408.0,54
+Romania,2021-01-11,cases,20757.0,55
+Romania,2021-01-18,cases,17384.0,56
+Romania,2021-01-25,cases,17242.0,57
+Romania,2021-02-01,cases,16659.0,58
+Romania,2021-02-08,cases,16497.0,59
+Romania,2021-02-15,cases,18404.0,60
+Romania,2021-02-22,cases,23066.0,61
+Russia,2020-01-06,cases,0.0,1
+Russia,2020-01-13,cases,0.0,2
+Russia,2020-01-20,cases,0.0,3
+Russia,2020-01-27,cases,0.0,4
+Russia,2020-02-03,cases,2.0,5
+Russia,2020-02-10,cases,0.0,6
+Russia,2020-02-17,cases,0.0,7
+Russia,2020-02-24,cases,0.0,8
+Russia,2020-03-02,cases,0.0,9
+Russia,2020-03-09,cases,8.0,10
+Russia,2020-03-16,cases,53.0,11
+Russia,2020-03-23,cases,304.0,12
+Russia,2020-03-30,cases,1167.0,13
+Russia,2020-04-06,cases,3855.0,14
+Russia,2020-04-13,cases,10381.0,15
+Russia,2020-04-20,cases,27083.0,16
+Russia,2020-04-27,cases,38096.0,17
+Russia,2020-05-04,cases,53738.0,18
+Russia,2020-05-11,cases,75001.0,19
+Russia,2020-05-18,cases,72064.0,20
+Russia,2020-05-25,cases,62729.0,21
+Russia,2020-06-01,cases,61362.0,22
+Russia,2020-06-08,cases,61830.0,23
+Russia,2020-06-15,cases,61291.0,24
+Russia,2020-06-22,cases,55716.0,25
+Russia,2020-06-29,cases,49757.0,26
+Russia,2020-07-06,cases,46814.0,27
+Russia,2020-07-13,cases,45911.0,28
+Russia,2020-07-20,cases,44384.0,29
+Russia,2020-07-27,cases,40939.0,30
+Russia,2020-08-03,cases,38385.0,31
+Russia,2020-08-10,cases,36666.0,32
+Russia,2020-08-17,cases,35317.0,33
+Russia,2020-08-24,cases,33896.0,34
+Russia,2020-08-31,cases,33577.0,35
+Russia,2020-09-07,cases,35179.0,36
+Russia,2020-09-14,cases,37306.0,37
+Russia,2020-09-21,cases,40588.0,38
+Russia,2020-09-28,cases,48039.0,39
+Russia,2020-10-05,cases,63563.0,40
+Russia,2020-10-12,cases,83717.0,41
+Russia,2020-10-19,cases,100616.0,42
+Russia,2020-10-26,cases,114543.0,43
+Russia,2020-11-02,cases,122904.0,44
+Russia,2020-11-09,cases,137553.0,45
+Russia,2020-11-16,cases,151491.0,46
+Russia,2020-11-23,cases,163504.0,47
+Russia,2020-11-30,cases,179987.0,48
+Russia,2020-12-07,cases,191454.0,49
+Russia,2020-12-14,cases,193158.0,50
+Russia,2020-12-21,cases,108740.0,51
+Russia,2020-12-28,cases,315367.0,52
+Russia,2021-01-04,cases,182103.0,53
+Russia,2021-01-04,cases,165131.0,54
+Russia,2021-01-11,cases,165797.0,55
+Russia,2021-01-18,cases,147624.0,56
+Russia,2021-01-25,cases,129397.0,57
+Russia,2021-02-01,cases,115110.0,58
+Russia,2021-02-08,cases,102893.0,59
+Russia,2021-02-15,cases,91240.0,60
+Russia,2021-02-22,cases,80320.0,61
+San Marino,2020-01-06,cases,0.0,1
+San Marino,2020-01-13,cases,0.0,2
+San Marino,2020-01-20,cases,0.0,3
+San Marino,2020-01-27,cases,0.0,4
+San Marino,2020-02-03,cases,0.0,5
+San Marino,2020-02-10,cases,0.0,6
+San Marino,2020-02-17,cases,0.0,7
+San Marino,2020-02-24,cases,0.0,8
+San Marino,2020-03-02,cases,8.0,9
+San Marino,2020-03-09,cases,29.0,10
+San Marino,2020-03-16,cases,61.0,11
+San Marino,2020-03-23,cases,53.0,12
+San Marino,2020-03-30,cases,78.0,13
+San Marino,2020-04-06,cases,37.0,14
+San Marino,2020-04-13,cases,90.0,15
+San Marino,2020-04-20,cases,105.0,16
+San Marino,2020-04-27,cases,77.0,17
+San Marino,2020-05-04,cases,44.0,18
+San Marino,2020-05-11,cases,46.0,19
+San Marino,2020-05-18,cases,26.0,20
+San Marino,2020-05-25,cases,11.0,21
+San Marino,2020-06-01,cases,6.0,22
+San Marino,2020-06-08,cases,16.0,23
+San Marino,2020-06-15,cases,7.0,24
+San Marino,2020-06-22,cases,2.0,25
+San Marino,2020-06-29,cases,2.0,26
+San Marino,2020-07-06,cases,0.0,27
+San Marino,2020-07-13,cases,1.0,28
+San Marino,2020-07-20,cases,0.0,29
+San Marino,2020-07-27,cases,0.0,30
+San Marino,2020-08-03,cases,0.0,31
+San Marino,2020-08-10,cases,11.0,32
+San Marino,2020-08-17,cases,0.0,33
+San Marino,2020-08-24,cases,0.0,34
+San Marino,2020-08-31,cases,0.0,35
+San Marino,2020-09-07,cases,6.0,36
+San Marino,2020-09-14,cases,6.0,37
+San Marino,2020-09-21,cases,1.0,38
+San Marino,2020-09-28,cases,4.0,39
+San Marino,2020-10-05,cases,5.0,40
+San Marino,2020-10-12,cases,20.0,41
+San Marino,2020-10-19,cases,7.0,42
+San Marino,2020-10-26,cases,60.0,43
+San Marino,2020-11-02,cases,109.0,44
+San Marino,2020-11-09,cases,115.0,45
+San Marino,2020-11-16,cases,210.0,46
+San Marino,2020-11-23,cases,142.0,47
+San Marino,2020-11-30,cases,191.0,48
+San Marino,2020-12-07,cases,203.0,49
+San Marino,2020-12-14,cases,158.0,50
+San Marino,2020-12-21,cases,160.0,51
+San Marino,2020-12-28,cases,168.0,52
+San Marino,2021-01-04,cases,218.0,53
+San Marino,2021-01-04,cases,174.0,54
+San Marino,2021-01-11,cases,120.0,55
+San Marino,2021-01-18,cases,87.0,56
+San Marino,2021-01-25,cases,151.0,57
+San Marino,2021-02-01,cases,112.0,58
+San Marino,2021-02-08,cases,180.0,59
+San Marino,2021-02-15,cases,155.0,60
+San Marino,2021-02-22,cases,244.0,61
+Serbia,2020-03-16,cases,55.0,1
+Serbia,2020-03-23,cases,133.0,2
+Serbia,2020-03-30,cases,553.0,3
+Serbia,2020-04-06,cases,1167.0,4
+Serbia,2020-04-13,cases,1722.0,5
+Serbia,2020-04-20,cases,2688.0,6
+Serbia,2020-04-27,cases,1724.0,7
+Serbia,2020-05-04,cases,1422.0,8
+Serbia,2020-05-11,cases,650.0,9
+Serbia,2020-05-18,cases,496.0,10
+Serbia,2020-05-25,cases,549.0,11
+Serbia,2020-06-01,cases,253.0,12
+Serbia,2020-06-08,cases,411.0,13
+Serbia,2020-06-15,cases,487.0,14
+Serbia,2020-06-22,cases,584.0,15
+Serbia,2020-06-29,cases,1152.0,16
+Serbia,2020-07-06,cases,2085.0,17
+Serbia,2020-07-13,cases,2229.0,18
+Serbia,2020-07-20,cases,2534.0,19
+Serbia,2020-07-27,cases,2836.0,20
+Serbia,2020-08-03,cases,2463.0,21
+Serbia,2020-08-10,cases,1906.0,22
+Serbia,2020-08-17,cases,1583.0,23
+Serbia,2020-08-24,cases,975.0,24
+Serbia,2020-08-31,cases,708.0,25
+Serbia,2020-09-07,cases,540.0,26
+Serbia,2020-09-14,cases,503.0,27
+Serbia,2020-09-21,cases,500.0,28
+Serbia,2020-09-28,cases,476.0,29
+Serbia,2020-10-05,cases,517.0,30
+Serbia,2020-10-12,cases,886.0,31
+Serbia,2020-10-19,cases,1373.0,32
+Serbia,2020-10-26,cases,3326.0,33
+Serbia,2020-11-02,cases,8917.0,34
+Serbia,2020-11-09,cases,14344.0,35
+Serbia,2020-11-16,cases,21821.0,36
+Serbia,2020-11-23,cases,36552.0,37
+Serbia,2020-11-30,cases,48094.0,38
+Serbia,2020-12-07,cases,50438.0,39
+Serbia,2020-12-14,cases,46780.0,40
+Serbia,2020-12-21,cases,37315.0,41
+Serbia,2020-12-28,cases,24872.0,42
+Serbia,2021-01-04,cases,15251.0,43
+Serbia,2021-01-04,cases,15819.0,44
+Serbia,2021-01-11,cases,12844.0,45
+Serbia,2021-01-18,cases,11070.0,46
+Serbia,2021-01-25,cases,11660.0,47
+Serbia,2021-02-01,cases,12618.0,48
+Serbia,2021-02-08,cases,12998.0,49
+Serbia,2021-02-15,cases,15761.0,50
+Serbia,2021-02-22,cases,22619.0,51
+Slovakia,2020-01-06,cases,0.0,1
+Slovakia,2020-01-13,cases,0.0,2
+Slovakia,2020-01-20,cases,0.0,3
+Slovakia,2020-01-27,cases,0.0,4
+Slovakia,2020-02-03,cases,0.0,5
+Slovakia,2020-02-10,cases,0.0,6
+Slovakia,2020-02-17,cases,0.0,7
+Slovakia,2020-02-24,cases,0.0,8
+Slovakia,2020-03-02,cases,0.0,9
+Slovakia,2020-03-09,cases,5.0,10
+Slovakia,2020-03-16,cases,56.0,11
+Slovakia,2020-03-23,cases,124.0,12
+Slovakia,2020-03-30,cases,151.0,13
+Slovakia,2020-04-06,cases,198.0,14
+Slovakia,2020-04-13,cases,235.0,15
+Slovakia,2020-04-20,cases,404.0,16
+Slovakia,2020-04-27,cases,208.0,17
+Slovakia,2020-05-04,cases,32.0,18
+Slovakia,2020-05-11,cases,44.0,19
+Slovakia,2020-05-18,cases,38.0,20
+Slovakia,2020-05-25,cases,16.0,21
+Slovakia,2020-06-01,cases,11.0,22
+Slovakia,2020-06-08,cases,8.0,23
+Slovakia,2020-06-15,cases,22.0,24
+Slovakia,2020-06-22,cases,36.0,25
+Slovakia,2020-06-29,cases,77.0,26
+Slovakia,2020-07-06,cases,100.0,27
+Slovakia,2020-07-13,cases,137.0,28
+Slovakia,2020-07-20,cases,78.0,29
+Slovakia,2020-07-27,cases,201.0,30
+Slovakia,2020-08-03,cases,173.0,31
+Slovakia,2020-08-10,cases,245.0,32
+Slovakia,2020-08-17,cases,308.0,33
+Slovakia,2020-08-24,cases,517.0,34
+Slovakia,2020-08-31,cases,493.0,35
+Slovakia,2020-09-07,cases,719.0,36
+Slovakia,2020-09-14,cases,944.0,37
+Slovakia,2020-09-21,cases,1176.0,38
+Slovakia,2020-09-28,cases,2587.0,39
+Slovakia,2020-10-05,cases,4149.0,40
+Slovakia,2020-10-12,cases,6863.0,41
+Slovakia,2020-10-19,cases,10558.0,42
+Slovakia,2020-10-26,cases,14980.0,43
+Slovakia,2020-11-02,cases,19446.0,44
+Slovakia,2020-11-09,cases,16803.0,45
+Slovakia,2020-11-16,cases,13062.0,46
+Slovakia,2020-11-23,cases,11908.0,47
+Slovakia,2020-11-30,cases,14235.0,48
+Slovakia,2020-12-07,cases,19374.0,49
+Slovakia,2020-12-14,cases,30403.0,50
+Slovakia,2020-12-21,cases,38659.0,51
+Slovakia,2020-12-28,cases,34527.0,52
+Slovakia,2021-01-04,cases,45761.0,53
+Slovakia,2021-01-04,cases,47531.0,54
+Slovakia,2021-01-11,cases,31500.0,55
+Slovakia,2021-01-18,cases,37284.0,56
+Slovakia,2021-01-25,cases,32952.0,57
+Slovakia,2021-02-01,cases,38322.0,58
+Slovakia,2021-02-08,cases,37392.0,59
+Slovakia,2021-02-15,cases,37933.0,60
+Slovakia,2021-02-22,cases,39163.0,61
+Slovenia,2020-01-06,cases,0.0,1
+Slovenia,2020-01-13,cases,0.0,2
+Slovenia,2020-01-20,cases,0.0,3
+Slovenia,2020-01-27,cases,0.0,4
+Slovenia,2020-02-03,cases,0.0,5
+Slovenia,2020-02-10,cases,0.0,6
+Slovenia,2020-02-17,cases,0.0,7
+Slovenia,2020-02-24,cases,0.0,8
+Slovenia,2020-03-02,cases,0.0,9
+Slovenia,2020-03-09,cases,20.0,10
+Slovenia,2020-03-16,cases,230.0,11
+Slovenia,2020-03-23,cases,192.0,12
+Slovenia,2020-03-30,cases,315.0,13
+Slovenia,2020-04-06,cases,264.0,14
+Slovenia,2020-04-13,cases,192.0,15
+Slovenia,2020-04-20,cases,123.0,16
+Slovenia,2020-04-27,cases,67.0,17
+Slovenia,2020-05-04,cases,36.0,18
+Slovenia,2020-05-11,cases,21.0,19
+Slovenia,2020-05-18,cases,6.0,20
+Slovenia,2020-05-25,cases,3.0,21
+Slovenia,2020-06-01,cases,4.0,22
+Slovenia,2020-06-08,cases,12.0,23
+Slovenia,2020-06-15,cases,11.0,24
+Slovenia,2020-06-22,cases,25.0,25
+Slovenia,2020-06-29,cases,63.0,26
+Slovenia,2020-07-06,cases,132.0,27
+Slovenia,2020-07-13,cases,134.0,28
+Slovenia,2020-07-20,cases,104.0,29
+Slovenia,2020-07-27,cases,134.0,30
+Slovenia,2020-08-03,cases,94.0,31
+Slovenia,2020-08-10,cases,74.0,32
+Slovenia,2020-08-17,cases,174.0,33
+Slovenia,2020-08-24,cases,236.0,34
+Slovenia,2020-08-31,cases,218.0,35
+Slovenia,2020-09-07,cases,307.0,36
+Slovenia,2020-09-14,cases,559.0,37
+Slovenia,2020-09-21,cases,721.0,38
+Slovenia,2020-09-28,cases,919.0,39
+Slovenia,2020-10-05,cases,1186.0,40
+Slovenia,2020-10-12,cases,2258.0,41
+Slovenia,2020-10-19,cases,4852.0,42
+Slovenia,2020-10-26,cases,10427.0,43
+Slovenia,2020-11-02,cases,12106.0,44
+Slovenia,2020-11-09,cases,9437.0,45
+Slovenia,2020-11-16,cases,9927.0,46
+Slovenia,2020-11-23,cases,10215.0,47
+Slovenia,2020-11-30,cases,10073.0,48
+Slovenia,2020-12-07,cases,10459.0,49
+Slovenia,2020-12-14,cases,10455.0,50
+Slovenia,2020-12-21,cases,9517.0,51
+Slovenia,2020-12-28,cases,9109.0,52
+Slovenia,2021-01-04,cases,10550.0,53
+Slovenia,2021-01-04,cases,13866.0,54
+Slovenia,2021-01-11,cases,9749.0,55
+Slovenia,2021-01-18,cases,8703.0,56
+Slovenia,2021-01-25,cases,8642.0,57
+Slovenia,2021-02-01,cases,7100.0,58
+Slovenia,2021-02-08,cases,5716.0,59
+Slovenia,2021-02-15,cases,5261.0,60
+Slovenia,2021-02-22,cases,5427.0,61
+Spain,2020-01-06,cases,0.0,1
+Spain,2020-01-13,cases,0.0,2
+Spain,2020-01-20,cases,2.0,3
+Spain,2020-01-27,cases,1.0,4
+Spain,2020-02-03,cases,2.0,5
+Spain,2020-02-10,cases,2.0,6
+Spain,2020-02-17,cases,4.0,7
+Spain,2020-02-24,cases,8.0,8
+Spain,2020-03-02,cases,129.0,9
+Spain,2020-03-09,cases,1423.0,10
+Spain,2020-03-16,cases,11604.0,11
+Spain,2020-03-23,cases,36352.0,12
+Spain,2020-03-30,cases,59346.0,13
+Spain,2020-04-06,cases,44423.0,14
+Spain,2020-04-13,cases,30595.0,15
+Spain,2020-04-20,cases,21249.0,16
+Spain,2020-04-27,cases,14573.0,17
+Spain,2020-05-04,cases,8101.0,18
+Spain,2020-05-11,cases,5630.0,19
+Spain,2020-05-18,cases,4996.0,20
+Spain,2020-05-25,cases,4422.0,21
+Spain,2020-06-01,cases,3832.0,22
+Spain,2020-06-08,cases,3038.0,23
+Spain,2020-06-15,cases,2356.0,24
+Spain,2020-06-22,cases,2207.0,25
+Spain,2020-06-29,cases,2362.0,26
+Spain,2020-07-06,cases,2814.0,27
+Spain,2020-07-13,cases,4875.0,28
+Spain,2020-07-20,cases,10301.0,29
+Spain,2020-07-27,cases,14643.0,30
+Spain,2020-08-03,cases,20443.0,31
+Spain,2020-08-10,cases,28341.0,32
+Spain,2020-08-17,cases,40202.0,33
+Spain,2020-08-24,cases,52167.0,34
+Spain,2020-08-31,cases,61155.0,35
+Spain,2020-09-07,cases,65519.0,36
+Spain,2020-09-14,cases,74091.0,37
+Spain,2020-09-21,cases,80892.0,38
+Spain,2020-09-28,cases,72567.0,39
+Spain,2020-10-05,cases,65176.0,40
+Spain,2020-10-12,cases,77821.0,41
+Spain,2020-10-19,cases,91239.0,42
+Spain,2020-10-26,cases,135491.0,43
+Spain,2020-11-02,cases,145167.0,44
+Spain,2020-11-09,cases,133385.0,45
+Spain,2020-11-16,cases,112128.0,46
+Spain,2020-11-23,cases,81292.0,47
+Spain,2020-11-30,cases,58651.0,48
+Spain,2020-12-07,cases,50729.0,49
+Spain,2020-12-14,cases,50706.0,50
+Spain,2020-12-21,cases,68429.0,51
+Spain,2020-12-28,cases,66218.0,52
+Spain,2021-01-04,cases,99004.0,53
+Spain,2021-01-04,cases,160566.0,54
+Spain,2021-01-11,cases,234128.0,55
+Spain,2021-01-18,cases,244719.0,56
+Spain,2021-01-25,cases,202184.0,57
+Spain,2021-02-01,cases,130446.0,58
+Spain,2021-02-08,cases,75644.0,59
+Spain,2021-02-15,cases,50365.0,60
+Spain,2021-02-22,cases,38951.0,61
+Sweden,2020-01-06,cases,0.0,1
+Sweden,2020-01-13,cases,0.0,2
+Sweden,2020-01-20,cases,0.0,3
+Sweden,2020-01-27,cases,0.0,4
+Sweden,2020-02-03,cases,0.0,5
+Sweden,2020-02-10,cases,1.0,6
+Sweden,2020-02-17,cases,0.0,7
+Sweden,2020-02-24,cases,0.0,8
+Sweden,2020-03-02,cases,13.0,9
+Sweden,2020-03-09,cases,211.0,10
+Sweden,2020-03-16,cases,836.0,11
+Sweden,2020-03-23,cases,914.0,12
+Sweden,2020-03-30,cases,1941.0,13
+Sweden,2020-04-06,cases,3211.0,14
+Sweden,2020-04-13,cases,3711.0,15
+Sweden,2020-04-20,cases,3739.0,16
+Sweden,2020-04-27,cases,4178.0,17
+Sweden,2020-05-04,cases,3801.0,18
+Sweden,2020-05-11,cases,4133.0,19
+Sweden,2020-05-18,cases,3852.0,20
+Sweden,2020-05-25,cases,3645.0,21
+Sweden,2020-06-01,cases,4258.0,22
+Sweden,2020-06-08,cases,6007.0,23
+Sweden,2020-06-15,cases,7118.0,24
+Sweden,2020-06-22,cases,7063.0,25
+Sweden,2020-06-29,cases,7451.0,26
+Sweden,2020-07-06,cases,4276.0,27
+Sweden,2020-07-13,cases,2178.0,28
+Sweden,2020-07-20,cases,1621.0,29
+Sweden,2020-07-27,cases,1316.0,30
+Sweden,2020-08-03,cases,1553.0,31
+Sweden,2020-08-10,cases,2013.0,32
+Sweden,2020-08-17,cases,2052.0,33
+Sweden,2020-08-24,cases,1687.0,34
+Sweden,2020-08-31,cases,1200.0,35
+Sweden,2020-09-07,cases,1331.0,36
+Sweden,2020-09-14,cases,1592.0,37
+Sweden,2020-09-21,cases,2080.0,38
+Sweden,2020-09-28,cases,2919.0,39
+Sweden,2020-10-05,cases,3642.0,40
+Sweden,2020-10-12,cases,4278.0,41
+Sweden,2020-10-19,cases,5620.0,42
+Sweden,2020-10-26,cases,9154.0,43
+Sweden,2020-11-02,cases,18467.0,44
+Sweden,2020-11-09,cases,25403.0,45
+Sweden,2020-11-16,cases,31315.0,46
+Sweden,2020-11-23,cases,31941.0,47
+Sweden,2020-11-30,cases,35552.0,48
+Sweden,2020-12-07,cases,36830.0,49
+Sweden,2020-12-14,cases,43630.0,50
+Sweden,2020-12-21,cases,46174.0,51
+Sweden,2020-12-28,cases,37134.0,52
+Sweden,2021-01-04,cases,41321.0,53
+Sweden,2021-01-04,cases,39446.0,54
+Sweden,2021-01-11,cases,28932.0,55
+Sweden,2021-01-18,cases,23221.0,56
+Sweden,2021-01-25,cases,20649.0,57
+Sweden,2021-02-01,cases,19602.0,58
+Sweden,2021-02-08,cases,21280.0,59
+Sweden,2021-02-15,cases,23609.0,60
+Sweden,2021-02-22,cases,26681.0,61
+Switzerland,2020-01-06,cases,0.0,1
+Switzerland,2020-01-13,cases,0.0,2
+Switzerland,2020-01-20,cases,0.0,3
+Switzerland,2020-01-27,cases,0.0,4
+Switzerland,2020-02-03,cases,0.0,5
+Switzerland,2020-02-10,cases,0.0,6
+Switzerland,2020-02-17,cases,0.0,7
+Switzerland,2020-02-24,cases,0.0,8
+Switzerland,2020-03-02,cases,24.0,9
+Switzerland,2020-03-09,cases,308.0,10
+Switzerland,2020-03-16,cases,1868.0,11
+Switzerland,2020-03-23,cases,4771.0,12
+Switzerland,2020-03-30,cases,7303.0,13
+Switzerland,2020-04-06,cases,6748.0,14
+Switzerland,2020-04-13,cases,4198.0,15
+Switzerland,2020-04-20,cases,2438.0,16
+Switzerland,2020-04-27,cases,1320.0,17
+Switzerland,2020-05-04,cases,844.0,18
+Switzerland,2020-05-11,cases,400.0,19
+Switzerland,2020-05-18,cases,282.0,20
+Switzerland,2020-05-25,cases,149.0,21
+Switzerland,2020-06-01,cases,126.0,22
+Switzerland,2020-06-08,cases,103.0,23
+Switzerland,2020-06-15,cases,152.0,24
+Switzerland,2020-06-22,cases,175.0,25
+Switzerland,2020-06-29,cases,325.0,26
+Switzerland,2020-07-06,cases,650.0,27
+Switzerland,2020-07-13,cases,614.0,28
+Switzerland,2020-07-20,cases,706.0,29
+Switzerland,2020-07-27,cases,821.0,30
+Switzerland,2020-08-03,cases,1136.0,31
+Switzerland,2020-08-10,cases,1053.0,32
+Switzerland,2020-08-17,cases,1517.0,33
+Switzerland,2020-08-24,cases,1771.0,34
+Switzerland,2020-08-31,cases,2104.0,35
+Switzerland,2020-09-07,cases,2387.0,36
+Switzerland,2020-09-14,cases,2775.0,37
+Switzerland,2020-09-21,cases,2103.0,38
+Switzerland,2020-09-28,cases,2693.0,39
+Switzerland,2020-10-05,cases,2399.0,40
+Switzerland,2020-10-12,cases,5967.0,41
+Switzerland,2020-10-19,cases,14192.0,42
+Switzerland,2020-10-26,cases,28901.0,43
+Switzerland,2020-11-02,cases,50405.0,44
+Switzerland,2020-11-09,cases,57432.0,45
+Switzerland,2020-11-16,cases,45026.0,46
+Switzerland,2020-11-23,cases,33297.0,47
+Switzerland,2020-11-30,cases,27534.0,48
+Switzerland,2020-12-07,cases,26084.0,49
+Switzerland,2020-12-14,cases,29228.0,50
+Switzerland,2020-12-21,cases,39833.0,51
+Switzerland,2020-12-28,cases,24084.0,52
+Switzerland,2021-01-04,cases,23414.0,53
+Switzerland,2021-01-04,cases,22434.0,54
+Switzerland,2021-01-11,cases,15378.0,55
+Switzerland,2021-01-18,cases,13605.0,56
+Switzerland,2021-01-25,cases,11451.0,57
+Switzerland,2021-02-01,cases,10027.0,58
+Switzerland,2021-02-08,cases,8038.0,59
+Switzerland,2021-02-15,cases,7007.0,60
+Switzerland,2021-02-22,cases,7240.0,61
+Turkey,2020-03-16,cases,18.0,1
+Turkey,2020-03-23,cases,1218.0,2
+Turkey,2020-03-30,cases,8035.0,3
+Turkey,2020-04-06,cases,17798.0,4
+Turkey,2020-04-13,cases,29887.0,5
+Turkey,2020-04-20,cases,29350.0,6
+Turkey,2020-04-27,cases,23824.0,7
+Turkey,2020-05-04,cases,15915.0,8
+Turkey,2020-05-11,cases,12612.0,9
+Turkey,2020-05-18,cases,10778.0,10
+Turkey,2020-05-25,cases,7392.0,11
+Turkey,2020-06-01,cases,7115.0,12
+Turkey,2020-06-08,cases,6190.0,13
+Turkey,2020-06-15,cases,8107.0,14
+Turkey,2020-06-22,cases,9446.0,15
+Turkey,2020-06-29,cases,9554.0,16
+Turkey,2020-07-06,cases,8519.0,17
+Turkey,2020-07-13,cases,7235.0,18
+Turkey,2020-07-20,cases,6648.0,19
+Turkey,2020-07-27,cases,6459.0,20
+Turkey,2020-08-03,cases,47136.0,21
+Turkey,2020-08-10,cases,55058.0,22
+Turkey,2020-08-17,cases,55615.0,23
+Turkey,2020-08-24,cases,56050.0,24
+Turkey,2020-08-31,cases,57407.0,25
+Turkey,2020-09-07,cases,58370.0,26
+Turkey,2020-09-14,cases,58466.0,27
+Turkey,2020-09-21,cases,58815.0,28
+Turkey,2020-09-28,cases,58676.0,29
+Turkey,2020-10-05,cases,57120.0,30
+Turkey,2020-10-12,cases,58200.0,31
+Turkey,2020-10-19,cases,59070.0,32
+Turkey,2020-10-26,cases,61418.0,33
+Turkey,2020-11-02,cases,62782.0,34
+Turkey,2020-11-09,cases,63892.0,35
+Turkey,2020-11-16,cases,67133.0,36
+Turkey,2020-11-23,cases,79659.0,37
+Turkey,2020-11-30,cases,159462.0,38
+Turkey,2020-12-07,cases,220667.0,39
+Turkey,2020-12-14,cases,215632.0,40
+Turkey,2020-12-21,cases,187873.0,41
+Turkey,2020-12-28,cases,122977.0,42
+Turkey,2021-01-04,cases,94334.0,43
+Turkey,2021-01-04,cases,84344.0,44
+Turkey,2021-01-11,cases,60845.0,45
+Turkey,2021-01-18,cases,42504.0,46
+Turkey,2021-01-25,cases,47858.0,47
+Turkey,2021-02-01,cases,53993.0,48
+Turkey,2021-02-08,cases,54727.0,49
+Turkey,2021-02-15,cases,52239.0,50
+Turkey,2021-02-22,cases,63166.0,51
+Ukraine,2020-03-16,cases,3.0,1
+Ukraine,2020-03-23,cases,44.0,2
+Ukraine,2020-03-30,cases,371.0,3
+Ukraine,2020-04-06,cases,890.0,4
+Ukraine,2020-04-13,cases,1469.0,5
+Ukraine,2020-04-20,cases,2672.0,6
+Ukraine,2020-04-27,cases,3168.0,7
+Ukraine,2020-05-04,cases,3296.0,8
+Ukraine,2020-05-11,cases,3319.0,9
+Ukraine,2020-05-18,cases,3059.0,10
+Ukraine,2020-05-25,cases,2695.0,11
+Ukraine,2020-06-01,cases,2686.0,12
+Ukraine,2020-06-08,cases,3327.0,13
+Ukraine,2020-06-15,cases,4155.0,14
+Ukraine,2020-06-22,cases,5406.0,15
+Ukraine,2020-06-29,cases,6422.0,16
+Ukraine,2020-07-06,cases,5518.0,17
+Ukraine,2020-07-13,cases,5021.0,18
+Ukraine,2020-07-20,cases,5321.0,19
+Ukraine,2020-07-27,cases,6007.0,20
+Ukraine,2020-08-03,cases,7319.0,21
+Ukraine,2020-08-10,cases,9789.0,22
+Ukraine,2020-08-17,cases,10863.0,23
+Ukraine,2020-08-24,cases,12138.0,24
+Ukraine,2020-08-31,cases,14116.0,25
+Ukraine,2020-09-07,cases,16820.0,26
+Ukraine,2020-09-14,cases,18441.0,27
+Ukraine,2020-09-21,cases,21343.0,28
+Ukraine,2020-09-28,cases,22956.0,29
+Ukraine,2020-10-05,cases,27828.0,30
+Ukraine,2020-10-12,cases,34572.0,31
+Ukraine,2020-10-19,cases,42604.0,32
+Ukraine,2020-10-26,cases,39851.0,33
+Ukraine,2020-11-02,cases,51951.0,34
+Ukraine,2020-11-09,cases,64891.0,35
+Ukraine,2020-11-16,cases,75526.0,36
+Ukraine,2020-11-23,cases,76808.0,37
+Ukraine,2020-11-30,cases,110014.0,38
+Ukraine,2020-12-07,cases,90627.0,39
+Ukraine,2020-12-14,cases,87360.0,40
+Ukraine,2020-12-21,cases,70327.0,41
+Ukraine,2020-12-28,cases,59381.0,42
+Ukraine,2021-01-04,cases,43719.0,43
+Ukraine,2021-01-04,cases,45221.0,44
+Ukraine,2021-01-11,cases,44402.0,45
+Ukraine,2021-01-18,cases,30612.0,46
+Ukraine,2021-01-25,cases,29551.0,47
+Ukraine,2021-02-01,cases,23111.0,48
+Ukraine,2021-02-08,cases,21059.0,49
+Ukraine,2021-02-15,cases,39613.0,50
+Ukraine,2021-02-22,cases,44472.0,51
+United Kingdom,2020-01-06,cases,0.0,1
+United Kingdom,2020-01-13,cases,1.0,2
+United Kingdom,2020-01-20,cases,0.0,3
+United Kingdom,2020-01-27,cases,0.0,4
+United Kingdom,2020-02-03,cases,3.0,5
+United Kingdom,2020-02-10,cases,5.0,6
+United Kingdom,2020-02-17,cases,3.0,7
+United Kingdom,2020-02-24,cases,3.0,8
+United Kingdom,2020-03-02,cases,61.0,9
+United Kingdom,2020-03-09,cases,411.0,10
+United Kingdom,2020-03-16,cases,2570.0,11
+United Kingdom,2020-03-23,cases,7208.0,12
+United Kingdom,2020-03-30,cases,19106.0,13
+United Kingdom,2020-04-06,cases,30759.0,14
+United Kingdom,2020-04-13,cases,32191.0,15
+United Kingdom,2020-04-20,cases,32504.0,16
+United Kingdom,2020-04-27,cases,32121.0,17
+United Kingdom,2020-05-04,cases,30883.0,18
+United Kingdom,2020-05-11,cases,22275.0,19
+United Kingdom,2020-05-18,cases,19432.0,20
+United Kingdom,2020-05-25,cases,15885.0,21
+United Kingdom,2020-06-01,cases,11021.0,22
+United Kingdom,2020-06-08,cases,8199.0,23
+United Kingdom,2020-06-15,cases,7237.0,24
+United Kingdom,2020-06-22,cases,6500.0,25
+United Kingdom,2020-06-29,cases,5052.0,26
+United Kingdom,2020-07-06,cases,4130.0,27
+United Kingdom,2020-07-13,cases,4152.0,28
+United Kingdom,2020-07-20,cases,4465.0,29
+United Kingdom,2020-07-27,cases,5106.0,30
+United Kingdom,2020-08-03,cases,5547.0,31
+United Kingdom,2020-08-10,cases,6632.0,32
+United Kingdom,2020-08-17,cases,7772.0,33
+United Kingdom,2020-08-24,cases,8080.0,34
+United Kingdom,2020-08-31,cases,9579.0,35
+United Kingdom,2020-09-07,cases,18140.0,36
+United Kingdom,2020-09-14,cases,22429.0,37
+United Kingdom,2020-09-21,cases,31247.0,38
+United Kingdom,2020-09-28,cases,47993.0,39
+United Kingdom,2020-10-05,cases,83899.0,40
+United Kingdom,2020-10-12,cases,111741.0,41
+United Kingdom,2020-10-19,cases,124430.0,42
+United Kingdom,2020-10-26,cases,154674.0,43
+United Kingdom,2020-11-02,cases,154214.0,44
+United Kingdom,2020-11-09,cases,168586.0,45
+United Kingdom,2020-11-16,cases,170717.0,46
+United Kingdom,2020-11-23,cases,131073.0,47
+United Kingdom,2020-11-30,cases,103749.0,48
+United Kingdom,2020-12-07,cases,109881.0,49
+United Kingdom,2020-12-14,cases,153676.0,50
+United Kingdom,2020-12-21,cases,234517.0,51
+United Kingdom,2020-12-28,cases,274033.0,52
+United Kingdom,2021-01-04,cases,406036.0,53
+United Kingdom,2021-01-04,cases,381858.0,54
+United Kingdom,2021-01-11,cases,301439.0,55
+United Kingdom,2021-01-18,cases,225116.0,56
+United Kingdom,2021-01-25,cases,164848.0,57
+United Kingdom,2021-02-01,cases,121888.0,58
+United Kingdom,2021-02-08,cases,88006.0,59
+United Kingdom,2021-02-15,cases,78479.0,60
+United Kingdom,2021-02-22,cases,54829.0,61
