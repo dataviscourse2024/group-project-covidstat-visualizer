@@ -3,14 +3,48 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>COVID-19 Case Reductions Comparison</title>
+  <title>Pandemic Waves: Case Reductions in Response to Interventions</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <h1>Comparing Case Reductions Between Pandemic Waves</h1>
 
+  <!-- Country Selector -->
+  <label for="country-selector">Select Country:</label>
+  <select id="country-selector"></select>
+
   <!-- Container for the bar chart -->
   <div id="chart-container"></div>
+
+  <!-- Story Box -->
+  <div id="story-box" style="margin-top: 20px; padding: 10px; font-size: 14px; color: #333; background-color: #f4f4f9; border: 1px solid #ccc; width: 80%; margin-left: auto; margin-right: auto; text-align: center;">
+    This bar chart highlights the effectiveness of government interventions, showing how well countries learned from the first wave and applied more effective measures in subsequent waves.
+  </div>
+
+
+  <!-- Annotation Box for Stringency Information -->
+  <div id="annotation-box" style="margin-top: 20px; padding: 15px; font-size: 13px; color: #333; background-color: #f9f9f9; border: 1px solid #ddd; width: 80%; margin-left: auto; margin-right: auto; line-height: 1.5;">
+    <strong>Stringency and Intervention Descriptions:</strong><br><br>
+    <em>High Stringency</em> (&gt; 50) might indicate strict lockdowns, school closures, and travel restrictions.<br>
+    <em>Medium Stringency</em> (30-50) might indicate partial lockdowns, mask mandates, and public gathering restrictions.<br>
+    <em>Low Stringency</em> (&lt; 30) might indicate minimal restrictions or voluntary guidelines.<br><br>
+    <strong>Intervention Descriptions Based on Stringency Levels:</strong><br>
+    <strong>High Stringency</strong>: "Strict lockdowns, school closures, and travel restrictions."<br>
+    <strong>Medium Stringency</strong>: "Partial lockdowns, mask mandates, and restrictions on public gatherings."<br>
+    <strong>Low Stringency</strong>: "Minimal restrictions, mostly voluntary guidelines."
+  </div>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="tooltip" style="opacity: 0;"></div>
+
+  <!-- Modal for Intervention Details -->
+  <div id="intervention-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>Intervention Details</h2>
+      <div id="intervention-details"></div>
+    </div>
+  </div>
 
   <!-- D3.js library -->
   <script src="https://d3js.org/d3.v6.min.js"></script>

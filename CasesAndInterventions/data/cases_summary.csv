@@ -1,0 +1,7064 @@
+country,year_week,weekly_count
+Albania,2020-03-09,2.0
+Albania,2020-03-16,40.0
+Albania,2020-03-23,47.0
+Albania,2020-03-30,123.0
+Albania,2020-04-06,149.0
+Albania,2020-04-13,85.0
+Albania,2020-04-20,116.0
+Albania,2020-04-27,164.0
+Albania,2020-05-04,69.0
+Albania,2020-05-11,73.0
+Albania,2020-05-18,78.0
+Albania,2020-05-25,52.0
+Albania,2020-06-01,139.0
+Albania,2020-06-08,109.0
+Albania,2020-06-15,275.0
+Albania,2020-06-22,406.0
+Albania,2020-06-29,475.0
+Albania,2020-07-06,491.0
+Albania,2020-07-13,561.0
+Albania,2020-07-20,636.0
+Albania,2020-07-27,673.0
+Albania,2020-08-03,756.0
+Albania,2020-08-10,892.0
+Albania,2020-08-17,969.0
+Albania,2020-08-24,1047.0
+Albania,2020-08-31,953.0
+Albania,2020-09-07,875.0
+Albania,2020-09-14,1098.0
+Albania,2020-09-21,1032.0
+Albania,2020-09-28,874.0
+Albania,2020-10-05,1007.0
+Albania,2020-10-12,1133.0
+Albania,2020-10-19,1656.0
+Albania,2020-10-26,2102.0
+Albania,2020-11-02,2045.0
+Albania,2020-11-09,3004.0
+Albania,2020-11-16,3624.0
+Albania,2020-11-23,4931.0
+Albania,2020-11-30,4864.0
+Albania,2020-12-07,5363.0
+Albania,2020-12-14,5542.0
+Albania,2020-12-21,4473.0
+Albania,2020-12-28,3569.0
+Albania,2021-01-04,7023.0
+Albania,2021-01-11,4095.0
+Albania,2021-01-18,4584.0
+Albania,2021-01-25,5853.0
+Albania,2021-02-01,7209.0
+Albania,2021-02-08,7739.0
+Albania,2021-02-15,7171.0
+Albania,2021-02-22,6921.0
+Albania,2021-03-01,5730.0
+Albania,2021-03-08,4577.0
+Albania,2021-03-15,3726.0
+Albania,2021-03-22,2934.0
+Albania,2021-03-29,2397.0
+Albania,2021-04-05,1862.0
+Albania,2021-04-12,1201.0
+Albania,2021-04-19,943.0
+Albania,2021-04-26,701.0
+Albania,2021-05-03,485.0
+Albania,2021-05-10,292.0
+Albania,2021-05-17,194.0
+Albania,2021-05-24,100.0
+Albania,2021-05-31,70.0
+Albania,2021-06-07,82.0
+Albania,2021-06-14,29.0
+Albania,2021-06-21,22.0
+Albania,2021-06-28,23.0
+Albania,2021-07-05,57.0
+Albania,2021-07-12,94.0
+Albania,2021-07-19,171.0
+Albania,2021-07-26,264.0
+Albania,2021-08-02,791.0
+Albania,2021-08-09,2035.0
+Albania,2021-08-16,3377.0
+Albania,2021-08-23,5523.0
+Albania,2021-08-30,6150.0
+Albania,2021-09-06,6029.0
+Albania,2021-09-13,5927.0
+Albania,2021-09-20,4940.0
+Albania,2021-09-27,3901.0
+Albania,2021-10-04,3174.0
+Albania,2021-10-11,3003.0
+Albania,2021-10-18,3725.0
+Albania,2021-10-25,3604.0
+Albania,2021-11-01,3825.0
+Albania,2021-11-08,3950.0
+Albania,2021-11-15,3318.0
+Albania,2021-11-22,3162.0
+Albania,2021-11-29,2175.0
+Albania,2021-12-06,2057.0
+Albania,2021-12-13,1990.0
+Albania,2021-12-27,0.0
+Albania,2022-01-03,8809.0
+Albania,2022-01-10,12943.0
+Albania,2022-01-17,15433.0
+Albania,2022-01-24,10473.0
+Albania,2022-01-31,6081.0
+Albania,2022-02-07,3384.0
+Albania,2022-02-14,2362.0
+Albania,2022-02-21,1157.0
+Albania,2022-02-28,683.0
+Albania,2022-03-07,453.0
+Albania,2022-03-14,425.0
+Albania,2022-03-21,344.0
+Albania,2022-03-28,438.0
+Albania,2022-04-04,349.0
+Albania,2022-04-11,285.0
+Albania,2022-04-18,324.0
+Albania,2022-04-25,339.0
+Albania,2022-05-02,199.0
+Albania,2022-05-09,249.0
+Albania,2022-05-16,249.0
+Albania,2022-05-23,237.0
+Albania,2022-05-30,300.0
+Albania,2022-06-06,330.0
+Andorra,2020-03-16,5.0
+Andorra,2020-03-23,108.0
+Andorra,2020-03-30,221.0
+Andorra,2020-04-06,167.0
+Andorra,2020-04-13,137.0
+Andorra,2020-04-20,75.0
+Andorra,2020-04-27,27.0
+Andorra,2020-05-04,8.0
+Andorra,2020-05-11,7.0
+Andorra,2020-05-18,6.0
+Andorra,2020-05-25,2.0
+Andorra,2020-06-01,1.0
+Andorra,2020-06-08,88.0
+Andorra,2020-06-15,1.0
+Andorra,2020-06-22,2.0
+Andorra,2020-06-29,0.0
+Andorra,2020-07-06,0.0
+Andorra,2020-07-13,0.0
+Andorra,2020-07-20,25.0
+Andorra,2020-07-27,17.0
+Andorra,2020-08-03,28.0
+Andorra,2020-08-10,31.0
+Andorra,2020-08-17,33.0
+Andorra,2020-08-24,56.0
+Andorra,2020-08-31,79.0
+Andorra,2020-09-07,91.0
+Andorra,2020-09-14,129.0
+Andorra,2020-09-21,220.0
+Andorra,2020-09-28,272.0
+Andorra,2020-10-05,274.0
+Andorra,2020-10-12,586.0
+Andorra,2020-10-19,681.0
+Andorra,2020-10-26,661.0
+Andorra,2020-11-02,787.0
+Andorra,2020-11-09,558.0
+Andorra,2020-11-16,489.0
+Andorra,2020-11-23,384.0
+Andorra,2020-11-30,456.0
+Andorra,2020-12-07,338.0
+Andorra,2020-12-14,288.0
+Andorra,2020-12-21,239.0
+Andorra,2020-12-28,10.0
+Andorra,2021-01-04,1095.0
+Andorra,2021-01-11,401.0
+Andorra,2021-01-18,466.0
+Andorra,2021-01-25,388.0
+Andorra,2021-02-01,314.0
+Andorra,2021-02-08,287.0
+Andorra,2021-02-15,161.0
+Andorra,2021-02-22,190.0
+Andorra,2021-03-01,180.0
+Andorra,2021-03-08,157.0
+Andorra,2021-03-15,319.0
+Andorra,2021-03-22,305.0
+Andorra,2021-03-29,381.0
+Andorra,2021-04-05,350.0
+Andorra,2021-04-12,224.0
+Andorra,2021-04-19,278.0
+Andorra,2021-04-26,212.0
+Andorra,2021-05-03,128.0
+Andorra,2021-05-10,87.0
+Andorra,2021-05-17,99.0
+Andorra,2021-05-24,118.0
+Andorra,2021-05-31,50.0
+Andorra,2021-06-07,36.0
+Andorra,2021-06-14,51.0
+Andorra,2021-06-21,18.0
+Andorra,2021-06-28,109.0
+Andorra,2021-07-05,164.0
+Andorra,2021-07-12,204.0
+Andorra,2021-07-19,218.0
+Andorra,2021-07-26,170.0
+Andorra,2021-08-02,129.0
+Andorra,2021-08-09,78.0
+Andorra,2021-08-16,48.0
+Andorra,2021-08-23,30.0
+Andorra,2021-08-30,37.0
+Andorra,2021-09-06,14.0
+Andorra,2021-09-13,57.0
+Andorra,2021-09-20,49.0
+Andorra,2021-09-27,78.0
+Andorra,2021-10-04,40.0
+Andorra,2021-10-11,60.0
+Andorra,2021-10-18,58.0
+Andorra,2021-10-25,91.0
+Andorra,2021-11-01,189.0
+Andorra,2021-11-08,202.0
+Andorra,2021-11-15,392.0
+Andorra,2021-11-22,816.0
+Andorra,2021-11-29,1516.0
+Andorra,2021-12-06,1336.0
+Andorra,2021-12-13,1095.0
+Andorra,2021-12-27,0.0
+Andorra,2022-01-03,3481.0
+Andorra,2022-01-10,1905.0
+Andorra,2022-01-17,3137.0
+Andorra,2022-01-24,2933.0
+Andorra,2022-01-31,850.0
+Andorra,2022-02-07,469.0
+Andorra,2022-02-14,312.0
+Andorra,2022-02-21,410.0
+Andorra,2022-02-28,621.0
+Andorra,2022-03-07,174.0
+Andorra,2022-03-14,440.0
+Andorra,2022-03-21,479.0
+Andorra,2022-03-28,311.0
+Andorra,2022-04-04,304.0
+Andorra,2022-04-11,381.0
+Andorra,2022-04-18,304.0
+Andorra,2022-04-25,336.0
+Andorra,2022-05-02,368.0
+Andorra,2022-05-09,439.0
+Andorra,2022-05-16,416.0
+Andorra,2022-05-23,322.0
+Andorra,2022-05-30,173.0
+Andorra,2022-06-06,157.0
+Armenia,2020-01-06,0.0
+Armenia,2020-01-13,0.0
+Armenia,2020-01-20,0.0
+Armenia,2020-01-27,0.0
+Armenia,2020-02-03,0.0
+Armenia,2020-02-10,0.0
+Armenia,2020-02-17,0.0
+Armenia,2020-02-24,0.0
+Armenia,2020-03-02,1.0
+Armenia,2020-03-09,0.0
+Armenia,2020-03-16,27.0
+Armenia,2020-03-23,166.0
+Armenia,2020-03-30,288.0
+Armenia,2020-04-06,351.0
+Armenia,2020-04-13,206.0
+Armenia,2020-04-20,300.0
+Armenia,2020-04-27,469.0
+Armenia,2020-05-04,699.0
+Armenia,2020-05-11,885.0
+Armenia,2020-05-18,1431.0
+Armenia,2020-05-25,2290.0
+Armenia,2020-06-01,2379.0
+Armenia,2020-06-08,3833.0
+Armenia,2020-06-15,3739.0
+Armenia,2020-06-22,3524.0
+Armenia,2020-06-29,4539.0
+Armenia,2020-07-06,3809.0
+Armenia,2020-07-13,3215.0
+Armenia,2020-07-20,2830.0
+Armenia,2020-07-27,2409.0
+Armenia,2020-08-03,1712.0
+Armenia,2020-08-10,1308.0
+Armenia,2020-08-17,1253.0
+Armenia,2020-08-24,1129.0
+Armenia,2020-08-31,958.0
+Armenia,2020-09-07,1033.0
+Armenia,2020-09-14,1079.0
+Armenia,2020-09-21,1569.0
+Armenia,2020-09-28,1969.0
+Armenia,2020-10-05,3096.0
+Armenia,2020-10-12,3955.0
+Armenia,2020-10-19,8243.0
+Armenia,2020-10-26,14116.0
+Armenia,2020-11-02,14638.0
+Armenia,2020-11-09,14018.0
+Armenia,2020-11-16,10420.0
+Armenia,2020-11-23,8823.0
+Armenia,2020-11-30,8415.0
+Armenia,2020-12-07,7220.0
+Armenia,2020-12-14,6338.0
+Armenia,2020-12-21,5383.0
+Armenia,2020-12-28,3883.0
+Armenia,2021-01-04,4340.0
+Armenia,2021-01-11,2388.0
+Armenia,2021-01-18,1418.0
+Armenia,2021-01-25,994.0
+Armenia,2021-02-01,1089.0
+Armenia,2021-02-08,1078.0
+Armenia,2021-02-15,1147.0
+Armenia,2021-02-22,1814.0
+Armenia,2021-03-01,2800.0
+Armenia,2021-03-08,3686.0
+Armenia,2021-03-15,5517.0
+Armenia,2021-03-22,6522.0
+Armenia,2021-03-29,6372.0
+Armenia,2021-04-05,6214.0
+Armenia,2021-04-12,5491.0
+Armenia,2021-04-19,4651.0
+Armenia,2021-04-26,3539.0
+Armenia,2021-05-03,2345.0
+Armenia,2021-05-10,1574.0
+Armenia,2021-05-17,1055.0
+Armenia,2021-05-24,688.0
+Armenia,2021-05-31,542.0
+Armenia,2021-06-07,511.0
+Armenia,2021-06-14,530.0
+Armenia,2021-06-21,598.0
+Armenia,2021-06-28,755.0
+Armenia,2021-07-05,853.0
+Armenia,2021-07-12,1063.0
+Armenia,2021-07-19,1388.0
+Armenia,2021-07-26,1566.0
+Armenia,2021-08-02,1821.0
+Armenia,2021-08-09,2517.0
+Armenia,2021-08-16,3071.0
+Armenia,2021-08-23,3726.0
+Armenia,2021-08-30,3653.0
+Armenia,2021-09-06,3882.0
+Armenia,2021-09-13,4796.0
+Armenia,2021-09-20,4603.0
+Armenia,2021-09-27,6772.0
+Armenia,2021-10-04,7640.0
+Armenia,2021-10-11,10226.0
+Armenia,2021-10-18,13369.0
+Armenia,2021-10-25,12845.0
+Armenia,2021-11-01,11846.0
+Armenia,2021-11-08,8098.0
+Armenia,2021-11-15,5006.0
+Armenia,2021-11-22,3773.0
+Armenia,2021-11-29,2698.0
+Armenia,2021-12-06,1786.0
+Armenia,2021-12-13,1104.0
+Armenia,2021-12-27,0.0
+Armenia,2022-01-03,945.0
+Armenia,2022-01-10,1804.0
+Armenia,2022-01-17,4614.0
+Armenia,2022-01-24,15396.0
+Armenia,2022-01-31,23793.0
+Armenia,2022-02-07,15486.0
+Armenia,2022-02-14,8683.0
+Armenia,2022-02-21,4075.0
+Armenia,2022-02-28,1569.0
+Armenia,2022-03-07,620.0
+Armenia,2022-03-14,307.0
+Armenia,2022-03-21,140.0
+Armenia,2022-03-28,113.0
+Armenia,2022-04-04,96.0
+Armenia,2022-04-11,93.0
+Armenia,2022-04-18,55.0
+Armenia,2022-04-25,49.0
+Armenia,2022-05-02,22.0
+Armenia,2022-05-09,21.0
+Armenia,2022-05-16,22.0
+Armenia,2022-05-23,24.0
+Armenia,2022-05-30,43.0
+Armenia,2022-06-06,0.0
+Austria,2020-01-06,0.0
+Austria,2020-01-13,0.0
+Austria,2020-01-20,0.0
+Austria,2020-01-27,0.0
+Austria,2020-02-03,0.0
+Austria,2020-02-10,0.0
+Austria,2020-02-17,0.0
+Austria,2020-02-24,0.0
+Austria,2020-03-02,12.0
+Austria,2020-03-09,114.0
+Austria,2020-03-16,874.0
+Austria,2020-03-23,3068.0
+Austria,2020-03-30,5128.0
+Austria,2020-04-06,3116.0
+Austria,2020-04-13,1838.0
+Austria,2020-04-20,684.0
+Austria,2020-04-27,448.0
+Austria,2020-05-04,312.0
+Austria,2020-05-11,264.0
+Austria,2020-05-18,335.0
+Austria,2020-05-25,265.0
+Austria,2020-06-01,195.0
+Austria,2020-06-08,227.0
+Austria,2020-06-15,172.0
+Austria,2020-06-22,248.0
+Austria,2020-06-29,335.0
+Austria,2020-07-06,640.0
+Austria,2020-07-13,596.0
+Austria,2020-07-20,784.0
+Austria,2020-07-27,872.0
+Austria,2020-08-03,794.0
+Austria,2020-08-10,722.0
+Austria,2020-08-17,1462.0
+Austria,2020-08-24,1907.0
+Austria,2020-08-31,1941.0
+Austria,2020-09-07,2268.0
+Austria,2020-09-14,3997.0
+Austria,2020-09-21,5211.0
+Austria,2020-09-28,4656.0
+Austria,2020-10-05,5597.0
+Austria,2020-10-12,7486.0
+Austria,2020-10-19,9903.0
+Austria,2020-10-26,18273.0
+Austria,2020-11-02,31613.0
+Austria,2020-11-09,44758.0
+Austria,2020-11-16,47880.0
+Austria,2020-11-23,40742.0
+Austria,2020-11-30,31162.0
+Austria,2020-12-07,23078.0
+Austria,2020-12-14,18701.0
+Austria,2020-12-21,14864.0
+Austria,2020-12-28,13340.0
+Austria,2021-01-04,29527.0
+Austria,2021-01-11,10946.0
+Austria,2021-01-18,10165.0
+Austria,2021-01-25,9513.0
+Austria,2021-02-01,9119.0
+Austria,2021-02-08,9457.0
+Austria,2021-02-15,11635.0
+Austria,2021-02-22,14195.0
+Austria,2021-03-01,16324.0
+Austria,2021-03-08,18225.0
+Austria,2021-03-15,21094.0
+Austria,2021-03-22,22326.0
+Austria,2021-03-29,20788.0
+Austria,2021-04-05,17616.0
+Austria,2021-04-12,16822.0
+Austria,2021-04-19,15048.0
+Austria,2021-04-26,12537.0
+Austria,2021-05-03,9021.0
+Austria,2021-05-10,5736.0
+Austria,2021-05-17,4156.0
+Austria,2021-05-24,3160.0
+Austria,2021-05-31,2424.0
+Austria,2021-06-07,1685.0
+Austria,2021-06-14,1002.0
+Austria,2021-06-21,679.0
+Austria,2021-06-28,633.0
+Austria,2021-07-05,1093.0
+Austria,2021-07-12,2193.0
+Austria,2021-07-19,2533.0
+Austria,2021-07-26,3251.0
+Austria,2021-08-02,3667.0
+Austria,2021-08-09,5901.0
+Austria,2021-08-16,8065.0
+Austria,2021-08-23,9436.0
+Austria,2021-08-30,11306.0
+Austria,2021-09-06,14060.0
+Austria,2021-09-13,13748.0
+Austria,2021-09-20,11763.0
+Austria,2021-09-27,12594.0
+Austria,2021-10-04,12784.0
+Austria,2021-10-11,15360.0
+Austria,2021-10-18,23855.0
+Austria,2021-10-25,34574.0
+Austria,2021-11-01,56501.0
+Austria,2021-11-08,78822.0
+Austria,2021-11-15,97281.0
+Austria,2021-11-22,82683.0
+Austria,2021-11-29,50887.0
+Austria,2021-12-06,29305.0
+Austria,2021-12-13,18860.0
+Austria,2021-12-20,14638.0
+Austria,2021-12-27,23126.0
+Austria,2022-01-03,62443.0
+Austria,2022-01-10,111045.0
+Austria,2022-01-17,176107.0
+Austria,2022-01-24,226989.0
+Austria,2022-01-31,231394.0
+Austria,2022-02-07,216500.0
+Austria,2022-02-14,195946.0
+Austria,2022-02-21,185634.0
+Austria,2022-02-28,217174.0
+Austria,2022-03-07,299437.0
+Austria,2022-03-14,316254.0
+Austria,2022-03-21,248260.0
+Austria,2022-03-28,151717.0
+Austria,2022-04-04,96598.0
+Austria,2022-04-11,63327.0
+Austria,2022-04-18,49036.0
+Austria,2022-04-25,40355.0
+Austria,2022-05-02,36981.0
+Austria,2022-05-09,29780.0
+Austria,2022-05-16,20282.0
+Austria,2022-05-23,15297.0
+Austria,2022-05-30,19522.0
+Austria,2022-06-06,25547.0
+Azerbaijan,2020-01-06,0.0
+Azerbaijan,2020-01-13,0.0
+Azerbaijan,2020-01-20,0.0
+Azerbaijan,2020-01-27,0.0
+Azerbaijan,2020-02-03,0.0
+Azerbaijan,2020-02-10,0.0
+Azerbaijan,2020-02-17,0.0
+Azerbaijan,2020-02-24,0.0
+Azerbaijan,2020-03-02,3.0
+Azerbaijan,2020-03-09,6.0
+Azerbaijan,2020-03-16,10.0
+Azerbaijan,2020-03-23,46.0
+Azerbaijan,2020-03-30,144.0
+Azerbaijan,2020-04-06,375.0
+Azerbaijan,2020-04-13,514.0
+Azerbaijan,2020-04-20,300.0
+Azerbaijan,2020-04-27,247.0
+Azerbaijan,2020-05-04,287.0
+Azerbaijan,2020-05-11,587.0
+Azerbaijan,2020-05-18,755.0
+Azerbaijan,2020-05-25,848.0
+Azerbaijan,2020-06-01,1372.0
+Azerbaijan,2020-06-08,2059.0
+Azerbaijan,2020-06-15,2404.0
+Azerbaijan,2020-06-22,2772.0
+Azerbaijan,2020-06-29,3695.0
+Azerbaijan,2020-07-06,3900.0
+Azerbaijan,2020-07-13,3717.0
+Azerbaijan,2020-07-20,3480.0
+Azerbaijan,2020-07-27,2529.0
+Azerbaijan,2020-08-03,2393.0
+Azerbaijan,2020-08-10,1125.0
+Azerbaijan,2020-08-17,651.0
+Azerbaijan,2020-08-24,1055.0
+Azerbaijan,2020-08-31,1035.0
+Azerbaijan,2020-09-07,1020.0
+Azerbaijan,2020-09-14,998.0
+Azerbaijan,2020-09-21,861.0
+Azerbaijan,2020-09-28,835.0
+Azerbaijan,2020-10-05,668.0
+Azerbaijan,2020-10-12,1291.0
+Azerbaijan,2020-10-19,2982.0
+Azerbaijan,2020-10-26,4995.0
+Azerbaijan,2020-11-02,6485.0
+Azerbaijan,2020-11-09,8967.0
+Azerbaijan,2020-11-16,10277.0
+Azerbaijan,2020-11-23,17406.0
+Azerbaijan,2020-11-30,25101.0
+Azerbaijan,2020-12-07,28484.0
+Azerbaijan,2020-12-14,29195.0
+Azerbaijan,2020-12-21,26214.0
+Azerbaijan,2020-12-28,13395.0
+Azerbaijan,2021-01-04,9344.0
+Azerbaijan,2021-01-11,2564.0
+Azerbaijan,2021-01-18,1641.0
+Azerbaijan,2021-01-25,1187.0
+Azerbaijan,2021-02-01,935.0
+Azerbaijan,2021-02-08,1043.0
+Azerbaijan,2021-02-15,1004.0
+Azerbaijan,2021-02-22,1461.0
+Azerbaijan,2021-03-01,2301.0
+Azerbaijan,2021-03-08,3332.0
+Azerbaijan,2021-03-15,6679.0
+Azerbaijan,2021-03-22,10356.0
+Azerbaijan,2021-03-29,14504.0
+Azerbaijan,2021-04-05,15310.0
+Azerbaijan,2021-04-12,14517.0
+Azerbaijan,2021-04-19,12151.0
+Azerbaijan,2021-04-26,7986.0
+Azerbaijan,2021-05-03,5289.0
+Azerbaijan,2021-05-10,3182.0
+Azerbaijan,2021-05-17,2185.0
+Azerbaijan,2021-05-24,1410.0
+Azerbaijan,2021-05-31,851.0
+Azerbaijan,2021-06-07,456.0
+Azerbaijan,2021-06-14,322.0
+Azerbaijan,2021-06-21,343.0
+Azerbaijan,2021-06-28,581.0
+Azerbaijan,2021-07-05,837.0
+Azerbaijan,2021-07-12,1332.0
+Azerbaijan,2021-07-19,1857.0
+Azerbaijan,2021-07-26,4077.0
+Azerbaijan,2021-08-02,7305.0
+Azerbaijan,2021-08-09,16177.0
+Azerbaijan,2021-08-16,23504.0
+Azerbaijan,2021-08-23,26490.0
+Azerbaijan,2021-08-30,24876.0
+Azerbaijan,2021-09-06,17220.0
+Azerbaijan,2021-09-13,12627.0
+Azerbaijan,2021-09-20,8124.0
+Azerbaijan,2021-09-27,5535.0
+Azerbaijan,2021-10-04,5801.0
+Azerbaijan,2021-10-11,10028.0
+Azerbaijan,2021-10-18,14118.0
+Azerbaijan,2021-10-25,15045.0
+Azerbaijan,2021-11-01,15911.0
+Azerbaijan,2021-11-08,13572.0
+Azerbaijan,2021-11-15,13121.0
+Azerbaijan,2021-11-22,11809.0
+Azerbaijan,2021-11-29,10605.0
+Azerbaijan,2021-12-06,8092.0
+Azerbaijan,2021-12-13,5838.0
+Azerbaijan,2021-12-27,0.0
+Azerbaijan,2022-01-03,3884.0
+Azerbaijan,2022-01-10,4163.0
+Azerbaijan,2022-01-17,8005.0
+Azerbaijan,2022-01-24,22553.0
+Azerbaijan,2022-01-31,42370.0
+Azerbaijan,2022-02-07,46515.0
+Azerbaijan,2022-02-14,29225.0
+Azerbaijan,2022-02-21,10907.0
+Azerbaijan,2022-02-28,4031.0
+Azerbaijan,2022-03-07,1435.0
+Azerbaijan,2022-03-14,715.0
+Azerbaijan,2022-03-21,268.0
+Azerbaijan,2022-03-28,311.0
+Azerbaijan,2022-04-04,176.0
+Azerbaijan,2022-04-11,125.0
+Azerbaijan,2022-04-18,134.0
+Azerbaijan,2022-04-25,83.0
+Azerbaijan,2022-05-02,51.0
+Azerbaijan,2022-05-09,43.0
+Azerbaijan,2022-05-16,39.0
+Azerbaijan,2022-05-23,46.0
+Azerbaijan,2022-05-30,27.0
+Azerbaijan,2022-06-06,85.0
+Belarus,2020-01-06,0.0
+Belarus,2020-01-13,0.0
+Belarus,2020-01-20,0.0
+Belarus,2020-01-27,0.0
+Belarus,2020-02-03,0.0
+Belarus,2020-02-10,0.0
+Belarus,2020-02-17,0.0
+Belarus,2020-02-24,0.0
+Belarus,2020-03-02,1.0
+Belarus,2020-03-09,5.0
+Belarus,2020-03-16,21.0
+Belarus,2020-03-23,49.0
+Belarus,2020-03-30,18.0
+Belarus,2020-04-06,470.0
+Belarus,2020-04-13,2014.0
+Belarus,2020-04-20,3229.0
+Belarus,2020-04-27,4656.0
+Belarus,2020-05-04,6242.0
+Belarus,2020-05-11,6268.0
+Belarus,2020-05-18,6677.0
+Belarus,2020-05-25,6548.0
+Belarus,2020-06-01,6358.0
+Belarus,2020-06-08,6074.0
+Belarus,2020-06-15,5343.0
+Belarus,2020-06-22,4532.0
+Belarus,2020-06-29,2970.0
+Belarus,2020-07-06,2079.0
+Belarus,2020-07-13,1378.0
+Belarus,2020-07-20,1163.0
+Belarus,2020-07-27,1037.0
+Belarus,2020-08-03,935.0
+Belarus,2020-08-10,783.0
+Belarus,2020-08-17,666.0
+Belarus,2020-08-24,952.0
+Belarus,2020-08-31,1219.0
+Belarus,2020-09-07,1172.0
+Belarus,2020-09-14,1314.0
+Belarus,2020-09-21,1501.0
+Belarus,2020-09-28,1935.0
+Belarus,2020-10-05,2686.0
+Belarus,2020-10-12,3239.0
+Belarus,2020-10-19,4164.0
+Belarus,2020-10-26,5125.0
+Belarus,2020-11-02,6636.0
+Belarus,2020-11-09,6820.0
+Belarus,2020-11-16,7906.0
+Belarus,2020-11-23,9814.0
+Belarus,2020-11-30,11009.0
+Belarus,2020-12-07,12149.0
+Belarus,2020-12-14,13138.0
+Belarus,2020-12-21,13228.0
+Belarus,2020-12-28,15065.0
+Belarus,2021-01-04,25405.0
+Belarus,2021-01-11,13367.0
+Belarus,2021-01-18,10251.0
+Belarus,2021-01-25,10725.0
+Belarus,2021-02-01,10163.0
+Belarus,2021-02-08,10188.0
+Belarus,2021-02-15,10769.0
+Belarus,2021-02-22,8811.0
+Belarus,2021-03-01,8174.0
+Belarus,2021-03-08,5882.0
+Belarus,2021-03-15,8122.0
+Belarus,2021-03-22,8236.0
+Belarus,2021-03-29,8623.0
+Belarus,2021-04-05,9577.0
+Belarus,2021-04-12,7342.0
+Belarus,2021-04-19,9623.0
+Belarus,2021-04-26,8051.0
+Belarus,2021-05-03,6991.0
+Belarus,2021-05-10,8644.0
+Belarus,2021-05-17,8493.0
+Belarus,2021-05-24,8414.0
+Belarus,2021-05-31,5983.0
+Belarus,2021-06-07,5241.0
+Belarus,2021-06-14,5490.0
+Belarus,2021-06-21,4627.0
+Belarus,2021-06-28,5570.0
+Belarus,2021-07-05,7245.0
+Belarus,2021-07-12,6425.0
+Belarus,2021-07-19,6336.0
+Belarus,2021-07-26,6398.0
+Belarus,2021-08-02,6920.0
+Belarus,2021-08-09,7523.0
+Belarus,2021-08-16,8438.0
+Belarus,2021-08-23,9729.0
+Belarus,2021-08-30,12035.0
+Belarus,2021-09-06,10674.0
+Belarus,2021-09-13,15296.0
+Belarus,2021-09-20,13780.0
+Belarus,2021-09-27,11827.0
+Belarus,2021-10-04,15739.0
+Belarus,2021-10-11,14228.0
+Belarus,2021-10-18,14288.0
+Belarus,2021-10-25,13827.0
+Belarus,2021-11-01,13756.0
+Belarus,2021-11-08,13457.0
+Belarus,2021-11-15,12648.0
+Belarus,2021-11-22,11404.0
+Belarus,2021-11-29,11802.0
+Belarus,2021-12-06,10609.0
+Belarus,2021-12-13,9728.0
+Belarus,2021-12-27,0.0
+Belarus,2022-01-03,7232.0
+Belarus,2022-01-10,8103.0
+Belarus,2022-01-17,11770.0
+Belarus,2022-01-24,14149.0
+Belarus,2022-01-31,34438.0
+Belarus,2022-02-07,61180.0
+Belarus,2022-02-14,49011.0
+Belarus,2022-02-21,32154.0
+Belarus,2022-02-28,12471.0
+Belarus,2022-03-07,5547.0
+Belarus,2022-03-14,14004.0
+Belarus,2022-03-21,7518.0
+Belarus,2022-03-28,6378.0
+Belarus,2022-04-04,4789.0
+Belarus,2022-04-11,4035.0
+Belarus,2022-04-18,3484.0
+Belarus,2022-04-25,2906.0
+Belarus,2022-05-02,1941.0
+Belarus,2022-05-09,58.0
+Belarus,2022-05-16,0.0
+Belarus,2022-05-23,0.0
+Belarus,2022-05-30,0.0
+Belarus,2022-06-06,0.0
+Belgium,2020-01-06,0.0
+Belgium,2020-01-13,0.0
+Belgium,2020-01-20,0.0
+Belgium,2020-01-27,0.0
+Belgium,2020-02-03,2.0
+Belgium,2020-02-10,1.0
+Belgium,2020-02-17,0.0
+Belgium,2020-02-24,0.0
+Belgium,2020-03-02,0.0
+Belgium,2020-03-09,0.0
+Belgium,2020-03-16,3678.0
+Belgium,2020-03-23,3673.0
+Belgium,2020-03-30,8130.0
+Belgium,2020-04-06,9694.0
+Belgium,2020-04-13,11175.0
+Belgium,2020-04-20,7963.0
+Belgium,2020-04-27,5703.0
+Belgium,2020-05-04,3095.0
+Belgium,2020-05-11,3051.0
+Belgium,2020-05-18,2071.0
+Belgium,2020-05-25,1510.0
+Belgium,2020-06-01,1144.0
+Belgium,2020-06-08,847.0
+Belgium,2020-06-15,671.0
+Belgium,2020-06-22,668.0
+Belgium,2020-06-29,607.0
+Belgium,2020-07-06,637.0
+Belgium,2020-07-13,704.0
+Belgium,2020-07-20,1385.0
+Belgium,2020-07-27,2489.0
+Belgium,2020-08-03,3759.0
+Belgium,2020-08-10,4340.0
+Belgium,2020-08-17,3751.0
+Belgium,2020-08-24,3453.0
+Belgium,2020-08-31,3121.0
+Belgium,2020-09-07,3655.0
+Belgium,2020-09-14,6158.0
+Belgium,2020-09-21,10108.0
+Belgium,2020-09-28,11274.0
+Belgium,2020-10-05,18895.0
+Belgium,2020-10-12,38852.0
+Belgium,2020-10-19,72232.0
+Belgium,2020-10-26,105383.0
+Belgium,2020-11-02,99584.0
+Belgium,2020-11-09,54006.0
+Belgium,2020-11-16,33967.0
+Belgium,2020-11-23,22312.0
+Belgium,2020-11-30,16261.0
+Belgium,2020-12-07,15289.0
+Belgium,2020-12-14,16840.0
+Belgium,2020-12-21,17714.0
+Belgium,2020-12-28,12607.0
+Belgium,2021-01-04,22668.0
+Belgium,2021-01-11,13093.0
+Belgium,2021-01-18,14641.0
+Belgium,2021-01-25,16375.0
+Belgium,2021-02-01,14892.0
+Belgium,2021-02-08,12527.0
+Belgium,2021-02-15,15361.0
+Belgium,2021-02-22,16648.0
+Belgium,2021-03-01,16429.0
+Belgium,2021-03-08,21255.0
+Belgium,2021-03-15,29329.0
+Belgium,2021-03-22,33998.0
+Belgium,2021-03-29,29873.0
+Belgium,2021-04-05,24193.0
+Belgium,2021-04-12,24371.0
+Belgium,2021-04-19,24423.0
+Belgium,2021-04-26,20783.0
+Belgium,2021-05-03,20975.0
+Belgium,2021-05-10,14649.0
+Belgium,2021-05-17,16999.0
+Belgium,2021-05-24,12179.0
+Belgium,2021-05-31,9065.0
+Belgium,2021-06-07,5261.0
+Belgium,2021-06-14,3006.0
+Belgium,2021-06-21,2416.0
+Belgium,2021-06-28,4070.0
+Belgium,2021-07-05,7513.0
+Belgium,2021-07-12,9541.0
+Belgium,2021-07-19,10388.0
+Belgium,2021-07-26,11283.0
+Belgium,2021-08-02,12242.0
+Belgium,2021-08-09,13352.0
+Belgium,2021-08-16,13831.0
+Belgium,2021-08-23,14116.0
+Belgium,2021-08-30,13761.0
+Belgium,2021-09-06,13760.0
+Belgium,2021-09-13,14475.0
+Belgium,2021-09-20,13647.0
+Belgium,2021-09-27,13316.0
+Belgium,2021-10-04,14922.0
+Belgium,2021-10-11,22871.0
+Belgium,2021-10-18,40000.0
+Belgium,2021-10-25,54823.0
+Belgium,2021-11-01,57829.0
+Belgium,2021-11-08,73690.0
+Belgium,2021-11-15,113029.0
+Belgium,2021-11-22,125774.0
+Belgium,2021-11-29,117316.0
+Belgium,2021-12-06,88873.0
+Belgium,2021-12-13,57114.0
+Belgium,2021-12-20,45149.0
+Belgium,2021-12-27,77857.0
+Belgium,2022-01-03,155821.0
+Belgium,2022-01-10,198811.0
+Belgium,2022-01-17,351691.0
+Belgium,2022-01-24,318844.0
+Belgium,2022-01-31,185898.0
+Belgium,2022-02-07,101736.0
+Belgium,2022-02-14,63177.0
+Belgium,2022-02-21,44833.0
+Belgium,2022-02-28,44608.0
+Belgium,2022-03-07,57254.0
+Belgium,2022-03-14,71946.0
+Belgium,2022-03-21,78603.0
+Belgium,2022-03-28,71588.0
+Belgium,2022-04-04,62832.0
+Belgium,2022-04-11,52569.0
+Belgium,2022-04-18,40209.0
+Belgium,2022-04-25,32661.0
+Belgium,2022-05-02,30753.0
+Belgium,2022-05-09,24785.0
+Belgium,2022-05-16,16112.0
+Belgium,2022-05-23,9126.0
+Belgium,2022-05-30,11372.0
+Belgium,2022-06-06,13147.0
+Bosnia And Herzegovina,2020-03-16,18.0
+Bosnia And Herzegovina,2020-03-23,113.0
+Bosnia And Herzegovina,2020-03-30,221.0
+Bosnia And Herzegovina,2020-04-06,296.0
+Bosnia And Herzegovina,2020-04-13,352.0
+Bosnia And Herzegovina,2020-04-20,285.0
+Bosnia And Herzegovina,2020-04-27,231.0
+Bosnia And Herzegovina,2020-05-04,341.0
+Bosnia And Herzegovina,2020-05-11,260.0
+Bosnia And Herzegovina,2020-05-18,173.0
+Bosnia And Herzegovina,2020-05-25,111.0
+Bosnia And Herzegovina,2020-06-01,109.0
+Bosnia And Herzegovina,2020-06-08,164.0
+Bosnia And Herzegovina,2020-06-15,328.0
+Bosnia And Herzegovina,2020-06-22,430.0
+Bosnia And Herzegovina,2020-06-29,774.0
+Bosnia And Herzegovina,2020-07-06,1188.0
+Bosnia And Herzegovina,2020-07-13,1490.0
+Bosnia And Herzegovina,2020-07-20,1568.0
+Bosnia And Herzegovina,2020-07-27,1863.0
+Bosnia And Herzegovina,2020-08-03,1857.0
+Bosnia And Herzegovina,2020-08-10,2153.0
+Bosnia And Herzegovina,2020-08-17,1684.0
+Bosnia And Herzegovina,2020-08-24,1893.0
+Bosnia And Herzegovina,2020-08-31,1891.0
+Bosnia And Herzegovina,2020-09-07,1767.0
+Bosnia And Herzegovina,2020-09-14,1907.0
+Bosnia And Herzegovina,2020-09-21,1962.0
+Bosnia And Herzegovina,2020-09-28,1492.0
+Bosnia And Herzegovina,2020-10-05,1384.0
+Bosnia And Herzegovina,2020-10-12,2342.0
+Bosnia And Herzegovina,2020-10-19,3469.0
+Bosnia And Herzegovina,2020-10-26,6777.0
+Bosnia And Herzegovina,2020-11-02,10612.0
+Bosnia And Herzegovina,2020-11-09,10918.0
+Bosnia And Herzegovina,2020-11-16,9533.0
+Bosnia And Herzegovina,2020-11-23,8050.0
+Bosnia And Herzegovina,2020-11-30,7268.0
+Bosnia And Herzegovina,2020-12-07,7233.0
+Bosnia And Herzegovina,2020-12-14,6610.0
+Bosnia And Herzegovina,2020-12-21,4889.0
+Bosnia And Herzegovina,2020-12-28,3685.0
+Bosnia And Herzegovina,2021-01-04,5942.0
+Bosnia And Herzegovina,2021-01-11,2340.0
+Bosnia And Herzegovina,2021-01-18,2070.0
+Bosnia And Herzegovina,2021-01-25,2043.0
+Bosnia And Herzegovina,2021-02-01,1858.0
+Bosnia And Herzegovina,2021-02-08,2079.0
+Bosnia And Herzegovina,2021-02-15,2295.0
+Bosnia And Herzegovina,2021-02-22,3820.0
+Bosnia And Herzegovina,2021-03-01,4760.0
+Bosnia And Herzegovina,2021-03-08,7351.0
+Bosnia And Herzegovina,2021-03-15,9560.0
+Bosnia And Herzegovina,2021-03-22,11122.0
+Bosnia And Herzegovina,2021-03-29,10846.0
+Bosnia And Herzegovina,2021-04-05,8477.0
+Bosnia And Herzegovina,2021-04-12,6513.0
+Bosnia And Herzegovina,2021-04-19,5024.0
+Bosnia And Herzegovina,2021-04-26,3148.0
+Bosnia And Herzegovina,2021-05-03,2177.0
+Bosnia And Herzegovina,2021-05-10,1303.0
+Bosnia And Herzegovina,2021-05-17,917.0
+Bosnia And Herzegovina,2021-05-24,642.0
+Bosnia And Herzegovina,2021-05-31,408.0
+Bosnia And Herzegovina,2021-06-07,276.0
+Bosnia And Herzegovina,2021-06-14,189.0
+Bosnia And Herzegovina,2021-06-21,133.0
+Bosnia And Herzegovina,2021-06-28,80.0
+Bosnia And Herzegovina,2021-07-05,106.0
+Bosnia And Herzegovina,2021-07-12,108.0
+Bosnia And Herzegovina,2021-07-19,204.0
+Bosnia And Herzegovina,2021-07-26,303.0
+Bosnia And Herzegovina,2021-08-02,532.0
+Bosnia And Herzegovina,2021-08-09,1254.0
+Bosnia And Herzegovina,2021-08-16,2338.0
+Bosnia And Herzegovina,2021-08-23,3470.0
+Bosnia And Herzegovina,2021-08-30,3983.0
+Bosnia And Herzegovina,2021-09-06,3274.0
+Bosnia And Herzegovina,2021-09-13,6943.0
+Bosnia And Herzegovina,2021-09-20,4658.0
+Bosnia And Herzegovina,2021-09-27,4780.0
+Bosnia And Herzegovina,2021-10-04,4210.0
+Bosnia And Herzegovina,2021-10-11,3855.0
+Bosnia And Herzegovina,2021-10-18,4267.0
+Bosnia And Herzegovina,2021-10-25,4999.0
+Bosnia And Herzegovina,2021-11-01,5565.0
+Bosnia And Herzegovina,2021-11-08,5236.0
+Bosnia And Herzegovina,2021-11-15,4755.0
+Bosnia And Herzegovina,2021-11-22,4315.0
+Bosnia And Herzegovina,2021-11-29,4292.0
+Bosnia And Herzegovina,2021-12-06,3392.0
+Bosnia And Herzegovina,2021-12-13,3230.0
+Bosnia And Herzegovina,2021-12-27,0.0
+Bosnia And Herzegovina,2022-01-03,8161.0
+Bosnia And Herzegovina,2022-01-10,14469.0
+Bosnia And Herzegovina,2022-01-17,19198.0
+Bosnia And Herzegovina,2022-01-24,13326.0
+Bosnia And Herzegovina,2022-01-31,9463.0
+Bosnia And Herzegovina,2022-02-07,7680.0
+Bosnia And Herzegovina,2022-02-14,4125.0
+Bosnia And Herzegovina,2022-02-21,2467.0
+Bosnia And Herzegovina,2022-02-28,1276.0
+Bosnia And Herzegovina,2022-03-07,881.0
+Bosnia And Herzegovina,2022-03-14,917.0
+Bosnia And Herzegovina,2022-03-21,778.0
+Bosnia And Herzegovina,2022-03-28,681.0
+Bosnia And Herzegovina,2022-04-04,463.0
+Bosnia And Herzegovina,2022-04-11,239.0
+Bosnia And Herzegovina,2022-04-18,404.0
+Bosnia And Herzegovina,2022-04-25,246.0
+Bosnia And Herzegovina,2022-05-02,268.0
+Bosnia And Herzegovina,2022-05-09,224.0
+Bosnia And Herzegovina,2022-05-16,166.0
+Bosnia And Herzegovina,2022-05-23,143.0
+Bosnia And Herzegovina,2022-05-30,110.0
+Bosnia And Herzegovina,2022-06-06,114.0
+Bulgaria,2020-01-06,0.0
+Bulgaria,2020-01-13,0.0
+Bulgaria,2020-01-20,0.0
+Bulgaria,2020-01-27,0.0
+Bulgaria,2020-02-03,0.0
+Bulgaria,2020-02-10,0.0
+Bulgaria,2020-02-17,0.0
+Bulgaria,2020-02-24,0.0
+Bulgaria,2020-03-02,0.0
+Bulgaria,2020-03-09,4.0
+Bulgaria,2020-03-16,47.0
+Bulgaria,2020-03-23,134.0
+Bulgaria,2020-03-30,161.0
+Bulgaria,2020-04-06,185.0
+Bulgaria,2020-04-13,144.0
+Bulgaria,2020-04-20,219.0
+Bulgaria,2020-04-27,406.0
+Bulgaria,2020-05-04,318.0
+Bulgaria,2020-05-11,347.0
+Bulgaria,2020-05-18,246.0
+Bulgaria,2020-05-25,216.0
+Bulgaria,2020-06-01,86.0
+Bulgaria,2020-06-08,198.0
+Bulgaria,2020-06-15,555.0
+Bulgaria,2020-06-22,606.0
+Bulgaria,2020-06-29,753.0
+Bulgaria,2020-07-06,1052.0
+Bulgaria,2020-07-13,1498.0
+Bulgaria,2020-07-20,1463.0
+Bulgaria,2020-07-27,1674.0
+Bulgaria,2020-08-03,1524.0
+Bulgaria,2020-08-10,1507.0
+Bulgaria,2020-08-17,990.0
+Bulgaria,2020-08-24,894.0
+Bulgaria,2020-08-31,937.0
+Bulgaria,2020-09-07,886.0
+Bulgaria,2020-09-14,841.0
+Bulgaria,2020-09-21,928.0
+Bulgaria,2020-09-28,1178.0
+Bulgaria,2020-10-05,1521.0
+Bulgaria,2020-10-12,2801.0
+Bulgaria,2020-10-19,4789.0
+Bulgaria,2020-10-26,8454.0
+Bulgaria,2020-11-02,15282.0
+Bulgaria,2020-11-09,21641.0
+Bulgaria,2020-11-16,22950.0
+Bulgaria,2020-11-23,23262.0
+Bulgaria,2020-11-30,21050.0
+Bulgaria,2020-12-07,19097.0
+Bulgaria,2020-12-14,18108.0
+Bulgaria,2020-12-21,12077.0
+Bulgaria,2020-12-28,6355.0
+Bulgaria,2021-01-04,11022.0
+Bulgaria,2021-01-11,3330.0
+Bulgaria,2021-01-18,2960.0
+Bulgaria,2021-01-25,3922.0
+Bulgaria,2021-02-01,4934.0
+Bulgaria,2021-02-08,5964.0
+Bulgaria,2021-02-15,6923.0
+Bulgaria,2021-02-22,10267.0
+Bulgaria,2021-03-01,13105.0
+Bulgaria,2021-03-08,18067.0
+Bulgaria,2021-03-15,24602.0
+Bulgaria,2021-03-22,25290.0
+Bulgaria,2021-03-29,24489.0
+Bulgaria,2021-04-05,19272.0
+Bulgaria,2021-04-12,14432.0
+Bulgaria,2021-04-19,11137.0
+Bulgaria,2021-04-26,7746.0
+Bulgaria,2021-05-03,5115.0
+Bulgaria,2021-05-10,4080.0
+Bulgaria,2021-05-17,2524.0
+Bulgaria,2021-05-24,1656.0
+Bulgaria,2021-05-31,1205.0
+Bulgaria,2021-06-07,868.0
+Bulgaria,2021-06-14,711.0
+Bulgaria,2021-06-21,510.0
+Bulgaria,2021-06-28,519.0
+Bulgaria,2021-07-05,412.0
+Bulgaria,2021-07-12,484.0
+Bulgaria,2021-07-19,699.0
+Bulgaria,2021-07-26,1425.0
+Bulgaria,2021-08-02,2819.0
+Bulgaria,2021-08-09,5089.0
+Bulgaria,2021-08-16,7949.0
+Bulgaria,2021-08-23,10237.0
+Bulgaria,2021-08-30,10397.0
+Bulgaria,2021-09-06,9290.0
+Bulgaria,2021-09-13,10893.0
+Bulgaria,2021-09-20,10637.0
+Bulgaria,2021-09-27,13116.0
+Bulgaria,2021-10-04,14760.0
+Bulgaria,2021-10-11,19378.0
+Bulgaria,2021-10-18,28454.0
+Bulgaria,2021-10-25,32962.0
+Bulgaria,2021-11-01,30471.0
+Bulgaria,2021-11-08,23313.0
+Bulgaria,2021-11-15,17736.0
+Bulgaria,2021-11-22,16073.0
+Bulgaria,2021-11-29,13826.0
+Bulgaria,2021-12-06,11702.0
+Bulgaria,2021-12-13,10181.0
+Bulgaria,2021-12-20,9545.0
+Bulgaria,2021-12-27,14302.0
+Bulgaria,2022-01-03,30517.0
+Bulgaria,2022-01-10,39528.0
+Bulgaria,2022-01-17,59152.0
+Bulgaria,2022-01-24,61831.0
+Bulgaria,2022-01-31,54043.0
+Bulgaria,2022-02-07,42030.0
+Bulgaria,2022-02-14,31128.0
+Bulgaria,2022-02-21,21383.0
+Bulgaria,2022-02-28,13015.0
+Bulgaria,2022-03-07,11365.0
+Bulgaria,2022-03-14,11538.0
+Bulgaria,2022-03-21,9388.0
+Bulgaria,2022-03-28,7351.0
+Bulgaria,2022-04-04,4690.0
+Bulgaria,2022-04-11,4082.0
+Bulgaria,2022-04-18,3667.0
+Bulgaria,2022-04-25,3837.0
+Bulgaria,2022-05-02,2421.0
+Bulgaria,2022-05-09,2354.0
+Bulgaria,2022-05-16,1813.0
+Bulgaria,2022-05-23,1342.0
+Bulgaria,2022-05-30,1148.0
+Bulgaria,2022-06-06,1052.0
+Croatia,2020-01-06,0.0
+Croatia,2020-01-13,0.0
+Croatia,2020-01-20,0.0
+Croatia,2020-01-27,0.0
+Croatia,2020-02-03,0.0
+Croatia,2020-02-10,0.0
+Croatia,2020-02-17,0.0
+Croatia,2020-02-24,0.0
+Croatia,2020-03-02,7.0
+Croatia,2020-03-09,5.0
+Croatia,2020-03-16,37.0
+Croatia,2020-03-23,157.0
+Croatia,2020-03-30,451.0
+Croatia,2020-04-06,525.0
+Croatia,2020-04-13,418.0
+Croatia,2020-04-20,271.0
+Croatia,2020-04-27,159.0
+Croatia,2020-05-04,66.0
+Croatia,2020-05-11,91.0
+Croatia,2020-05-18,39.0
+Croatia,2020-05-25,18.0
+Croatia,2020-06-01,2.0
+Croatia,2020-06-08,1.0
+Croatia,2020-06-15,5.0
+Croatia,2020-06-22,65.0
+Croatia,2020-06-29,374.0
+Croatia,2020-07-06,460.0
+Croatia,2020-07-13,571.0
+Croatia,2020-07-20,623.0
+Croatia,2020-07-27,512.0
+Croatia,2020-08-03,403.0
+Croatia,2020-08-10,344.0
+Croatia,2020-08-17,967.0
+Croatia,2020-08-24,1604.0
+Croatia,2020-08-31,1948.0
+Croatia,2020-09-07,1841.0
+Croatia,2020-09-14,1569.0
+Croatia,2020-09-21,1389.0
+Croatia,2020-09-28,1275.0
+Croatia,2020-10-05,1462.0
+Croatia,2020-10-12,2781.0
+Croatia,2020-10-19,5140.0
+Croatia,2020-10-26,10800.0
+Croatia,2020-11-02,15115.0
+Croatia,2020-11-09,15752.0
+Croatia,2020-11-16,16959.0
+Croatia,2020-11-23,19512.0
+Croatia,2020-11-30,22894.0
+Croatia,2020-12-07,23741.0
+Croatia,2020-12-14,25533.0
+Croatia,2020-12-21,19076.0
+Croatia,2020-12-28,9968.0
+Croatia,2021-01-04,15063.0
+Croatia,2021-01-11,4961.0
+Croatia,2021-01-18,3966.0
+Croatia,2021-01-25,3506.0
+Croatia,2021-02-01,2976.0
+Croatia,2021-02-08,2255.0
+Croatia,2021-02-15,2288.0
+Croatia,2021-02-22,3028.0
+Croatia,2021-03-01,3541.0
+Croatia,2021-03-08,4531.0
+Croatia,2021-03-15,6594.0
+Croatia,2021-03-22,9583.0
+Croatia,2021-03-29,12804.0
+Croatia,2021-04-05,12490.0
+Croatia,2021-04-12,15274.0
+Croatia,2021-04-19,14836.0
+Croatia,2021-04-26,12547.0
+Croatia,2021-05-03,9321.0
+Croatia,2021-05-10,5896.0
+Croatia,2021-05-17,3596.0
+Croatia,2021-05-24,2155.0
+Croatia,2021-05-31,1424.0
+Croatia,2021-06-07,939.0
+Croatia,2021-06-14,669.0
+Croatia,2021-06-21,479.0
+Croatia,2021-06-28,585.0
+Croatia,2021-07-05,589.0
+Croatia,2021-07-12,769.0
+Croatia,2021-07-19,1026.0
+Croatia,2021-07-26,1137.0
+Croatia,2021-08-02,1287.0
+Croatia,2021-08-09,1977.0
+Croatia,2021-08-16,2743.0
+Croatia,2021-08-23,3426.0
+Croatia,2021-08-30,4647.0
+Croatia,2021-09-06,6077.0
+Croatia,2021-09-13,8069.0
+Croatia,2021-09-20,7907.0
+Croatia,2021-09-27,8808.0
+Croatia,2021-10-04,9159.0
+Croatia,2021-10-11,10056.0
+Croatia,2021-10-18,17411.0
+Croatia,2021-10-25,25023.0
+Croatia,2021-11-01,30979.0
+Croatia,2021-11-08,37425.0
+Croatia,2021-11-15,31628.0
+Croatia,2021-11-22,32936.0
+Croatia,2021-11-29,27721.0
+Croatia,2021-12-06,23165.0
+Croatia,2021-12-13,21161.0
+Croatia,2021-12-20,17890.0
+Croatia,2021-12-27,27698.0
+Croatia,2022-01-03,44654.0
+Croatia,2022-01-10,51830.0
+Croatia,2022-01-17,59625.0
+Croatia,2022-01-24,58662.0
+Croatia,2022-01-31,48058.0
+Croatia,2022-02-07,34135.0
+Croatia,2022-02-14,23297.0
+Croatia,2022-02-21,13384.0
+Croatia,2022-02-28,9232.0
+Croatia,2022-03-07,9558.0
+Croatia,2022-03-14,10626.0
+Croatia,2022-03-21,10047.0
+Croatia,2022-03-28,8671.0
+Croatia,2022-04-04,6336.0
+Croatia,2022-04-11,4451.0
+Croatia,2022-04-18,4218.0
+Croatia,2022-04-25,5247.0
+Croatia,2022-05-02,4760.0
+Croatia,2022-05-09,3708.0
+Croatia,2022-05-16,2782.0
+Croatia,2022-05-23,2185.0
+Croatia,2022-05-30,1629.0
+Croatia,2022-06-06,1770.0
+Cyprus,2020-01-06,0.0
+Cyprus,2020-01-13,0.0
+Cyprus,2020-01-20,0.0
+Cyprus,2020-01-27,0.0
+Cyprus,2020-02-03,0.0
+Cyprus,2020-02-10,0.0
+Cyprus,2020-02-17,0.0
+Cyprus,2020-02-24,0.0
+Cyprus,2020-03-02,0.0
+Cyprus,2020-03-09,1.0
+Cyprus,2020-03-16,44.0
+Cyprus,2020-03-23,76.0
+Cyprus,2020-03-30,168.0
+Cyprus,2020-04-06,208.0
+Cyprus,2020-04-13,193.0
+Cyprus,2020-04-20,84.0
+Cyprus,2020-04-27,54.0
+Cyprus,2020-05-04,49.0
+Cyprus,2020-05-11,29.0
+Cyprus,2020-05-18,14.0
+Cyprus,2020-05-25,20.0
+Cyprus,2020-06-01,11.0
+Cyprus,2020-06-08,22.0
+Cyprus,2020-06-15,16.0
+Cyprus,2020-06-22,3.0
+Cyprus,2020-06-29,8.0
+Cyprus,2020-07-06,8.0
+Cyprus,2020-07-13,18.0
+Cyprus,2020-07-20,16.0
+Cyprus,2020-07-27,23.0
+Cyprus,2020-08-03,107.0
+Cyprus,2020-08-10,83.0
+Cyprus,2020-08-17,102.0
+Cyprus,2020-08-24,79.0
+Cyprus,2020-08-31,58.0
+Cyprus,2020-09-07,22.0
+Cyprus,2020-09-14,23.0
+Cyprus,2020-09-21,79.0
+Cyprus,2020-09-28,110.0
+Cyprus,2020-10-05,135.0
+Cyprus,2020-10-12,208.0
+Cyprus,2020-10-19,657.0
+Cyprus,2020-10-26,978.0
+Cyprus,2020-11-02,1106.0
+Cyprus,2020-11-09,1324.0
+Cyprus,2020-11-16,1237.0
+Cyprus,2020-11-23,1716.0
+Cyprus,2020-11-30,1702.0
+Cyprus,2020-12-07,2557.0
+Cyprus,2020-12-14,2605.0
+Cyprus,2020-12-21,2467.0
+Cyprus,2020-12-28,2280.0
+Cyprus,2021-01-04,6938.0
+Cyprus,2021-01-11,1571.0
+Cyprus,2021-01-18,943.0
+Cyprus,2021-01-25,798.0
+Cyprus,2021-02-01,810.0
+Cyprus,2021-02-08,701.0
+Cyprus,2021-02-15,704.0
+Cyprus,2021-02-22,1347.0
+Cyprus,2021-03-01,1912.0
+Cyprus,2021-03-08,2683.0
+Cyprus,2021-03-15,2541.0
+Cyprus,2021-03-22,2298.0
+Cyprus,2021-03-29,3093.0
+Cyprus,2021-04-05,3757.0
+Cyprus,2021-04-12,4789.0
+Cyprus,2021-04-19,5870.0
+Cyprus,2021-04-26,4038.0
+Cyprus,2021-05-03,3137.0
+Cyprus,2021-05-10,1540.0
+Cyprus,2021-05-17,862.0
+Cyprus,2021-05-24,518.0
+Cyprus,2021-05-31,398.0
+Cyprus,2021-06-07,422.0
+Cyprus,2021-06-14,492.0
+Cyprus,2021-06-21,1276.0
+Cyprus,2021-06-28,3619.0
+Cyprus,2021-07-05,6973.0
+Cyprus,2021-07-12,8235.0
+Cyprus,2021-07-19,7137.0
+Cyprus,2021-07-26,4952.0
+Cyprus,2021-08-02,3515.0
+Cyprus,2021-08-09,2728.0
+Cyprus,2021-08-16,2303.0
+Cyprus,2021-08-23,1780.0
+Cyprus,2021-08-30,1481.0
+Cyprus,2021-09-06,1030.0
+Cyprus,2021-09-13,859.0
+Cyprus,2021-09-20,693.0
+Cyprus,2021-09-27,634.0
+Cyprus,2021-10-04,739.0
+Cyprus,2021-10-11,895.0
+Cyprus,2021-10-18,924.0
+Cyprus,2021-10-25,1042.0
+Cyprus,2021-11-01,1411.0
+Cyprus,2021-11-08,1695.0
+Cyprus,2021-11-15,2391.0
+Cyprus,2021-11-22,3034.0
+Cyprus,2021-11-29,3535.0
+Cyprus,2021-12-06,3948.0
+Cyprus,2021-12-13,4267.0
+Cyprus,2021-12-20,5773.0
+Cyprus,2021-12-27,21630.0
+Cyprus,2022-01-03,30964.0
+Cyprus,2022-01-10,19993.0
+Cyprus,2022-01-17,14898.0
+Cyprus,2022-01-24,16860.0
+Cyprus,2022-01-31,19597.0
+Cyprus,2022-02-07,17819.0
+Cyprus,2022-02-14,15624.0
+Cyprus,2022-02-21,13315.0
+Cyprus,2022-02-28,13623.0
+Cyprus,2022-03-07,19380.0
+Cyprus,2022-03-14,25190.0
+Cyprus,2022-03-21,32157.0
+Cyprus,2022-03-28,29044.0
+Cyprus,2022-04-04,16845.0
+Cyprus,2022-04-11,8383.0
+Cyprus,2022-04-18,4426.0
+Cyprus,2022-04-25,5100.0
+Cyprus,2022-05-02,9813.0
+Cyprus,2022-05-09,8250.0
+Cyprus,2022-05-16,7292.0
+Cyprus,2022-05-23,6344.0
+Cyprus,2022-05-30,0.0
+Cyprus,2022-06-06,6864.0
+Cyprus,2022-06-13,8847.0
+Czechia,2020-01-06,0.0
+Czechia,2020-01-13,0.0
+Czechia,2020-01-20,0.0
+Czechia,2020-01-27,0.0
+Czechia,2020-02-03,0.0
+Czechia,2020-02-10,0.0
+Czechia,2020-02-17,0.0
+Czechia,2020-02-24,0.0
+Czechia,2020-03-02,3.0
+Czechia,2020-03-09,30.0
+Czechia,2020-03-16,266.0
+Czechia,2020-03-23,866.0
+Czechia,2020-03-30,1661.0
+Czechia,2020-04-06,1773.0
+Czechia,2020-04-13,1405.0
+Czechia,2020-04-20,755.0
+Czechia,2020-04-27,658.0
+Czechia,2020-05-04,379.0
+Czechia,2020-05-11,344.0
+Czechia,2020-05-18,359.0
+Czechia,2020-05-25,486.0
+Czechia,2020-06-01,318.0
+Czechia,2020-06-08,367.0
+Czechia,2020-06-15,399.0
+Czechia,2020-06-22,475.0
+Czechia,2020-06-29,1106.0
+Czechia,2020-07-06,910.0
+Czechia,2020-07-13,656.0
+Czechia,2020-07-20,771.0
+Czechia,2020-07-27,1375.0
+Czechia,2020-08-03,1454.0
+Czechia,2020-08-10,1567.0
+Czechia,2020-08-17,1657.0
+Czechia,2020-08-24,1907.0
+Czechia,2020-08-31,2449.0
+Czechia,2020-09-07,3784.0
+Czechia,2020-09-14,8033.0
+Czechia,2020-09-21,13099.0
+Czechia,2020-09-28,15306.0
+Czechia,2020-10-05,17864.0
+Czechia,2020-10-12,34665.0
+Czechia,2020-10-19,56775.0
+Czechia,2020-10-26,84210.0
+Czechia,2020-11-02,83550.0
+Czechia,2020-11-09,73172.0
+Czechia,2020-11-16,45344.0
+Czechia,2020-11-23,32156.0
+Czechia,2020-11-30,27421.0
+Czechia,2020-12-07,27109.0
+Czechia,2020-12-14,34259.0
+Czechia,2020-12-21,46543.0
+Czechia,2020-12-28,46905.0
+Czechia,2021-01-04,161504.0
+Czechia,2021-01-11,56497.0
+Czechia,2021-01-18,48223.0
+Czechia,2021-01-25,47437.0
+Czechia,2021-02-01,50109.0
+Czechia,2021-02-08,53555.0
+Czechia,2021-02-15,66344.0
+Czechia,2021-02-22,82987.0
+Czechia,2021-03-01,85393.0
+Czechia,2021-03-08,77261.0
+Czechia,2021-03-15,65080.0
+Czechia,2021-03-22,49506.0
+Czechia,2021-03-29,37063.0
+Czechia,2021-04-05,27425.0
+Czechia,2021-04-12,21559.0
+Czechia,2021-04-19,17508.0
+Czechia,2021-04-26,14439.0
+Czechia,2021-05-03,10861.0
+Czechia,2021-05-10,7657.0
+Czechia,2021-05-17,5020.0
+Czechia,2021-05-24,3211.0
+Czechia,2021-05-31,2360.0
+Czechia,2021-06-07,1429.0
+Czechia,2021-06-14,943.0
+Czechia,2021-06-21,698.0
+Czechia,2021-06-28,1017.0
+Czechia,2021-07-05,1362.0
+Czechia,2021-07-12,1611.0
+Czechia,2021-07-19,1353.0
+Czechia,2021-07-26,1191.0
+Czechia,2021-08-02,1203.0
+Czechia,2021-08-09,1283.0
+Czechia,2021-08-16,1302.0
+Czechia,2021-08-23,1320.0
+Czechia,2021-08-30,1757.0
+Czechia,2021-09-06,2608.0
+Czechia,2021-09-13,3070.0
+Czechia,2021-09-20,3271.0
+Czechia,2021-09-27,4505.0
+Czechia,2021-10-04,5992.0
+Czechia,2021-10-11,9626.0
+Czechia,2021-10-18,21542.0
+Czechia,2021-10-25,34410.0
+Czechia,2021-11-01,53547.0
+Czechia,2021-11-08,77037.0
+Czechia,2021-11-15,107482.0
+Czechia,2021-11-22,128632.0
+Czechia,2021-11-29,114425.0
+Czechia,2021-12-06,91210.0
+Czechia,2021-12-13,68426.0
+Czechia,2021-12-20,40656.0
+Czechia,2021-12-27,35882.0
+Czechia,2022-01-03,46972.0
+Czechia,2022-01-10,72673.0
+Czechia,2022-01-17,159678.0
+Czechia,2022-01-24,249066.0
+Czechia,2022-01-31,229655.0
+Czechia,2022-02-07,159455.0
+Czechia,2022-02-14,106565.0
+Czechia,2022-02-21,66963.0
+Czechia,2022-02-28,54245.0
+Czechia,2022-03-07,53846.0
+Czechia,2022-03-14,54038.0
+Czechia,2022-03-21,49823.0
+Czechia,2022-03-28,41836.0
+Czechia,2022-04-04,31320.0
+Czechia,2022-04-11,18627.0
+Czechia,2022-04-18,13687.0
+Czechia,2022-04-25,9918.0
+Czechia,2022-05-02,6356.0
+Czechia,2022-05-09,3415.0
+Czechia,2022-05-16,2197.0
+Czechia,2022-05-23,1545.0
+Czechia,2022-05-30,1411.0
+Czechia,2022-06-06,1877.0
+Denmark,2020-01-06,10.0
+Denmark,2020-01-13,12.0
+Denmark,2020-01-20,8.0
+Denmark,2020-01-27,15.0
+Denmark,2020-02-03,13.0
+Denmark,2020-02-10,12.0
+Denmark,2020-02-17,14.0
+Denmark,2020-02-24,11.0
+Denmark,2020-03-02,21.0
+Denmark,2020-03-09,97.0
+Denmark,2020-03-16,850.0
+Denmark,2020-03-23,565.0
+Denmark,2020-03-30,1153.0
+Denmark,2020-04-06,2181.0
+Denmark,2020-04-13,1666.0
+Denmark,2020-04-20,1190.0
+Denmark,2020-04-27,1316.0
+Denmark,2020-05-04,1005.0
+Denmark,2020-05-11,677.0
+Denmark,2020-05-18,448.0
+Denmark,2020-05-25,396.0
+Denmark,2020-06-01,310.0
+Denmark,2020-06-08,252.0
+Denmark,2020-06-15,272.0
+Denmark,2020-06-22,324.0
+Denmark,2020-06-29,196.0
+Denmark,2020-07-06,125.0
+Denmark,2020-07-13,170.0
+Denmark,2020-07-20,264.0
+Denmark,2020-07-27,249.0
+Denmark,2020-08-03,494.0
+Denmark,2020-08-10,896.0
+Denmark,2020-08-17,893.0
+Denmark,2020-08-24,623.0
+Denmark,2020-08-31,592.0
+Denmark,2020-09-07,1194.0
+Denmark,2020-09-14,2237.0
+Denmark,2020-09-21,3208.0
+Denmark,2020-09-28,3631.0
+Denmark,2020-10-05,2827.0
+Denmark,2020-10-12,2704.0
+Denmark,2020-10-19,3213.0
+Denmark,2020-10-26,5859.0
+Denmark,2020-11-02,4393.0
+Denmark,2020-11-09,5199.0
+Denmark,2020-11-16,7542.0
+Denmark,2020-11-23,2755.0
+Denmark,2020-11-30,8594.0
+Denmark,2020-12-07,12830.0
+Denmark,2020-12-14,3246.0
+Denmark,2020-12-21,15370.0
+Denmark,2020-12-28,17038.0
+Denmark,2021-01-04,21040.0
+Denmark,2021-01-11,7169.0
+Denmark,2021-01-18,5408.0
+Denmark,2021-01-25,3255.0
+Denmark,2021-02-01,3129.0
+Denmark,2021-02-08,2776.0
+Denmark,2021-02-15,3602.0
+Denmark,2021-02-22,3955.0
+Denmark,2021-03-01,4238.0
+Denmark,2021-03-08,4674.0
+Denmark,2021-03-15,5181.0
+Denmark,2021-03-22,5131.0
+Denmark,2021-03-29,4412.0
+Denmark,2021-04-05,2575.0
+Denmark,2021-04-12,5059.0
+Denmark,2021-04-19,4857.0
+Denmark,2021-04-26,3250.0
+Denmark,2021-05-03,6500.0
+Denmark,2021-05-10,7239.0
+Denmark,2021-05-17,6886.0
+Denmark,2021-05-24,6714.0
+Denmark,2021-05-31,5666.0
+Denmark,2021-06-07,2823.0
+Denmark,2021-06-14,1659.0
+Denmark,2021-06-21,1324.0
+Denmark,2021-06-28,2681.0
+Denmark,2021-07-05,4621.0
+Denmark,2021-07-12,6823.0
+Denmark,2021-07-19,5299.0
+Denmark,2021-07-26,6256.0
+Denmark,2021-08-02,6360.0
+Denmark,2021-08-09,6869.0
+Denmark,2021-08-16,5675.0
+Denmark,2021-08-23,5292.0
+Denmark,2021-08-30,2937.0
+Denmark,2021-09-06,3219.0
+Denmark,2021-09-13,2192.0
+Denmark,2021-09-20,2536.0
+Denmark,2021-09-27,3038.0
+Denmark,2021-10-04,4083.0
+Denmark,2021-10-11,5035.0
+Denmark,2021-10-18,8671.0
+Denmark,2021-10-25,11889.0
+Denmark,2021-11-01,15997.0
+Denmark,2021-11-08,22712.0
+Denmark,2021-11-15,28111.0
+Denmark,2021-11-22,24896.0
+Denmark,2021-11-29,34085.0
+Denmark,2021-12-06,41455.0
+Denmark,2021-12-13,74581.0
+Denmark,2021-12-20,76371.0
+Denmark,2021-12-27,120872.0
+Denmark,2022-01-03,128309.0
+Denmark,2022-01-10,172987.0
+Denmark,2022-01-17,268434.0
+Denmark,2022-01-24,281628.0
+Denmark,2022-01-31,175922.0
+Denmark,2022-02-07,297585.0
+Denmark,2022-02-14,225788.0
+Denmark,2022-02-21,143428.0
+Denmark,2022-02-28,104539.0
+Denmark,2022-03-07,75958.0
+Denmark,2022-03-14,48059.0
+Denmark,2022-03-21,33340.0
+Denmark,2022-03-28,21496.0
+Denmark,2022-04-04,16619.0
+Denmark,2022-04-11,11856.0
+Denmark,2022-04-18,10133.0
+Denmark,2022-04-25,6374.0
+Denmark,2022-05-02,5304.0
+Denmark,2022-05-09,4346.0
+Denmark,2022-05-16,3726.0
+Denmark,2022-05-23,2971.0
+Denmark,2022-05-30,3374.0
+Denmark,2022-06-06,5005.0
+Eu/Eea (Total),2020-01-06,12.0
+Eu/Eea (Total),2020-01-13,12.0
+Eu/Eea (Total),2020-01-20,10.0
+Eu/Eea (Total),2020-01-27,20.0
+Eu/Eea (Total),2020-02-03,33.0
+Eu/Eea (Total),2020-02-10,47.0
+Eu/Eea (Total),2020-02-17,24.0
+Eu/Eea (Total),2020-02-24,206.0
+Eu/Eea (Total),2020-03-02,2497.0
+Eu/Eea (Total),2020-03-09,12676.0
+Eu/Eea (Total),2020-03-16,54336.0
+Eu/Eea (Total),2020-03-23,126542.0
+Eu/Eea (Total),2020-03-30,197981.0
+Eu/Eea (Total),2020-04-06,187625.0
+Eu/Eea (Total),2020-04-13,158206.0
+Eu/Eea (Total),2020-04-20,114680.0
+Eu/Eea (Total),2020-04-27,87566.0
+Eu/Eea (Total),2020-05-04,55739.0
+Eu/Eea (Total),2020-05-11,44460.0
+Eu/Eea (Total),2020-05-18,35315.0
+Eu/Eea (Total),2020-05-25,31805.0
+Eu/Eea (Total),2020-06-01,28034.0
+Eu/Eea (Total),2020-06-08,26417.0
+Eu/Eea (Total),2020-06-15,27637.0
+Eu/Eea (Total),2020-06-22,29430.0
+Eu/Eea (Total),2020-06-29,29708.0
+Eu/Eea (Total),2020-07-06,27594.0
+Eu/Eea (Total),2020-07-13,29374.0
+Eu/Eea (Total),2020-07-20,38525.0
+Eu/Eea (Total),2020-07-27,51191.0
+Eu/Eea (Total),2020-08-03,63976.0
+Eu/Eea (Total),2020-08-10,82242.0
+Eu/Eea (Total),2020-08-17,103930.0
+Eu/Eea (Total),2020-08-24,132283.0
+Eu/Eea (Total),2020-08-31,156091.0
+Eu/Eea (Total),2020-09-07,178941.0
+Eu/Eea (Total),2020-09-14,216905.0
+Eu/Eea (Total),2020-09-21,261859.0
+Eu/Eea (Total),2020-09-28,271341.0
+Eu/Eea (Total),2020-10-05,309690.0
+Eu/Eea (Total),2020-10-12,481847.0
+Eu/Eea (Total),2020-10-19,726865.0
+Eu/Eea (Total),2020-10-26,1124369.0
+Eu/Eea (Total),2020-11-02,1408834.0
+Eu/Eea (Total),2020-11-09,1451977.0
+Eu/Eea (Total),2020-11-16,1264943.0
+Eu/Eea (Total),2020-11-23,1092724.0
+Eu/Eea (Total),2020-11-30,913517.0
+Eu/Eea (Total),2020-12-07,835657.0
+Eu/Eea (Total),2020-12-14,867257.0
+Eu/Eea (Total),2020-12-21,935622.0
+Eu/Eea (Total),2020-12-28,797198.0
+Eu/Eea (Total),2021-01-04,1989089.0
+Eu/Eea (Total),2021-01-11,965649.0
+Eu/Eea (Total),2021-01-18,934824.0
+Eu/Eea (Total),2021-01-25,851431.0
+Eu/Eea (Total),2021-02-01,728930.0
+Eu/Eea (Total),2021-02-08,622173.0
+Eu/Eea (Total),2021-02-15,648947.0
+Eu/Eea (Total),2021-02-22,753215.0
+Eu/Eea (Total),2021-03-01,807785.0
+Eu/Eea (Total),2021-03-08,913268.0
+Eu/Eea (Total),2021-03-15,1029005.0
+Eu/Eea (Total),2021-03-22,1140867.0
+Eu/Eea (Total),2021-03-29,1086715.0
+Eu/Eea (Total),2021-04-05,953218.0
+Eu/Eea (Total),2021-04-12,918871.0
+Eu/Eea (Total),2021-04-19,819132.0
+Eu/Eea (Total),2021-04-26,674317.0
+Eu/Eea (Total),2021-05-03,563292.0
+Eu/Eea (Total),2021-05-10,421948.0
+Eu/Eea (Total),2021-05-17,343078.0
+Eu/Eea (Total),2021-05-24,246582.0
+Eu/Eea (Total),2021-05-31,192563.0
+Eu/Eea (Total),2021-06-07,129767.0
+Eu/Eea (Total),2021-06-14,92740.0
+Eu/Eea (Total),2021-06-21,85425.0
+Eu/Eea (Total),2021-06-28,150895.0
+Eu/Eea (Total),2021-07-05,275526.0
+Eu/Eea (Total),2021-07-12,408687.0
+Eu/Eea (Total),2021-07-19,483121.0
+Eu/Eea (Total),2021-07-26,479955.0
+Eu/Eea (Total),2021-08-02,456418.0
+Eu/Eea (Total),2021-08-09,462506.0
+Eu/Eea (Total),2021-08-16,454281.0
+Eu/Eea (Total),2021-08-23,442368.0
+Eu/Eea (Total),2021-08-30,399240.0
+Eu/Eea (Total),2021-09-06,361406.0
+Eu/Eea (Total),2021-09-13,338344.0
+Eu/Eea (Total),2021-09-20,323148.0
+Eu/Eea (Total),2021-09-27,357012.0
+Eu/Eea (Total),2021-10-04,392066.0
+Eu/Eea (Total),2021-10-11,467147.0
+Eu/Eea (Total),2021-10-18,642774.0
+Eu/Eea (Total),2021-10-25,798339.0
+Eu/Eea (Total),2021-11-01,985540.0
+Eu/Eea (Total),2021-11-08,1251877.0
+Eu/Eea (Total),2021-11-15,1610680.0
+Eu/Eea (Total),2021-11-22,1830512.0
+Eu/Eea (Total),2021-11-29,1876910.0
+Eu/Eea (Total),2021-12-06,1782405.0
+Eu/Eea (Total),2021-12-13,1793390.0
+Eu/Eea (Total),2021-12-20,2177552.0
+Eu/Eea (Total),2021-12-27,4119232.0
+Eu/Eea (Total),2022-01-03,5916414.0
+Eu/Eea (Total),2022-01-10,6726529.0
+Eu/Eea (Total),2022-01-17,8409394.0
+Eu/Eea (Total),2022-01-24,8845940.0
+Eu/Eea (Total),2022-01-31,7679175.0
+Eu/Eea (Total),2022-02-07,6233848.0
+Eu/Eea (Total),2022-02-14,4365567.0
+Eu/Eea (Total),2022-02-21,3466945.0
+Eu/Eea (Total),2022-02-28,3393279.0
+Eu/Eea (Total),2022-03-07,3967254.0
+Eu/Eea (Total),2022-03-14,4321958.0
+Eu/Eea (Total),2022-03-21,4353504.0
+Eu/Eea (Total),2022-03-28,3765608.0
+Eu/Eea (Total),2022-04-04,3088063.0
+Eu/Eea (Total),2022-04-11,2546213.0
+Eu/Eea (Total),2022-04-18,2180346.0
+Eu/Eea (Total),2022-04-25,1775892.0
+Eu/Eea (Total),2022-05-02,1457084.0
+Eu/Eea (Total),2022-05-09,1334070.0
+Eu/Eea (Total),2022-05-16,1063448.0
+Eu/Eea (Total),2022-05-23,801518.0
+Eu/Eea (Total),2022-05-30,865828.0
+Eu/Eea (Total),2022-06-06,943311.0
+Estonia,2020-01-06,0.0
+Estonia,2020-01-13,0.0
+Estonia,2020-01-20,0.0
+Estonia,2020-01-27,0.0
+Estonia,2020-02-03,0.0
+Estonia,2020-02-10,0.0
+Estonia,2020-02-17,0.0
+Estonia,2020-02-24,0.0
+Estonia,2020-03-02,1.0
+Estonia,2020-03-09,9.0
+Estonia,2020-03-16,210.0
+Estonia,2020-03-23,165.0
+Estonia,2020-03-30,5570.0
+Estonia,2020-04-06,404.0
+Estonia,2020-04-13,223.0
+Estonia,2020-04-20,199.0
+Estonia,2020-04-27,109.0
+Estonia,2020-05-04,56.0
+Estonia,2020-05-11,38.0
+Estonia,2020-05-18,43.0
+Estonia,2020-05-25,39.0
+Estonia,2020-06-01,46.0
+Estonia,2020-06-08,71.0
+Estonia,2020-06-15,35.0
+Estonia,2020-06-22,8.0
+Estonia,2020-06-29,6.0
+Estonia,2020-07-06,6.0
+Estonia,2020-07-13,21.0
+Estonia,2020-07-20,4.0
+Estonia,2020-07-27,11.0
+Estonia,2020-08-03,45.0
+Estonia,2020-08-10,74.0
+Estonia,2020-08-17,35.0
+Estonia,2020-08-24,88.0
+Estonia,2020-08-31,100.0
+Estonia,2020-09-07,157.0
+Estonia,2020-09-14,160.0
+Estonia,2020-09-21,244.0
+Estonia,2020-09-28,337.0
+Estonia,2020-10-05,344.0
+Estonia,2020-10-12,255.0
+Estonia,2020-10-19,211.0
+Estonia,2020-10-26,343.0
+Estonia,2020-11-02,614.0
+Estonia,2020-11-09,1202.0
+Estonia,2020-11-16,1591.0
+Estonia,2020-11-23,2104.0
+Estonia,2020-11-30,2350.0
+Estonia,2020-12-07,2921.0
+Estonia,2020-12-14,3156.0
+Estonia,2020-12-21,3696.0
+Estonia,2020-12-28,3730.0
+Estonia,2021-01-04,7985.0
+Estonia,2021-01-11,3543.0
+Estonia,2021-01-18,3631.0
+Estonia,2021-01-25,3604.0
+Estonia,2021-02-01,3762.0
+Estonia,2021-02-08,4561.0
+Estonia,2021-02-15,5572.0
+Estonia,2021-02-22,8183.0
+Estonia,2021-03-01,9570.0
+Estonia,2021-03-08,9905.0
+Estonia,2021-03-15,10309.0
+Estonia,2021-03-22,7822.0
+Estonia,2021-03-29,423.0
+Estonia,2021-04-05,4663.0
+Estonia,2021-04-12,3341.0
+Estonia,2021-04-19,2604.0
+Estonia,2021-04-26,2402.0
+Estonia,2021-05-03,2283.0
+Estonia,2021-05-10,1870.0
+Estonia,2021-05-17,1465.0
+Estonia,2021-05-24,876.0
+Estonia,2021-05-31,612.0
+Estonia,2021-06-07,380.0
+Estonia,2021-06-14,282.0
+Estonia,2021-06-21,165.0
+Estonia,2021-06-28,227.0
+Estonia,2021-07-05,301.0
+Estonia,2021-07-12,375.0
+Estonia,2021-07-19,645.0
+Estonia,2021-07-26,1246.0
+Estonia,2021-08-02,1472.0
+Estonia,2021-08-09,1942.0
+Estonia,2021-08-16,1970.0
+Estonia,2021-08-23,2476.0
+Estonia,2021-08-30,2405.0
+Estonia,2021-09-06,2976.0
+Estonia,2021-09-13,3258.0
+Estonia,2021-09-20,3784.0
+Estonia,2021-09-27,4970.0
+Estonia,2021-10-04,6455.0
+Estonia,2021-10-11,7999.0
+Estonia,2021-10-18,9988.0
+Estonia,2021-10-25,12069.0
+Estonia,2021-11-01,173.0
+Estonia,2021-11-08,6726.0
+Estonia,2021-11-15,5181.0
+Estonia,2021-11-22,4077.0
+Estonia,2021-11-29,3437.0
+Estonia,2021-12-06,3305.0
+Estonia,2021-12-13,3913.0
+Estonia,2021-12-20,4595.0
+Estonia,2021-12-27,6140.0
+Estonia,2022-01-03,5742.0
+Estonia,2022-01-10,15424.0
+Estonia,2022-01-17,27269.0
+Estonia,2022-01-24,41085.0
+Estonia,2022-01-31,48031.0
+Estonia,2022-02-07,37947.0
+Estonia,2022-02-14,39239.0
+Estonia,2022-02-21,31712.0
+Estonia,2022-02-28,22671.0
+Estonia,2022-03-07,14983.0
+Estonia,2022-03-14,10967.0
+Estonia,2022-03-21,9226.0
+Estonia,2022-03-28,6835.0
+Estonia,2022-04-04,5185.0
+Estonia,2022-04-11,3337.0
+Estonia,2022-04-18,2756.0
+Estonia,2022-04-25,2039.0
+Estonia,2022-05-02,1489.0
+Estonia,2022-05-09,1173.0
+Estonia,2022-05-16,953.0
+Estonia,2022-05-23,821.0
+Estonia,2022-05-30,781.0
+Estonia,2022-06-06,840.0
+Europe (Total),2020-01-06,12.0
+Europe (Total),2020-01-13,13.0
+Europe (Total),2020-01-20,10.0
+Europe (Total),2020-01-27,20.0
+Europe (Total),2020-02-03,38.0
+Europe (Total),2020-02-10,52.0
+Europe (Total),2020-02-17,27.0
+Europe (Total),2020-02-24,209.0
+Europe (Total),2020-03-02,2600.0
+Europe (Total),2020-03-09,13461.0
+Europe (Total),2020-03-16,59207.0
+Europe (Total),2020-03-23,141281.0
+Europe (Total),2020-03-30,236486.0
+Europe (Total),2020-04-06,252363.0
+Europe (Total),2020-04-13,243314.0
+Europe (Total),2020-04-20,217666.0
+Europe (Total),2020-04-27,195242.0
+Europe (Total),2020-05-04,170629.0
+Europe (Total),2020-05-11,167912.0
+Europe (Total),2020-05-18,152049.0
+Europe (Total),2020-05-25,132395.0
+Europe (Total),2020-06-01,122503.0
+Europe (Total),2020-06-08,121278.0
+Europe (Total),2020-06-15,124575.0
+Europe (Total),2020-06-22,123192.0
+Europe (Total),2020-06-29,118118.0
+Europe (Total),2020-07-06,110316.0
+Europe (Total),2020-07-13,109615.0
+Europe (Total),2020-07-20,116316.0
+Europe (Total),2020-07-27,127018.0
+Europe (Total),2020-08-03,179700.0
+Europe (Total),2020-08-10,204808.0
+Europe (Total),2020-08-17,227152.0
+Europe (Total),2020-08-24,256930.0
+Europe (Total),2020-08-31,284933.0
+Europe (Total),2020-09-07,322055.0
+Europe (Total),2020-09-14,369967.0
+Europe (Total),2020-09-21,432038.0
+Europe (Total),2020-09-28,468886.0
+Europe (Total),2020-10-05,565771.0
+Europe (Total),2020-10-12,803496.0
+Europe (Total),2020-10-19,1106921.0
+Europe (Total),2020-10-26,1584926.0
+Europe (Total),2020-11-02,1929569.0
+Europe (Total),2020-11-09,2043948.0
+Europe (Total),2020-11-16,1886331.0
+Europe (Total),2020-11-23,1716334.0
+Europe (Total),2020-11-30,1652924.0
+Europe (Total),2020-12-07,1641411.0
+Europe (Total),2020-12-14,1706054.0
+Europe (Total),2020-12-21,1708964.0
+Europe (Total),2020-12-28,1687571.0
+Europe (Total),2021-01-04,3570412.0
+Europe (Total),2021-01-11,1613139.0
+Europe (Total),2021-01-18,1443400.0
+Europe (Total),2021-01-25,1284514.0
+Europe (Total),2021-02-01,1104992.0
+Europe (Total),2021-02-08,950552.0
+Europe (Total),2021-02-15,973551.0
+Europe (Total),2021-02-22,1071915.0
+Europe (Total),2021-03-01,1142012.0
+Europe (Total),2021-03-08,1262979.0
+Europe (Total),2021-03-15,1474596.0
+Europe (Total),2021-03-22,1652703.0
+Europe (Total),2021-03-29,1665195.0
+Europe (Total),2021-04-05,1610822.0
+Europe (Total),2021-04-12,1601673.0
+Europe (Total),2021-04-19,1432377.0
+Europe (Total),2021-04-26,1109042.0
+Europe (Total),2021-05-03,880661.0
+Europe (Total),2021-05-10,667798.0
+Europe (Total),2021-05-17,544417.0
+Europe (Total),2021-05-24,442237.0
+Europe (Total),2021-05-31,362142.0
+Europe (Total),2021-06-07,346386.0
+Europe (Total),2021-06-14,319456.0
+Europe (Total),2021-06-21,422384.0
+Europe (Total),2021-06-28,536472.0
+Europe (Total),2021-07-05,772589.0
+Europe (Total),2021-07-12,1015668.0
+Europe (Total),2021-07-19,982704.0
+Europe (Total),2021-07-26,1020086.0
+Europe (Total),2021-08-02,1004003.0
+Europe (Total),2021-08-09,1120474.0
+Europe (Total),2021-08-16,1117036.0
+Europe (Total),2021-08-23,1118088.0
+Europe (Total),2021-08-30,1098192.0
+Europe (Total),2021-09-06,1035269.0
+Europe (Total),2021-09-13,1040868.0
+Europe (Total),2021-09-20,1043068.0
+Europe (Total),2021-09-27,1163994.0
+Europe (Total),2021-10-04,1229873.0
+Europe (Total),2021-10-11,1450167.0
+Europe (Total),2021-10-18,1698111.0
+Europe (Total),2021-10-25,1844704.0
+Europe (Total),2021-11-01,2057541.0
+Europe (Total),2021-11-08,2251506.0
+Europe (Total),2021-11-15,2602116.0
+Europe (Total),2021-11-22,2779457.0
+Europe (Total),2021-11-29,2792940.0
+Europe (Total),2021-12-06,2760951.0
+Europe (Total),2021-12-13,2919762.0
+Europe (Total),2021-12-20,3106774.0
+Europe (Total),2021-12-27,0.0
+Europe (Total),2022-01-03,8023697.0
+Europe (Total),2022-01-10,8474065.0
+Europe (Total),2022-01-17,10660979.0
+Europe (Total),2022-01-24,11540962.0
+Europe (Total),2022-01-31,10639783.0
+Europe (Total),2022-02-07,9613254.0
+Europe (Total),2022-02-14,7225538.0
+Europe (Total),2022-02-21,5488228.0
+Europe (Total),2022-02-28,4989548.0
+Europe (Total),2022-03-07,5365547.0
+Europe (Total),2022-03-14,5390044.0
+Europe (Total),2022-03-21,5394688.0
+Europe (Total),2022-03-28,4764476.0
+Europe (Total),2022-04-04,3581847.0
+Europe (Total),2022-04-11,2873489.0
+Europe (Total),2022-04-18,2552996.0
+Europe (Total),2022-04-25,1983550.0
+Europe (Total),2022-05-02,1582406.0
+Europe (Total),2022-05-09,1483605.0
+Europe (Total),2022-05-16,1150756.0
+Europe (Total),2022-05-23,903220.0
+Europe (Total),2022-05-30,0.0
+Europe (Total),2022-06-06,1085946.0
+Faroe Islands,2020-03-09,3.0
+Faroe Islands,2020-03-16,6.0
+Faroe Islands,2020-03-23,106.0
+Faroe Islands,2020-03-30,44.0
+Faroe Islands,2020-04-06,22.0
+Faroe Islands,2020-04-13,3.0
+Faroe Islands,2020-04-20,1.0
+Faroe Islands,2020-04-27,2.0
+Faroe Islands,2020-05-04,0.0
+Faroe Islands,2020-05-11,0.0
+Faroe Islands,2020-05-18,0.0
+Faroe Islands,2020-05-25,0.0
+Faroe Islands,2020-06-01,0.0
+Faroe Islands,2020-06-08,0.0
+Faroe Islands,2020-06-15,0.0
+Faroe Islands,2020-06-22,0.0
+Faroe Islands,2020-06-29,0.0
+Faroe Islands,2020-07-06,0.0
+Faroe Islands,2020-07-13,1.0
+Faroe Islands,2020-07-20,3.0
+Faroe Islands,2020-07-27,0.0
+Faroe Islands,2020-08-03,34.0
+Faroe Islands,2020-08-10,66.0
+Faroe Islands,2020-08-17,81.0
+Faroe Islands,2020-08-24,12.0
+Faroe Islands,2020-08-31,27.0
+Faroe Islands,2020-09-07,2.0
+Faroe Islands,2020-09-14,10.0
+Faroe Islands,2020-09-21,11.0
+Faroe Islands,2020-09-28,26.0
+Faroe Islands,2020-10-05,14.0
+Faroe Islands,2020-10-12,3.0
+Faroe Islands,2020-10-19,8.0
+Faroe Islands,2020-10-26,5.0
+Faroe Islands,2020-11-02,5.0
+Faroe Islands,2020-11-09,2.0
+Faroe Islands,2020-11-16,1.0
+Faroe Islands,2020-11-23,2.0
+Faroe Islands,2020-11-30,2.0
+Faroe Islands,2020-12-07,8.0
+Faroe Islands,2020-12-14,18.0
+Faroe Islands,2020-12-21,18.0
+Faroe Islands,2020-12-28,36.0
+Faroe Islands,2021-01-04,64.0
+Faroe Islands,2021-01-11,3.0
+Faroe Islands,2021-01-18,3.0
+Faroe Islands,2021-01-25,2.0
+Faroe Islands,2021-02-01,2.0
+Faroe Islands,2021-02-08,1.0
+Faroe Islands,2021-02-15,1.0
+Faroe Islands,2021-02-22,0.0
+Faroe Islands,2021-03-01,2.0
+Faroe Islands,2021-03-08,1.0
+Faroe Islands,2021-03-15,0.0
+Faroe Islands,2021-03-22,0.0
+Faroe Islands,2021-03-29,0.0
+Faroe Islands,2021-04-05,0.0
+Faroe Islands,2021-04-12,1.0
+Faroe Islands,2021-04-19,1.0
+Faroe Islands,2021-04-26,1.0
+Faroe Islands,2021-05-03,4.0
+Faroe Islands,2021-05-10,2.0
+Faroe Islands,2021-05-17,22.0
+Faroe Islands,2021-05-24,26.0
+Faroe Islands,2021-05-31,26.0
+Faroe Islands,2021-06-07,12.0
+Faroe Islands,2021-06-14,12.0
+Faroe Islands,2021-06-21,4.0
+Faroe Islands,2021-06-28,12.0
+Faroe Islands,2021-07-05,84.0
+Faroe Islands,2021-07-12,65.0
+Faroe Islands,2021-07-19,40.0
+Faroe Islands,2021-07-26,12.0
+Faroe Islands,2021-08-02,4.0
+Faroe Islands,2021-08-09,3.0
+Faroe Islands,2021-08-16,5.0
+Faroe Islands,2021-08-23,3.0
+Faroe Islands,2021-08-30,20.0
+Faroe Islands,2021-09-06,17.0
+Faroe Islands,2021-09-13,33.0
+Faroe Islands,2021-09-20,57.0
+Faroe Islands,2021-09-27,93.0
+Faroe Islands,2021-10-04,73.0
+Faroe Islands,2021-10-11,57.0
+Faroe Islands,2021-10-18,265.0
+Faroe Islands,2021-10-25,597.0
+Faroe Islands,2021-11-01,455.0
+Faroe Islands,2021-11-08,299.0
+Faroe Islands,2021-11-15,278.0
+Faroe Islands,2021-11-22,309.0
+Faroe Islands,2021-11-29,404.0
+Faroe Islands,2021-12-06,456.0
+Faroe Islands,2021-12-13,322.0
+Faroe Islands,2021-12-27,0.0
+Faroe Islands,2022-01-03,1563.0
+Faroe Islands,2022-01-10,2239.0
+Faroe Islands,2022-01-17,4171.0
+Faroe Islands,2022-01-24,4759.0
+Faroe Islands,2022-01-31,4907.0
+Faroe Islands,2022-02-07,5059.0
+Faroe Islands,2022-02-14,2979.0
+Faroe Islands,2022-02-21,2193.0
+Faroe Islands,2022-02-28,0.0
+Faroe Islands,2022-03-07,0.0
+Faroe Islands,2022-03-14,421.0
+Faroe Islands,2022-03-21,0.0
+Faroe Islands,2022-03-28,0.0
+Faroe Islands,2022-04-04,0.0
+Faroe Islands,2022-04-11,0.0
+Faroe Islands,2022-04-18,0.0
+Faroe Islands,2022-04-25,0.0
+Faroe Islands,2022-05-02,0.0
+Faroe Islands,2022-05-09,0.0
+Faroe Islands,2022-05-16,0.0
+Faroe Islands,2022-05-23,0.0
+Faroe Islands,2022-05-30,0.0
+Faroe Islands,2022-06-06,0.0
+Finland,2020-01-06,1.0
+Finland,2020-01-13,0.0
+Finland,2020-01-20,0.0
+Finland,2020-01-27,0.0
+Finland,2020-02-03,1.0
+Finland,2020-02-10,0.0
+Finland,2020-02-17,1.0
+Finland,2020-02-24,1.0
+Finland,2020-03-02,7.0
+Finland,2020-03-09,34.0
+Finland,2020-03-16,317.0
+Finland,2020-03-23,540.0
+Finland,2020-03-30,642.0
+Finland,2020-04-06,966.0
+Finland,2020-04-13,931.0
+Finland,2020-04-20,790.0
+Finland,2020-04-27,736.0
+Finland,2020-05-04,623.0
+Finland,2020-05-11,617.0
+Finland,2020-05-18,396.0
+Finland,2020-05-25,221.0
+Finland,2020-06-01,163.0
+Finland,2020-06-08,99.0
+Finland,2020-06-15,54.0
+Finland,2020-06-22,51.0
+Finland,2020-06-29,53.0
+Finland,2020-07-06,46.0
+Finland,2020-07-13,38.0
+Finland,2020-07-20,43.0
+Finland,2020-07-27,56.0
+Finland,2020-08-03,84.0
+Finland,2020-08-10,169.0
+Finland,2020-08-17,175.0
+Finland,2020-08-24,192.0
+Finland,2020-08-31,156.0
+Finland,2020-09-07,236.0
+Finland,2020-09-14,354.0
+Finland,2020-09-21,470.0
+Finland,2020-09-28,719.0
+Finland,2020-10-05,1130.0
+Finland,2020-10-12,1626.0
+Finland,2020-10-19,1276.0
+Finland,2020-10-26,1246.0
+Finland,2020-11-02,1457.0
+Finland,2020-11-09,1416.0
+Finland,2020-11-16,1651.0
+Finland,2020-11-23,2601.0
+Finland,2020-11-30,3137.0
+Finland,2020-12-07,3015.0
+Finland,2020-12-14,2907.0
+Finland,2020-12-21,2328.0
+Finland,2020-12-28,1654.0
+Finland,2021-01-04,3795.0
+Finland,2021-01-11,1769.0
+Finland,2021-01-18,2352.0
+Finland,2021-01-25,2714.0
+Finland,2021-02-01,2609.0
+Finland,2021-02-08,2555.0
+Finland,2021-02-15,3554.0
+Finland,2021-02-22,3993.0
+Finland,2021-03-01,4457.0
+Finland,2021-03-08,4944.0
+Finland,2021-03-15,4711.0
+Finland,2021-03-22,4186.0
+Finland,2021-03-29,3271.0
+Finland,2021-04-05,2553.0
+Finland,2021-04-12,1937.0
+Finland,2021-04-19,1610.0
+Finland,2021-04-26,1388.0
+Finland,2021-05-03,1503.0
+Finland,2021-05-10,1431.0
+Finland,2021-05-17,1319.0
+Finland,2021-05-24,890.0
+Finland,2021-05-31,726.0
+Finland,2021-06-07,558.0
+Finland,2021-06-14,543.0
+Finland,2021-06-21,971.0
+Finland,2021-06-28,1293.0
+Finland,2021-07-05,1697.0
+Finland,2021-07-12,2241.0
+Finland,2021-07-19,2923.0
+Finland,2021-07-26,4659.0
+Finland,2021-08-02,5097.0
+Finland,2021-08-09,5186.0
+Finland,2021-08-16,4393.0
+Finland,2021-08-23,4207.0
+Finland,2021-08-30,3893.0
+Finland,2021-09-06,3151.0
+Finland,2021-09-13,2818.0
+Finland,2021-09-20,3015.0
+Finland,2021-09-27,3887.0
+Finland,2021-10-04,4252.0
+Finland,2021-10-11,3728.0
+Finland,2021-10-18,3695.0
+Finland,2021-10-25,4214.0
+Finland,2021-11-01,5164.0
+Finland,2021-11-08,6001.0
+Finland,2021-11-15,7499.0
+Finland,2021-11-22,8181.0
+Finland,2021-11-29,9543.0
+Finland,2021-12-06,10642.0
+Finland,2021-12-13,13823.0
+Finland,2021-12-20,21908.0
+Finland,2021-12-27,44059.0
+Finland,2022-01-03,58987.0
+Finland,2022-01-10,59945.0
+Finland,2022-01-17,56210.0
+Finland,2022-01-24,47732.0
+Finland,2022-01-31,44274.0
+Finland,2022-02-07,45399.0
+Finland,2022-02-14,44969.0
+Finland,2022-02-21,44561.0
+Finland,2022-02-28,41753.0
+Finland,2022-03-07,51210.0
+Finland,2022-03-14,53871.0
+Finland,2022-03-21,53568.0
+Finland,2022-03-28,44565.0
+Finland,2022-04-04,37918.0
+Finland,2022-04-11,29362.0
+Finland,2022-04-18,26688.0
+Finland,2022-04-25,19130.0
+Finland,2022-05-02,17586.0
+Finland,2022-05-09,13971.0
+Finland,2022-05-16,11369.0
+Finland,2022-05-23,10636.0
+Finland,2022-05-30,9648.0
+Finland,2022-06-06,4287.0
+France,2020-01-06,0.0
+France,2020-01-13,0.0
+France,2020-01-20,0.0
+France,2020-01-27,3.0
+France,2020-02-03,3.0
+France,2020-02-10,6.0
+France,2020-02-17,0.0
+France,2020-02-24,4.0
+France,2020-03-02,133.0
+France,2020-03-09,981.0
+France,2020-03-16,4297.0
+France,2020-03-23,11266.0
+France,2020-03-30,23485.0
+France,2020-04-06,31002.0
+France,2020-04-13,25898.0
+France,2020-04-20,16220.0
+France,2020-04-27,11120.0
+France,2020-05-04,6144.0
+France,2020-05-11,4046.0
+France,2020-05-18,3392.0
+France,2020-05-25,4668.0
+France,2020-06-01,4012.0
+France,2020-06-08,3170.0
+France,2020-06-15,3284.0
+France,2020-06-22,3559.0
+France,2020-06-29,3575.0
+France,2020-07-06,3834.0
+France,2020-07-13,4005.0
+France,2020-07-20,4513.0
+France,2020-07-27,6639.0
+France,2020-08-03,8517.0
+France,2020-08-10,11935.0
+France,2020-08-17,17353.0
+France,2020-08-24,28177.0
+France,2020-08-31,39986.0
+France,2020-09-07,52854.0
+France,2020-09-14,64706.0
+France,2020-09-21,75853.0
+France,2020-09-28,74124.0
+France,2020-10-05,79973.0
+France,2020-10-12,123089.0
+France,2020-10-19,174828.0
+France,2020-10-26,275475.0
+France,2020-11-02,334606.0
+France,2020-11-09,304647.0
+France,2020-11-16,178339.0
+France,2020-11-23,116391.0
+France,2020-11-30,78267.0
+France,2020-12-07,72129.0
+France,2020-12-14,78745.0
+France,2020-12-21,94319.0
+France,2020-12-28,85104.0
+France,2021-01-04,213499.0
+France,2021-01-11,120598.0
+France,2021-01-18,132695.0
+France,2021-01-25,134230.0
+France,2021-02-01,131751.0
+France,2021-02-08,114509.0
+France,2021-02-15,120536.0
+France,2021-02-22,130618.0
+France,2021-03-01,127029.0
+France,2021-03-08,144730.0
+France,2021-03-15,185686.0
+France,2021-03-22,226159.0
+France,2021-03-29,244901.0
+France,2021-04-05,205883.0
+France,2021-04-12,205276.0
+France,2021-04-19,182848.0
+France,2021-04-26,146406.0
+France,2021-05-03,109742.0
+France,2021-05-10,84111.0
+France,2021-05-17,85437.0
+France,2021-05-24,63401.0
+France,2021-05-31,49066.0
+France,2021-06-07,29340.0
+France,2021-06-14,17288.0
+France,2021-06-21,12858.0
+France,2021-06-28,15749.0
+France,2021-07-05,25738.0
+France,2021-07-12,51040.0
+France,2021-07-19,122790.0
+France,2021-07-26,153108.0
+France,2021-08-02,158592.0
+France,2021-08-09,166422.0
+France,2021-08-16,149868.0
+France,2021-08-23,125261.0
+France,2021-08-30,95498.0
+France,2021-09-06,70669.0
+France,2021-09-13,51163.0
+France,2021-09-20,39700.0
+France,2021-09-27,33506.0
+France,2021-10-04,29250.0
+France,2021-10-11,32843.0
+France,2021-10-18,36085.0
+France,2021-10-25,39946.0
+France,2021-11-01,49560.0
+France,2021-11-08,68055.0
+France,2021-11-15,122268.0
+France,2021-11-22,198036.0
+France,2021-11-29,292049.0
+France,2021-12-06,341145.0
+France,2021-12-13,365223.0
+France,2021-12-20,526052.0
+France,2021-12-27,1151117.0
+France,2022-01-03,1752836.0
+France,2022-01-10,2028035.0
+France,2022-01-17,2486551.0
+France,2022-01-24,2404210.0
+France,2022-01-31,1772483.0
+France,2022-02-07,1004471.0
+France,2022-02-14,597768.0
+France,2022-02-21,413598.0
+France,2022-02-28,363517.0
+France,2022-03-07,443492.0
+France,2022-03-14,606139.0
+France,2022-03-21,870396.0
+France,2022-03-28,976409.0
+France,2022-04-04,945487.0
+France,2022-04-11,839741.0
+France,2022-04-18,556868.0
+France,2022-04-25,394610.0
+France,2022-05-02,280568.0
+France,2022-05-09,231488.0
+France,2022-05-16,176051.0
+France,2022-05-23,125192.0
+France,2022-05-30,157726.0
+France,2022-06-06,205037.0
+Georgia,2020-01-06,0.0
+Georgia,2020-01-13,0.0
+Georgia,2020-01-20,0.0
+Georgia,2020-01-27,0.0
+Georgia,2020-02-03,0.0
+Georgia,2020-02-10,0.0
+Georgia,2020-02-17,0.0
+Georgia,2020-02-24,0.0
+Georgia,2020-03-02,3.0
+Georgia,2020-03-09,10.0
+Georgia,2020-03-16,17.0
+Georgia,2020-03-23,24.0
+Georgia,2020-03-30,36.0
+Georgia,2020-04-06,84.0
+Georgia,2020-04-13,83.0
+Georgia,2020-04-20,137.0
+Georgia,2020-04-27,92.0
+Georgia,2020-05-04,103.0
+Georgia,2020-05-11,46.0
+Georgia,2020-05-18,66.0
+Georgia,2020-05-25,29.0
+Georgia,2020-06-01,53.0
+Georgia,2020-06-08,25.0
+Georgia,2020-06-15,71.0
+Georgia,2020-06-22,29.0
+Georgia,2020-06-29,18.0
+Georgia,2020-07-06,27.0
+Georgia,2020-07-13,42.0
+Georgia,2020-07-20,33.0
+Georgia,2020-07-27,109.0
+Georgia,2020-08-03,40.0
+Georgia,2020-08-10,73.0
+Georgia,2020-08-17,91.0
+Georgia,2020-08-24,70.0
+Georgia,2020-08-31,76.0
+Georgia,2020-09-07,153.0
+Georgia,2020-09-14,752.0
+Georgia,2020-09-21,1303.0
+Georgia,2020-09-28,1857.0
+Georgia,2020-10-05,2566.0
+Georgia,2020-10-12,3676.0
+Georgia,2020-10-19,5683.0
+Georgia,2020-10-26,12826.0
+Georgia,2020-11-02,12276.0
+Georgia,2020-11-09,18101.0
+Georgia,2020-11-16,22155.0
+Georgia,2020-11-23,25855.0
+Georgia,2020-11-30,26894.0
+Georgia,2020-12-07,29392.0
+Georgia,2020-12-14,26087.0
+Georgia,2020-12-21,18399.0
+Georgia,2020-12-28,12681.0
+Georgia,2021-01-04,17637.0
+Georgia,2021-01-11,8135.0
+Georgia,2021-01-18,5901.0
+Georgia,2021-01-25,4535.0
+Georgia,2021-02-01,3877.0
+Georgia,2021-02-08,3494.0
+Georgia,2021-02-15,2780.0
+Georgia,2021-02-22,2416.0
+Georgia,2021-03-01,2080.0
+Georgia,2021-03-08,2150.0
+Georgia,2021-03-15,2502.0
+Georgia,2021-03-22,2651.0
+Georgia,2021-03-29,3760.0
+Georgia,2021-04-05,4335.0
+Georgia,2021-04-12,7540.0
+Georgia,2021-04-19,8336.0
+Georgia,2021-04-26,8682.0
+Georgia,2021-05-03,8965.0
+Georgia,2021-05-10,8456.0
+Georgia,2021-05-17,7586.0
+Georgia,2021-05-24,6002.0
+Georgia,2021-05-31,5442.0
+Georgia,2021-06-07,4871.0
+Georgia,2021-06-14,4605.0
+Georgia,2021-06-21,4993.0
+Georgia,2021-06-28,5174.0
+Georgia,2021-07-05,8763.0
+Georgia,2021-07-12,10518.0
+Georgia,2021-07-19,15694.0
+Georgia,2021-07-26,19820.0
+Georgia,2021-08-02,24070.0
+Georgia,2021-08-09,33665.0
+Georgia,2021-08-16,33166.0
+Georgia,2021-08-23,28374.0
+Georgia,2021-08-30,22839.0
+Georgia,2021-09-06,15858.0
+Georgia,2021-09-13,13449.0
+Georgia,2021-09-20,11891.0
+Georgia,2021-09-27,11465.0
+Georgia,2021-10-04,16963.0
+Georgia,2021-10-11,29230.0
+Georgia,2021-10-18,27427.0
+Georgia,2021-10-25,29148.0
+Georgia,2021-11-01,33658.0
+Georgia,2021-11-08,30865.0
+Georgia,2021-11-15,28186.0
+Georgia,2021-11-22,26496.0
+Georgia,2021-11-29,26478.0
+Georgia,2021-12-06,23742.0
+Georgia,2021-12-13,19643.0
+Georgia,2021-12-27,0.0
+Georgia,2022-01-03,24244.0
+Georgia,2022-01-10,36516.0
+Georgia,2022-01-17,60049.0
+Georgia,2022-01-24,116531.0
+Georgia,2022-01-31,149915.0
+Georgia,2022-02-07,132255.0
+Georgia,2022-02-14,95575.0
+Georgia,2022-02-21,51804.0
+Georgia,2022-02-28,20810.0
+Georgia,2022-03-07,9693.0
+Georgia,2022-03-14,6267.0
+Georgia,2022-03-21,4303.0
+Georgia,2022-03-28,2885.0
+Georgia,2022-04-04,2040.0
+Georgia,2022-04-11,1648.0
+Georgia,2022-04-18,1195.0
+Georgia,2022-04-25,908.0
+Georgia,2022-05-02,0.0
+Georgia,2022-05-09,0.0
+Georgia,2022-05-16,0.0
+Georgia,2022-05-23,1933.0
+Georgia,2022-05-30,575.0
+Georgia,2022-06-06,511.0
+Germany,2020-01-06,1.0
+Germany,2020-01-13,0.0
+Germany,2020-01-20,0.0
+Germany,2020-01-27,1.0
+Germany,2020-02-03,10.0
+Germany,2020-02-10,9.0
+Germany,2020-02-17,5.0
+Germany,2020-02-24,5.0
+Germany,2020-03-02,140.0
+Germany,2020-03-09,904.0
+Germany,2020-03-16,6437.0
+Germany,2020-03-23,22409.0
+Germany,2020-03-30,33972.0
+Germany,2020-04-06,36056.0
+Germany,2020-04-13,27138.0
+Germany,2020-04-20,17340.0
+Germany,2020-04-27,12355.0
+Germany,2020-05-04,7438.0
+Germany,2020-05-11,6240.0
+Germany,2020-05-18,4764.0
+Germany,2020-05-25,3605.0
+Germany,2020-06-01,3205.0
+Germany,2020-06-08,2353.0
+Germany,2020-06-15,2345.0
+Germany,2020-06-22,4186.0
+Germany,2020-06-29,3162.0
+Germany,2020-07-06,2693.0
+Germany,2020-07-13,2422.0
+Germany,2020-07-20,3040.0
+Germany,2020-07-27,3937.0
+Germany,2020-08-03,4841.0
+Germany,2020-08-10,6068.0
+Germany,2020-08-17,7955.0
+Germany,2020-08-24,9596.0
+Germany,2020-08-31,8834.0
+Germany,2020-09-07,8617.0
+Germany,2020-09-14,9764.0
+Germany,2020-09-21,12291.0
+Germany,2020-09-28,13070.0
+Germany,2020-10-05,15938.0
+Germany,2020-10-12,26129.0
+Germany,2020-10-19,42057.0
+Germany,2020-10-26,74882.0
+Germany,2020-11-02,111000.0
+Germany,2020-11-09,125747.0
+Germany,2020-11-16,127860.0
+Germany,2020-11-23,128406.0
+Germany,2020-11-30,123149.0
+Germany,2020-12-07,128361.0
+Germany,2020-12-14,156300.0
+Germany,2020-12-21,174673.0
+Germany,2020-12-28,138879.0
+Germany,2021-01-04,268553.0
+Germany,2021-01-11,118906.0
+Germany,2021-01-18,95543.0
+Germany,2021-01-25,78153.0
+Germany,2021-02-01,64578.0
+Germany,2021-02-08,50815.0
+Germany,2021-02-15,52433.0
+Germany,2021-02-22,56384.0
+Germany,2021-03-01,58418.0
+Germany,2021-03-08,71381.0
+Germany,2021-03-15,92642.0
+Germany,2021-03-22,116348.0
+Germany,2021-03-29,110135.0
+Germany,2021-04-05,118279.0
+Germany,2021-04-12,142096.0
+Germany,2021-04-19,144813.0
+Germany,2021-04-26,124830.0
+Germany,2021-05-03,100981.0
+Germany,2021-05-10,70820.0
+Germany,2021-05-17,52723.0
+Germany,2021-05-24,29898.0
+Germany,2021-05-31,20688.0
+Germany,2021-06-07,14071.0
+Germany,2021-06-14,7280.0
+Germany,2021-06-21,4850.0
+Germany,2021-06-28,4381.0
+Germany,2021-07-05,5585.0
+Germany,2021-07-12,9110.0
+Germany,2021-07-19,12640.0
+Germany,2021-07-26,15519.0
+Germany,2021-08-02,20428.0
+Germany,2021-08-09,32070.0
+Germany,2021-08-16,49654.0
+Germany,2021-08-23,66391.0
+Germany,2021-08-30,74746.0
+Germany,2021-09-06,71665.0
+Germany,2021-09-13,61479.0
+Germany,2021-09-20,53614.0
+Germany,2021-09-27,56487.0
+Germany,2021-10-04,58008.0
+Germany,2021-10-11,65351.0
+Germany,2021-10-18,97727.0
+Germany,2021-10-25,137016.0
+Germany,2021-11-01,177874.0
+Germany,2021-11-08,271177.0
+Germany,2021-11-15,351672.0
+Germany,2021-11-22,403340.0
+Germany,2021-11-29,388159.0
+Germany,2021-12-06,338141.0
+Germany,2021-12-13,273592.0
+Germany,2021-12-20,193866.0
+Germany,2021-12-27,208730.0
+Germany,2022-01-03,338084.0
+Germany,2022-01-10,486032.0
+Germany,2022-01-17,796555.0
+Germany,2022-01-24,1112838.0
+Germany,2022-01-31,1292826.0
+Germany,2022-02-07,1310164.0
+Germany,2022-02-14,1193518.0
+Germany,2022-02-21,1092959.0
+Germany,2022-02-28,1131381.0
+Germany,2022-03-07,1408389.0
+Germany,2022-03-14,1578472.0
+Germany,2022-03-21,1585166.0
+Germany,2022-03-28,1291595.0
+Germany,2022-04-04,982093.0
+Germany,2022-04-11,778189.0
+Germany,2022-04-18,731426.0
+Germany,2022-04-25,595844.0
+Germany,2022-05-02,471391.0
+Germany,2022-05-09,408970.0
+Germany,2022-05-16,292610.0
+Germany,2022-05-23,186674.0
+Germany,2022-05-30,244116.0
+Germany,2022-06-06,320468.0
+Gibraltar,2020-03-23,15.0
+Gibraltar,2020-03-30,50.0
+Gibraltar,2020-04-06,38.0
+Gibraltar,2020-04-13,26.0
+Gibraltar,2020-04-20,4.0
+Gibraltar,2020-04-27,8.0
+Gibraltar,2020-05-04,3.0
+Gibraltar,2020-05-11,2.0
+Gibraltar,2020-05-18,1.0
+Gibraltar,2020-05-25,4.0
+Gibraltar,2020-06-01,18.0
+Gibraltar,2020-06-08,6.0
+Gibraltar,2020-06-15,1.0
+Gibraltar,2020-06-22,0.0
+Gibraltar,2020-06-29,1.0
+Gibraltar,2020-07-06,1.0
+Gibraltar,2020-07-13,2.0
+Gibraltar,2020-07-20,0.0
+Gibraltar,2020-07-27,5.0
+Gibraltar,2020-08-03,3.0
+Gibraltar,2020-08-10,9.0
+Gibraltar,2020-08-17,18.0
+Gibraltar,2020-08-24,14.0
+Gibraltar,2020-08-31,56.0
+Gibraltar,2020-09-07,30.0
+Gibraltar,2020-09-14,15.0
+Gibraltar,2020-09-21,20.0
+Gibraltar,2020-09-28,29.0
+Gibraltar,2020-10-05,53.0
+Gibraltar,2020-10-12,53.0
+Gibraltar,2020-10-19,86.0
+Gibraltar,2020-10-26,96.0
+Gibraltar,2020-11-02,36.0
+Gibraltar,2020-11-09,90.0
+Gibraltar,2020-11-16,109.0
+Gibraltar,2020-11-23,56.0
+Gibraltar,2020-11-30,56.0
+Gibraltar,2020-12-07,39.0
+Gibraltar,2020-12-14,22.0
+Gibraltar,2020-12-21,169.0
+Gibraltar,2020-12-28,462.0
+Gibraltar,2021-01-04,1464.0
+Gibraltar,2021-01-11,500.0
+Gibraltar,2021-01-18,296.0
+Gibraltar,2021-01-25,148.0
+Gibraltar,2021-02-01,73.0
+Gibraltar,2021-02-08,32.0
+Gibraltar,2021-02-15,9.0
+Gibraltar,2021-02-22,11.0
+Gibraltar,2021-03-01,10.0
+Gibraltar,2021-03-08,14.0
+Gibraltar,2021-03-15,7.0
+Gibraltar,2021-03-22,3.0
+Gibraltar,2021-03-29,2.0
+Gibraltar,2021-04-05,2.0
+Gibraltar,2021-04-12,6.0
+Gibraltar,2021-04-19,0.0
+Gibraltar,2021-04-26,0.0
+Gibraltar,2021-05-03,3.0
+Gibraltar,2021-05-10,0.0
+Gibraltar,2021-05-17,2.0
+Gibraltar,2021-05-24,5.0
+Gibraltar,2021-05-31,7.0
+Gibraltar,2021-06-07,12.0
+Gibraltar,2021-06-14,9.0
+Gibraltar,2021-06-21,24.0
+Gibraltar,2021-06-28,21.0
+Gibraltar,2021-07-05,64.0
+Gibraltar,2021-07-12,165.0
+Gibraltar,2021-07-19,204.0
+Gibraltar,2021-07-26,181.0
+Gibraltar,2021-08-02,147.0
+Gibraltar,2021-08-09,85.0
+Gibraltar,2021-08-16,75.0
+Gibraltar,2021-08-23,51.0
+Gibraltar,2021-08-30,0.0
+Gibraltar,2021-09-06,93.0
+Gibraltar,2021-09-13,46.0
+Gibraltar,2021-09-20,37.0
+Gibraltar,2021-09-27,59.0
+Gibraltar,2021-10-04,53.0
+Gibraltar,2021-10-11,132.0
+Gibraltar,2021-10-18,116.0
+Gibraltar,2021-10-25,118.0
+Gibraltar,2021-11-01,161.0
+Gibraltar,2021-11-08,356.0
+Gibraltar,2021-11-15,411.0
+Gibraltar,2021-11-22,259.0
+Gibraltar,2021-11-29,192.0
+Gibraltar,2021-12-06,154.0
+Gibraltar,2021-12-13,297.0
+Gibraltar,2021-12-27,0.0
+Gibraltar,2022-01-03,964.0
+Gibraltar,2022-01-10,942.0
+Gibraltar,2022-01-17,1002.0
+Gibraltar,2022-01-24,1013.0
+Gibraltar,2022-01-31,801.0
+Gibraltar,2022-02-07,815.0
+Gibraltar,2022-02-14,409.0
+Gibraltar,2022-02-21,555.0
+Gibraltar,2022-02-28,249.0
+Gibraltar,2022-03-07,252.0
+Gibraltar,2022-03-14,365.0
+Gibraltar,2022-03-21,416.0
+Gibraltar,2022-03-28,363.0
+Gibraltar,2022-04-04,163.0
+Gibraltar,2022-04-11,258.0
+Gibraltar,2022-04-18,212.0
+Gibraltar,2022-04-25,131.0
+Gibraltar,2022-05-02,159.0
+Gibraltar,2022-05-09,133.0
+Gibraltar,2022-05-16,144.0
+Gibraltar,2022-05-23,146.0
+Gibraltar,2022-05-30,141.0
+Gibraltar,2022-06-06,246.0
+Greece,2020-01-06,0.0
+Greece,2020-01-13,0.0
+Greece,2020-01-20,0.0
+Greece,2020-01-27,0.0
+Greece,2020-02-03,0.0
+Greece,2020-02-10,0.0
+Greece,2020-02-17,0.0
+Greece,2020-02-24,0.0
+Greece,2020-03-02,6.0
+Greece,2020-03-09,80.0
+Greece,2020-03-16,323.0
+Greece,2020-03-23,378.0
+Greece,2020-03-30,537.0
+Greece,2020-04-06,530.0
+Greece,2020-04-13,288.0
+Greece,2020-04-20,117.0
+Greece,2020-04-27,301.0
+Greece,2020-05-04,103.0
+Greece,2020-05-11,100.0
+Greece,2020-05-18,104.0
+Greece,2020-05-25,47.0
+Greece,2020-06-01,47.0
+Greece,2020-06-08,135.0
+Greece,2020-06-15,120.0
+Greece,2020-06-22,114.0
+Greece,2020-06-29,119.0
+Greece,2020-07-06,203.0
+Greece,2020-07-13,257.0
+Greece,2020-07-20,175.0
+Greece,2020-07-27,246.0
+Greece,2020-08-03,560.0
+Greece,2020-08-10,1080.0
+Greece,2020-08-17,1594.0
+Greece,2020-08-24,1662.0
+Greece,2020-08-31,1445.0
+Greece,2020-09-07,1343.0
+Greece,2020-09-14,1758.0
+Greece,2020-09-21,2235.0
+Greece,2020-09-28,2188.0
+Greece,2020-10-05,2390.0
+Greece,2020-10-12,2489.0
+Greece,2020-10-19,3346.0
+Greece,2020-10-26,6286.0
+Greece,2020-11-02,11261.0
+Greece,2020-11-09,17209.0
+Greece,2020-11-16,18341.0
+Greece,2020-11-23,16355.0
+Greece,2020-11-30,12347.0
+Greece,2020-12-07,10606.0
+Greece,2020-12-14,8296.0
+Greece,2020-12-21,6011.0
+Greece,2020-12-28,4283.0
+Greece,2021-01-04,9123.0
+Greece,2021-01-11,3558.0
+Greece,2021-01-18,3367.0
+Greece,2021-01-25,5462.0
+Greece,2021-02-01,7429.0
+Greece,2021-02-08,8490.0
+Greece,2021-02-15,8126.0
+Greece,2021-02-22,11842.0
+Greece,2021-03-01,14535.0
+Greece,2021-03-08,16794.0
+Greece,2021-03-15,16554.0
+Greece,2021-03-22,17825.0
+Greece,2021-03-29,22214.0
+Greece,2021-04-05,20969.0
+Greece,2021-04-12,19736.0
+Greece,2021-04-19,18126.0
+Greece,2021-04-26,14745.0
+Greece,2021-05-03,15250.0
+Greece,2021-05-10,15057.0
+Greece,2021-05-17,12427.0
+Greece,2021-05-24,11014.0
+Greece,2021-05-31,7478.0
+Greece,2021-06-07,4932.0
+Greece,2021-06-14,3089.0
+Greece,2021-06-21,2570.0
+Greece,2021-06-28,5171.0
+Greece,2021-07-05,13642.0
+Greece,2021-07-12,17959.0
+Greece,2021-07-19,18085.0
+Greece,2021-07-26,18504.0
+Greece,2021-08-02,19582.0
+Greece,2021-08-09,22561.0
+Greece,2021-08-16,22365.0
+Greece,2021-08-23,21706.0
+Greece,2021-08-30,17523.0
+Greece,2021-09-06,14652.0
+Greece,2021-09-13,15285.0
+Greece,2021-09-20,14094.0
+Greece,2021-09-27,14931.0
+Greece,2021-10-04,15327.0
+Greece,2021-10-11,17446.0
+Greece,2021-10-18,22598.0
+Greece,2021-10-25,26689.0
+Greece,2021-11-01,43343.0
+Greece,2021-11-08,46401.0
+Greece,2021-11-15,46884.0
+Greece,2021-11-22,45117.0
+Greece,2021-11-29,41126.0
+Greece,2021-12-06,35782.0
+Greece,2021-12-13,30821.0
+Greece,2021-12-20,46306.0
+Greece,2021-12-27,201451.0
+Greece,2022-01-03,241289.0
+Greece,2022-01-10,145803.0
+Greece,2022-01-17,132220.0
+Greece,2022-01-24,127634.0
+Greece,2022-01-31,124686.0
+Greece,2022-02-07,125152.0
+Greece,2022-02-14,123790.0
+Greece,2022-02-21,104766.0
+Greece,2022-02-28,103646.0
+Greece,2022-03-07,129958.0
+Greece,2022-03-14,152084.0
+Greece,2022-03-21,143801.0
+Greece,2022-03-28,143824.0
+Greece,2022-04-04,98873.0
+Greece,2022-04-11,62217.0
+Greece,2022-04-18,44011.0
+Greece,2022-04-25,45128.0
+Greece,2022-05-02,32495.0
+Greece,2022-05-09,30778.0
+Greece,2022-05-16,26867.0
+Greece,2022-05-23,25475.0
+Greece,2022-05-30,25048.0
+Greece,2022-06-06,30561.0
+Guernsey,2020-03-23,17.0
+Guernsey,2020-03-30,28.0
+Guernsey,2020-04-06,109.0
+Guernsey,2020-04-13,64.0
+Guernsey,2020-04-20,21.0
+Guernsey,2020-04-27,8.0
+Guernsey,2020-05-04,5.0
+Guernsey,2020-05-11,0.0
+Guernsey,2020-05-18,0.0
+Guernsey,2020-05-25,0.0
+Guernsey,2020-06-01,0.0
+Guernsey,2020-06-08,0.0
+Guernsey,2020-06-15,0.0
+Guernsey,2020-06-22,0.0
+Guernsey,2020-06-29,0.0
+Guernsey,2020-07-06,0.0
+Guernsey,2020-07-13,0.0
+Guernsey,2020-07-20,0.0
+Guernsey,2020-07-27,0.0
+Guernsey,2020-08-03,0.0
+Guernsey,2020-08-10,0.0
+Guernsey,2020-08-17,0.0
+Guernsey,2020-08-24,0.0
+Guernsey,2020-08-31,0.0
+Guernsey,2020-09-07,0.0
+Guernsey,2020-09-14,1.0
+Guernsey,2020-09-21,2.0
+Guernsey,2020-09-28,1.0
+Guernsey,2020-10-05,1.0
+Guernsey,2020-10-12,1.0
+Guernsey,2020-10-19,0.0
+Guernsey,2020-10-26,7.0
+Guernsey,2020-11-02,5.0
+Guernsey,2020-11-09,9.0
+Guernsey,2020-11-16,3.0
+Guernsey,2020-11-23,1.0
+Guernsey,2020-11-30,3.0
+Guernsey,2020-12-07,2.0
+Guernsey,2020-12-14,1.0
+Guernsey,2020-12-21,4.0
+Guernsey,2020-12-28,4.0
+Guernsey,2021-01-04,8.0
+Guernsey,2021-01-11,4.0
+Guernsey,2021-01-18,12.0
+Guernsey,2021-01-25,218.0
+Guernsey,2021-02-01,202.0
+Guernsey,2021-02-08,56.0
+Guernsey,2021-02-15,16.0
+Guernsey,2021-02-22,8.0
+Guernsey,2021-03-01,0.0
+Guernsey,2021-03-08,0.0
+Guernsey,2021-03-15,0.0
+Guernsey,2021-03-22,0.0
+Guernsey,2021-03-29,0.0
+Guernsey,2021-04-05,0.0
+Guernsey,2021-04-12,1.0
+Guernsey,2021-04-19,0.0
+Guernsey,2021-04-26,0.0
+Guernsey,2021-05-03,0.0
+Guernsey,2021-05-10,0.0
+Guernsey,2021-05-17,0.0
+Guernsey,2021-05-24,1.0
+Guernsey,2021-05-31,0.0
+Guernsey,2021-06-07,2.0
+Guernsey,2021-06-14,2.0
+Guernsey,2021-06-21,8.0
+Guernsey,2021-06-28,12.0
+Guernsey,2021-07-05,10.0
+Guernsey,2021-07-12,37.0
+Guernsey,2021-07-19,35.0
+Guernsey,2021-07-26,27.0
+Guernsey,2021-08-02,51.0
+Guernsey,2021-08-09,78.0
+Guernsey,2021-08-16,95.0
+Guernsey,2021-08-23,57.0
+Guernsey,2021-08-30,138.0
+Guernsey,2021-09-06,42.0
+Guernsey,2021-09-13,84.0
+Guernsey,2021-09-20,78.0
+Guernsey,2021-09-27,68.0
+Guernsey,2021-10-04,71.0
+Guernsey,2021-10-11,99.0
+Guernsey,2021-10-18,168.0
+Guernsey,2021-10-25,185.0
+Guernsey,2021-11-01,142.0
+Guernsey,2021-11-08,459.0
+Guernsey,2021-11-15,224.0
+Guernsey,2021-11-22,937.0
+Guernsey,2021-11-29,701.0
+Guernsey,2021-12-06,596.0
+Guernsey,2021-12-13,588.0
+Guernsey,2021-12-27,0.0
+Guernsey,2022-01-03,1539.0
+Guernsey,2022-01-10,661.0
+Guernsey,2022-01-17,356.0
+Guernsey,2022-01-24,426.0
+Guernsey,2022-01-31,599.0
+Guernsey,2022-02-07,731.0
+Guernsey,2022-02-14,753.0
+Guernsey,2022-02-21,353.0
+Guernsey,2022-02-28,931.0
+Guernsey,2022-03-07,1196.0
+Guernsey,2022-03-14,2219.0
+Guernsey,2022-03-21,2936.0
+Guernsey,2022-03-28,1472.0
+Guernsey,2022-04-04,0.0
+Guernsey,2022-04-11,1427.0
+Guernsey,2022-04-18,517.0
+Guernsey,2022-04-25,372.0
+Guernsey,2022-05-02,259.0
+Guernsey,2022-05-09,238.0
+Guernsey,2022-05-16,258.0
+Guernsey,2022-05-23,251.0
+Guernsey,2022-05-30,0.0
+Guernsey,2022-06-06,295.0
+Holy See,2020-03-16,1.0
+Holy See,2020-03-23,0.0
+Holy See,2020-03-30,5.0
+Holy See,2020-04-06,1.0
+Holy See,2020-04-13,1.0
+Holy See,2020-04-20,0.0
+Holy See,2020-04-27,1.0
+Holy See,2020-05-04,2.0
+Holy See,2020-05-11,1.0
+Holy See,2020-05-18,0.0
+Holy See,2020-05-25,0.0
+Holy See,2020-06-01,0.0
+Holy See,2020-06-08,0.0
+Holy See,2020-06-15,0.0
+Holy See,2020-06-22,0.0
+Holy See,2020-06-29,0.0
+Holy See,2020-07-06,0.0
+Holy See,2020-07-13,0.0
+Holy See,2020-07-20,0.0
+Holy See,2020-07-27,0.0
+Holy See,2020-08-03,0.0
+Holy See,2020-08-10,0.0
+Holy See,2020-08-17,0.0
+Holy See,2020-08-24,0.0
+Holy See,2020-08-31,0.0
+Holy See,2020-09-07,0.0
+Holy See,2020-09-14,0.0
+Holy See,2020-09-21,0.0
+Holy See,2020-09-28,0.0
+Holy See,2020-10-05,0.0
+Holy See,2020-10-12,0.0
+Holy See,2020-10-19,14.0
+Holy See,2020-10-26,0.0
+Holy See,2020-11-02,0.0
+Holy See,2020-11-09,0.0
+Holy See,2020-11-16,0.0
+Holy See,2020-11-23,0.0
+Holy See,2020-11-30,0.0
+Holy See,2020-12-07,0.0
+Holy See,2020-12-14,0.0
+Holy See,2020-12-21,0.0
+Holy See,2020-12-28,0.0
+Holy See,2021-01-04,0.0
+Holy See,2021-01-11,0.0
+Holy See,2021-01-18,0.0
+Holy See,2021-01-25,0.0
+Holy See,2021-02-01,0.0
+Holy See,2021-02-08,0.0
+Holy See,2021-02-15,0.0
+Holy See,2021-02-22,0.0
+Holy See,2021-03-01,0.0
+Holy See,2021-03-08,0.0
+Holy See,2021-03-15,0.0
+Holy See,2021-03-22,0.0
+Holy See,2021-03-29,0.0
+Holy See,2021-04-05,0.0
+Holy See,2021-04-12,0.0
+Holy See,2021-04-19,0.0
+Holy See,2021-04-26,0.0
+Holy See,2021-05-03,0.0
+Holy See,2021-05-10,0.0
+Holy See,2021-05-17,0.0
+Holy See,2021-05-24,0.0
+Holy See,2021-05-31,0.0
+Holy See,2021-06-07,0.0
+Holy See,2021-06-14,0.0
+Holy See,2021-06-21,0.0
+Holy See,2021-06-28,0.0
+Holy See,2021-07-05,0.0
+Holy See,2021-07-12,0.0
+Holy See,2021-07-19,0.0
+Holy See,2021-07-26,0.0
+Holy See,2021-08-02,0.0
+Holy See,2021-08-09,0.0
+Holy See,2021-08-16,0.0
+Holy See,2021-08-23,0.0
+Holy See,2021-08-30,0.0
+Holy See,2021-09-06,0.0
+Holy See,2021-09-13,0.0
+Holy See,2021-09-20,0.0
+Holy See,2021-09-27,0.0
+Holy See,2021-10-04,0.0
+Holy See,2021-10-11,0.0
+Holy See,2021-10-18,0.0
+Holy See,2021-10-25,0.0
+Holy See,2021-11-01,0.0
+Holy See,2021-11-08,0.0
+Holy See,2021-11-15,0.0
+Holy See,2021-11-22,0.0
+Holy See,2021-11-29,0.0
+Holy See,2021-12-06,0.0
+Holy See,2021-12-13,0.0
+Holy See,2021-12-27,0.0
+Holy See,2022-01-03,0.0
+Holy See,2022-01-10,0.0
+Holy See,2022-01-17,0.0
+Holy See,2022-01-24,0.0
+Holy See,2022-01-31,0.0
+Holy See,2022-02-07,0.0
+Holy See,2022-02-14,0.0
+Holy See,2022-02-21,0.0
+Holy See,2022-02-28,0.0
+Holy See,2022-03-07,2.0
+Holy See,2022-03-14,0.0
+Holy See,2022-03-21,0.0
+Holy See,2022-03-28,0.0
+Holy See,2022-04-04,0.0
+Holy See,2022-04-11,0.0
+Holy See,2022-04-18,0.0
+Holy See,2022-04-25,0.0
+Holy See,2022-05-02,0.0
+Holy See,2022-05-09,0.0
+Holy See,2022-05-16,0.0
+Holy See,2022-05-23,0.0
+Holy See,2022-05-30,0.0
+Holy See,2022-06-06,0.0
+Hungary,2020-01-06,0.0
+Hungary,2020-01-13,0.0
+Hungary,2020-01-20,0.0
+Hungary,2020-01-27,0.0
+Hungary,2020-02-03,0.0
+Hungary,2020-02-10,0.0
+Hungary,2020-02-17,0.0
+Hungary,2020-02-24,0.0
+Hungary,2020-03-02,0.0
+Hungary,2020-03-09,9.0
+Hungary,2020-03-16,30.0
+Hungary,2020-03-23,126.0
+Hungary,2020-03-30,279.0
+Hungary,2020-04-06,296.0
+Hungary,2020-04-13,711.0
+Hungary,2020-04-20,523.0
+Hungary,2020-04-27,602.0
+Hungary,2020-05-04,454.0
+Hungary,2020-05-11,249.0
+Hungary,2020-05-18,251.0
+Hungary,2020-05-25,220.0
+Hungary,2020-06-01,137.0
+Hungary,2020-06-08,122.0
+Hungary,2020-06-15,61.0
+Hungary,2020-06-22,32.0
+Hungary,2020-06-29,43.0
+Hungary,2020-07-06,44.0
+Hungary,2020-07-13,57.0
+Hungary,2020-07-20,90.0
+Hungary,2020-07-27,112.0
+Hungary,2020-08-03,96.0
+Hungary,2020-08-10,187.0
+Hungary,2020-08-17,215.0
+Hungary,2020-08-24,245.0
+Hungary,2020-08-31,948.0
+Hungary,2020-09-07,2814.0
+Hungary,2020-09-14,4197.0
+Hungary,2020-09-21,5706.0
+Hungary,2020-09-28,5855.0
+Hungary,2020-10-05,6761.0
+Hungary,2020-10-12,7360.0
+Hungary,2020-10-19,8931.0
+Hungary,2020-10-26,13797.0
+Hungary,2020-11-02,21208.0
+Hungary,2020-11-09,32004.0
+Hungary,2020-11-16,32677.0
+Hungary,2020-11-23,30498.0
+Hungary,2020-11-30,39173.0
+Hungary,2020-12-07,37025.0
+Hungary,2020-12-14,29698.0
+Hungary,2020-12-21,21255.0
+Hungary,2020-12-28,11534.0
+Hungary,2021-01-04,26985.0
+Hungary,2021-01-11,9047.0
+Hungary,2021-01-18,7713.0
+Hungary,2021-01-25,8290.0
+Hungary,2021-02-01,8944.0
+Hungary,2021-02-08,11173.0
+Hungary,2021-02-15,16714.0
+Hungary,2021-02-22,27374.0
+Hungary,2021-03-01,35792.0
+Hungary,2021-03-08,55481.0
+Hungary,2021-03-15,56441.0
+Hungary,2021-03-22,60477.0
+Hungary,2021-03-29,48756.0
+Hungary,2021-04-05,35412.0
+Hungary,2021-04-12,27952.0
+Hungary,2021-04-19,18283.0
+Hungary,2021-04-26,12716.0
+Hungary,2021-05-03,8275.0
+Hungary,2021-05-10,6197.0
+Hungary,2021-05-17,3773.0
+Hungary,2021-05-24,2192.0
+Hungary,2021-05-31,1551.0
+Hungary,2021-06-07,956.0
+Hungary,2021-06-14,585.0
+Hungary,2021-06-21,412.0
+Hungary,2021-06-28,220.0
+Hungary,2021-07-05,277.0
+Hungary,2021-07-12,325.0
+Hungary,2021-07-19,398.0
+Hungary,2021-07-26,384.0
+Hungary,2021-08-02,365.0
+Hungary,2021-08-09,493.0
+Hungary,2021-08-16,617.0
+Hungary,2021-08-23,1106.0
+Hungary,2021-08-30,1461.0
+Hungary,2021-09-06,1917.0
+Hungary,2021-09-13,2626.0
+Hungary,2021-09-20,3029.0
+Hungary,2021-09-27,3616.0
+Hungary,2021-10-04,4581.0
+Hungary,2021-10-11,6932.0
+Hungary,2021-10-18,14123.0
+Hungary,2021-10-25,24117.0
+Hungary,2021-11-01,35368.0
+Hungary,2021-11-08,50847.0
+Hungary,2021-11-15,64853.0
+Hungary,2021-11-22,71021.0
+Hungary,2021-11-29,60849.0
+Hungary,2021-12-06,41371.0
+Hungary,2021-12-13,29461.0
+Hungary,2021-12-20,16919.0
+Hungary,2021-12-27,16960.0
+Hungary,2022-01-03,35331.0
+Hungary,2022-01-10,50618.0
+Hungary,2022-01-17,93154.0
+Hungary,2022-01-24,112019.0
+Hungary,2022-01-31,97160.0
+Hungary,2022-02-07,66512.0
+Hungary,2022-02-14,42613.0
+Hungary,2022-02-21,27859.0
+Hungary,2022-02-28,18354.0
+Hungary,2022-03-07,12530.0
+Hungary,2022-03-14,11500.0
+Hungary,2022-03-21,14652.0
+Hungary,2022-03-28,14053.0
+Hungary,2022-04-04,14031.0
+Hungary,2022-04-11,11547.0
+Hungary,2022-04-18,10067.0
+Hungary,2022-04-25,8922.0
+Hungary,2022-05-02,6748.0
+Hungary,2022-05-09,4749.0
+Hungary,2022-05-16,3080.0
+Hungary,2022-05-23,2063.0
+Hungary,2022-05-30,1646.0
+Hungary,2022-06-06,1636.0
+Iceland,2020-01-06,0.0
+Iceland,2020-01-13,0.0
+Iceland,2020-01-20,0.0
+Iceland,2020-01-27,0.0
+Iceland,2020-02-03,0.0
+Iceland,2020-02-10,15.0
+Iceland,2020-02-17,0.0
+Iceland,2020-02-24,0.0
+Iceland,2020-03-02,7.0
+Iceland,2020-03-09,53.0
+Iceland,2020-03-16,117.0
+Iceland,2020-03-23,461.0
+Iceland,2020-03-30,509.0
+Iceland,2020-04-06,440.0
+Iceland,2020-04-13,135.0
+Iceland,2020-04-20,53.0
+Iceland,2020-04-27,16.0
+Iceland,2020-05-04,7.0
+Iceland,2020-05-11,2.0
+Iceland,2020-05-18,1.0
+Iceland,2020-05-25,2.0
+Iceland,2020-06-01,2.0
+Iceland,2020-06-08,1.0
+Iceland,2020-06-15,2.0
+Iceland,2020-06-22,5.0
+Iceland,2020-06-29,6.0
+Iceland,2020-07-06,9.0
+Iceland,2020-07-13,3.0
+Iceland,2020-07-20,6.0
+Iceland,2020-07-27,16.0
+Iceland,2020-08-03,59.0
+Iceland,2020-08-10,47.0
+Iceland,2020-08-17,54.0
+Iceland,2020-08-24,55.0
+Iceland,2020-08-31,41.0
+Iceland,2020-09-07,32.0
+Iceland,2020-09-14,25.0
+Iceland,2020-09-21,212.0
+Iceland,2020-09-28,280.0
+Iceland,2020-10-05,321.0
+Iceland,2020-10-12,603.0
+Iceland,2020-10-19,532.0
+Iceland,2020-10-26,397.0
+Iceland,2020-11-02,408.0
+Iceland,2020-11-09,174.0
+Iceland,2020-11-16,108.0
+Iceland,2020-11-23,80.0
+Iceland,2020-11-30,107.0
+Iceland,2020-12-07,105.0
+Iceland,2020-12-14,64.0
+Iceland,2020-12-21,89.0
+Iceland,2020-12-28,82.0
+Iceland,2021-01-04,175.0
+Iceland,2021-01-11,70.0
+Iceland,2021-01-18,19.0
+Iceland,2021-01-25,22.0
+Iceland,2021-02-01,12.0
+Iceland,2021-02-08,15.0
+Iceland,2021-02-15,10.0
+Iceland,2021-02-22,10.0
+Iceland,2021-03-01,11.0
+Iceland,2021-03-08,19.0
+Iceland,2021-03-15,38.0
+Iceland,2021-03-22,61.0
+Iceland,2021-03-29,50.0
+Iceland,2021-04-05,34.0
+Iceland,2021-04-12,62.0
+Iceland,2021-04-19,65.0
+Iceland,2021-04-26,54.0
+Iceland,2021-05-03,35.0
+Iceland,2021-05-10,30.0
+Iceland,2021-05-17,7.0
+Iceland,2021-05-24,30.0
+Iceland,2021-05-31,28.0
+Iceland,2021-06-07,11.0
+Iceland,2021-06-14,10.0
+Iceland,2021-06-21,17.0
+Iceland,2021-06-28,16.0
+Iceland,2021-07-05,25.0
+Iceland,2021-07-12,99.0
+Iceland,2021-07-19,519.0
+Iceland,2021-07-26,815.0
+Iceland,2021-08-02,776.0
+Iceland,2021-08-09,680.0
+Iceland,2021-08-16,605.0
+Iceland,2021-08-23,525.0
+Iceland,2021-08-30,355.0
+Iceland,2021-09-06,219.0
+Iceland,2021-09-13,189.0
+Iceland,2021-09-20,251.0
+Iceland,2021-09-27,235.0
+Iceland,2021-10-04,285.0
+Iceland,2021-10-11,373.0
+Iceland,2021-10-18,525.0
+Iceland,2021-10-25,601.0
+Iceland,2021-11-01,827.0
+Iceland,2021-11-08,1175.0
+Iceland,2021-11-15,1058.0
+Iceland,2021-11-22,975.0
+Iceland,2021-11-29,868.0
+Iceland,2021-12-06,901.0
+Iceland,2021-12-13,1352.0
+Iceland,2021-12-20,3319.0
+Iceland,2021-12-27,6853.0
+Iceland,2022-01-03,8921.0
+Iceland,2022-01-10,8442.0
+Iceland,2022-01-17,9874.0
+Iceland,2022-01-24,9188.0
+Iceland,2022-01-31,10475.0
+Iceland,2022-02-07,13792.0
+Iceland,2022-02-14,17366.0
+Iceland,2022-02-21,13322.0
+Iceland,2022-02-28,16895.0
+Iceland,2022-03-07,19640.0
+Iceland,2022-03-14,13313.0
+Iceland,2022-03-21,7342.0
+Iceland,2022-03-28,3024.0
+Iceland,2022-04-04,1622.0
+Iceland,2022-04-11,875.0
+Iceland,2022-04-18,866.0
+Iceland,2022-04-25,551.0
+Iceland,2022-05-02,451.0
+Iceland,2022-05-09,778.0
+Iceland,2022-05-16,863.0
+Iceland,2022-05-23,809.0
+Iceland,2022-05-30,1159.0
+Iceland,2022-06-06,1412.0
+Ireland,2020-01-06,0.0
+Ireland,2020-01-13,0.0
+Ireland,2020-01-20,0.0
+Ireland,2020-01-27,0.0
+Ireland,2020-02-03,0.0
+Ireland,2020-02-10,0.0
+Ireland,2020-02-17,0.0
+Ireland,2020-02-24,0.0
+Ireland,2020-03-02,0.0
+Ireland,2020-03-09,18.0
+Ireland,2020-03-16,152.0
+Ireland,2020-03-23,781.0
+Ireland,2020-03-30,1689.0
+Ireland,2020-04-06,2885.0
+Ireland,2020-04-13,4727.0
+Ireland,2020-04-20,4971.0
+Ireland,2020-04-27,3900.0
+Ireland,2020-05-04,2339.0
+Ireland,2020-05-11,1453.0
+Ireland,2020-05-18,1124.0
+Ireland,2020-05-25,481.0
+Ireland,2020-06-01,445.0
+Ireland,2020-06-08,166.0
+Ireland,2020-06-15,119.0
+Ireland,2020-06-22,81.0
+Ireland,2020-06-29,81.0
+Ireland,2020-07-06,72.0
+Ireland,2020-07-13,134.0
+Ireland,2020-07-20,134.0
+Ireland,2020-07-27,122.0
+Ireland,2020-08-03,319.0
+Ireland,2020-08-10,552.0
+Ireland,2020-08-17,542.0
+Ireland,2020-08-24,804.0
+Ireland,2020-08-31,703.0
+Ireland,2020-09-07,959.0
+Ireland,2020-09-14,1407.0
+Ireland,2020-09-21,1926.0
+Ireland,2020-09-28,2258.0
+Ireland,2020-10-05,3163.0
+Ireland,2020-10-12,4756.0
+Ireland,2020-10-19,7588.0
+Ireland,2020-10-26,7000.0
+Ireland,2020-11-02,4652.0
+Ireland,2020-11-09,2939.0
+Ireland,2020-11-16,2769.0
+Ireland,2020-11-23,2379.0
+Ireland,2020-11-30,1849.0
+Ireland,2020-12-07,1965.0
+Ireland,2020-12-14,1984.0
+Ireland,2020-12-21,3830.0
+Ireland,2020-12-28,6632.0
+Ireland,2021-01-04,65451.0
+Ireland,2021-01-11,22332.0
+Ireland,2021-01-18,14059.0
+Ireland,2021-01-25,8609.0
+Ireland,2021-02-01,6906.0
+Ireland,2021-02-08,6014.0
+Ireland,2021-02-15,5388.0
+Ireland,2021-02-22,4547.0
+Ireland,2021-03-01,3377.0
+Ireland,2021-03-08,3671.0
+Ireland,2021-03-15,3782.0
+Ireland,2021-03-22,3996.0
+Ireland,2021-03-29,3390.0
+Ireland,2021-04-05,2872.0
+Ireland,2021-04-12,2594.0
+Ireland,2021-04-19,3152.0
+Ireland,2021-04-26,3224.0
+Ireland,2021-05-03,2912.0
+Ireland,2021-05-10,3006.0
+Ireland,2021-05-17,2848.0
+Ireland,2021-05-24,2806.0
+Ireland,2021-05-31,2751.0
+Ireland,2021-06-07,2075.0
+Ireland,2021-06-14,2033.0
+Ireland,2021-06-21,2300.0
+Ireland,2021-06-28,3054.0
+Ireland,2021-07-05,3663.0
+Ireland,2021-07-12,6808.0
+Ireland,2021-07-19,8610.0
+Ireland,2021-07-26,9079.0
+Ireland,2021-08-02,10235.0
+Ireland,2021-08-09,11269.0
+Ireland,2021-08-16,12717.0
+Ireland,2021-08-23,11036.0
+Ireland,2021-08-30,10409.0
+Ireland,2021-09-06,9596.0
+Ireland,2021-09-13,8985.0
+Ireland,2021-09-20,9205.0
+Ireland,2021-09-27,8796.0
+Ireland,2021-10-04,9995.0
+Ireland,2021-10-11,12201.0
+Ireland,2021-10-18,15013.0
+Ireland,2021-10-25,16739.0
+Ireland,2021-11-01,25863.0
+Ireland,2021-11-08,28707.0
+Ireland,2021-11-15,31574.0
+Ireland,2021-11-22,30048.0
+Ireland,2021-11-29,32523.0
+Ireland,2021-12-06,31183.0
+Ireland,2021-12-13,33116.0
+Ireland,2021-12-20,36238.0
+Ireland,2021-12-27,74884.0
+Ireland,2022-01-03,87871.0
+Ireland,2022-01-10,89244.0
+Ireland,2022-01-17,101360.0
+Ireland,2022-01-24,121130.0
+Ireland,2022-01-31,38814.0
+Ireland,2022-02-07,35089.0
+Ireland,2022-02-14,30935.0
+Ireland,2022-02-21,23772.0
+Ireland,2022-02-28,22243.0
+Ireland,2022-03-07,31334.0
+Ireland,2022-03-14,36451.0
+Ireland,2022-03-21,52936.0
+Ireland,2022-03-28,31539.0
+Ireland,2022-04-04,18702.0
+Ireland,2022-04-11,11733.0
+Ireland,2022-04-18,8070.0
+Ireland,2022-04-25,6084.0
+Ireland,2022-05-02,5608.0
+Ireland,2022-05-09,4440.0
+Ireland,2022-05-16,4085.0
+Ireland,2022-05-23,3909.0
+Ireland,2022-05-30,5166.0
+Ireland,2022-06-06,6842.0
+Isle Of Man,2020-03-23,2.0
+Isle Of Man,2020-03-30,40.0
+Isle Of Man,2020-04-06,85.0
+Isle Of Man,2020-04-13,23.0
+Isle Of Man,2020-04-20,133.0
+Isle Of Man,2020-04-27,24.0
+Isle Of Man,2020-05-04,2.0
+Isle Of Man,2020-05-11,17.0
+Isle Of Man,2020-05-18,4.0
+Isle Of Man,2020-05-25,5.0
+Isle Of Man,2020-06-01,1.0
+Isle Of Man,2020-06-08,0.0
+Isle Of Man,2020-06-15,0.0
+Isle Of Man,2020-06-22,0.0
+Isle Of Man,2020-06-29,0.0
+Isle Of Man,2020-07-06,0.0
+Isle Of Man,2020-07-13,0.0
+Isle Of Man,2020-07-20,0.0
+Isle Of Man,2020-07-27,0.0
+Isle Of Man,2020-08-03,0.0
+Isle Of Man,2020-08-10,0.0
+Isle Of Man,2020-08-17,0.0
+Isle Of Man,2020-08-24,0.0
+Isle Of Man,2020-08-31,0.0
+Isle Of Man,2020-09-07,0.0
+Isle Of Man,2020-09-14,1.0
+Isle Of Man,2020-09-21,2.0
+Isle Of Man,2020-09-28,1.0
+Isle Of Man,2020-10-05,0.0
+Isle Of Man,2020-10-12,5.0
+Isle Of Man,2020-10-19,1.0
+Isle Of Man,2020-10-26,2.0
+Isle Of Man,2020-11-02,4.0
+Isle Of Man,2020-11-09,3.0
+Isle Of Man,2020-11-16,2.0
+Isle Of Man,2020-11-23,6.0
+Isle Of Man,2020-11-30,6.0
+Isle Of Man,2020-12-07,0.0
+Isle Of Man,2020-12-14,1.0
+Isle Of Man,2020-12-21,3.0
+Isle Of Man,2020-12-28,1.0
+Isle Of Man,2021-01-04,6.0
+Isle Of Man,2021-01-11,23.0
+Isle Of Man,2021-01-18,29.0
+Isle Of Man,2021-01-25,0.0
+Isle Of Man,2021-02-01,3.0
+Isle Of Man,2021-02-08,1.0
+Isle Of Man,2021-02-15,20.0
+Isle Of Man,2021-02-22,30.0
+Isle Of Man,2021-03-01,379.0
+Isle Of Man,2021-03-08,441.0
+Isle Of Man,2021-03-15,197.0
+Isle Of Man,2021-03-22,63.0
+Isle Of Man,2021-03-29,5.0
+Isle Of Man,2021-04-05,4.0
+Isle Of Man,2021-04-12,2.0
+Isle Of Man,2021-04-19,10.0
+Isle Of Man,2021-04-26,3.0
+Isle Of Man,2021-05-03,0.0
+Isle Of Man,2021-05-10,1.0
+Isle Of Man,2021-05-17,0.0
+Isle Of Man,2021-05-24,2.0
+Isle Of Man,2021-05-31,6.0
+Isle Of Man,2021-06-07,1.0
+Isle Of Man,2021-06-14,0.0
+Isle Of Man,2021-06-21,11.0
+Isle Of Man,2021-06-28,35.0
+Isle Of Man,2021-07-05,67.0
+Isle Of Man,2021-07-12,837.0
+Isle Of Man,2021-07-19,1644.0
+Isle Of Man,2021-07-26,719.0
+Isle Of Man,2021-08-02,674.0
+Isle Of Man,2021-08-09,426.0
+Isle Of Man,2021-08-16,353.0
+Isle Of Man,2021-08-23,286.0
+Isle Of Man,2021-08-30,197.0
+Isle Of Man,2021-09-06,179.0
+Isle Of Man,2021-09-13,156.0
+Isle Of Man,2021-09-20,271.0
+Isle Of Man,2021-09-27,243.0
+Isle Of Man,2021-10-04,423.0
+Isle Of Man,2021-10-11,526.0
+Isle Of Man,2021-10-18,610.0
+Isle Of Man,2021-10-25,481.0
+Isle Of Man,2021-11-01,232.0
+Isle Of Man,2021-11-08,257.0
+Isle Of Man,2021-11-15,331.0
+Isle Of Man,2021-11-22,336.0
+Isle Of Man,2021-11-29,1032.0
+Isle Of Man,2021-12-06,656.0
+Isle Of Man,2021-12-13,515.0
+Isle Of Man,2021-12-27,0.0
+Isle Of Man,2022-01-03,2107.0
+Isle Of Man,2022-01-10,1177.0
+Isle Of Man,2022-01-17,708.0
+Isle Of Man,2022-01-24,676.0
+Isle Of Man,2022-01-31,402.0
+Isle Of Man,2022-02-07,384.0
+Isle Of Man,2022-02-14,288.0
+Isle Of Man,2022-02-21,410.0
+Isle Of Man,2022-02-28,743.0
+Isle Of Man,2022-03-07,827.0
+Isle Of Man,2022-03-14,1814.0
+Isle Of Man,2022-03-21,1637.0
+Isle Of Man,2022-03-28,1123.0
+Isle Of Man,2022-04-04,1279.0
+Isle Of Man,2022-04-11,0.0
+Isle Of Man,2022-04-18,1497.0
+Isle Of Man,2022-04-25,539.0
+Isle Of Man,2022-05-02,219.0
+Isle Of Man,2022-05-09,176.0
+Isle Of Man,2022-05-16,194.0
+Isle Of Man,2022-05-23,172.0
+Isle Of Man,2022-05-30,132.0
+Isle Of Man,2022-06-06,153.0
+Italy,2020-01-06,0.0
+Italy,2020-01-13,0.0
+Italy,2020-01-20,0.0
+Italy,2020-01-27,0.0
+Italy,2020-02-03,2.0
+Italy,2020-02-10,1.0
+Italy,2020-02-17,0.0
+Italy,2020-02-24,175.0
+Italy,2020-03-02,1978.0
+Italy,2020-03-09,8241.0
+Italy,2020-03-16,21095.0
+Italy,2020-03-23,36642.0
+Italy,2020-03-30,36853.0
+Italy,2020-04-06,30959.0
+Italy,2020-04-13,28192.0
+Italy,2020-04-20,20725.0
+Italy,2020-04-27,16924.0
+Italy,2020-05-04,11427.0
+Italy,2020-05-11,8271.0
+Italy,2020-05-18,5273.0
+Italy,2020-05-25,3860.0
+Italy,2020-06-01,2853.0
+Italy,2020-06-08,1855.0
+Italy,2020-06-15,2162.0
+Italy,2020-06-22,1608.0
+Italy,2020-06-29,1413.0
+Italy,2020-07-06,1467.0
+Italy,2020-07-13,1455.0
+Italy,2020-07-20,1507.0
+Italy,2020-07-27,1754.0
+Italy,2020-08-03,2112.0
+Italy,2020-08-10,2768.0
+Italy,2020-08-17,3476.0
+Italy,2020-08-24,7076.0
+Italy,2020-08-31,9453.0
+Italy,2020-09-07,9463.0
+Italy,2020-09-14,9916.0
+Italy,2020-09-21,10798.0
+Italy,2020-09-28,12503.0
+Italy,2020-10-05,18020.0
+Italy,2020-10-12,37831.0
+Italy,2020-10-19,75967.0
+Italy,2020-10-26,142383.0
+Italy,2020-11-02,203576.0
+Italy,2020-11-09,244340.0
+Italy,2020-11-16,243009.0
+Italy,2020-11-23,214366.0
+Italy,2020-11-30,162446.0
+Italy,2020-12-07,130039.0
+Italy,2020-12-14,108068.0
+Italy,2020-12-21,106922.0
+Italy,2020-12-28,92470.0
+Italy,2021-01-04,239775.0
+Italy,2021-01-11,94237.0
+Italy,2021-01-18,85187.0
+Italy,2021-01-25,82867.0
+Italy,2021-02-01,83484.0
+Italy,2021-02-08,83462.0
+Italy,2021-02-15,89960.0
+Italy,2021-02-22,121675.0
+Italy,2021-03-01,142850.0
+Italy,2021-03-08,156210.0
+Italy,2021-03-15,149572.0
+Italy,2021-03-22,144624.0
+Italy,2021-03-29,131734.0
+Italy,2021-04-05,100937.0
+Italy,2021-04-12,98021.0
+Italy,2021-04-19,91474.0
+Italy,2021-04-26,78127.0
+Italy,2021-05-03,63846.0
+Italy,2021-05-10,44476.0
+Italy,2021-05-17,30526.0
+Italy,2021-05-24,22470.0
+Italy,2021-05-31,16240.0
+Italy,2021-06-07,11609.0
+Italy,2021-06-14,7439.0
+Italy,2021-06-21,5295.0
+Italy,2021-06-28,5671.0
+Italy,2021-07-05,8857.0
+Italy,2021-07-12,18919.0
+Italy,2021-07-19,31382.0
+Italy,2021-07-26,38495.0
+Italy,2021-08-02,42673.0
+Italy,2021-08-09,43333.0
+Italy,2021-08-16,45563.0
+Italy,2021-08-23,46219.0
+Italy,2021-08-30,40106.0
+Italy,2021-09-06,33095.0
+Italy,2021-09-13,28950.0
+Italy,2021-09-20,23728.0
+Italy,2021-09-27,20966.0
+Italy,2021-10-04,18093.0
+Italy,2021-10-11,17985.0
+Italy,2021-10-18,25538.0
+Italy,2021-10-25,32310.0
+Italy,2021-11-01,39083.0
+Italy,2021-11-08,54106.0
+Italy,2021-11-15,69426.0
+Italy,2021-11-22,86696.0
+Italy,2021-11-29,105066.0
+Italy,2021-12-06,123931.0
+Italy,2021-12-13,173946.0
+Italy,2021-12-20,297041.0
+Italy,2021-12-27,825138.0
+Italy,2022-01-03,1220645.0
+Italy,2022-01-10,1214638.0
+Italy,2022-01-17,1161715.0
+Italy,2022-01-24,925835.0
+Italy,2022-01-31,665117.0
+Italy,2022-02-07,462938.0
+Italy,2022-02-14,357565.0
+Italy,2022-02-21,286086.0
+Italy,2022-02-28,274513.0
+Italy,2022-03-07,366498.0
+Italy,2022-03-14,503442.0
+Italy,2022-03-21,505487.0
+Italy,2022-03-28,493895.0
+Italy,2022-04-04,448869.0
+Italy,2022-04-11,413720.0
+Italy,2022-04-18,435503.0
+Italy,2022-04-25,359029.0
+Italy,2022-05-02,294629.0
+Italy,2022-05-09,256187.0
+Italy,2022-05-16,186234.0
+Italy,2022-05-23,137256.0
+Italy,2022-05-30,116911.0
+Italy,2022-06-06,105976.0
+Jersey,2020-03-23,15.0
+Jersey,2020-03-30,48.0
+Jersey,2020-04-06,92.0
+Jersey,2020-04-13,58.0
+Jersey,2020-04-20,36.0
+Jersey,2020-04-27,32.0
+Jersey,2020-05-04,11.0
+Jersey,2020-05-11,2.0
+Jersey,2020-05-18,8.0
+Jersey,2020-05-25,4.0
+Jersey,2020-06-01,2.0
+Jersey,2020-06-08,3.0
+Jersey,2020-06-15,2.0
+Jersey,2020-06-22,5.0
+Jersey,2020-06-29,1.0
+Jersey,2020-07-06,1.0
+Jersey,2020-07-13,5.0
+Jersey,2020-07-20,6.0
+Jersey,2020-07-27,1.0
+Jersey,2020-08-03,3.0
+Jersey,2020-08-10,10.0
+Jersey,2020-08-17,10.0
+Jersey,2020-08-24,8.0
+Jersey,2020-08-31,11.0
+Jersey,2020-09-07,10.0
+Jersey,2020-09-14,-4.0
+Jersey,2020-09-21,13.0
+Jersey,2020-09-28,7.0
+Jersey,2020-10-05,21.0
+Jersey,2020-10-12,28.0
+Jersey,2020-10-19,41.0
+Jersey,2020-10-26,40.0
+Jersey,2020-11-02,44.0
+Jersey,2020-11-09,69.0
+Jersey,2020-11-16,89.0
+Jersey,2020-11-23,79.0
+Jersey,2020-11-30,117.0
+Jersey,2020-12-07,429.0
+Jersey,2020-12-14,422.0
+Jersey,2020-12-21,557.0
+Jersey,2020-12-28,327.0
+Jersey,2021-01-04,309.0
+Jersey,2021-01-11,82.0
+Jersey,2021-01-18,68.0
+Jersey,2021-01-25,30.0
+Jersey,2021-02-01,24.0
+Jersey,2021-02-08,26.0
+Jersey,2021-02-15,11.0
+Jersey,2021-02-22,4.0
+Jersey,2021-03-01,4.0
+Jersey,2021-03-08,1.0
+Jersey,2021-03-15,2.0
+Jersey,2021-03-22,1.0
+Jersey,2021-03-29,4.0
+Jersey,2021-04-05,2.0
+Jersey,2021-04-12,2.0
+Jersey,2021-04-19,0.0
+Jersey,2021-04-26,1.0
+Jersey,2021-05-03,1.0
+Jersey,2021-05-10,1.0
+Jersey,2021-05-17,2.0
+Jersey,2021-05-24,5.0
+Jersey,2021-05-31,10.0
+Jersey,2021-06-07,34.0
+Jersey,2021-06-14,26.0
+Jersey,2021-06-21,143.0
+Jersey,2021-06-28,428.0
+Jersey,2021-07-05,921.0
+Jersey,2021-07-12,1758.0
+Jersey,2021-07-19,1296.0
+Jersey,2021-07-26,401.0
+Jersey,2021-08-02,415.0
+Jersey,2021-08-09,242.0
+Jersey,2021-08-16,230.0
+Jersey,2021-08-23,143.0
+Jersey,2021-08-30,210.0
+Jersey,2021-09-06,182.0
+Jersey,2021-09-13,135.0
+Jersey,2021-09-20,171.0
+Jersey,2021-09-27,72.0
+Jersey,2021-10-04,190.0
+Jersey,2021-10-11,199.0
+Jersey,2021-10-18,289.0
+Jersey,2021-10-25,415.0
+Jersey,2021-11-01,395.0
+Jersey,2021-11-08,726.0
+Jersey,2021-11-15,760.0
+Jersey,2021-11-22,918.0
+Jersey,2021-11-29,890.0
+Jersey,2021-12-06,772.0
+Jersey,2021-12-13,873.0
+Jersey,2021-12-27,0.0
+Jersey,2022-01-03,4787.0
+Jersey,2022-01-10,1409.0
+Jersey,2022-01-17,2783.0
+Jersey,2022-01-24,2390.0
+Jersey,2022-01-31,1282.0
+Jersey,2022-02-07,2484.0
+Jersey,2022-02-14,1426.0
+Jersey,2022-02-21,1516.0
+Jersey,2022-02-28,1991.0
+Jersey,2022-03-07,2145.0
+Jersey,2022-03-14,2163.0
+Jersey,2022-03-21,1348.0
+Jersey,2022-03-28,2010.0
+Jersey,2022-04-04,1006.0
+Jersey,2022-04-11,482.0
+Jersey,2022-04-18,931.0
+Jersey,2022-04-25,235.0
+Jersey,2022-05-02,223.0
+Jersey,2022-05-09,200.0
+Jersey,2022-05-16,206.0
+Jersey,2022-05-23,172.0
+Jersey,2022-05-30,129.0
+Jersey,2022-06-06,392.0
+Kosovo,2020-03-16,13.0
+Kosovo,2020-03-23,20.0
+Kosovo,2020-03-30,65.0
+Kosovo,2020-04-06,67.0
+Kosovo,2020-04-13,197.0
+Kosovo,2020-04-20,199.0
+Kosovo,2020-04-27,203.0
+Kosovo,2020-05-04,87.0
+Kosovo,2020-05-11,33.0
+Kosovo,2020-05-18,101.0
+Kosovo,2020-05-25,47.0
+Kosovo,2020-06-01,51.0
+Kosovo,2020-06-08,151.0
+Kosovo,2020-06-15,252.0
+Kosovo,2020-06-22,683.0
+Kosovo,2020-06-29,508.0
+Kosovo,2020-07-06,679.0
+Kosovo,2020-07-13,1575.0
+Kosovo,2020-07-20,804.0
+Kosovo,2020-07-27,1182.0
+Kosovo,2020-08-03,1882.0
+Kosovo,2020-08-10,1448.0
+Kosovo,2020-08-17,1169.0
+Kosovo,2020-08-24,1032.0
+Kosovo,2020-08-31,886.0
+Kosovo,2020-09-07,785.0
+Kosovo,2020-09-14,518.0
+Kosovo,2020-09-21,426.0
+Kosovo,2020-09-28,409.0
+Kosovo,2020-10-05,342.0
+Kosovo,2020-10-12,365.0
+Kosovo,2020-10-19,712.0
+Kosovo,2020-10-26,1052.0
+Kosovo,2020-11-02,2236.0
+Kosovo,2020-11-09,3976.0
+Kosovo,2020-11-16,4962.0
+Kosovo,2020-11-23,5178.0
+Kosovo,2020-11-30,4762.0
+Kosovo,2020-12-07,3748.0
+Kosovo,2020-12-14,3775.0
+Kosovo,2020-12-21,2589.0
+Kosovo,2020-12-28,1632.0
+Kosovo,2021-01-04,2975.0
+Kosovo,2021-01-11,2075.0
+Kosovo,2021-01-18,2237.0
+Kosovo,2021-01-25,2130.0
+Kosovo,2021-02-01,2040.0
+Kosovo,2021-02-08,2083.0
+Kosovo,2021-02-15,2039.0
+Kosovo,2021-02-22,2850.0
+Kosovo,2021-03-01,3818.0
+Kosovo,2021-03-08,4205.0
+Kosovo,2021-03-15,4932.0
+Kosovo,2021-03-22,5796.0
+Kosovo,2021-03-29,5674.0
+Kosovo,2021-04-05,4341.0
+Kosovo,2021-04-12,3521.0
+Kosovo,2021-04-19,2525.0
+Kosovo,2021-04-26,1493.0
+Kosovo,2021-05-03,954.0
+Kosovo,2021-05-10,354.0
+Kosovo,2021-05-17,401.0
+Kosovo,2021-05-24,161.0
+Kosovo,2021-05-31,102.0
+Kosovo,2021-06-07,71.0
+Kosovo,2021-06-14,77.0
+Kosovo,2021-06-21,84.0
+Kosovo,2021-06-28,61.0
+Kosovo,2021-07-05,59.0
+Kosovo,2021-07-12,47.0
+Kosovo,2021-07-19,111.0
+Kosovo,2021-07-26,496.0
+Kosovo,2021-08-02,1681.0
+Kosovo,2021-08-09,6793.0
+Kosovo,2021-08-16,13389.0
+Kosovo,2021-08-23,13227.0
+Kosovo,2021-08-30,9055.0
+Kosovo,2021-09-06,4603.0
+Kosovo,2021-09-13,1894.0
+Kosovo,2021-09-20,738.0
+Kosovo,2021-09-27,307.0
+Kosovo,2021-10-04,200.0
+Kosovo,2021-10-11,141.0
+Kosovo,2021-10-18,97.0
+Kosovo,2021-10-25,129.0
+Kosovo,2021-11-01,113.0
+Kosovo,2021-11-08,72.0
+Kosovo,2021-11-15,64.0
+Kosovo,2021-11-22,67.0
+Kosovo,2021-11-29,56.0
+Kosovo,2021-12-06,69.0
+Kosovo,2021-12-13,57.0
+Kosovo,2021-12-27,0.0
+Kosovo,2022-01-03,1315.0
+Kosovo,2022-01-10,3949.0
+Kosovo,2022-01-17,16827.0
+Kosovo,2022-01-24,22249.0
+Kosovo,2022-01-31,12344.0
+Kosovo,2022-02-07,4906.0
+Kosovo,2022-02-14,2061.0
+Kosovo,2022-02-21,999.0
+Kosovo,2022-02-28,400.0
+Kosovo,2022-03-07,269.0
+Kosovo,2022-03-14,233.0
+Kosovo,2022-03-21,227.0
+Kosovo,2022-03-28,202.0
+Kosovo,2022-04-04,178.0
+Kosovo,2022-04-11,104.0
+Kosovo,2022-04-18,80.0
+Kosovo,2022-04-25,153.0
+Kosovo,2022-05-02,52.0
+Kosovo,2022-05-09,95.0
+Kosovo,2022-05-16,68.0
+Kosovo,2022-05-23,44.0
+Kosovo,2022-05-30,44.0
+Kosovo,2022-06-06,53.0
+Latvia,2020-01-06,0.0
+Latvia,2020-01-13,0.0
+Latvia,2020-01-20,0.0
+Latvia,2020-01-27,0.0
+Latvia,2020-02-03,0.0
+Latvia,2020-02-10,0.0
+Latvia,2020-02-17,0.0
+Latvia,2020-02-24,0.0
+Latvia,2020-03-02,0.0
+Latvia,2020-03-09,3.0
+Latvia,2020-03-16,27.0
+Latvia,2020-03-23,106.0
+Latvia,2020-03-30,211.0
+Latvia,2020-04-06,187.0
+Latvia,2020-04-13,118.0
+Latvia,2020-04-20,76.0
+Latvia,2020-04-27,85.0
+Latvia,2020-05-04,67.0
+Latvia,2020-05-11,60.0
+Latvia,2020-05-18,68.0
+Latvia,2020-05-25,39.0
+Latvia,2020-06-01,19.0
+Latvia,2020-06-08,22.0
+Latvia,2020-06-15,9.0
+Latvia,2020-06-22,14.0
+Latvia,2020-06-29,5.0
+Latvia,2020-07-06,8.0
+Latvia,2020-07-13,49.0
+Latvia,2020-07-20,19.0
+Latvia,2020-07-27,27.0
+Latvia,2020-08-03,24.0
+Latvia,2020-08-10,47.0
+Latvia,2020-08-17,32.0
+Latvia,2020-08-24,15.0
+Latvia,2020-08-31,56.0
+Latvia,2020-09-07,35.0
+Latvia,2020-09-14,46.0
+Latvia,2020-09-21,51.0
+Latvia,2020-09-28,151.0
+Latvia,2020-10-05,410.0
+Latvia,2020-10-12,584.0
+Latvia,2020-10-19,780.0
+Latvia,2020-10-26,1228.0
+Latvia,2020-11-02,1458.0
+Latvia,2020-11-09,1959.0
+Latvia,2020-11-16,2452.0
+Latvia,2020-11-23,2573.0
+Latvia,2020-11-30,3855.0
+Latvia,2020-12-07,4338.0
+Latvia,2020-12-14,4362.0
+Latvia,2020-12-21,5265.0
+Latvia,2020-12-28,5390.0
+Latvia,2021-01-04,13238.0
+Latvia,2021-01-11,6096.0
+Latvia,2021-01-18,5342.0
+Latvia,2021-01-25,5233.0
+Latvia,2021-02-01,5559.0
+Latvia,2021-02-08,4906.0
+Latvia,2021-02-15,4813.0
+Latvia,2021-02-22,4667.0
+Latvia,2021-03-01,4145.0
+Latvia,2021-03-08,3450.0
+Latvia,2021-03-15,3628.0
+Latvia,2021-03-22,3631.0
+Latvia,2021-03-29,3065.0
+Latvia,2021-04-05,3503.0
+Latvia,2021-04-12,3726.0
+Latvia,2021-04-19,3982.0
+Latvia,2021-04-26,4434.0
+Latvia,2021-05-03,4213.0
+Latvia,2021-05-10,4015.0
+Latvia,2021-05-17,2967.0
+Latvia,2021-05-24,2153.0
+Latvia,2021-05-31,1714.0
+Latvia,2021-06-07,1218.0
+Latvia,2021-06-14,780.0
+Latvia,2021-06-21,400.0
+Latvia,2021-06-28,421.0
+Latvia,2021-07-05,268.0
+Latvia,2021-07-12,260.0
+Latvia,2021-07-19,322.0
+Latvia,2021-07-26,418.0
+Latvia,2021-08-02,522.0
+Latvia,2021-08-09,701.0
+Latvia,2021-08-16,923.0
+Latvia,2021-08-23,1274.0
+Latvia,2021-08-30,2199.0
+Latvia,2021-09-06,2675.0
+Latvia,2021-09-13,3367.0
+Latvia,2021-09-20,4226.0
+Latvia,2021-09-27,6855.0
+Latvia,2021-10-04,9635.0
+Latvia,2021-10-11,14340.0
+Latvia,2021-10-18,16957.0
+Latvia,2021-10-25,16566.0
+Latvia,2021-11-01,12685.0
+Latvia,2021-11-08,8516.0
+Latvia,2021-11-15,5776.0
+Latvia,2021-11-22,6297.0
+Latvia,2021-11-29,4916.0
+Latvia,2021-12-06,4615.0
+Latvia,2021-12-13,5195.0
+Latvia,2021-12-20,4292.0
+Latvia,2021-12-27,5590.0
+Latvia,2022-01-03,10830.0
+Latvia,2022-01-10,15943.0
+Latvia,2022-01-17,31747.0
+Latvia,2022-01-24,53448.0
+Latvia,2022-01-31,61116.0
+Latvia,2022-02-07,68517.0
+Latvia,2022-02-14,67322.0
+Latvia,2022-02-21,63560.0
+Latvia,2022-02-28,52036.0
+Latvia,2022-03-07,40796.0
+Latvia,2022-03-14,28702.0
+Latvia,2022-03-21,19582.0
+Latvia,2022-03-28,11914.0
+Latvia,2022-04-04,6264.0
+Latvia,2022-04-11,4377.0
+Latvia,2022-04-18,4140.0
+Latvia,2022-04-25,2907.0
+Latvia,2022-05-02,1906.0
+Latvia,2022-05-09,1433.0
+Latvia,2022-05-16,1157.0
+Latvia,2022-05-23,1218.0
+Latvia,2022-05-30,1026.0
+Latvia,2022-06-06,1227.0
+Liechtenstein,2020-01-06,0.0
+Liechtenstein,2020-01-13,0.0
+Liechtenstein,2020-01-20,0.0
+Liechtenstein,2020-01-27,0.0
+Liechtenstein,2020-02-03,0.0
+Liechtenstein,2020-02-10,0.0
+Liechtenstein,2020-02-17,0.0
+Liechtenstein,2020-02-24,0.0
+Liechtenstein,2020-03-02,0.0
+Liechtenstein,2020-03-09,2.0
+Liechtenstein,2020-03-16,11.0
+Liechtenstein,2020-03-23,35.0
+Liechtenstein,2020-03-30,17.0
+Liechtenstein,2020-04-06,13.0
+Liechtenstein,2020-04-13,3.0
+Liechtenstein,2020-04-20,1.0
+Liechtenstein,2020-04-27,0.0
+Liechtenstein,2020-05-04,0.0
+Liechtenstein,2020-05-11,0.0
+Liechtenstein,2020-05-18,0.0
+Liechtenstein,2020-05-25,0.0
+Liechtenstein,2020-06-01,0.0
+Liechtenstein,2020-06-08,0.0
+Liechtenstein,2020-06-15,0.0
+Liechtenstein,2020-06-22,0.0
+Liechtenstein,2020-06-29,0.0
+Liechtenstein,2020-07-06,2.0
+Liechtenstein,2020-07-13,0.0
+Liechtenstein,2020-07-20,2.0
+Liechtenstein,2020-07-27,0.0
+Liechtenstein,2020-08-03,2.0
+Liechtenstein,2020-08-10,0.0
+Liechtenstein,2020-08-17,8.0
+Liechtenstein,2020-08-24,4.0
+Liechtenstein,2020-08-31,7.0
+Liechtenstein,2020-09-07,0.0
+Liechtenstein,2020-09-14,4.0
+Liechtenstein,2020-09-21,2.0
+Liechtenstein,2020-09-28,4.0
+Liechtenstein,2020-10-05,10.0
+Liechtenstein,2020-10-12,21.0
+Liechtenstein,2020-10-19,76.0
+Liechtenstein,2020-10-26,177.0
+Liechtenstein,2020-11-02,196.0
+Liechtenstein,2020-11-09,199.0
+Liechtenstein,2020-11-16,186.0
+Liechtenstein,2020-11-23,166.0
+Liechtenstein,2020-11-30,118.0
+Liechtenstein,2020-12-07,127.0
+Liechtenstein,2020-12-14,170.0
+Liechtenstein,2020-12-21,216.0
+Liechtenstein,2020-12-28,256.0
+Liechtenstein,2021-01-04,308.0
+Liechtenstein,2021-01-11,50.0
+Liechtenstein,2021-01-18,63.0
+Liechtenstein,2021-01-25,43.0
+Liechtenstein,2021-02-01,29.0
+Liechtenstein,2021-02-08,14.0
+Liechtenstein,2021-02-15,11.0
+Liechtenstein,2021-02-22,26.0
+Liechtenstein,2021-03-01,16.0
+Liechtenstein,2021-03-08,20.0
+Liechtenstein,2021-03-15,20.0
+Liechtenstein,2021-03-22,32.0
+Liechtenstein,2021-03-29,33.0
+Liechtenstein,2021-04-05,57.0
+Liechtenstein,2021-04-12,69.0
+Liechtenstein,2021-04-19,62.0
+Liechtenstein,2021-04-26,61.0
+Liechtenstein,2021-05-03,28.0
+Liechtenstein,2021-05-10,16.0
+Liechtenstein,2021-05-17,10.0
+Liechtenstein,2021-05-24,13.0
+Liechtenstein,2021-05-31,9.0
+Liechtenstein,2021-06-07,3.0
+Liechtenstein,2021-06-14,3.0
+Liechtenstein,2021-06-21,6.0
+Liechtenstein,2021-06-28,11.0
+Liechtenstein,2021-07-05,11.0
+Liechtenstein,2021-07-12,12.0
+Liechtenstein,2021-07-19,7.0
+Liechtenstein,2021-07-26,9.0
+Liechtenstein,2021-08-02,14.0
+Liechtenstein,2021-08-09,60.0
+Liechtenstein,2021-08-16,67.0
+Liechtenstein,2021-08-23,37.0
+Liechtenstein,2021-08-30,66.0
+Liechtenstein,2021-09-06,56.0
+Liechtenstein,2021-09-13,32.0
+Liechtenstein,2021-09-20,27.0
+Liechtenstein,2021-09-27,5.0
+Liechtenstein,2021-10-04,12.0
+Liechtenstein,2021-10-11,35.0
+Liechtenstein,2021-10-18,41.0
+Liechtenstein,2021-10-25,40.0
+Liechtenstein,2021-11-01,95.0
+Liechtenstein,2021-11-08,148.0
+Liechtenstein,2021-11-15,392.0
+Liechtenstein,2021-11-22,352.0
+Liechtenstein,2021-11-29,380.0
+Liechtenstein,2021-12-06,460.0
+Liechtenstein,2021-12-13,270.0
+Liechtenstein,2021-12-20,267.0
+Liechtenstein,2021-12-27,295.0
+Liechtenstein,2022-01-03,480.0
+Liechtenstein,2022-01-10,549.0
+Liechtenstein,2022-01-17,748.0
+Liechtenstein,2022-01-24,915.0
+Liechtenstein,2022-01-31,835.0
+Liechtenstein,2022-02-07,813.0
+Liechtenstein,2022-02-14,615.0
+Liechtenstein,2022-02-21,696.0
+Liechtenstein,2022-02-28,1194.0
+Liechtenstein,2022-03-07,1036.0
+Liechtenstein,2022-03-14,1221.0
+Liechtenstein,2022-03-21,654.0
+Liechtenstein,2022-03-28,444.0
+Liechtenstein,2022-04-04,225.0
+Liechtenstein,2022-04-11,219.0
+Liechtenstein,2022-04-18,101.0
+Liechtenstein,2022-04-25,94.0
+Liechtenstein,2022-05-02,82.0
+Liechtenstein,2022-05-09,66.0
+Liechtenstein,2022-05-16,60.0
+Liechtenstein,2022-05-23,56.0
+Liechtenstein,2022-05-30,96.0
+Liechtenstein,2022-06-06,69.0
+Lithuania,2020-01-06,0.0
+Lithuania,2020-01-13,0.0
+Lithuania,2020-01-20,0.0
+Lithuania,2020-01-27,0.0
+Lithuania,2020-02-03,0.0
+Lithuania,2020-02-10,0.0
+Lithuania,2020-02-17,0.0
+Lithuania,2020-02-24,0.0
+Lithuania,2020-03-02,0.0
+Lithuania,2020-03-09,0.0
+Lithuania,2020-03-16,0.0
+Lithuania,2020-03-23,0.0
+Lithuania,2020-03-30,0.0
+Lithuania,2020-04-06,0.0
+Lithuania,2020-04-13,0.0
+Lithuania,2020-04-20,0.0
+Lithuania,2020-04-27,155.0
+Lithuania,2020-05-04,79.0
+Lithuania,2020-05-11,72.0
+Lithuania,2020-05-18,72.0
+Lithuania,2020-05-25,77.0
+Lithuania,2020-06-01,43.0
+Lithuania,2020-06-08,45.0
+Lithuania,2020-06-15,52.0
+Lithuania,2020-06-22,28.0
+Lithuania,2020-06-29,15.0
+Lithuania,2020-07-06,25.0
+Lithuania,2020-07-13,33.0
+Lithuania,2020-07-20,73.0
+Lithuania,2020-07-27,72.0
+Lithuania,2020-08-03,100.0
+Lithuania,2020-08-10,145.0
+Lithuania,2020-08-17,172.0
+Lithuania,2020-08-24,236.0
+Lithuania,2020-08-31,233.0
+Lithuania,2020-09-07,193.0
+Lithuania,2020-09-14,286.0
+Lithuania,2020-09-21,428.0
+Lithuania,2020-09-28,676.0
+Lithuania,2020-10-05,793.0
+Lithuania,2020-10-12,960.0
+Lithuania,2020-10-19,1478.0
+Lithuania,2020-10-26,3229.0
+Lithuania,2020-11-02,5590.0
+Lithuania,2020-11-09,9143.0
+Lithuania,2020-11-16,10206.0
+Lithuania,2020-11-23,12323.0
+Lithuania,2020-11-30,13115.0
+Lithuania,2020-12-07,14691.0
+Lithuania,2020-12-14,18977.0
+Lithuania,2020-12-21,19481.0
+Lithuania,2020-12-28,17880.0
+Lithuania,2021-01-04,28092.0
+Lithuania,2021-01-11,7554.0
+Lithuania,2021-01-18,6404.0
+Lithuania,2021-01-25,5438.0
+Lithuania,2021-02-01,3956.0
+Lithuania,2021-02-08,3238.0
+Lithuania,2021-02-15,3252.0
+Lithuania,2021-02-22,3479.0
+Lithuania,2021-03-01,2911.0
+Lithuania,2021-03-08,3079.0
+Lithuania,2021-03-15,3469.0
+Lithuania,2021-03-22,4652.0
+Lithuania,2021-03-29,5600.0
+Lithuania,2021-04-05,6278.0
+Lithuania,2021-04-12,7014.0
+Lithuania,2021-04-19,7262.0
+Lithuania,2021-04-26,6216.0
+Lithuania,2021-05-03,9330.0
+Lithuania,2021-05-10,7083.0
+Lithuania,2021-05-17,4839.0
+Lithuania,2021-05-24,3094.0
+Lithuania,2021-05-31,2042.0
+Lithuania,2021-06-07,1190.0
+Lithuania,2021-06-14,554.0
+Lithuania,2021-06-21,256.0
+Lithuania,2021-06-28,200.0
+Lithuania,2021-07-05,306.0
+Lithuania,2021-07-12,556.0
+Lithuania,2021-07-19,1210.0
+Lithuania,2021-07-26,2108.0
+Lithuania,2021-08-02,3089.0
+Lithuania,2021-08-09,3606.0
+Lithuania,2021-08-16,3981.0
+Lithuania,2021-08-23,4041.0
+Lithuania,2021-08-30,4770.0
+Lithuania,2021-09-06,5883.0
+Lithuania,2021-09-13,7697.0
+Lithuania,2021-09-20,9166.0
+Lithuania,2021-09-27,9282.0
+Lithuania,2021-10-04,13222.0
+Lithuania,2021-10-11,16179.0
+Lithuania,2021-10-18,20616.0
+Lithuania,2021-10-25,21024.0
+Lithuania,2021-11-01,36188.0
+Lithuania,2021-11-08,31638.0
+Lithuania,2021-11-15,24735.0
+Lithuania,2021-11-22,24266.0
+Lithuania,2021-11-29,11101.0
+Lithuania,2021-12-06,11396.0
+Lithuania,2021-12-13,11216.0
+Lithuania,2021-12-20,9364.0
+Lithuania,2021-12-27,12256.0
+Lithuania,2022-01-03,21782.0
+Lithuania,2022-01-10,33551.0
+Lithuania,2022-01-17,39047.0
+Lithuania,2022-01-24,83101.0
+Lithuania,2022-01-31,234377.0
+Lithuania,2022-02-07,149432.0
+Lithuania,2022-02-14,53142.0
+Lithuania,2022-02-21,31546.0
+Lithuania,2022-02-28,37019.0
+Lithuania,2022-03-07,29003.0
+Lithuania,2022-03-14,41523.0
+Lithuania,2022-03-21,26376.0
+Lithuania,2022-03-28,18485.0
+Lithuania,2022-04-04,12277.0
+Lithuania,2022-04-11,9170.0
+Lithuania,2022-04-18,6018.0
+Lithuania,2022-04-25,4316.0
+Lithuania,2022-05-02,961.0
+Lithuania,2022-05-09,990.0
+Lithuania,2022-05-16,886.0
+Lithuania,2022-05-23,811.0
+Lithuania,2022-05-30,757.0
+Lithuania,2022-06-06,936.0
+Luxembourg,2020-01-06,0.0
+Luxembourg,2020-01-13,0.0
+Luxembourg,2020-01-20,0.0
+Luxembourg,2020-01-27,0.0
+Luxembourg,2020-02-03,0.0
+Luxembourg,2020-02-10,0.0
+Luxembourg,2020-02-17,0.0
+Luxembourg,2020-02-24,0.0
+Luxembourg,2020-03-02,1.0
+Luxembourg,2020-03-09,3.0
+Luxembourg,2020-03-16,83.0
+Luxembourg,2020-03-23,682.0
+Luxembourg,2020-03-30,1070.0
+Luxembourg,2020-04-06,627.0
+Luxembourg,2020-04-13,300.0
+Luxembourg,2020-04-20,115.0
+Luxembourg,2020-04-27,18.0
+Luxembourg,2020-05-04,25.0
+Luxembourg,2020-05-11,3.0
+Luxembourg,2020-05-18,17.0
+Luxembourg,2020-05-25,8.0
+Luxembourg,2020-06-01,2.0
+Luxembourg,2020-06-08,13.0
+Luxembourg,2020-06-15,1.0
+Luxembourg,2020-06-22,42.0
+Luxembourg,2020-06-29,126.0
+Luxembourg,2020-07-06,249.0
+Luxembourg,2020-07-13,340.0
+Luxembourg,2020-07-20,562.0
+Luxembourg,2020-07-27,576.0
+Luxembourg,2020-08-03,435.0
+Luxembourg,2020-08-10,299.0
+Luxembourg,2020-08-17,203.0
+Luxembourg,2020-08-24,279.0
+Luxembourg,2020-08-31,299.0
+Luxembourg,2020-09-07,289.0
+Luxembourg,2020-09-14,283.0
+Luxembourg,2020-09-21,667.0
+Luxembourg,2020-09-28,460.0
+Luxembourg,2020-10-05,549.0
+Luxembourg,2020-10-12,798.0
+Luxembourg,2020-10-19,1264.0
+Luxembourg,2020-10-26,3258.0
+Luxembourg,2020-11-02,4432.0
+Luxembourg,2020-11-09,3929.0
+Luxembourg,2020-11-16,3791.0
+Luxembourg,2020-11-23,3839.0
+Luxembourg,2020-11-30,3560.0
+Luxembourg,2020-12-07,3815.0
+Luxembourg,2020-12-14,3429.0
+Luxembourg,2020-12-21,2706.0
+Luxembourg,2020-12-28,1309.0
+Luxembourg,2021-01-04,2228.0
+Luxembourg,2021-01-11,883.0
+Luxembourg,2021-01-18,856.0
+Luxembourg,2021-01-25,1042.0
+Luxembourg,2021-02-01,1231.0
+Luxembourg,2021-02-08,1192.0
+Luxembourg,2021-02-15,1329.0
+Luxembourg,2021-02-22,1406.0
+Luxembourg,2021-03-01,1281.0
+Luxembourg,2021-03-08,1335.0
+Luxembourg,2021-03-15,1648.0
+Luxembourg,2021-03-22,1772.0
+Luxembourg,2021-03-29,1654.0
+Luxembourg,2021-04-05,1377.0
+Luxembourg,2021-04-12,1341.0
+Luxembourg,2021-04-19,1296.0
+Luxembourg,2021-04-26,1173.0
+Luxembourg,2021-05-03,998.0
+Luxembourg,2021-05-10,778.0
+Luxembourg,2021-05-17,560.0
+Luxembourg,2021-05-24,410.0
+Luxembourg,2021-05-31,360.0
+Luxembourg,2021-06-07,228.0
+Luxembourg,2021-06-14,121.0
+Luxembourg,2021-06-21,137.0
+Luxembourg,2021-06-28,881.0
+Luxembourg,2021-07-05,919.0
+Luxembourg,2021-07-12,791.0
+Luxembourg,2021-07-19,644.0
+Luxembourg,2021-07-26,511.0
+Luxembourg,2021-08-02,491.0
+Luxembourg,2021-08-09,369.0
+Luxembourg,2021-08-16,501.0
+Luxembourg,2021-08-23,625.0
+Luxembourg,2021-08-30,635.0
+Luxembourg,2021-09-06,608.0
+Luxembourg,2021-09-13,587.0
+Luxembourg,2021-09-20,632.0
+Luxembourg,2021-09-27,642.0
+Luxembourg,2021-10-04,754.0
+Luxembourg,2021-10-11,865.0
+Luxembourg,2021-10-18,1043.0
+Luxembourg,2021-10-25,1187.0
+Luxembourg,2021-11-01,1308.0
+Luxembourg,2021-11-08,1552.0
+Luxembourg,2021-11-15,2000.0
+Luxembourg,2021-11-22,2524.0
+Luxembourg,2021-11-29,2844.0
+Luxembourg,2021-12-06,2708.0
+Luxembourg,2021-12-13,2880.0
+Luxembourg,2021-12-20,2899.0
+Luxembourg,2021-12-27,6463.0
+Luxembourg,2022-01-03,12137.0
+Luxembourg,2022-01-10,13095.0
+Luxembourg,2022-01-17,17907.0
+Luxembourg,2022-01-24,17203.0
+Luxembourg,2022-01-31,12456.0
+Luxembourg,2022-02-07,6584.0
+Luxembourg,2022-02-14,4085.0
+Luxembourg,2022-02-21,5429.0
+Luxembourg,2022-02-28,5534.0
+Luxembourg,2022-03-07,6737.0
+Luxembourg,2022-03-14,8787.0
+Luxembourg,2022-03-21,10825.0
+Luxembourg,2022-03-28,9317.0
+Luxembourg,2022-04-04,6929.0
+Luxembourg,2022-04-11,6171.0
+Luxembourg,2022-04-18,4959.0
+Luxembourg,2022-04-25,4249.0
+Luxembourg,2022-05-02,3902.0
+Luxembourg,2022-05-09,3170.0
+Luxembourg,2022-05-16,2247.0
+Luxembourg,2022-05-23,1397.0
+Luxembourg,2022-05-30,2394.0
+Luxembourg,2022-06-06,3466.0
+Malta,2020-01-06,0.0
+Malta,2020-01-13,0.0
+Malta,2020-01-20,0.0
+Malta,2020-01-27,0.0
+Malta,2020-02-03,0.0
+Malta,2020-02-10,0.0
+Malta,2020-02-17,0.0
+Malta,2020-02-24,0.0
+Malta,2020-03-02,0.0
+Malta,2020-03-09,3.0
+Malta,2020-03-16,18.0
+Malta,2020-03-23,69.0
+Malta,2020-03-30,61.0
+Malta,2020-04-06,76.0
+Malta,2020-04-13,151.0
+Malta,2020-04-20,49.0
+Malta,2020-04-27,21.0
+Malta,2020-05-04,29.0
+Malta,2020-05-11,19.0
+Malta,2020-05-18,57.0
+Malta,2020-05-25,57.0
+Malta,2020-06-01,8.0
+Malta,2020-06-08,11.0
+Malta,2020-06-15,20.0
+Malta,2020-06-22,16.0
+Malta,2020-06-29,5.0
+Malta,2020-07-06,2.0
+Malta,2020-07-13,2.0
+Malta,2020-07-20,2.0
+Malta,2020-07-27,24.0
+Malta,2020-08-03,160.0
+Malta,2020-08-10,229.0
+Malta,2020-08-17,217.0
+Malta,2020-08-24,306.0
+Malta,2020-08-31,250.0
+Malta,2020-09-07,177.0
+Malta,2020-09-14,313.0
+Malta,2020-09-21,379.0
+Malta,2020-09-28,248.0
+Malta,2020-10-05,291.0
+Malta,2020-10-12,506.0
+Malta,2020-10-19,852.0
+Malta,2020-10-26,870.0
+Malta,2020-11-02,684.0
+Malta,2020-11-09,959.0
+Malta,2020-11-16,893.0
+Malta,2020-11-23,890.0
+Malta,2020-11-30,828.0
+Malta,2020-12-07,768.0
+Malta,2020-12-14,633.0
+Malta,2020-12-21,561.0
+Malta,2020-12-28,611.0
+Malta,2021-01-04,2071.0
+Malta,2021-01-11,1192.0
+Malta,2021-01-18,1070.0
+Malta,2021-01-25,1245.0
+Malta,2021-02-01,773.0
+Malta,2021-02-08,1113.0
+Malta,2021-02-15,1103.0
+Malta,2021-02-22,1590.0
+Malta,2021-03-01,1916.0
+Malta,2021-03-08,2137.0
+Malta,2021-03-15,1593.0
+Malta,2021-03-22,747.0
+Malta,2021-03-29,348.0
+Malta,2021-04-05,391.0
+Malta,2021-04-12,352.0
+Malta,2021-04-19,208.0
+Malta,2021-04-26,145.0
+Malta,2021-05-03,128.0
+Malta,2021-05-10,33.0
+Malta,2021-05-17,24.0
+Malta,2021-05-24,29.0
+Malta,2021-05-31,38.0
+Malta,2021-06-07,10.0
+Malta,2021-06-14,8.0
+Malta,2021-06-21,17.0
+Malta,2021-06-28,46.0
+Malta,2021-07-05,409.0
+Malta,2021-07-12,1409.0
+Malta,2021-07-19,1198.0
+Malta,2021-07-26,707.0
+Malta,2021-08-02,471.0
+Malta,2021-08-09,491.0
+Malta,2021-08-16,437.0
+Malta,2021-08-23,315.0
+Malta,2021-08-30,386.0
+Malta,2021-09-06,283.0
+Malta,2021-09-13,214.0
+Malta,2021-09-20,118.0
+Malta,2021-09-27,107.0
+Malta,2021-10-04,150.0
+Malta,2021-10-11,108.0
+Malta,2021-10-18,98.0
+Malta,2021-10-25,102.0
+Malta,2021-11-01,251.0
+Malta,2021-11-08,296.0
+Malta,2021-11-15,509.0
+Malta,2021-11-22,525.0
+Malta,2021-11-29,695.0
+Malta,2021-12-06,612.0
+Malta,2021-12-13,1307.0
+Malta,2021-12-20,4397.0
+Malta,2021-12-27,8000.0
+Malta,2022-01-03,6136.0
+Malta,2022-01-10,3324.0
+Malta,2022-01-17,2159.0
+Malta,2022-01-24,1679.0
+Malta,2022-01-31,1452.0
+Malta,2022-02-07,1017.0
+Malta,2022-02-14,648.0
+Malta,2022-02-21,570.0
+Malta,2022-02-28,664.0
+Malta,2022-03-07,959.0
+Malta,2022-03-14,1660.0
+Malta,2022-03-21,2584.0
+Malta,2022-03-28,4497.0
+Malta,2022-04-04,4566.0
+Malta,2022-04-11,2667.0
+Malta,2022-04-18,1766.0
+Malta,2022-04-25,1266.0
+Malta,2022-05-02,987.0
+Malta,2022-05-09,660.0
+Malta,2022-05-16,538.0
+Malta,2022-05-23,533.0
+Malta,2022-05-30,631.0
+Malta,2022-06-06,938.0
+Moldova,2020-03-16,23.0
+Moldova,2020-03-23,71.0
+Moldova,2020-03-30,169.0
+Moldova,2020-04-06,601.0
+Moldova,2020-04-13,798.0
+Moldova,2020-04-20,810.0
+Moldova,2020-04-27,936.0
+Moldova,2020-05-04,713.0
+Moldova,2020-05-11,806.0
+Moldova,2020-05-18,1133.0
+Moldova,2020-05-25,1033.0
+Moldova,2020-06-01,1158.0
+Moldova,2020-06-08,1449.0
+Moldova,2020-06-15,2040.0
+Moldova,2020-06-22,2460.0
+Moldova,2020-06-29,2050.0
+Moldova,2020-07-06,1564.0
+Moldova,2020-07-13,1568.0
+Moldova,2020-07-20,1598.0
+Moldova,2020-07-27,2054.0
+Moldova,2020-08-03,2328.0
+Moldova,2020-08-10,2298.0
+Moldova,2020-08-17,2523.0
+Moldova,2020-08-24,3295.0
+Moldova,2020-08-31,3222.0
+Moldova,2020-09-07,3097.0
+Moldova,2020-09-14,3181.0
+Moldova,2020-09-21,3618.0
+Moldova,2020-09-28,4279.0
+Moldova,2020-10-05,5704.0
+Moldova,2020-10-12,5572.0
+Moldova,2020-10-19,4899.0
+Moldova,2020-10-26,4453.0
+Moldova,2020-11-02,5079.0
+Moldova,2020-11-09,5764.0
+Moldova,2020-11-16,6933.0
+Moldova,2020-11-23,8662.0
+Moldova,2020-11-30,9076.0
+Moldova,2020-12-07,9618.0
+Moldova,2020-12-14,9883.0
+Moldova,2020-12-21,8689.0
+Moldova,2020-12-28,6148.0
+Moldova,2021-01-04,8036.0
+Moldova,2021-01-11,3463.0
+Moldova,2021-01-18,3348.0
+Moldova,2021-01-25,3602.0
+Moldova,2021-02-01,4765.0
+Moldova,2021-02-08,5617.0
+Moldova,2021-02-15,6566.0
+Moldova,2021-02-22,8701.0
+Moldova,2021-03-01,9799.0
+Moldova,2021-03-08,9211.0
+Moldova,2021-03-15,10571.0
+Moldova,2021-03-22,11487.0
+Moldova,2021-03-29,8566.0
+Moldova,2021-04-05,6130.0
+Moldova,2021-04-12,4680.0
+Moldova,2021-04-19,3242.0
+Moldova,2021-04-26,2196.0
+Moldova,2021-05-03,1414.0
+Moldova,2021-05-10,1096.0
+Moldova,2021-05-17,831.0
+Moldova,2021-05-24,469.0
+Moldova,2021-05-31,308.0
+Moldova,2021-06-07,344.0
+Moldova,2021-06-14,343.0
+Moldova,2021-06-21,419.0
+Moldova,2021-06-28,411.0
+Moldova,2021-07-05,497.0
+Moldova,2021-07-12,540.0
+Moldova,2021-07-19,617.0
+Moldova,2021-07-26,925.0
+Moldova,2021-08-02,1081.0
+Moldova,2021-08-09,1414.0
+Moldova,2021-08-16,2388.0
+Moldova,2021-08-23,2556.0
+Moldova,2021-08-30,3231.0
+Moldova,2021-09-06,4593.0
+Moldova,2021-09-13,6888.0
+Moldova,2021-09-20,7325.0
+Moldova,2021-09-27,8207.0
+Moldova,2021-10-04,9415.0
+Moldova,2021-10-11,9882.0
+Moldova,2021-10-18,11471.0
+Moldova,2021-10-25,9768.0
+Moldova,2021-11-01,8196.0
+Moldova,2021-11-08,6858.0
+Moldova,2021-11-15,5380.0
+Moldova,2021-11-22,4231.0
+Moldova,2021-11-29,3823.0
+Moldova,2021-12-06,3403.0
+Moldova,2021-12-13,2541.0
+Moldova,2021-12-27,0.0
+Moldova,2022-01-03,3446.0
+Moldova,2022-01-10,8669.0
+Moldova,2022-01-17,20438.0
+Moldova,2022-01-24,31301.0
+Moldova,2022-01-31,26573.0
+Moldova,2022-02-07,17245.0
+Moldova,2022-02-14,10668.0
+Moldova,2022-02-21,6616.0
+Moldova,2022-02-28,3593.0
+Moldova,2022-03-07,2601.0
+Moldova,2022-03-14,2466.0
+Moldova,2022-03-21,2142.0
+Moldova,2022-03-28,1597.0
+Moldova,2022-04-04,1289.0
+Moldova,2022-04-11,956.0
+Moldova,2022-04-18,420.0
+Moldova,2022-04-25,889.0
+Moldova,2022-05-02,0.0
+Moldova,2022-05-09,0.0
+Moldova,2022-05-16,739.0
+Moldova,2022-05-23,301.0
+Moldova,2022-05-30,208.0
+Moldova,2022-06-06,233.0
+Monaco,2020-01-06,0.0
+Monaco,2020-01-13,0.0
+Monaco,2020-01-20,0.0
+Monaco,2020-01-27,0.0
+Monaco,2020-02-03,0.0
+Monaco,2020-02-10,0.0
+Monaco,2020-02-17,0.0
+Monaco,2020-02-24,0.0
+Monaco,2020-03-02,1.0
+Monaco,2020-03-09,0.0
+Monaco,2020-03-16,8.0
+Monaco,2020-03-23,11.0
+Monaco,2020-03-30,15.0
+Monaco,2020-04-06,16.0
+Monaco,2020-04-13,13.0
+Monaco,2020-04-20,1.0
+Monaco,2020-04-27,0.0
+Monaco,2020-05-04,1.0
+Monaco,2020-05-11,0.0
+Monaco,2020-05-18,0.0
+Monaco,2020-05-25,1.0
+Monaco,2020-06-01,0.0
+Monaco,2020-06-08,0.0
+Monaco,2020-06-15,0.0
+Monaco,2020-06-22,1.0
+Monaco,2020-06-29,2.0
+Monaco,2020-07-06,5.0
+Monaco,2020-07-13,1.0
+Monaco,2020-07-20,0.0
+Monaco,2020-07-27,5.0
+Monaco,2020-08-03,3.0
+Monaco,2020-08-10,10.0
+Monaco,2020-08-17,5.0
+Monaco,2020-08-24,12.0
+Monaco,2020-08-31,20.0
+Monaco,2020-09-07,17.0
+Monaco,2020-09-14,23.0
+Monaco,2020-09-21,22.0
+Monaco,2020-09-28,17.0
+Monaco,2020-10-05,12.0
+Monaco,2020-10-12,12.0
+Monaco,2020-10-19,31.0
+Monaco,2020-10-26,41.0
+Monaco,2020-11-02,60.0
+Monaco,2020-11-09,120.0
+Monaco,2020-11-16,62.0
+Monaco,2020-11-23,34.0
+Monaco,2020-11-30,26.0
+Monaco,2020-12-07,30.0
+Monaco,2020-12-14,30.0
+Monaco,2020-12-21,60.0
+Monaco,2020-12-28,75.0
+Monaco,2021-01-04,254.0
+Monaco,2021-01-11,148.0
+Monaco,2021-01-18,152.0
+Monaco,2021-01-25,132.0
+Monaco,2021-02-01,166.0
+Monaco,2021-02-08,105.0
+Monaco,2021-02-15,110.0
+Monaco,2021-02-22,86.0
+Monaco,2021-03-01,67.0
+Monaco,2021-03-08,84.0
+Monaco,2021-03-15,66.0
+Monaco,2021-03-22,86.0
+Monaco,2021-03-29,70.0
+Monaco,2021-04-05,46.0
+Monaco,2021-04-12,24.0
+Monaco,2021-04-19,40.0
+Monaco,2021-04-26,18.0
+Monaco,2021-05-03,22.0
+Monaco,2021-05-10,14.0
+Monaco,2021-05-17,8.0
+Monaco,2021-05-24,3.0
+Monaco,2021-05-31,4.0
+Monaco,2021-06-07,17.0
+Monaco,2021-06-14,23.0
+Monaco,2021-06-21,23.0
+Monaco,2021-06-28,16.0
+Monaco,2021-07-05,35.0
+Monaco,2021-07-12,60.0
+Monaco,2021-07-19,103.0
+Monaco,2021-07-26,106.0
+Monaco,2021-08-02,95.0
+Monaco,2021-08-09,73.0
+Monaco,2021-08-16,74.0
+Monaco,2021-08-23,50.0
+Monaco,2021-08-30,57.0
+Monaco,2021-09-06,36.0
+Monaco,2021-09-13,14.0
+Monaco,2021-09-20,13.0
+Monaco,2021-09-27,14.0
+Monaco,2021-10-04,19.0
+Monaco,2021-10-11,27.0
+Monaco,2021-10-18,26.0
+Monaco,2021-10-25,27.0
+Monaco,2021-11-01,23.0
+Monaco,2021-11-08,47.0
+Monaco,2021-11-15,81.0
+Monaco,2021-11-22,171.0
+Monaco,2021-11-29,164.0
+Monaco,2021-12-06,212.0
+Monaco,2021-12-13,309.0
+Monaco,2021-12-27,0.0
+Monaco,2022-01-03,168.0
+Monaco,2022-01-10,1380.0
+Monaco,2022-01-17,854.0
+Monaco,2022-01-24,668.0
+Monaco,2022-01-31,449.0
+Monaco,2022-02-07,213.0
+Monaco,2022-02-14,196.0
+Monaco,2022-02-21,194.0
+Monaco,2022-02-28,157.0
+Monaco,2022-03-07,210.0
+Monaco,2022-03-14,397.0
+Monaco,2022-03-21,355.0
+Monaco,2022-03-28,342.0
+Monaco,2022-04-04,280.0
+Monaco,2022-04-11,250.0
+Monaco,2022-04-18,230.0
+Monaco,2022-04-25,169.0
+Monaco,2022-05-02,124.0
+Monaco,2022-05-09,110.0
+Monaco,2022-05-16,74.0
+Monaco,2022-05-23,77.0
+Monaco,2022-05-30,120.0
+Monaco,2022-06-06,180.0
+Montenegro,2020-03-23,21.0
+Montenegro,2020-03-30,64.0
+Montenegro,2020-04-06,129.0
+Montenegro,2020-04-13,58.0
+Montenegro,2020-04-20,36.0
+Montenegro,2020-04-27,13.0
+Montenegro,2020-05-04,1.0
+Montenegro,2020-05-11,2.0
+Montenegro,2020-05-18,0.0
+Montenegro,2020-05-25,0.0
+Montenegro,2020-06-01,0.0
+Montenegro,2020-06-08,0.0
+Montenegro,2020-06-15,1.0
+Montenegro,2020-06-22,37.0
+Montenegro,2020-06-29,119.0
+Montenegro,2020-07-06,300.0
+Montenegro,2020-07-13,440.0
+Montenegro,2020-07-20,550.0
+Montenegro,2020-07-27,798.0
+Montenegro,2020-08-03,689.0
+Montenegro,2020-08-10,360.0
+Montenegro,2020-08-17,417.0
+Montenegro,2020-08-24,308.0
+Montenegro,2020-08-31,447.0
+Montenegro,2020-09-07,763.0
+Montenegro,2020-09-14,1159.0
+Montenegro,2020-09-21,1900.0
+Montenegro,2020-09-28,1701.0
+Montenegro,2020-10-05,1814.0
+Montenegro,2020-10-12,1742.0
+Montenegro,2020-10-19,1746.0
+Montenegro,2020-10-26,1182.0
+Montenegro,2020-11-02,1917.0
+Montenegro,2020-11-09,4091.0
+Montenegro,2020-11-16,4372.0
+Montenegro,2020-11-23,3885.0
+Montenegro,2020-11-30,3819.0
+Montenegro,2020-12-07,3365.0
+Montenegro,2020-12-14,3180.0
+Montenegro,2020-12-21,2529.0
+Montenegro,2020-12-28,2739.0
+Montenegro,2021-01-04,5737.0
+Montenegro,2021-01-11,3062.0
+Montenegro,2021-01-18,2823.0
+Montenegro,2021-01-25,3343.0
+Montenegro,2021-02-01,3568.0
+Montenegro,2021-02-08,3694.0
+Montenegro,2021-02-15,3074.0
+Montenegro,2021-02-22,3838.0
+Montenegro,2021-03-01,4358.0
+Montenegro,2021-03-08,3502.0
+Montenegro,2021-03-15,3519.0
+Montenegro,2021-03-22,2871.0
+Montenegro,2021-03-29,2436.0
+Montenegro,2021-04-05,1900.0
+Montenegro,2021-04-12,1132.0
+Montenegro,2021-04-19,1109.0
+Montenegro,2021-04-26,1058.0
+Montenegro,2021-05-03,585.0
+Montenegro,2021-05-10,595.0
+Montenegro,2021-05-17,350.0
+Montenegro,2021-05-24,357.0
+Montenegro,2021-05-31,207.0
+Montenegro,2021-06-07,144.0
+Montenegro,2021-06-14,119.0
+Montenegro,2021-06-21,115.0
+Montenegro,2021-06-28,137.0
+Montenegro,2021-07-05,161.0
+Montenegro,2021-07-12,202.0
+Montenegro,2021-07-19,440.0
+Montenegro,2021-07-26,962.0
+Montenegro,2021-08-02,1630.0
+Montenegro,2021-08-09,2771.0
+Montenegro,2021-08-16,3469.0
+Montenegro,2021-08-23,4402.0
+Montenegro,2021-08-30,3740.0
+Montenegro,2021-09-06,3804.0
+Montenegro,2021-09-13,4776.0
+Montenegro,2021-09-20,2964.0
+Montenegro,2021-09-27,3048.0
+Montenegro,2021-10-04,2602.0
+Montenegro,2021-10-11,2471.0
+Montenegro,2021-10-18,3153.0
+Montenegro,2021-10-25,3392.0
+Montenegro,2021-11-01,4265.0
+Montenegro,2021-11-08,3508.0
+Montenegro,2021-11-15,2924.0
+Montenegro,2021-11-22,1862.0
+Montenegro,2021-11-29,1750.0
+Montenegro,2021-12-06,1165.0
+Montenegro,2021-12-13,1207.0
+Montenegro,2021-12-27,0.0
+Montenegro,2022-01-03,17118.0
+Montenegro,2022-01-10,13467.0
+Montenegro,2022-01-17,10150.0
+Montenegro,2022-01-24,5879.0
+Montenegro,2022-01-31,3999.0
+Montenegro,2022-02-07,2918.0
+Montenegro,2022-02-14,2079.0
+Montenegro,2022-02-21,1349.0
+Montenegro,2022-02-28,891.0
+Montenegro,2022-03-07,546.0
+Montenegro,2022-03-14,636.0
+Montenegro,2022-03-21,639.0
+Montenegro,2022-03-28,494.0
+Montenegro,2022-04-04,395.0
+Montenegro,2022-04-11,530.0
+Montenegro,2022-04-18,509.0
+Montenegro,2022-04-25,578.0
+Montenegro,2022-05-02,457.0
+Montenegro,2022-05-09,525.0
+Montenegro,2022-05-16,401.0
+Montenegro,2022-05-23,378.0
+Montenegro,2022-05-30,435.0
+Montenegro,2022-06-06,367.0
+Netherlands,2020-01-06,0.0
+Netherlands,2020-01-13,0.0
+Netherlands,2020-01-20,0.0
+Netherlands,2020-01-27,0.0
+Netherlands,2020-02-03,0.0
+Netherlands,2020-02-10,0.0
+Netherlands,2020-02-17,0.0
+Netherlands,2020-02-24,0.0
+Netherlands,2020-03-02,5.0
+Netherlands,2020-03-09,158.0
+Netherlands,2020-03-16,946.0
+Netherlands,2020-03-23,3076.0
+Netherlands,2020-03-30,6557.0
+Netherlands,2020-04-06,6919.0
+Netherlands,2020-04-13,7693.0
+Netherlands,2020-04-20,7063.0
+Netherlands,2020-04-27,5149.0
+Netherlands,2020-05-04,2746.0
+Netherlands,2020-05-11,2049.0
+Netherlands,2020-05-18,1392.0
+Netherlands,2020-05-25,1234.0
+Netherlands,2020-06-01,1209.0
+Netherlands,2020-06-08,1126.0
+Netherlands,2020-06-15,1205.0
+Netherlands,2020-06-22,823.0
+Netherlands,2020-06-29,564.0
+Netherlands,2020-07-06,483.0
+Netherlands,2020-07-13,436.0
+Netherlands,2020-07-20,797.0
+Netherlands,2020-07-27,1238.0
+Netherlands,2020-08-03,2153.0
+Netherlands,2020-08-10,3470.0
+Netherlands,2020-08-17,4416.0
+Netherlands,2020-08-24,3558.0
+Netherlands,2020-08-31,3579.0
+Netherlands,2020-09-07,4624.0
+Netherlands,2020-09-14,7320.0
+Netherlands,2020-09-21,11640.0
+Netherlands,2020-09-28,17758.0
+Netherlands,2020-10-05,24166.0
+Netherlands,2020-10-12,38609.0
+Netherlands,2020-10-19,53366.0
+Netherlands,2020-10-26,62878.0
+Netherlands,2020-11-02,68407.0
+Netherlands,2020-11-09,50046.0
+Netherlands,2020-11-16,37696.0
+Netherlands,2020-11-23,36684.0
+Netherlands,2020-11-30,34287.0
+Netherlands,2020-12-07,38293.0
+Netherlands,2020-12-14,56302.0
+Netherlands,2020-12-21,76212.0
+Netherlands,2020-12-28,73177.0
+Netherlands,2021-01-04,109981.0
+Netherlands,2021-01-11,39870.0
+Netherlands,2021-01-18,36512.0
+Netherlands,2021-01-25,29699.0
+Netherlands,2021-02-01,27317.0
+Netherlands,2021-02-08,23534.0
+Netherlands,2021-02-15,27336.0
+Netherlands,2021-02-22,31982.0
+Netherlands,2021-03-01,31310.0
+Netherlands,2021-03-08,37021.0
+Netherlands,2021-03-15,44398.0
+Netherlands,2021-03-22,50957.0
+Netherlands,2021-03-29,49751.0
+Netherlands,2021-04-05,48476.0
+Netherlands,2021-04-12,53175.0
+Netherlands,2021-04-19,57343.0
+Netherlands,2021-04-26,46467.0
+Netherlands,2021-05-03,52456.0
+Netherlands,2021-05-10,38169.0
+Netherlands,2021-05-17,28072.0
+Netherlands,2021-05-24,21123.0
+Netherlands,2021-05-31,15900.0
+Netherlands,2021-06-07,9899.0
+Netherlands,2021-06-14,6290.0
+Netherlands,2021-06-21,4324.0
+Netherlands,2021-06-28,5812.0
+Netherlands,2021-07-05,39105.0
+Netherlands,2021-07-12,70105.0
+Netherlands,2021-07-19,44975.0
+Netherlands,2021-07-26,24395.0
+Netherlands,2021-08-02,18035.0
+Netherlands,2021-08-09,16112.0
+Netherlands,2021-08-16,16918.0
+Netherlands,2021-08-23,17829.0
+Netherlands,2021-08-30,17658.0
+Netherlands,2021-09-06,16716.0
+Netherlands,2021-09-13,14021.0
+Netherlands,2021-09-20,11612.0
+Netherlands,2021-09-27,11543.0
+Netherlands,2021-10-04,16133.0
+Netherlands,2021-10-11,23529.0
+Netherlands,2021-10-18,34828.0
+Netherlands,2021-10-25,49457.0
+Netherlands,2021-11-01,68915.0
+Netherlands,2021-11-08,93762.0
+Netherlands,2021-11-15,146957.0
+Netherlands,2021-11-22,157124.0
+Netherlands,2021-11-29,152162.0
+Netherlands,2021-12-06,128489.0
+Netherlands,2021-12-13,99674.0
+Netherlands,2021-12-20,85145.0
+Netherlands,2021-12-27,100705.0
+Netherlands,2022-01-03,176804.0
+Netherlands,2022-01-10,224241.0
+Netherlands,2022-01-17,318427.0
+Netherlands,2022-01-24,426084.0
+Netherlands,2022-01-31,567068.0
+Netherlands,2022-02-07,856720.0
+Netherlands,2022-02-14,347550.0
+Netherlands,2022-02-21,250898.0
+Netherlands,2022-02-28,374821.0
+Netherlands,2022-03-07,463168.0
+Netherlands,2022-03-14,340673.0
+Netherlands,2022-03-21,242341.0
+Netherlands,2022-03-28,156495.0
+Netherlands,2022-04-04,78700.0
+Netherlands,2022-04-11,33016.0
+Netherlands,2022-04-18,17331.0
+Netherlands,2022-04-25,10882.0
+Netherlands,2022-05-02,10493.0
+Netherlands,2022-05-09,8929.0
+Netherlands,2022-05-16,7711.0
+Netherlands,2022-05-23,6669.0
+Netherlands,2022-05-30,9295.0
+Netherlands,2022-06-06,13242.0
+North Macedonia,2020-01-06,0.0
+North Macedonia,2020-01-13,0.0
+North Macedonia,2020-01-20,0.0
+North Macedonia,2020-01-27,0.0
+North Macedonia,2020-02-03,0.0
+North Macedonia,2020-02-10,0.0
+North Macedonia,2020-02-17,0.0
+North Macedonia,2020-02-24,0.0
+North Macedonia,2020-03-02,1.0
+North Macedonia,2020-03-09,2.0
+North Macedonia,2020-03-16,10.0
+North Macedonia,2020-03-23,101.0
+North Macedonia,2020-03-30,145.0
+North Macedonia,2020-04-06,224.0
+North Macedonia,2020-04-13,345.0
+North Macedonia,2020-04-20,379.0
+North Macedonia,2020-04-27,179.0
+North Macedonia,2020-05-04,125.0
+North Macedonia,2020-05-11,131.0
+North Macedonia,2020-05-18,150.0
+North Macedonia,2020-05-25,186.0
+North Macedonia,2020-06-01,248.0
+North Macedonia,2020-06-08,802.0
+North Macedonia,2020-06-15,1029.0
+North Macedonia,2020-06-22,1049.0
+North Macedonia,2020-06-29,986.0
+North Macedonia,2020-07-06,954.0
+North Macedonia,2020-07-13,1065.0
+North Macedonia,2020-07-20,1021.0
+North Macedonia,2020-07-27,954.0
+North Macedonia,2020-08-03,968.0
+North Macedonia,2020-08-10,802.0
+North Macedonia,2020-08-17,883.0
+North Macedonia,2020-08-24,775.0
+North Macedonia,2020-08-31,413.0
+North Macedonia,2020-09-07,835.0
+North Macedonia,2020-09-14,932.0
+North Macedonia,2020-09-21,1041.0
+North Macedonia,2020-09-28,894.0
+North Macedonia,2020-10-05,973.0
+North Macedonia,2020-10-12,2335.0
+North Macedonia,2020-10-19,2691.0
+North Macedonia,2020-10-26,3326.0
+North Macedonia,2020-11-02,5482.0
+North Macedonia,2020-11-09,7324.0
+North Macedonia,2020-11-16,7290.0
+North Macedonia,2020-11-23,7693.0
+North Macedonia,2020-11-30,6800.0
+North Macedonia,2020-12-07,6425.0
+North Macedonia,2020-12-14,5670.0
+North Macedonia,2020-12-21,4667.0
+North Macedonia,2020-12-28,3499.0
+North Macedonia,2021-01-04,4690.0
+North Macedonia,2021-01-11,2444.0
+North Macedonia,2021-01-18,1716.0
+North Macedonia,2021-01-25,2039.0
+North Macedonia,2021-02-01,2105.0
+North Macedonia,2021-02-08,2254.0
+North Macedonia,2021-02-15,2233.0
+North Macedonia,2021-02-22,3502.0
+North Macedonia,2021-03-01,4376.0
+North Macedonia,2021-03-08,5483.0
+North Macedonia,2021-03-15,6732.0
+North Macedonia,2021-03-22,7560.0
+North Macedonia,2021-03-29,7196.0
+North Macedonia,2021-04-05,7710.0
+North Macedonia,2021-04-12,5250.0
+North Macedonia,2021-04-19,3494.0
+North Macedonia,2021-04-26,2097.0
+North Macedonia,2021-05-03,1341.0
+North Macedonia,2021-05-10,672.0
+North Macedonia,2021-05-17,365.0
+North Macedonia,2021-05-24,209.0
+North Macedonia,2021-05-31,146.0
+North Macedonia,2021-06-07,118.0
+North Macedonia,2021-06-14,88.0
+North Macedonia,2021-06-21,49.0
+North Macedonia,2021-06-28,43.0
+North Macedonia,2021-07-05,86.0
+North Macedonia,2021-07-12,129.0
+North Macedonia,2021-07-19,155.0
+North Macedonia,2021-07-26,366.0
+North Macedonia,2021-08-02,1573.0
+North Macedonia,2021-08-09,4139.0
+North Macedonia,2021-08-16,6708.0
+North Macedonia,2021-08-23,6458.0
+North Macedonia,2021-08-30,4715.0
+North Macedonia,2021-09-06,3478.0
+North Macedonia,2021-09-13,3391.0
+North Macedonia,2021-09-20,2973.0
+North Macedonia,2021-09-27,2591.0
+North Macedonia,2021-10-04,2413.0
+North Macedonia,2021-10-11,2200.0
+North Macedonia,2021-10-18,2675.0
+North Macedonia,2021-10-25,2786.0
+North Macedonia,2021-11-01,3525.0
+North Macedonia,2021-11-08,3200.0
+North Macedonia,2021-11-15,2943.0
+North Macedonia,2021-11-22,2789.0
+North Macedonia,2021-11-29,2292.0
+North Macedonia,2021-12-06,2107.0
+North Macedonia,2021-12-13,1877.0
+North Macedonia,2021-12-27,0.0
+North Macedonia,2022-01-03,7734.0
+North Macedonia,2022-01-10,11168.0
+North Macedonia,2022-01-17,11649.0
+North Macedonia,2022-01-24,11910.0
+North Macedonia,2022-01-31,9991.0
+North Macedonia,2022-02-07,8834.0
+North Macedonia,2022-02-14,6312.0
+North Macedonia,2022-02-21,3753.0
+North Macedonia,2022-02-28,2685.0
+North Macedonia,2022-03-07,1725.0
+North Macedonia,2022-03-14,1863.0
+North Macedonia,2022-03-21,1760.0
+North Macedonia,2022-03-28,1556.0
+North Macedonia,2022-04-04,1126.0
+North Macedonia,2022-04-11,809.0
+North Macedonia,2022-04-18,603.0
+North Macedonia,2022-04-25,561.0
+North Macedonia,2022-05-02,529.0
+North Macedonia,2022-05-09,561.0
+North Macedonia,2022-05-16,491.0
+North Macedonia,2022-05-23,501.0
+North Macedonia,2022-05-30,441.0
+North Macedonia,2022-06-06,315.0
+Norway,2020-01-06,0.0
+Norway,2020-01-13,0.0
+Norway,2020-01-20,0.0
+Norway,2020-01-27,0.0
+Norway,2020-02-03,0.0
+Norway,2020-02-10,0.0
+Norway,2020-02-17,0.0
+Norway,2020-02-24,1.0
+Norway,2020-03-02,30.0
+Norway,2020-03-09,217.0
+Norway,2020-03-16,1215.0
+Norway,2020-03-23,1438.0
+Norway,2020-03-30,1733.0
+Norway,2020-04-06,1192.0
+Norway,2020-04-13,762.0
+Norway,2020-04-20,575.0
+Norway,2020-04-27,423.0
+Norway,2020-05-04,309.0
+Norway,2020-05-11,222.0
+Norway,2020-05-18,127.0
+Norway,2020-05-25,108.0
+Norway,2020-06-01,86.0
+Norway,2020-06-08,114.0
+Norway,2020-06-15,83.0
+Norway,2020-06-22,110.0
+Norway,2020-06-29,112.0
+Norway,2020-07-06,67.0
+Norway,2020-07-13,65.0
+Norway,2020-07-20,53.0
+Norway,2020-07-27,94.0
+Norway,2020-08-03,199.0
+Norway,2020-08-10,372.0
+Norway,2020-08-17,370.0
+Norway,2020-08-24,360.0
+Norway,2020-08-31,377.0
+Norway,2020-09-07,741.0
+Norway,2020-09-14,765.0
+Norway,2020-09-21,720.0
+Norway,2020-09-28,787.0
+Norway,2020-10-05,818.0
+Norway,2020-10-12,1058.0
+Norway,2020-10-19,943.0
+Norway,2020-10-26,1709.0
+Norway,2020-11-02,3149.0
+Norway,2020-11-09,4045.0
+Norway,2020-11-16,4090.0
+Norway,2020-11-23,3659.0
+Norway,2020-11-30,2926.0
+Norway,2020-12-07,2526.0
+Norway,2020-12-14,2724.0
+Norway,2020-12-21,2948.0
+Norway,2020-12-28,3244.0
+Norway,2021-01-04,8551.0
+Norway,2021-01-11,3009.0
+Norway,2021-01-18,2221.0
+Norway,2021-01-25,1945.0
+Norway,2021-02-01,1844.0
+Norway,2021-02-08,1735.0
+Norway,2021-02-15,2034.0
+Norway,2021-02-22,3110.0
+Norway,2021-03-01,4190.0
+Norway,2021-03-08,5665.0
+Norway,2021-03-15,6575.0
+Norway,2021-03-22,5920.0
+Norway,2021-03-29,5108.0
+Norway,2021-04-05,4825.0
+Norway,2021-04-12,3739.0
+Norway,2021-04-19,3222.0
+Norway,2021-04-26,2804.0
+Norway,2021-05-03,3120.0
+Norway,2021-05-10,2564.0
+Norway,2021-05-17,3227.0
+Norway,2021-05-24,2289.0
+Norway,2021-05-31,1864.0
+Norway,2021-06-07,1220.0
+Norway,2021-06-14,1254.0
+Norway,2021-06-21,1271.0
+Norway,2021-06-28,1305.0
+Norway,2021-07-05,1178.0
+Norway,2021-07-12,1184.0
+Norway,2021-07-19,1503.0
+Norway,2021-07-26,2278.0
+Norway,2021-08-02,2997.0
+Norway,2021-08-09,3749.0
+Norway,2021-08-16,4507.0
+Norway,2021-08-23,8714.0
+Norway,2021-08-30,10107.0
+Norway,2021-09-06,8556.0
+Norway,2021-09-13,5731.0
+Norway,2021-09-20,4615.0
+Norway,2021-09-27,3484.0
+Norway,2021-10-04,3011.0
+Norway,2021-10-11,2833.0
+Norway,2021-10-18,4403.0
+Norway,2021-10-25,7007.0
+Norway,2021-11-01,9839.0
+Norway,2021-11-08,11822.0
+Norway,2021-11-15,14720.0
+Norway,2021-11-22,18464.0
+Norway,2021-11-29,26603.0
+Norway,2021-12-06,34160.0
+Norway,2021-12-13,31127.0
+Norway,2021-12-20,22820.0
+Norway,2021-12-27,26656.0
+Norway,2022-01-03,46414.0
+Norway,2022-01-10,72800.0
+Norway,2022-01-17,119494.0
+Norway,2022-01-24,135471.0
+Norway,2022-01-31,128721.0
+Norway,2022-02-07,138510.0
+Norway,2022-02-14,100890.0
+Norway,2022-02-21,100975.0
+Norway,2022-02-28,65420.0
+Norway,2022-03-07,42060.0
+Norway,2022-03-14,26677.0
+Norway,2022-03-21,17534.0
+Norway,2022-03-28,10503.0
+Norway,2022-04-04,6891.0
+Norway,2022-04-11,3637.0
+Norway,2022-04-18,3771.0
+Norway,2022-04-25,2256.0
+Norway,2022-05-02,1871.0
+Norway,2022-05-09,1764.0
+Norway,2022-05-16,1600.0
+Norway,2022-05-23,4474.0
+Norway,2022-05-30,3486.0
+Norway,2022-06-06,1823.0
+Poland,2020-01-06,0.0
+Poland,2020-01-13,0.0
+Poland,2020-01-20,0.0
+Poland,2020-01-27,0.0
+Poland,2020-02-03,0.0
+Poland,2020-02-10,0.0
+Poland,2020-02-17,0.0
+Poland,2020-02-24,0.0
+Poland,2020-03-02,0.0
+Poland,2020-03-09,11.0
+Poland,2020-03-16,114.0
+Poland,2020-03-23,509.0
+Poland,2020-03-30,1228.0
+Poland,2020-04-06,2240.0
+Poland,2020-04-13,2572.0
+Poland,2020-04-20,2550.0
+Poland,2020-04-27,2330.0
+Poland,2020-05-04,2139.0
+Poland,2020-05-11,2303.0
+Poland,2020-05-18,2533.0
+Poland,2020-05-25,2759.0
+Poland,2020-06-01,2496.0
+Poland,2020-06-08,2777.0
+Poland,2020-06-15,2831.0
+Poland,2020-06-22,2539.0
+Poland,2020-06-29,1976.0
+Poland,2020-07-06,2043.0
+Poland,2020-07-13,1941.0
+Poland,2020-07-20,2213.0
+Poland,2020-07-27,2961.0
+Poland,2020-08-03,3829.0
+Poland,2020-08-10,4897.0
+Poland,2020-08-17,4893.0
+Poland,2020-08-24,5078.0
+Poland,2020-08-31,5108.0
+Poland,2020-09-07,3954.0
+Poland,2020-09-14,3328.0
+Poland,2020-09-21,5088.0
+Poland,2020-09-28,8090.0
+Poland,2020-10-05,12744.0
+Poland,2020-10-12,25742.0
+Poland,2020-10-19,49950.0
+Poland,2020-10-26,77922.0
+Poland,2020-11-02,126214.0
+Poland,2020-11-09,166613.0
+Poland,2020-11-16,166547.0
+Poland,2020-11-23,148359.0
+Poland,2020-11-30,100911.0
+Poland,2020-12-07,77033.0
+Poland,2020-12-14,72664.0
+Poland,2020-12-21,66790.0
+Poland,2020-12-28,53668.0
+Poland,2021-01-04,129605.0
+Poland,2021-01-11,48578.0
+Poland,2021-01-18,38948.0
+Poland,2021-01-25,37763.0
+Poland,2021-02-01,36794.0
+Poland,2021-02-08,38814.0
+Poland,2021-02-15,51154.0
+Poland,2021-02-22,69123.0
+Poland,2021-03-01,89419.0
+Poland,2021-03-08,117089.0
+Poland,2021-03-15,155552.0
+Poland,2021-03-22,194006.0
+Poland,2021-03-29,180514.0
+Poland,2021-04-05,138144.0
+Poland,2021-04-12,108715.0
+Poland,2021-04-19,67003.0
+Poland,2021-04-26,43437.0
+Poland,2021-05-03,29332.0
+Poland,2021-05-10,20539.0
+Poland,2021-05-17,10998.0
+Poland,2021-05-24,6122.0
+Poland,2021-05-31,3056.0
+Poland,2021-06-07,2140.0
+Poland,2021-06-14,1224.0
+Poland,2021-06-21,846.0
+Poland,2021-06-28,619.0
+Poland,2021-07-05,560.0
+Poland,2021-07-12,629.0
+Poland,2021-07-19,738.0
+Poland,2021-07-26,896.0
+Poland,2021-08-02,1042.0
+Poland,2021-08-09,1301.0
+Poland,2021-08-16,1350.0
+Poland,2021-08-23,1612.0
+Poland,2021-08-30,2283.0
+Poland,2021-09-06,3251.0
+Poland,2021-09-13,4380.0
+Poland,2021-09-20,5358.0
+Poland,2021-09-27,7896.0
+Poland,2021-10-04,11756.0
+Poland,2021-10-11,17820.0
+Poland,2021-10-18,34756.0
+Poland,2021-10-25,54275.0
+Poland,2021-11-01,81382.0
+Poland,2021-11-08,102486.0
+Poland,2021-11-15,143720.0
+Poland,2021-11-22,163227.0
+Poland,2021-11-29,163689.0
+Poland,2021-12-06,154947.0
+Poland,2021-12-13,128823.0
+Poland,2021-12-20,86433.0
+Poland,2021-12-27,78982.0
+Poland,2022-01-03,87142.0
+Poland,2022-01-10,102503.0
+Poland,2022-01-17,223842.0
+Poland,2022-01-24,338793.0
+Poland,2022-01-31,335786.0
+Poland,2022-02-07,227481.0
+Poland,2022-02-14,148475.0
+Poland,2022-02-21,103645.0
+Poland,2022-02-28,80285.0
+Poland,2022-03-07,76640.0
+Poland,2022-03-14,71327.0
+Poland,2022-03-21,50291.0
+Poland,2022-03-28,26414.0
+Poland,2022-04-04,8509.0
+Poland,2022-04-11,6926.0
+Poland,2022-04-18,5954.0
+Poland,2022-04-25,5472.0
+Poland,2022-05-02,3671.0
+Poland,2022-05-09,2928.0
+Poland,2022-05-16,2067.0
+Poland,2022-05-23,1645.0
+Poland,2022-05-30,1427.0
+Poland,2022-06-06,1426.0
+Portugal,2020-01-06,0.0
+Portugal,2020-01-13,0.0
+Portugal,2020-01-20,0.0
+Portugal,2020-01-27,0.0
+Portugal,2020-02-03,0.0
+Portugal,2020-02-10,0.0
+Portugal,2020-02-17,0.0
+Portugal,2020-02-24,1.0
+Portugal,2020-03-02,1.0
+Portugal,2020-03-09,27.0
+Portugal,2020-03-16,289.0
+Portugal,2020-03-23,1407.0
+Portugal,2020-03-30,3722.0
+Portugal,2020-04-06,5053.0
+Portugal,2020-04-13,4444.0
+Portugal,2020-04-20,4247.0
+Portugal,2020-04-27,3195.0
+Portugal,2020-05-04,2372.0
+Portugal,2020-05-11,2330.0
+Portugal,2020-05-18,1850.0
+Portugal,2020-05-25,2005.0
+Portugal,2020-06-01,1967.0
+Portugal,2020-06-08,2129.0
+Portugal,2020-06-15,1981.0
+Portugal,2020-06-22,2480.0
+Portugal,2020-06-29,2693.0
+Portugal,2020-07-06,2459.0
+Portugal,2020-07-13,2559.0
+Portugal,2020-07-20,2120.0
+Portugal,2020-07-27,1707.0
+Portugal,2020-08-03,1447.0
+Portugal,2020-08-10,1486.0
+Portugal,2020-08-17,1607.0
+Portugal,2020-08-24,1536.0
+Portugal,2020-08-31,2322.0
+Portugal,2020-09-07,2561.0
+Portugal,2020-09-14,3846.0
+Portugal,2020-09-21,4541.0
+Portugal,2020-09-28,4799.0
+Portugal,2020-10-05,5407.0
+Portugal,2020-10-12,7525.0
+Portugal,2020-10-19,12983.0
+Portugal,2020-10-26,17509.0
+Portugal,2020-11-02,23342.0
+Portugal,2020-11-09,32268.0
+Portugal,2020-11-16,34682.0
+Portugal,2020-11-23,36994.0
+Portugal,2020-11-30,33426.0
+Portugal,2020-12-07,26525.0
+Portugal,2020-12-14,26139.0
+Portugal,2020-12-21,26223.0
+Portugal,2020-12-28,20197.0
+Portugal,2021-01-04,86436.0
+Portugal,2021-01-11,63295.0
+Portugal,2021-01-18,82168.0
+Portugal,2021-01-25,79395.0
+Portugal,2021-02-01,44664.0
+Portugal,2021-02-08,22970.0
+Portugal,2021-02-15,13897.0
+Portugal,2021-02-22,8838.0
+Portugal,2021-03-01,8810.0
+Portugal,2021-03-08,7513.0
+Portugal,2021-03-15,4655.0
+Portugal,2021-03-22,4868.0
+Portugal,2021-03-29,4300.0
+Portugal,2021-04-05,4570.0
+Portugal,2021-04-12,4238.0
+Portugal,2021-04-19,4113.0
+Portugal,2021-04-26,3788.0
+Portugal,2021-05-03,3497.0
+Portugal,2021-05-10,3283.0
+Portugal,2021-05-17,3707.0
+Portugal,2021-05-24,3957.0
+Portugal,2021-05-31,4341.0
+Portugal,2021-06-07,5167.0
+Portugal,2021-06-14,7888.0
+Portugal,2021-06-21,9729.0
+Portugal,2021-06-28,14712.0
+Portugal,2021-07-05,19577.0
+Portugal,2021-07-12,25837.0
+Portugal,2021-07-19,23160.0
+Portugal,2021-07-26,18755.0
+Portugal,2021-08-02,16082.0
+Portugal,2021-08-09,16601.0
+Portugal,2021-08-16,16386.0
+Portugal,2021-08-23,16214.0
+Portugal,2021-08-30,12595.0
+Portugal,2021-09-06,9042.0
+Portugal,2021-09-13,6919.0
+Portugal,2021-09-20,6198.0
+Portugal,2021-09-27,4751.0
+Portugal,2021-10-04,4539.0
+Portugal,2021-10-11,4975.0
+Portugal,2021-10-18,5457.0
+Portugal,2021-10-25,5877.0
+Portugal,2021-11-01,6941.0
+Portugal,2021-11-08,9937.0
+Portugal,2021-11-15,14932.0
+Portugal,2021-11-22,20279.0
+Portugal,2021-11-29,23875.0
+Portugal,2021-12-06,27415.0
+Portugal,2021-12-13,31753.0
+Portugal,2021-12-20,56673.0
+Portugal,2021-12-27,149647.0
+Portugal,2022-01-03,236870.0
+Portugal,2022-01-10,265960.0
+Portugal,2022-01-17,368651.0
+Portugal,2022-01-24,406174.0
+Portugal,2022-01-31,308824.0
+Portugal,2022-02-07,170812.0
+Portugal,2022-02-14,106749.0
+Portugal,2022-02-21,80756.0
+Portugal,2022-02-28,82757.0
+Portugal,2022-03-07,86059.0
+Portugal,2022-03-14,81690.0
+Portugal,2022-03-21,77615.0
+Portugal,2022-03-28,68470.0
+Portugal,2022-04-04,63326.0
+Portugal,2022-04-11,63987.0
+Portugal,2022-04-18,70570.0
+Portugal,2022-04-25,74770.0
+Portugal,2022-05-02,101261.0
+Portugal,2022-05-09,160407.0
+Portugal,2022-05-16,190513.0
+Portugal,2022-05-23,174970.0
+Portugal,2022-05-30,164795.0
+Portugal,2022-06-06,118526.0
+Romania,2020-01-06,0.0
+Romania,2020-01-13,0.0
+Romania,2020-01-20,0.0
+Romania,2020-01-27,0.0
+Romania,2020-02-03,0.0
+Romania,2020-02-10,0.0
+Romania,2020-02-17,0.0
+Romania,2020-02-24,0.0
+Romania,2020-03-02,3.0
+Romania,2020-03-09,14.0
+Romania,2020-03-16,177.0
+Romania,2020-03-23,407.0
+Romania,2020-03-30,1409.0
+Romania,2020-04-06,2210.0
+Romania,2020-04-13,2541.0
+Romania,2020-04-20,2469.0
+Romania,2020-04-27,2411.0
+Romania,2020-05-04,2237.0
+Romania,2020-05-11,1784.0
+Romania,2020-05-18,1461.0
+Romania,2020-05-25,1398.0
+Romania,2020-06-01,1134.0
+Romania,2020-06-08,1251.0
+Romania,2020-06-15,1692.0
+Romania,2020-06-22,2017.0
+Romania,2020-06-29,2430.0
+Romania,2020-07-06,2736.0
+Romania,2020-07-13,4038.0
+Romania,2020-07-20,5778.0
+Romania,2020-07-27,8134.0
+Romania,2020-08-03,8303.0
+Romania,2020-08-10,8368.0
+Romania,2020-08-17,8157.0
+Romania,2020-08-24,8021.0
+Romania,2020-08-31,8140.0
+Romania,2020-09-07,8388.0
+Romania,2020-09-14,8406.0
+Romania,2020-09-21,9796.0
+Romania,2020-09-28,10722.0
+Romania,2020-10-05,14143.0
+Romania,2020-10-12,21397.0
+Romania,2020-10-19,26116.0
+Romania,2020-10-26,30749.0
+Romania,2020-11-02,41857.0
+Romania,2020-11-09,53582.0
+Romania,2020-11-16,56981.0
+Romania,2020-11-23,57962.0
+Romania,2020-11-30,51773.0
+Romania,2020-12-07,42839.0
+Romania,2020-12-14,40758.0
+Romania,2020-12-21,33674.0
+Romania,2020-12-28,23897.0
+Romania,2021-01-04,54369.0
+Romania,2021-01-11,20757.0
+Romania,2021-01-18,17384.0
+Romania,2021-01-25,17242.0
+Romania,2021-02-01,16659.0
+Romania,2021-02-08,16497.0
+Romania,2021-02-15,18404.0
+Romania,2021-02-22,23066.0
+Romania,2021-03-01,27212.0
+Romania,2021-03-08,32560.0
+Romania,2021-03-15,38122.0
+Romania,2021-03-22,39494.0
+Romania,2021-03-29,37266.0
+Romania,2021-04-05,30083.0
+Romania,2021-04-12,22124.0
+Romania,2021-04-19,16106.0
+Romania,2021-04-26,10402.0
+Romania,2021-05-03,8313.0
+Romania,2021-05-10,5399.0
+Romania,2021-05-17,3389.0
+Romania,2021-05-24,1922.0
+Romania,2021-05-31,1224.0
+Romania,2021-06-07,841.0
+Romania,2021-06-14,476.0
+Romania,2021-06-21,393.0
+Romania,2021-06-28,298.0
+Romania,2021-07-05,305.0
+Romania,2021-07-12,431.0
+Romania,2021-07-19,703.0
+Romania,2021-07-26,1138.0
+Romania,2021-08-02,1645.0
+Romania,2021-08-09,2536.0
+Romania,2021-08-16,3893.0
+Romania,2021-08-23,6317.0
+Romania,2021-08-30,9866.0
+Romania,2021-09-06,16546.0
+Romania,2021-09-13,30872.0
+Romania,2021-09-20,48187.0
+Romania,2021-09-27,76721.0
+Romania,2021-10-04,91916.0
+Romania,2021-10-11,101837.0
+Romania,2021-10-18,103685.0
+Romania,2021-10-25,81630.0
+Romania,2021-11-01,54489.0
+Romania,2021-11-08,31841.0
+Romania,2021-11-15,19001.0
+Romania,2021-11-22,13444.0
+Romania,2021-11-29,8579.0
+Romania,2021-12-06,6592.0
+Romania,2021-12-13,4909.0
+Romania,2021-12-20,4766.0
+Romania,2021-12-27,10227.0
+Romania,2022-01-03,36937.0
+Romania,2022-01-10,64075.0
+Romania,2022-01-17,122381.0
+Romania,2022-01-24,189074.0
+Romania,2022-01-31,203973.0
+Romania,2022-02-07,150034.0
+Romania,2022-02-14,94904.0
+Romania,2022-02-21,59747.0
+Romania,2022-02-28,37054.0
+Romania,2022-03-07,22302.0
+Romania,2022-03-14,24180.0
+Romania,2022-03-21,24318.0
+Romania,2022-03-28,18783.0
+Romania,2022-04-04,12019.0
+Romania,2022-04-11,8697.0
+Romania,2022-04-18,6014.0
+Romania,2022-04-25,6123.0
+Romania,2022-05-02,4625.0
+Romania,2022-05-09,3808.0
+Romania,2022-05-16,2849.0
+Romania,2022-05-23,2309.0
+Romania,2022-05-30,1978.0
+Romania,2022-06-06,2019.0
+Russia,2020-01-06,0.0
+Russia,2020-01-13,0.0
+Russia,2020-01-20,0.0
+Russia,2020-01-27,0.0
+Russia,2020-02-03,2.0
+Russia,2020-02-10,0.0
+Russia,2020-02-17,0.0
+Russia,2020-02-24,0.0
+Russia,2020-03-02,0.0
+Russia,2020-03-09,8.0
+Russia,2020-03-16,53.0
+Russia,2020-03-23,304.0
+Russia,2020-03-30,1167.0
+Russia,2020-04-06,3855.0
+Russia,2020-04-13,10381.0
+Russia,2020-04-20,27083.0
+Russia,2020-04-27,38096.0
+Russia,2020-05-04,53738.0
+Russia,2020-05-11,75001.0
+Russia,2020-05-18,72064.0
+Russia,2020-05-25,62729.0
+Russia,2020-06-01,61362.0
+Russia,2020-06-08,61830.0
+Russia,2020-06-15,61291.0
+Russia,2020-06-22,55716.0
+Russia,2020-06-29,49757.0
+Russia,2020-07-06,46814.0
+Russia,2020-07-13,45911.0
+Russia,2020-07-20,44384.0
+Russia,2020-07-27,40939.0
+Russia,2020-08-03,38385.0
+Russia,2020-08-10,36666.0
+Russia,2020-08-17,35317.0
+Russia,2020-08-24,33896.0
+Russia,2020-08-31,33577.0
+Russia,2020-09-07,35179.0
+Russia,2020-09-14,37306.0
+Russia,2020-09-21,40588.0
+Russia,2020-09-28,48039.0
+Russia,2020-10-05,63563.0
+Russia,2020-10-12,83717.0
+Russia,2020-10-19,100616.0
+Russia,2020-10-26,114543.0
+Russia,2020-11-02,122904.0
+Russia,2020-11-09,137553.0
+Russia,2020-11-16,151491.0
+Russia,2020-11-23,163504.0
+Russia,2020-11-30,179987.0
+Russia,2020-12-07,191454.0
+Russia,2020-12-14,193158.0
+Russia,2020-12-21,108740.0
+Russia,2020-12-28,315367.0
+Russia,2021-01-04,347234.0
+Russia,2021-01-11,165797.0
+Russia,2021-01-18,147624.0
+Russia,2021-01-25,129397.0
+Russia,2021-02-01,115110.0
+Russia,2021-02-08,102893.0
+Russia,2021-02-15,91240.0
+Russia,2021-02-22,80320.0
+Russia,2021-03-01,75379.0
+Russia,2021-03-08,57579.0
+Russia,2021-03-15,75545.0
+Russia,2021-03-22,62390.0
+Russia,2021-03-29,52351.0
+Russia,2021-04-05,60496.0
+Russia,2021-04-12,60711.0
+Russia,2021-04-19,69271.0
+Russia,2021-04-26,51883.0
+Russia,2021-05-03,57007.0
+Russia,2021-05-10,69311.0
+Russia,2021-05-17,51932.0
+Russia,2021-05-24,70412.0
+Russia,2021-05-31,54520.0
+Russia,2021-06-07,95971.0
+Russia,2021-06-14,94418.0
+Russia,2021-06-21,156115.0
+Russia,2021-06-28,138000.0
+Russia,2021-07-05,197532.0
+Russia,2021-07-12,174293.0
+Russia,2021-07-19,167014.0
+Russia,2021-07-26,162405.0
+Russia,2021-08-02,135565.0
+Russia,2021-08-09,153086.0
+Russia,2021-08-16,146251.0
+Russia,2021-08-23,135740.0
+Russia,2021-08-30,129772.0
+Russia,2021-09-06,127471.0
+Russia,2021-09-13,134858.0
+Russia,2021-09-20,145985.0
+Russia,2021-09-27,191404.0
+Russia,2021-10-04,163048.0
+Russia,2021-10-11,217322.0
+Russia,2021-10-18,248956.0
+Russia,2021-10-25,272147.0
+Russia,2021-11-01,320705.0
+Russia,2021-11-08,236179.0
+Russia,2021-11-15,296165.0
+Russia,2021-11-22,237394.0
+Russia,2021-11-29,197380.0
+Russia,2021-12-06,244841.0
+Russia,2021-12-13,168336.0
+Russia,2021-12-27,0.0
+Russia,2022-01-03,112370.0
+Russia,2022-01-10,167581.0
+Russia,2022-01-17,339040.0
+Russia,2022-01-24,687777.0
+Russia,2022-01-31,1120946.0
+Russia,2022-02-07,1151486.0
+Russia,2022-02-14,1389247.0
+Russia,2022-02-21,875280.0
+Russia,2022-02-28,616782.0
+Russia,2022-03-07,361423.0
+Russia,2022-03-14,206451.0
+Russia,2022-03-21,201151.0
+Russia,2022-03-28,113023.0
+Russia,2022-04-04,99194.0
+Russia,2022-04-11,88091.0
+Russia,2022-04-18,52986.0
+Russia,2022-04-25,58471.0
+Russia,2022-05-02,32058.0
+Russia,2022-05-09,37170.0
+Russia,2022-05-16,32772.0
+Russia,2022-05-23,30229.0
+Russia,2022-05-30,27363.0
+Russia,2022-06-06,24383.0
+San Marino,2020-01-06,0.0
+San Marino,2020-01-13,0.0
+San Marino,2020-01-20,0.0
+San Marino,2020-01-27,0.0
+San Marino,2020-02-03,0.0
+San Marino,2020-02-10,0.0
+San Marino,2020-02-17,0.0
+San Marino,2020-02-24,0.0
+San Marino,2020-03-02,8.0
+San Marino,2020-03-09,29.0
+San Marino,2020-03-16,61.0
+San Marino,2020-03-23,53.0
+San Marino,2020-03-30,78.0
+San Marino,2020-04-06,37.0
+San Marino,2020-04-13,90.0
+San Marino,2020-04-20,105.0
+San Marino,2020-04-27,77.0
+San Marino,2020-05-04,44.0
+San Marino,2020-05-11,46.0
+San Marino,2020-05-18,26.0
+San Marino,2020-05-25,11.0
+San Marino,2020-06-01,6.0
+San Marino,2020-06-08,16.0
+San Marino,2020-06-15,7.0
+San Marino,2020-06-22,2.0
+San Marino,2020-06-29,2.0
+San Marino,2020-07-06,0.0
+San Marino,2020-07-13,1.0
+San Marino,2020-07-20,0.0
+San Marino,2020-07-27,0.0
+San Marino,2020-08-03,0.0
+San Marino,2020-08-10,11.0
+San Marino,2020-08-17,0.0
+San Marino,2020-08-24,0.0
+San Marino,2020-08-31,0.0
+San Marino,2020-09-07,6.0
+San Marino,2020-09-14,6.0
+San Marino,2020-09-21,1.0
+San Marino,2020-09-28,4.0
+San Marino,2020-10-05,5.0
+San Marino,2020-10-12,20.0
+San Marino,2020-10-19,7.0
+San Marino,2020-10-26,60.0
+San Marino,2020-11-02,109.0
+San Marino,2020-11-09,115.0
+San Marino,2020-11-16,210.0
+San Marino,2020-11-23,142.0
+San Marino,2020-11-30,191.0
+San Marino,2020-12-07,203.0
+San Marino,2020-12-14,158.0
+San Marino,2020-12-21,160.0
+San Marino,2020-12-28,168.0
+San Marino,2021-01-04,392.0
+San Marino,2021-01-11,120.0
+San Marino,2021-01-18,87.0
+San Marino,2021-01-25,151.0
+San Marino,2021-02-01,112.0
+San Marino,2021-02-08,180.0
+San Marino,2021-02-15,155.0
+San Marino,2021-02-22,244.0
+San Marino,2021-03-01,219.0
+San Marino,2021-03-08,0.0
+San Marino,2021-03-15,421.0
+San Marino,2021-03-22,0.0
+San Marino,2021-03-29,419.0
+San Marino,2021-04-05,187.0
+San Marino,2021-04-12,64.0
+San Marino,2021-04-19,29.0
+San Marino,2021-04-26,12.0
+San Marino,2021-05-03,0.0
+San Marino,2021-05-10,20.0
+San Marino,2021-05-17,2.0
+San Marino,2021-05-24,1.0
+San Marino,2021-05-31,0.0
+San Marino,2021-06-07,0.0
+San Marino,2021-06-14,1.0
+San Marino,2021-06-21,1.0
+San Marino,2021-06-28,0.0
+San Marino,2021-07-05,0.0
+San Marino,2021-07-12,4.0
+San Marino,2021-07-19,20.0
+San Marino,2021-07-26,31.0
+San Marino,2021-08-02,47.0
+San Marino,2021-08-09,37.0
+San Marino,2021-08-16,30.0
+San Marino,2021-08-23,60.0
+San Marino,2021-08-30,0.0
+San Marino,2021-09-06,67.0
+San Marino,2021-09-13,31.0
+San Marino,2021-09-20,9.0
+San Marino,2021-09-27,16.0
+San Marino,2021-10-04,26.0
+San Marino,2021-10-11,5.0
+San Marino,2021-10-18,34.0
+San Marino,2021-10-25,38.0
+San Marino,2021-11-01,51.0
+San Marino,2021-11-08,56.0
+San Marino,2021-11-15,136.0
+San Marino,2021-11-22,189.0
+San Marino,2021-11-29,238.0
+San Marino,2021-12-06,383.0
+San Marino,2021-12-13,560.0
+San Marino,2021-12-27,0.0
+San Marino,2022-01-03,1031.0
+San Marino,2022-01-10,1121.0
+San Marino,2022-01-17,1147.0
+San Marino,2022-01-24,1097.0
+San Marino,2022-01-31,688.0
+San Marino,2022-02-07,417.0
+San Marino,2022-02-14,219.0
+San Marino,2022-02-21,162.0
+San Marino,2022-02-28,154.0
+San Marino,2022-03-07,266.0
+San Marino,2022-03-14,179.0
+San Marino,2022-03-21,213.0
+San Marino,2022-03-28,164.0
+San Marino,2022-04-04,284.0
+San Marino,2022-04-11,290.0
+San Marino,2022-04-18,267.0
+San Marino,2022-04-25,338.0
+San Marino,2022-05-02,142.0
+San Marino,2022-05-09,186.0
+San Marino,2022-05-16,169.0
+San Marino,2022-05-23,84.0
+San Marino,2022-05-30,19.0
+San Marino,2022-06-06,0.0
+Serbia,2020-03-16,55.0
+Serbia,2020-03-23,133.0
+Serbia,2020-03-30,553.0
+Serbia,2020-04-06,1167.0
+Serbia,2020-04-13,1722.0
+Serbia,2020-04-20,2688.0
+Serbia,2020-04-27,1724.0
+Serbia,2020-05-04,1422.0
+Serbia,2020-05-11,650.0
+Serbia,2020-05-18,496.0
+Serbia,2020-05-25,549.0
+Serbia,2020-06-01,253.0
+Serbia,2020-06-08,411.0
+Serbia,2020-06-15,487.0
+Serbia,2020-06-22,584.0
+Serbia,2020-06-29,1152.0
+Serbia,2020-07-06,2085.0
+Serbia,2020-07-13,2229.0
+Serbia,2020-07-20,2534.0
+Serbia,2020-07-27,2836.0
+Serbia,2020-08-03,2463.0
+Serbia,2020-08-10,1906.0
+Serbia,2020-08-17,1583.0
+Serbia,2020-08-24,975.0
+Serbia,2020-08-31,708.0
+Serbia,2020-09-07,540.0
+Serbia,2020-09-14,503.0
+Serbia,2020-09-21,500.0
+Serbia,2020-09-28,476.0
+Serbia,2020-10-05,517.0
+Serbia,2020-10-12,886.0
+Serbia,2020-10-19,1373.0
+Serbia,2020-10-26,3326.0
+Serbia,2020-11-02,8917.0
+Serbia,2020-11-09,14344.0
+Serbia,2020-11-16,21821.0
+Serbia,2020-11-23,36552.0
+Serbia,2020-11-30,48094.0
+Serbia,2020-12-07,50438.0
+Serbia,2020-12-14,46780.0
+Serbia,2020-12-21,37315.0
+Serbia,2020-12-28,24872.0
+Serbia,2021-01-04,31070.0
+Serbia,2021-01-11,12844.0
+Serbia,2021-01-18,11070.0
+Serbia,2021-01-25,11660.0
+Serbia,2021-02-01,12618.0
+Serbia,2021-02-08,12998.0
+Serbia,2021-02-15,15761.0
+Serbia,2021-02-22,22619.0
+Serbia,2021-03-01,26180.0
+Serbia,2021-03-08,30838.0
+Serbia,2021-03-15,34851.0
+Serbia,2021-03-22,34378.0
+Serbia,2021-03-29,32163.0
+Serbia,2021-04-05,24539.0
+Serbia,2021-04-12,20160.0
+Serbia,2021-04-19,17299.0
+Serbia,2021-04-26,12253.0
+Serbia,2021-05-03,8488.0
+Serbia,2021-05-10,6050.0
+Serbia,2021-05-17,3481.0
+Serbia,2021-05-24,2285.0
+Serbia,2021-05-31,1454.0
+Serbia,2021-06-07,1213.0
+Serbia,2021-06-14,862.0
+Serbia,2021-06-21,548.0
+Serbia,2021-06-28,572.0
+Serbia,2021-07-05,676.0
+Serbia,2021-07-12,1041.0
+Serbia,2021-07-19,1522.0
+Serbia,2021-07-26,2109.0
+Serbia,2021-08-02,3481.0
+Serbia,2021-08-09,6342.0
+Serbia,2021-08-16,10269.0
+Serbia,2021-08-23,15304.0
+Serbia,2021-08-30,22106.0
+Serbia,2021-09-06,43438.0
+Serbia,2021-09-13,42525.0
+Serbia,2021-09-20,45380.0
+Serbia,2021-09-27,49940.0
+Serbia,2021-10-04,44162.0
+Serbia,2021-10-11,43667.0
+Serbia,2021-10-18,49374.0
+Serbia,2021-10-25,44540.0
+Serbia,2021-11-01,40276.0
+Serbia,2021-11-08,28138.0
+Serbia,2021-11-15,21894.0
+Serbia,2021-11-22,17336.0
+Serbia,2021-11-29,13270.0
+Serbia,2021-12-06,10384.0
+Serbia,2021-12-13,8414.0
+Serbia,2021-12-27,0.0
+Serbia,2022-01-03,47739.0
+Serbia,2022-01-10,85800.0
+Serbia,2022-01-17,108505.0
+Serbia,2022-01-24,117546.0
+Serbia,2022-01-31,105897.0
+Serbia,2022-02-07,72667.0
+Serbia,2022-02-14,42103.0
+Serbia,2022-02-21,25159.0
+Serbia,2022-02-28,17346.0
+Serbia,2022-03-07,14898.0
+Serbia,2022-03-14,14764.0
+Serbia,2022-03-21,15547.0
+Serbia,2022-03-28,9895.0
+Serbia,2022-04-04,8693.0
+Serbia,2022-04-11,6571.0
+Serbia,2022-04-18,5668.0
+Serbia,2022-04-25,5041.0
+Serbia,2022-05-02,3284.0
+Serbia,2022-05-09,2857.0
+Serbia,2022-05-16,2546.0
+Serbia,2022-05-23,1539.0
+Serbia,2022-05-30,1688.0
+Serbia,2022-06-06,1729.0
+Slovakia,2020-01-06,0.0
+Slovakia,2020-01-13,0.0
+Slovakia,2020-01-20,0.0
+Slovakia,2020-01-27,0.0
+Slovakia,2020-02-03,0.0
+Slovakia,2020-02-10,0.0
+Slovakia,2020-02-17,0.0
+Slovakia,2020-02-24,0.0
+Slovakia,2020-03-02,0.0
+Slovakia,2020-03-09,5.0
+Slovakia,2020-03-16,56.0
+Slovakia,2020-03-23,124.0
+Slovakia,2020-03-30,151.0
+Slovakia,2020-04-06,198.0
+Slovakia,2020-04-13,235.0
+Slovakia,2020-04-20,404.0
+Slovakia,2020-04-27,208.0
+Slovakia,2020-05-04,32.0
+Slovakia,2020-05-11,44.0
+Slovakia,2020-05-18,38.0
+Slovakia,2020-05-25,16.0
+Slovakia,2020-06-01,11.0
+Slovakia,2020-06-08,8.0
+Slovakia,2020-06-15,22.0
+Slovakia,2020-06-22,36.0
+Slovakia,2020-06-29,77.0
+Slovakia,2020-07-06,100.0
+Slovakia,2020-07-13,137.0
+Slovakia,2020-07-20,78.0
+Slovakia,2020-07-27,201.0
+Slovakia,2020-08-03,173.0
+Slovakia,2020-08-10,245.0
+Slovakia,2020-08-17,308.0
+Slovakia,2020-08-24,517.0
+Slovakia,2020-08-31,493.0
+Slovakia,2020-09-07,719.0
+Slovakia,2020-09-14,944.0
+Slovakia,2020-09-21,1176.0
+Slovakia,2020-09-28,2587.0
+Slovakia,2020-10-05,4149.0
+Slovakia,2020-10-12,6863.0
+Slovakia,2020-10-19,10558.0
+Slovakia,2020-10-26,14980.0
+Slovakia,2020-11-02,19446.0
+Slovakia,2020-11-09,16803.0
+Slovakia,2020-11-16,13062.0
+Slovakia,2020-11-23,11908.0
+Slovakia,2020-11-30,14235.0
+Slovakia,2020-12-07,19374.0
+Slovakia,2020-12-14,30403.0
+Slovakia,2020-12-21,38659.0
+Slovakia,2020-12-28,34527.0
+Slovakia,2021-01-04,93292.0
+Slovakia,2021-01-11,31500.0
+Slovakia,2021-01-18,37284.0
+Slovakia,2021-01-25,32952.0
+Slovakia,2021-02-01,38322.0
+Slovakia,2021-02-08,37392.0
+Slovakia,2021-02-15,37933.0
+Slovakia,2021-02-22,39163.0
+Slovakia,2021-03-01,34745.0
+Slovakia,2021-03-08,30335.0
+Slovakia,2021-03-15,24828.0
+Slovakia,2021-03-22,20075.0
+Slovakia,2021-03-29,15587.0
+Slovakia,2021-04-05,12724.0
+Slovakia,2021-04-12,10338.0
+Slovakia,2021-04-19,8861.0
+Slovakia,2021-04-26,7249.0
+Slovakia,2021-05-03,5381.0
+Slovakia,2021-05-10,3996.0
+Slovakia,2021-05-17,2702.0
+Slovakia,2021-05-24,2053.0
+Slovakia,2021-05-31,1622.0
+Slovakia,2021-06-07,1149.0
+Slovakia,2021-06-14,613.0
+Slovakia,2021-06-21,485.0
+Slovakia,2021-06-28,299.0
+Slovakia,2021-07-05,290.0
+Slovakia,2021-07-12,254.0
+Slovakia,2021-07-19,351.0
+Slovakia,2021-07-26,480.0
+Slovakia,2021-08-02,488.0
+Slovakia,2021-08-09,646.0
+Slovakia,2021-08-16,837.0
+Slovakia,2021-08-23,1039.0
+Slovakia,2021-08-30,2113.0
+Slovakia,2021-09-06,3746.0
+Slovakia,2021-09-13,5883.0
+Slovakia,2021-09-20,7867.0
+Slovakia,2021-09-27,10448.0
+Slovakia,2021-10-04,12954.0
+Slovakia,2021-10-11,15900.0
+Slovakia,2021-10-18,25944.0
+Slovakia,2021-10-25,37959.0
+Slovakia,2021-11-01,49578.0
+Slovakia,2021-11-08,59725.0
+Slovakia,2021-11-15,72393.0
+Slovakia,2021-11-22,78105.0
+Slovakia,2021-11-29,74274.0
+Slovakia,2021-12-06,54930.0
+Slovakia,2021-12-13,37782.0
+Slovakia,2021-12-20,24392.0
+Slovakia,2021-12-27,23831.0
+Slovakia,2022-01-03,21882.0
+Slovakia,2022-01-10,21115.0
+Slovakia,2022-01-17,49456.0
+Slovakia,2022-01-24,106371.0
+Slovakia,2022-01-31,147731.0
+Slovakia,2022-02-07,153409.0
+Slovakia,2022-02-14,138889.0
+Slovakia,2022-02-21,107265.0
+Slovakia,2022-02-28,83804.0
+Slovakia,2022-03-07,79117.0
+Slovakia,2022-03-14,72890.0
+Slovakia,2022-03-21,62457.0
+Slovakia,2022-03-28,43981.0
+Slovakia,2022-04-04,29305.0
+Slovakia,2022-04-11,16287.0
+Slovakia,2022-04-18,12201.0
+Slovakia,2022-04-25,8193.0
+Slovakia,2022-05-02,4513.0
+Slovakia,2022-05-09,2859.0
+Slovakia,2022-05-16,1863.0
+Slovakia,2022-05-23,1390.0
+Slovakia,2022-05-30,1163.0
+Slovakia,2022-06-06,883.0
+Slovenia,2020-01-06,0.0
+Slovenia,2020-01-13,0.0
+Slovenia,2020-01-20,0.0
+Slovenia,2020-01-27,0.0
+Slovenia,2020-02-03,0.0
+Slovenia,2020-02-10,0.0
+Slovenia,2020-02-17,0.0
+Slovenia,2020-02-24,0.0
+Slovenia,2020-03-02,0.0
+Slovenia,2020-03-09,20.0
+Slovenia,2020-03-16,230.0
+Slovenia,2020-03-23,192.0
+Slovenia,2020-03-30,315.0
+Slovenia,2020-04-06,264.0
+Slovenia,2020-04-13,192.0
+Slovenia,2020-04-20,123.0
+Slovenia,2020-04-27,67.0
+Slovenia,2020-05-04,36.0
+Slovenia,2020-05-11,21.0
+Slovenia,2020-05-18,6.0
+Slovenia,2020-05-25,3.0
+Slovenia,2020-06-01,4.0
+Slovenia,2020-06-08,12.0
+Slovenia,2020-06-15,11.0
+Slovenia,2020-06-22,25.0
+Slovenia,2020-06-29,63.0
+Slovenia,2020-07-06,132.0
+Slovenia,2020-07-13,134.0
+Slovenia,2020-07-20,104.0
+Slovenia,2020-07-27,134.0
+Slovenia,2020-08-03,94.0
+Slovenia,2020-08-10,74.0
+Slovenia,2020-08-17,174.0
+Slovenia,2020-08-24,236.0
+Slovenia,2020-08-31,218.0
+Slovenia,2020-09-07,307.0
+Slovenia,2020-09-14,559.0
+Slovenia,2020-09-21,721.0
+Slovenia,2020-09-28,919.0
+Slovenia,2020-10-05,1186.0
+Slovenia,2020-10-12,2258.0
+Slovenia,2020-10-19,4852.0
+Slovenia,2020-10-26,10427.0
+Slovenia,2020-11-02,12106.0
+Slovenia,2020-11-09,9437.0
+Slovenia,2020-11-16,9927.0
+Slovenia,2020-11-23,10215.0
+Slovenia,2020-11-30,10073.0
+Slovenia,2020-12-07,10459.0
+Slovenia,2020-12-14,10455.0
+Slovenia,2020-12-21,9517.0
+Slovenia,2020-12-28,9109.0
+Slovenia,2021-01-04,24416.0
+Slovenia,2021-01-11,9749.0
+Slovenia,2021-01-18,8703.0
+Slovenia,2021-01-25,8642.0
+Slovenia,2021-02-01,7100.0
+Slovenia,2021-02-08,5716.0
+Slovenia,2021-02-15,5261.0
+Slovenia,2021-02-22,5427.0
+Slovenia,2021-03-01,5370.0
+Slovenia,2021-03-08,4876.0
+Slovenia,2021-03-15,5797.0
+Slovenia,2021-03-22,6659.0
+Slovenia,2021-03-29,7472.0
+Slovenia,2021-04-05,6378.0
+Slovenia,2021-04-12,5523.0
+Slovenia,2021-04-19,4851.0
+Slovenia,2021-04-26,4680.0
+Slovenia,2021-05-03,4280.0
+Slovenia,2021-05-10,3196.0
+Slovenia,2021-05-17,2351.0
+Slovenia,2021-05-24,1955.0
+Slovenia,2021-05-31,1711.0
+Slovenia,2021-06-07,1033.0
+Slovenia,2021-06-14,532.0
+Slovenia,2021-06-21,251.0
+Slovenia,2021-06-28,177.0
+Slovenia,2021-07-05,387.0
+Slovenia,2021-07-12,377.0
+Slovenia,2021-07-19,473.0
+Slovenia,2021-07-26,631.0
+Slovenia,2021-08-02,849.0
+Slovenia,2021-08-09,1333.0
+Slovenia,2021-08-16,2173.0
+Slovenia,2021-08-23,3001.0
+Slovenia,2021-08-30,3889.0
+Slovenia,2021-09-06,5927.0
+Slovenia,2021-09-13,7321.0
+Slovenia,2021-09-20,6190.0
+Slovenia,2021-09-27,6135.0
+Slovenia,2021-10-04,5560.0
+Slovenia,2021-10-11,6855.0
+Slovenia,2021-10-18,12128.0
+Slovenia,2021-10-25,16496.0
+Slovenia,2021-11-01,20173.0
+Slovenia,2021-11-08,22695.0
+Slovenia,2021-11-15,22116.0
+Slovenia,2021-11-22,16328.0
+Slovenia,2021-11-29,12408.0
+Slovenia,2021-12-06,9762.0
+Slovenia,2021-12-13,8517.0
+Slovenia,2021-12-20,7602.0
+Slovenia,2021-12-27,10793.0
+Slovenia,2022-01-03,25801.0
+Slovenia,2022-01-10,45036.0
+Slovenia,2022-01-17,73737.0
+Slovenia,2022-01-24,98831.0
+Slovenia,2022-01-31,89440.0
+Slovenia,2022-02-07,51552.0
+Slovenia,2022-02-14,28449.0
+Slovenia,2022-02-21,12486.0
+Slovenia,2022-02-28,11796.0
+Slovenia,2022-03-07,14383.0
+Slovenia,2022-03-14,19376.0
+Slovenia,2022-03-21,19975.0
+Slovenia,2022-03-28,17023.0
+Slovenia,2022-04-04,12970.0
+Slovenia,2022-04-11,9484.0
+Slovenia,2022-04-18,6979.0
+Slovenia,2022-04-25,5975.0
+Slovenia,2022-05-02,5157.0
+Slovenia,2022-05-09,3801.0
+Slovenia,2022-05-16,2752.0
+Slovenia,2022-05-23,2022.0
+Slovenia,2022-05-30,1725.0
+Slovenia,2022-06-06,1990.0
+Spain,2020-01-06,0.0
+Spain,2020-01-13,0.0
+Spain,2020-01-20,2.0
+Spain,2020-01-27,1.0
+Spain,2020-02-03,2.0
+Spain,2020-02-10,2.0
+Spain,2020-02-17,4.0
+Spain,2020-02-24,8.0
+Spain,2020-03-02,129.0
+Spain,2020-03-09,1423.0
+Spain,2020-03-16,11604.0
+Spain,2020-03-23,36352.0
+Spain,2020-03-30,59346.0
+Spain,2020-04-06,44423.0
+Spain,2020-04-13,30595.0
+Spain,2020-04-20,21249.0
+Spain,2020-04-27,14573.0
+Spain,2020-05-04,8101.0
+Spain,2020-05-11,5630.0
+Spain,2020-05-18,4996.0
+Spain,2020-05-25,4422.0
+Spain,2020-06-01,3832.0
+Spain,2020-06-08,3038.0
+Spain,2020-06-15,2356.0
+Spain,2020-06-22,2207.0
+Spain,2020-06-29,2362.0
+Spain,2020-07-06,2814.0
+Spain,2020-07-13,4875.0
+Spain,2020-07-20,10301.0
+Spain,2020-07-27,14643.0
+Spain,2020-08-03,20443.0
+Spain,2020-08-10,28341.0
+Spain,2020-08-17,40202.0
+Spain,2020-08-24,52167.0
+Spain,2020-08-31,61155.0
+Spain,2020-09-07,65519.0
+Spain,2020-09-14,74091.0
+Spain,2020-09-21,80892.0
+Spain,2020-09-28,72567.0
+Spain,2020-10-05,65176.0
+Spain,2020-10-12,77821.0
+Spain,2020-10-19,91239.0
+Spain,2020-10-26,135491.0
+Spain,2020-11-02,145167.0
+Spain,2020-11-09,133385.0
+Spain,2020-11-16,112128.0
+Spain,2020-11-23,81292.0
+Spain,2020-11-30,58651.0
+Spain,2020-12-07,50729.0
+Spain,2020-12-14,50706.0
+Spain,2020-12-21,68429.0
+Spain,2020-12-28,66218.0
+Spain,2021-01-04,259570.0
+Spain,2021-01-11,234128.0
+Spain,2021-01-18,244719.0
+Spain,2021-01-25,202184.0
+Spain,2021-02-01,130446.0
+Spain,2021-02-08,75644.0
+Spain,2021-02-15,50365.0
+Spain,2021-02-22,38951.0
+Spain,2021-03-01,33652.0
+Spain,2021-03-08,32487.0
+Spain,2021-03-15,34074.0
+Spain,2021-03-22,42842.0
+Spain,2021-03-29,43333.0
+Spain,2021-04-05,60098.0
+Spain,2021-04-12,58951.0
+Spain,2021-04-19,58011.0
+Spain,2021-04-26,52961.0
+Spain,2021-05-03,41918.0
+Spain,2021-05-10,34709.0
+Spain,2021-05-17,32357.0
+Spain,2021-05-24,30836.0
+Spain,2021-05-31,28304.0
+Spain,2021-06-07,24338.0
+Spain,2021-06-14,23610.0
+Spain,2021-06-21,29783.0
+Spain,2021-06-28,78957.0
+Spain,2021-07-05,135322.0
+Spain,2021-07-12,176662.0
+Spain,2021-07-19,185886.0
+Spain,2021-07-26,157817.0
+Spain,2021-08-02,119286.0
+Spain,2021-08-09,90757.0
+Spain,2021-08-16,68528.0
+Spain,2021-08-23,51911.0
+Spain,2021-08-30,34235.0
+Spain,2021-09-06,23195.0
+Spain,2021-09-13,17861.0
+Spain,2021-09-20,14466.0
+Spain,2021-09-27,12141.0
+Spain,2021-10-04,10341.0
+Spain,2021-10-11,10618.0
+Spain,2021-10-18,12399.0
+Spain,2021-10-25,13428.0
+Spain,2021-11-01,16058.0
+Spain,2021-11-08,25447.0
+Spain,2021-11-15,40654.0
+Spain,2021-11-22,59177.0
+Spain,2021-11-29,89703.0
+Spain,2021-12-06,115559.0
+Spain,2021-12-13,229880.0
+Spain,2021-12-20,490101.0
+Spain,2021-12-27,791378.0
+Spain,2022-01-03,889495.0
+Spain,2022-01-10,954602.0
+Spain,2022-01-17,845867.0
+Spain,2022-01-24,625052.0
+Spain,2022-01-31,382853.0
+Spain,2022-02-07,243727.0
+Spain,2022-02-14,158030.0
+Spain,2022-02-21,117454.0
+Spain,2022-02-28,110564.0
+Spain,2022-03-07,109432.0
+Spain,2022-03-14,116053.0
+Spain,2022-03-21,119877.0
+Spain,2022-03-28,65932.0
+Spain,2022-04-04,70821.0
+Spain,2022-04-11,72872.0
+Spain,2022-04-18,100811.0
+Spain,2022-04-25,117342.0
+Spain,2022-05-02,118175.0
+Spain,2022-05-09,120677.0
+Spain,2022-05-16,98363.0
+Spain,2022-05-23,77405.0
+Spain,2022-05-30,75138.0
+Spain,2022-06-06,69410.0
+Sweden,2020-01-06,0.0
+Sweden,2020-01-13,0.0
+Sweden,2020-01-20,0.0
+Sweden,2020-01-27,0.0
+Sweden,2020-02-03,0.0
+Sweden,2020-02-10,1.0
+Sweden,2020-02-17,0.0
+Sweden,2020-02-24,0.0
+Sweden,2020-03-02,13.0
+Sweden,2020-03-09,211.0
+Sweden,2020-03-16,836.0
+Sweden,2020-03-23,914.0
+Sweden,2020-03-30,1941.0
+Sweden,2020-04-06,3211.0
+Sweden,2020-04-13,3711.0
+Sweden,2020-04-20,3739.0
+Sweden,2020-04-27,4178.0
+Sweden,2020-05-04,3801.0
+Sweden,2020-05-11,4133.0
+Sweden,2020-05-18,3852.0
+Sweden,2020-05-25,3645.0
+Sweden,2020-06-01,4258.0
+Sweden,2020-06-08,6007.0
+Sweden,2020-06-15,7118.0
+Sweden,2020-06-22,7063.0
+Sweden,2020-06-29,7451.0
+Sweden,2020-07-06,4276.0
+Sweden,2020-07-13,2178.0
+Sweden,2020-07-20,1621.0
+Sweden,2020-07-27,1316.0
+Sweden,2020-08-03,1553.0
+Sweden,2020-08-10,2013.0
+Sweden,2020-08-17,2052.0
+Sweden,2020-08-24,1687.0
+Sweden,2020-08-31,1200.0
+Sweden,2020-09-07,1331.0
+Sweden,2020-09-14,1592.0
+Sweden,2020-09-21,2080.0
+Sweden,2020-09-28,2919.0
+Sweden,2020-10-05,3642.0
+Sweden,2020-10-12,4278.0
+Sweden,2020-10-19,5620.0
+Sweden,2020-10-26,9154.0
+Sweden,2020-11-02,18467.0
+Sweden,2020-11-09,25403.0
+Sweden,2020-11-16,31315.0
+Sweden,2020-11-23,31941.0
+Sweden,2020-11-30,35552.0
+Sweden,2020-12-07,36830.0
+Sweden,2020-12-14,43630.0
+Sweden,2020-12-21,46174.0
+Sweden,2020-12-28,37134.0
+Sweden,2021-01-04,80767.0
+Sweden,2021-01-11,28932.0
+Sweden,2021-01-18,23221.0
+Sweden,2021-01-25,20649.0
+Sweden,2021-02-01,19602.0
+Sweden,2021-02-08,21280.0
+Sweden,2021-02-15,23609.0
+Sweden,2021-02-22,26681.0
+Sweden,2021-03-01,27739.0
+Sweden,2021-03-08,28553.0
+Sweden,2021-03-15,33031.0
+Sweden,2021-03-22,37880.0
+Sweden,2021-03-29,38381.0
+Sweden,2021-04-05,41141.0
+Sweden,2021-04-12,41034.0
+Sweden,2021-04-19,36028.0
+Sweden,2021-04-26,35306.0
+Sweden,2021-05-03,33678.0
+Sweden,2021-05-10,25913.0
+Sweden,2021-05-17,18169.0
+Sweden,2021-05-24,7974.0
+Sweden,2021-05-31,9094.0
+Sweden,2021-06-07,4394.0
+Sweden,2021-06-14,2848.0
+Sweden,2021-06-21,1983.0
+Sweden,2021-06-28,1870.0
+Sweden,2021-07-05,1514.0
+Sweden,2021-07-12,1883.0
+Sweden,2021-07-19,2661.0
+Sweden,2021-07-26,3460.0
+Sweden,2021-08-02,4609.0
+Sweden,2021-08-09,5817.0
+Sweden,2021-08-16,6463.0
+Sweden,2021-08-23,6685.0
+Sweden,2021-08-30,7237.0
+Sweden,2021-09-06,7968.0
+Sweden,2021-09-13,6259.0
+Sweden,2021-09-20,4305.0
+Sweden,2021-09-27,4231.0
+Sweden,2021-10-04,4137.0
+Sweden,2021-10-11,4069.0
+Sweden,2021-10-18,5194.0
+Sweden,2021-10-25,5909.0
+Sweden,2021-11-01,5059.0
+Sweden,2021-11-08,5818.0
+Sweden,2021-11-15,7093.0
+Sweden,2021-11-22,11915.0
+Sweden,2021-11-29,13801.0
+Sweden,2021-12-06,18649.0
+Sweden,2021-12-13,24487.0
+Sweden,2021-12-20,27908.0
+Sweden,2021-12-27,59340.0
+Sweden,2022-01-03,125282.0
+Sweden,2022-01-10,164680.0
+Sweden,2022-01-17,256336.0
+Sweden,2022-01-24,265053.0
+Sweden,2022-01-31,185707.0
+Sweden,2022-02-07,62335.0
+Sweden,2022-02-14,22155.0
+Sweden,2022-02-21,17658.0
+Sweden,2022-02-28,12545.0
+Sweden,2022-03-07,10110.0
+Sweden,2022-03-14,8499.0
+Sweden,2022-03-21,7040.0
+Sweden,2022-03-28,4952.0
+Sweden,2022-04-04,4086.0
+Sweden,2022-04-11,3070.0
+Sweden,2022-04-18,2526.0
+Sweden,2022-04-25,2318.0
+Sweden,2022-05-02,1940.0
+Sweden,2022-05-09,1656.0
+Sweden,2022-05-16,1818.0
+Sweden,2022-05-23,1318.0
+Sweden,2022-05-30,1260.0
+Sweden,2022-06-06,1899.0
+Switzerland,2020-01-06,0.0
+Switzerland,2020-01-13,0.0
+Switzerland,2020-01-20,0.0
+Switzerland,2020-01-27,0.0
+Switzerland,2020-02-03,0.0
+Switzerland,2020-02-10,0.0
+Switzerland,2020-02-17,0.0
+Switzerland,2020-02-24,0.0
+Switzerland,2020-03-02,24.0
+Switzerland,2020-03-09,308.0
+Switzerland,2020-03-16,1868.0
+Switzerland,2020-03-23,4771.0
+Switzerland,2020-03-30,7303.0
+Switzerland,2020-04-06,6748.0
+Switzerland,2020-04-13,4198.0
+Switzerland,2020-04-20,2438.0
+Switzerland,2020-04-27,1320.0
+Switzerland,2020-05-04,844.0
+Switzerland,2020-05-11,400.0
+Switzerland,2020-05-18,282.0
+Switzerland,2020-05-25,149.0
+Switzerland,2020-06-01,126.0
+Switzerland,2020-06-08,103.0
+Switzerland,2020-06-15,152.0
+Switzerland,2020-06-22,175.0
+Switzerland,2020-06-29,325.0
+Switzerland,2020-07-06,650.0
+Switzerland,2020-07-13,614.0
+Switzerland,2020-07-20,706.0
+Switzerland,2020-07-27,821.0
+Switzerland,2020-08-03,1136.0
+Switzerland,2020-08-10,1053.0
+Switzerland,2020-08-17,1517.0
+Switzerland,2020-08-24,1771.0
+Switzerland,2020-08-31,2104.0
+Switzerland,2020-09-07,2387.0
+Switzerland,2020-09-14,2775.0
+Switzerland,2020-09-21,2103.0
+Switzerland,2020-09-28,2693.0
+Switzerland,2020-10-05,2399.0
+Switzerland,2020-10-12,5967.0
+Switzerland,2020-10-19,14192.0
+Switzerland,2020-10-26,28901.0
+Switzerland,2020-11-02,50405.0
+Switzerland,2020-11-09,57432.0
+Switzerland,2020-11-16,45026.0
+Switzerland,2020-11-23,33297.0
+Switzerland,2020-11-30,27534.0
+Switzerland,2020-12-07,26084.0
+Switzerland,2020-12-14,29228.0
+Switzerland,2020-12-21,39833.0
+Switzerland,2020-12-28,24084.0
+Switzerland,2021-01-04,45848.0
+Switzerland,2021-01-11,15378.0
+Switzerland,2021-01-18,13605.0
+Switzerland,2021-01-25,11451.0
+Switzerland,2021-02-01,10027.0
+Switzerland,2021-02-08,8038.0
+Switzerland,2021-02-15,7007.0
+Switzerland,2021-02-22,7240.0
+Switzerland,2021-03-01,7524.0
+Switzerland,2021-03-08,8759.0
+Switzerland,2021-03-15,10416.0
+Switzerland,2021-03-22,12504.0
+Switzerland,2021-03-29,14020.0
+Switzerland,2021-04-05,15063.0
+Switzerland,2021-04-12,11268.0
+Switzerland,2021-04-19,14453.0
+Switzerland,2021-04-26,12069.0
+Switzerland,2021-05-03,10314.0
+Switzerland,2021-05-10,7848.0
+Switzerland,2021-05-17,7951.0
+Switzerland,2021-05-24,4607.0
+Switzerland,2021-05-31,3620.0
+Switzerland,2021-06-07,2361.0
+Switzerland,2021-06-14,1255.0
+Switzerland,2021-06-21,747.0
+Switzerland,2021-06-28,1026.0
+Switzerland,2021-07-05,1969.0
+Switzerland,2021-07-12,4116.0
+Switzerland,2021-07-19,4507.0
+Switzerland,2021-07-26,5257.0
+Switzerland,2021-08-02,7413.0
+Switzerland,2021-08-09,13779.0
+Switzerland,2021-08-16,17958.0
+Switzerland,2021-08-23,17939.0
+Switzerland,2021-08-30,18627.0
+Switzerland,2021-09-06,18412.0
+Switzerland,2021-09-13,12960.0
+Switzerland,2021-09-20,9342.0
+Switzerland,2021-09-27,11285.0
+Switzerland,2021-10-04,640.0
+Switzerland,2021-10-11,8500.0
+Switzerland,2021-10-18,5430.0
+Switzerland,2021-10-25,14631.0
+Switzerland,2021-11-01,16898.0
+Switzerland,2021-11-08,24492.0
+Switzerland,2021-11-15,42964.0
+Switzerland,2021-11-22,48463.0
+Switzerland,2021-11-29,57239.0
+Switzerland,2021-12-06,71879.0
+Switzerland,2021-12-13,34623.0
+Switzerland,2021-12-27,0.0
+Switzerland,2022-01-03,175802.0
+Switzerland,2022-01-10,180109.0
+Switzerland,2022-01-17,231526.0
+Switzerland,2022-01-24,252981.0
+Switzerland,2022-01-31,211814.0
+Switzerland,2022-02-07,152660.0
+Switzerland,2022-02-14,77001.0
+Switzerland,2022-02-21,136940.0
+Switzerland,2022-02-28,145570.0
+Switzerland,2022-03-07,206441.0
+Switzerland,2022-03-14,172585.0
+Switzerland,2022-03-21,139405.0
+Switzerland,2022-03-28,58221.0
+Switzerland,2022-04-04,39697.0
+Switzerland,2022-04-11,16818.0
+Switzerland,2022-04-18,33881.0
+Switzerland,2022-04-25,16546.0
+Switzerland,2022-05-02,12846.0
+Switzerland,2022-05-09,10723.0
+Switzerland,2022-05-16,8057.0
+Switzerland,2022-05-23,6885.0
+Switzerland,2022-05-30,10196.0
+Switzerland,2022-06-06,16528.0
+Turkey,2020-03-16,18.0
+Turkey,2020-03-23,1218.0
+Turkey,2020-03-30,8035.0
+Turkey,2020-04-06,17798.0
+Turkey,2020-04-13,29887.0
+Turkey,2020-04-20,29350.0
+Turkey,2020-04-27,23824.0
+Turkey,2020-05-04,15915.0
+Turkey,2020-05-11,12612.0
+Turkey,2020-05-18,10778.0
+Turkey,2020-05-25,7392.0
+Turkey,2020-06-01,7115.0
+Turkey,2020-06-08,6190.0
+Turkey,2020-06-15,8107.0
+Turkey,2020-06-22,9446.0
+Turkey,2020-06-29,9554.0
+Turkey,2020-07-06,8519.0
+Turkey,2020-07-13,7235.0
+Turkey,2020-07-20,6648.0
+Turkey,2020-07-27,6459.0
+Turkey,2020-08-03,47136.0
+Turkey,2020-08-10,55058.0
+Turkey,2020-08-17,55615.0
+Turkey,2020-08-24,56050.0
+Turkey,2020-08-31,57407.0
+Turkey,2020-09-07,58370.0
+Turkey,2020-09-14,58466.0
+Turkey,2020-09-21,58815.0
+Turkey,2020-09-28,58676.0
+Turkey,2020-10-05,57120.0
+Turkey,2020-10-12,58200.0
+Turkey,2020-10-19,59070.0
+Turkey,2020-10-26,61418.0
+Turkey,2020-11-02,62782.0
+Turkey,2020-11-09,63892.0
+Turkey,2020-11-16,67133.0
+Turkey,2020-11-23,79659.0
+Turkey,2020-11-30,159462.0
+Turkey,2020-12-07,220667.0
+Turkey,2020-12-14,215632.0
+Turkey,2020-12-21,187873.0
+Turkey,2020-12-28,122977.0
+Turkey,2021-01-04,178678.0
+Turkey,2021-01-11,60845.0
+Turkey,2021-01-18,42504.0
+Turkey,2021-01-25,47858.0
+Turkey,2021-02-01,53993.0
+Turkey,2021-02-08,54727.0
+Turkey,2021-02-15,52239.0
+Turkey,2021-02-22,63166.0
+Turkey,2021-03-01,78829.0
+Turkey,2021-03-08,98973.0
+Turkey,2021-03-15,133732.0
+Turkey,2021-03-22,195051.0
+Turkey,2021-03-29,278877.0
+Turkey,2021-04-05,361961.0
+Turkey,2021-04-12,419436.0
+Turkey,2021-04-19,361522.0
+Turkey,2021-04-26,245419.0
+Turkey,2021-05-03,155944.0
+Turkey,2021-05-10,86042.0
+Turkey,2021-05-17,69113.0
+Turkey,2021-05-24,56424.0
+Turkey,2021-05-31,45069.0
+Turkey,2021-06-07,42467.0
+Turkey,2021-06-14,39852.0
+Turkey,2021-06-21,38728.0
+Turkey,2021-06-28,35759.0
+Turkey,2021-07-05,31508.0
+Turkey,2021-07-12,53425.0
+Turkey,2021-07-19,57659.0
+Turkey,2021-07-26,139667.0
+Turkey,2021-08-02,144839.0
+Turkey,2021-08-09,187922.0
+Turkey,2021-08-16,137235.0
+Turkey,2021-08-23,149840.0
+Turkey,2021-08-30,151173.0
+Turkey,2021-09-06,160197.0
+Turkey,2021-09-13,189008.0
+Turkey,2021-09-20,166380.0
+Turkey,2021-09-27,197277.0
+Turkey,2021-10-04,205266.0
+Turkey,2021-10-11,213981.0
+Turkey,2021-10-18,196850.0
+Turkey,2021-10-25,182027.0
+Turkey,2021-11-01,197335.0
+Turkey,2021-11-08,201791.0
+Turkey,2021-11-15,135894.0
+Turkey,2021-11-22,180340.0
+Turkey,2021-11-29,157360.0
+Turkey,2021-12-06,140463.0
+Turkey,2021-12-13,131986.0
+Turkey,2021-12-27,0.0
+Turkey,2022-01-03,425651.0
+Turkey,2022-01-10,424612.0
+Turkey,2022-01-17,544065.0
+Turkey,2022-01-24,491347.0
+Turkey,2022-01-31,502219.0
+Turkey,2022-02-07,893839.0
+Turkey,2022-02-14,669951.0
+Turkey,2022-02-21,470904.0
+Turkey,2022-02-28,350828.0
+Turkey,2022-03-07,204983.0
+Turkey,2022-03-14,149636.0
+Turkey,2022-03-21,120732.0
+Turkey,2022-03-28,85033.0
+Turkey,2022-04-04,67655.0
+Turkey,2022-04-11,38304.0
+Turkey,2022-04-18,24601.0
+Turkey,2022-04-25,15823.0
+Turkey,2022-05-02,9806.0
+Turkey,2022-05-09,12423.0
+Turkey,2022-05-16,8071.0
+Turkey,2022-05-23,7607.0
+Turkey,2022-05-30,3722.0
+Turkey,2022-06-06,4464.0
+Ukraine,2020-03-16,3.0
+Ukraine,2020-03-23,44.0
+Ukraine,2020-03-30,371.0
+Ukraine,2020-04-06,890.0
+Ukraine,2020-04-13,1469.0
+Ukraine,2020-04-20,2672.0
+Ukraine,2020-04-27,3168.0
+Ukraine,2020-05-04,3296.0
+Ukraine,2020-05-11,3319.0
+Ukraine,2020-05-18,3059.0
+Ukraine,2020-05-25,2695.0
+Ukraine,2020-06-01,2686.0
+Ukraine,2020-06-08,3327.0
+Ukraine,2020-06-15,4155.0
+Ukraine,2020-06-22,5406.0
+Ukraine,2020-06-29,6422.0
+Ukraine,2020-07-06,5518.0
+Ukraine,2020-07-13,5021.0
+Ukraine,2020-07-20,5321.0
+Ukraine,2020-07-27,6007.0
+Ukraine,2020-08-03,7319.0
+Ukraine,2020-08-10,9789.0
+Ukraine,2020-08-17,10863.0
+Ukraine,2020-08-24,12138.0
+Ukraine,2020-08-31,14116.0
+Ukraine,2020-09-07,16820.0
+Ukraine,2020-09-14,18441.0
+Ukraine,2020-09-21,21343.0
+Ukraine,2020-09-28,22956.0
+Ukraine,2020-10-05,27828.0
+Ukraine,2020-10-12,34572.0
+Ukraine,2020-10-19,42604.0
+Ukraine,2020-10-26,39851.0
+Ukraine,2020-11-02,51951.0
+Ukraine,2020-11-09,64891.0
+Ukraine,2020-11-16,75526.0
+Ukraine,2020-11-23,76808.0
+Ukraine,2020-11-30,110014.0
+Ukraine,2020-12-07,90627.0
+Ukraine,2020-12-14,87360.0
+Ukraine,2020-12-21,70327.0
+Ukraine,2020-12-28,59381.0
+Ukraine,2021-01-04,88940.0
+Ukraine,2021-01-11,44402.0
+Ukraine,2021-01-18,30612.0
+Ukraine,2021-01-25,29551.0
+Ukraine,2021-02-01,23111.0
+Ukraine,2021-02-08,21059.0
+Ukraine,2021-02-15,39613.0
+Ukraine,2021-02-22,44472.0
+Ukraine,2021-03-01,54666.0
+Ukraine,2021-03-08,60748.0
+Ukraine,2021-03-15,86708.0
+Ukraine,2021-03-22,98153.0
+Ukraine,2021-03-29,103479.0
+Ukraine,2021-04-05,105217.0
+Ukraine,2021-04-12,91911.0
+Ukraine,2021-04-19,77317.0
+Ukraine,2021-04-26,55605.0
+Ukraine,2021-05-03,36389.0
+Ukraine,2021-05-10,33673.0
+Ukraine,2021-05-17,27855.0
+Ukraine,2021-05-24,18639.0
+Ukraine,2021-05-31,12558.0
+Ukraine,2021-06-07,8926.0
+Ukraine,2021-06-14,5868.0
+Ukraine,2021-06-21,4435.0
+Ukraine,2021-06-28,3542.0
+Ukraine,2021-07-05,3394.0
+Ukraine,2021-07-12,3460.0
+Ukraine,2021-07-19,3986.0
+Ukraine,2021-07-26,4606.0
+Ukraine,2021-08-02,6182.0
+Ukraine,2021-08-09,6878.0
+Ukraine,2021-08-16,8842.0
+Ukraine,2021-08-23,9769.0
+Ukraine,2021-08-30,13367.0
+Ukraine,2021-09-06,19517.0
+Ukraine,2021-09-13,32822.0
+Ukraine,2021-09-20,44758.0
+Ukraine,2021-09-27,64606.0
+Ukraine,2021-10-04,90079.0
+Ukraine,2021-10-11,94605.0
+Ukraine,2021-10-18,139345.0
+Ukraine,2021-10-25,152199.0
+Ukraine,2021-11-01,152263.0
+Ukraine,2021-11-08,139940.0
+Ukraine,2021-11-15,111966.0
+Ukraine,2021-11-22,87420.0
+Ukraine,2021-11-29,74128.0
+Ukraine,2021-12-06,61210.0
+Ukraine,2021-12-13,47522.0
+Ukraine,2021-12-27,0.0
+Ukraine,2022-01-03,28100.0
+Ukraine,2022-01-10,55088.0
+Ukraine,2022-01-17,110840.0
+Ukraine,2022-01-24,194125.0
+Ukraine,2022-01-31,242942.0
+Ukraine,2022-02-07,235256.0
+Ukraine,2022-02-14,191640.0
+Ukraine,2022-02-21,97662.0
+Ukraine,2022-02-28,40265.0
+Ukraine,2022-03-07,40268.0
+Ukraine,2022-03-14,22506.0
+Ukraine,2022-03-21,24048.0
+Ukraine,2022-03-28,14656.0
+Ukraine,2022-04-04,10995.0
+Ukraine,2022-04-11,5732.0
+Ukraine,2022-04-18,7828.0
+Ukraine,2022-04-25,4577.0
+Ukraine,2022-05-02,3590.0
+Ukraine,2022-05-09,2841.0
+Ukraine,2022-05-16,0.0
+Ukraine,2022-05-23,2132.0
+Ukraine,2022-05-30,3496.0
+Ukraine,2022-06-06,0.0
+United Kingdom,2020-01-06,0.0
+United Kingdom,2020-01-13,1.0
+United Kingdom,2020-01-20,0.0
+United Kingdom,2020-01-27,0.0
+United Kingdom,2020-02-03,3.0
+United Kingdom,2020-02-10,5.0
+United Kingdom,2020-02-17,3.0
+United Kingdom,2020-02-24,3.0
+United Kingdom,2020-03-02,61.0
+United Kingdom,2020-03-09,411.0
+United Kingdom,2020-03-16,2570.0
+United Kingdom,2020-03-23,7208.0
+United Kingdom,2020-03-30,19106.0
+United Kingdom,2020-04-06,30759.0
+United Kingdom,2020-04-13,32191.0
+United Kingdom,2020-04-20,32504.0
+United Kingdom,2020-04-27,32121.0
+United Kingdom,2020-05-04,30883.0
+United Kingdom,2020-05-11,22275.0
+United Kingdom,2020-05-18,19432.0
+United Kingdom,2020-05-25,15885.0
+United Kingdom,2020-06-01,11021.0
+United Kingdom,2020-06-08,8199.0
+United Kingdom,2020-06-15,7237.0
+United Kingdom,2020-06-22,6500.0
+United Kingdom,2020-06-29,5052.0
+United Kingdom,2020-07-06,4130.0
+United Kingdom,2020-07-13,4152.0
+United Kingdom,2020-07-20,4465.0
+United Kingdom,2020-07-27,5106.0
+United Kingdom,2020-08-03,5547.0
+United Kingdom,2020-08-10,6632.0
+United Kingdom,2020-08-17,7772.0
+United Kingdom,2020-08-24,8080.0
+United Kingdom,2020-08-31,9579.0
+United Kingdom,2020-09-07,18140.0
+United Kingdom,2020-09-14,22429.0
+United Kingdom,2020-09-21,31247.0
+United Kingdom,2020-09-28,47993.0
+United Kingdom,2020-10-05,83899.0
+United Kingdom,2020-10-12,111741.0
+United Kingdom,2020-10-19,124430.0
+United Kingdom,2020-10-26,154674.0
+United Kingdom,2020-11-02,154214.0
+United Kingdom,2020-11-09,168586.0
+United Kingdom,2020-11-16,170717.0
+United Kingdom,2020-11-23,131073.0
+United Kingdom,2020-11-30,103749.0
+United Kingdom,2020-12-07,109881.0
+United Kingdom,2020-12-14,153676.0
+United Kingdom,2020-12-21,234517.0
+United Kingdom,2020-12-28,274033.0
+United Kingdom,2021-01-04,787894.0
+United Kingdom,2021-01-11,301439.0
+United Kingdom,2021-01-18,225116.0
+United Kingdom,2021-01-25,164848.0
+United Kingdom,2021-02-01,121888.0
+United Kingdom,2021-02-08,88006.0
+United Kingdom,2021-02-15,78479.0
+United Kingdom,2021-02-22,54829.0
+United Kingdom,2021-03-01,40680.0
+United Kingdom,2021-03-08,40054.0
+United Kingdom,2021-03-15,38926.0
+United Kingdom,2021-03-22,37069.0
+United Kingdom,2021-03-29,23242.0
+United Kingdom,2021-04-05,20124.0
+United Kingdom,2021-04-12,17016.0
+United Kingdom,2021-04-19,16057.0
+United Kingdom,2021-04-26,14261.0
+United Kingdom,2021-05-03,15386.0
+United Kingdom,2021-05-10,15093.0
+United Kingdom,2021-05-17,17633.0
+United Kingdom,2021-05-24,24157.0
+United Kingdom,2021-05-31,37798.0
+United Kingdom,2021-06-07,53031.0
+United Kingdom,2021-06-14,72053.0
+United Kingdom,2021-06-21,123496.0
+United Kingdom,2021-06-28,189591.0
+United Kingdom,2021-07-05,235002.0
+United Kingdom,2021-07-12,338823.0
+United Kingdom,2021-07-19,227225.0
+United Kingdom,2021-07-26,184311.0
+United Kingdom,2021-08-02,197624.0
+United Kingdom,2021-08-09,207923.0
+United Kingdom,2021-08-16,239139.0
+United Kingdom,2021-08-23,240713.0
+United Kingdom,2021-08-30,267490.0
+United Kingdom,2021-09-06,229753.0
+United Kingdom,2021-09-13,212949.0
+United Kingdom,2021-09-20,244701.0
+United Kingdom,2021-09-27,232760.0
+United Kingdom,2021-10-04,264821.0
+United Kingdom,2021-10-11,317681.0
+United Kingdom,2021-10-18,318302.0
+United Kingdom,2021-10-25,282284.0
+United Kingdom,2021-11-01,240805.0
+United Kingdom,2021-11-08,276176.0
+United Kingdom,2021-11-15,299204.0
+United Kingdom,2021-11-22,301115.0
+United Kingdom,2021-11-29,342010.0
+United Kingdom,2021-12-06,384834.0
+United Kingdom,2021-12-13,679450.0
+United Kingdom,2021-12-20,923450.0
+United Kingdom,2021-12-27,0.0
+United Kingdom,2022-01-03,1188131.0
+United Kingdom,2022-01-10,688268.0
+United Kingdom,2022-01-17,710420.0
+United Kingdom,2022-01-24,656657.0
+United Kingdom,2022-01-31,428248.0
+United Kingdom,2022-02-07,544704.0
+United Kingdom,2022-02-14,257723.0
+United Kingdom,2022-02-21,280949.0
+United Kingdom,2022-02-28,358600.0
+United Kingdom,2022-03-07,522058.0
+United Kingdom,2022-03-14,441123.0
+United Kingdom,2022-03-21,482641.0
+United Kingdom,2022-03-28,668558.0
+United Kingdom,2022-04-04,236490.0
+United Kingdom,2022-04-11,151467.0
+United Kingdom,2022-04-18,232094.0
+United Kingdom,2022-04-25,94126.0
+United Kingdom,2022-05-02,53808.0
+United Kingdom,2022-05-09,76133.0
+United Kingdom,2022-05-16,28578.0
+United Kingdom,2022-05-23,45319.0
+United Kingdom,2022-05-30,28197.0
+United Kingdom,2022-06-06,89897.0

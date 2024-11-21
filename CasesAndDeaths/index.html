@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:image/x-icon;base64,iVBORw0KGgo=">
     <title>Weekly Deaths and Cases Line Charts</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
@@ -11,10 +12,17 @@
     <h2>Weekly Deaths and Cases by Country</h2>
     <label for="country-select">Select Country:</label>
     <select id="country-select"></select>
+    
     <div id="chart-container">
         <div id="deaths-chart" class="chart"></div>
         <div id="cases-chart" class="chart"></div>
     </div>
+    <div id="description-box">
+        <p>
+            The visualization tells a clear story of how cases and deaths evolved over time and how vaccination efforts impacted the outcomes during the post-vaccine era.
+        </p>
+    </div>
+    
     <div id="tooltip" class="tooltip" style="display: none;"></div>
 
     <script src="js/script.js"></script>

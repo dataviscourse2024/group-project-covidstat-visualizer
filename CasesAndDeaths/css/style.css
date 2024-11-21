@@ -37,3 +37,24 @@
     stroke-opacity: 0.7;
     shape-rendering: crispEdges;
 }
+
+#description-box {
+    position: absolute;
+    right: 150px;         /* Distance from the right edge */
+    top: 500px;          /* Adjust top position as needed */
+    width: 250px;        /* Width of the text box */
+    padding: 10px;
+    background-color: #f5f5f5; /* Light background color */
+    border: 1px solid #ccc;    /* Optional border */
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+#description-box p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+

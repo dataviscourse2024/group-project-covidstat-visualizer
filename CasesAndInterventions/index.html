@@ -3,23 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weekly Cases Line Chart with Response Measures</title>
+    <title>Government Responses and Pandemic Waves</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h2 style="text-align: center;">Weekly Cases and Response Measures by Country</h2>
+    <!-- Page Title -->
+    <h2 style="text-align: center;">Government Responses and COVID-19 Case Peaks</h2>
+    
+    <!-- Country Selector -->
     <div style="text-align: center; margin-bottom: 20px;">
         <label for="countrySelect">Select Country:</label>
         <select id="countrySelect"></select>
     </div>
-
-    <!-- Container for the line chart -->
+    
+    <!-- Intervention Type Filter (Checkboxes) -->
+    <div style="text-align: center; margin-bottom: 20px;">
+        <span>Filter Interventions:</span>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <!-- Significant Intervention Checkboxes -->
+            <label><input type="checkbox" value="StayHomeOrder" class="intervention-filter"> Lockdown (Stay Home Order)</label>
+            <label><input type="checkbox" value="RegionalStayHomeOrder" class="intervention-filter"> Regional Stay Home Order</label>
+            <label><input type="checkbox" value="StayHomeGen" class="intervention-filter"> General Stay Home Order</label>
+            
+            <label><input type="checkbox" value="ClosDaycare" class="intervention-filter"> Close Daycare</label>
+            <label><input type="checkbox" value="ClosPrim" class="intervention-filter"> Close Primary Schools</label>
+            <label><input type="checkbox" value="ClosHigh" class="intervention-filter"> Close High Schools</label>
+            <label><input type="checkbox" value="ClosSec" class="intervention-filter"> Close Secondary Schools</label>
+            <label><input type="checkbox" value="ClosPubAny" class="intervention-filter"> Close Public Spaces</label>
+            
+            <label><input type="checkbox" value="BanOnAllEvents" class="intervention-filter"> Ban on All Events</label>
+            <label><input type="checkbox" value="MassGatherAll" class="intervention-filter"> Mass Gathering Ban</label>
+            
+            <label><input type="checkbox" value="MasksMandatoryAllSpaces" class="intervention-filter"> Masks Mandatory in All Spaces</label>
+            <label><input type="checkbox" value="MasksMandatoryClosedSpaces" class="intervention-filter"> Masks Mandatory in Closed Spaces</label>
+            
+            <label><input type="checkbox" value="AdaptationOfWorkplace" class="intervention-filter"> Workplace Adaptation</label>
+            <label><input type="checkbox" value="Teleworking" class="intervention-filter"> Teleworking</label>
+            <label><input type="checkbox" value="WorkplaceClosures" class="intervention-filter"> Workplace Closures</label>
+        </div>
+    </div>
+    
+    <!-- Container for the Timeline Chart -->
     <div id="chart-container">
         <div id="cases-chart" class="chart"></div>
     </div>
-    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    
+    <!-- Tooltip for Hover Information -->
+     <!-- Tooltip for Hover Information -->
+    <div id="tooltip" class="tooltip" style="display: none; position: absolute;"></div>
 
+
+    
+    <!-- JavaScript for D3 Visualization -->
     <script src="js/script.js"></script>
 </body>
 </html>

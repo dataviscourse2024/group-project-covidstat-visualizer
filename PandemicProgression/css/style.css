@@ -6,22 +6,40 @@ body {
 }
 .axis-label { 
     font-size: 12px; 
+    font-weight: bold;
 }
 .tooltip {
     position: absolute;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 8px;
     font-size: 12px;
     pointer-events: none;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
 }
 .line { 
     fill: none; 
     stroke-width: 2; 
 }
-.bar { 
-    fill-opacity: 0.7; 
+
+.bar.cases { 
+    fill: #36abd6; /* Pastel Blue */
+}
+.bar.deaths { 
+    fill: #df4242; /* Pastel Red */
 }
 .selector { 
     margin: 20px; 
+    font-size: 14px;
+}
+
+.normalization-box {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #555;
 }

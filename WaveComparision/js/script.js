@@ -1,5 +1,5 @@
 // Set dimensions for the SVG container
-const margin = {top: 40, right: 30, bottom: 100, left: 60};
+const margin = {top: 60, right: 30, bottom: 120, left: 80};
 const width = 900 - margin.left - margin.right;
 const height = 500 - margin.top - margin.bottom;
 
@@ -11,82 +11,203 @@ const svg = d3.select("#chart-container")
   .append("g")
   .attr("transform", `translate(${margin.left},${margin.top})`);
 
-// Load the data
-d3.csv("data/pandemic_data.csv").then(function(data) {
+// Side Panel div for detailed information
+const sidePanel = d3.select("body")
+  .append("div")
+  .attr("class", "side-panel")
+  .style("display", "none")
+  .style("position", "absolute")
+  .style("width", "250px")
+  .style("background-color", "#f4f4f9")
+  .style("border", "1px solid #ccc")
+  .style("padding", "10px")
+  .style("box-shadow", "0px 0px 10px rgba(0, 0, 0, 0.1)");
 
-  console.log(data);
-  // Prepare the data
-  const caseData = data.filter(d => d.indicator === "cases");
-  // Aggregate data by country and pandemic wave
-  const nestedData = d3.rollups(caseData, v => d3.sum(v, d => +d.weekly_count), d => d.country, d => d.pandemic_wave);
+// Define color scale for stringency levels
+const colorScale = d3.scaleSequential(d3.interpolateBlues).domain([0, 100]);
+
+// Load the modified dataset with case reductions and interventions
+d3.csv("data/modified_pandemic_data.csv").then(function(data) {
   
-  // Format the data for easy chart creation
-  const formattedData = nestedData.map(([country, waves]) => {
-    const firstWave = waves.find(d => d[0] === "First Wave") ? waves.find(d => d[0] === "First Wave")[1] : 0;
-    const secondWave = waves.find(d => d[0] === "Second Wave") ? waves.find(d => d[0] === "Second Wave")[1] : 0;
-    return { country, firstWave, secondWave };
+  // Function to interpret intervention details based on stringency level
+  function getInterventionDetails(stringency) {
+    if (stringency > 50) {
+      return "Strict lockdowns, school closures, and travel restrictions.";
+    } else if (stringency >= 30) {
+      return "Partial lockdowns, mask mandates, and restrictions on public gatherings.";
+    } else {
+      return "Minimal restrictions, mostly voluntary guidelines.";
+    }
+  }
+
+  // Populate country selector
+  const countries = [...new Set(data.map(d => d.country))];
+  const countrySelector = d3.select("#country-selector");
+
+  countrySelector.selectAll("option")
+    .data(countries)
+    .enter()
+    .append("option")
+    .text(d => d)
+    .attr("value", d => d);
+
+  // Filter data by selected country
+  function updateChart(selectedCountries) {
+    const filteredData = data.filter(d => selectedCountries.includes(d.country));
+
+    // Prepare data structure for each wave in each selected country
+    const formattedData = filteredData.map(d => [
+      {
+        wave: "First Wave",
+        cases: +d.first_wave_cases,
+        reduction: +d.absolute_reduction,
+        percentage: +d.percentage_reduction,
+        stringency: +d.first_wave_stringency,
+        duration: +d.first_wave_duration,
+        country: d.country,
+        intervention: getInterventionDetails(+d.first_wave_stringency)
+      },
+      {
+        wave: "Second Wave",
+        cases: +d.second_wave_cases,
+        reduction: null,
+        percentage: null,
+        stringency: +d.second_wave_stringency,
+        duration: +d.second_wave_duration,
+        country: d.country,
+        intervention: getInterventionDetails(+d.second_wave_stringency)
+      }
+    ]).flat();
+
+    // Set up scales and axes
+    const xScale = d3.scaleBand()
+      .domain(formattedData.map(d => `${d.country} - ${d.wave}`))
+      .range([0, width])
+      .padding(0.2);
+    
+    const yScale = d3.scaleLinear()
+      .domain([0, d3.max(formattedData, d => d.cases)])
+      .range([height, 0]);
+    
+    svg.selectAll("*").remove();  // Clear previous elements
+
+    // Add X axis with label
+    svg.append("g")
+      .attr("transform", `translate(0,${height})`)
+      .call(d3.axisBottom(xScale))
+      .selectAll("text")
+      .attr("transform", "rotate(-45)")
+      .style("text-anchor", "end")
+      .style("font-size", "12px")
+      .style("font-weight", "bold");
+
+    svg.append("text")
+      .attr("x", width / 2)
+      .attr("y", height + margin.bottom - 40)
+      .attr("text-anchor", "middle")
+      .text("Pandemic Waves by Country");
+
+    // Add Y axis with label
+    svg.append("g")
+      .call(d3.axisLeft(yScale).ticks(10))
+      .selectAll("text")
+      .style("font-size", "12px");
+
+    svg.append("text")
+      .attr("text-anchor", "middle")
+      .attr("transform", `translate(${-margin.left / 1.5},${height / 2})rotate(-90)`)
+      .text("Total Cases Reduced");
+
+    // Bars with color gradient based on stringency
+    const bars = svg.selectAll(".bar")
+      .data(formattedData)
+      .enter()
+      .append("rect")
+      .attr("class", "bar")
+      .attr("x", d => xScale(`${d.country} - ${d.wave}`))
+      .attr("y", height) // Start from the bottom for animation
+      .attr("width", xScale.bandwidth())
+      .attr("height", 0) // Start with height 0 for animation
+      .attr("fill", d => colorScale(d.stringency))
+      .on("mouseover", (event, d) => {
+        // Show side panel with detailed information
+        sidePanel.style("display", "block")
+          .style("left", (event.pageX + 20) + "px")
+          .style("top", (event.pageY - 50) + "px")
+          .html(`
+            <h3>${d.country} - ${d.wave}</h3>
+            <p><strong>Total Cases:</strong> ${d.cases}</p>
+            <p><strong>Cases Reduced:</strong> ${d.reduction || 'N/A'}</p>
+            <p><strong>Reduction Percentage:</strong> ${d.percentage || 'N/A'}%</p>
+            <p><strong>Stringency Level:</strong> ${d.stringency}</p>
+            <p><strong>Intervention Duration:</strong> ${d.duration} days</p>
+            <p><strong>Interventions:</strong> ${d.intervention}</p>
+          `);
+      })
+      .on("mouseout", () => {
+        sidePanel.style("display", "none");
+      })
+      .on("click", (event, d) => {
+        d3.select("#intervention-details").html(`Wave: ${d.wave}<br>Cases: ${d.cases}<br>Reduction: ${d.reduction || 'N/A'}<br>Stringency: ${d.stringency}`);
+        d3.select("#intervention-modal").style("display", "block");
+      });
+
+    // Animation for bar transitions
+    bars.transition()
+      .duration(750)
+      .attr("y", d => yScale(d.cases))
+      .attr("height", d => height - yScale(d.cases));
+
+    // Display reduction percentage on top of bars
+    svg.selectAll(".text")
+      .data(formattedData)
+      .enter()
+      .append("text")
+      .attr("class", "label")
+      .attr("x", d => xScale(`${d.country} - ${d.wave}`) + xScale.bandwidth() / 2)
+      .attr("y", d => yScale(d.cases) - 10)
+      .attr("text-anchor", "middle")
+      .text(d => d.percentage ? `${d.percentage}%` : "");
+
+    // Add color legend for stringency levels
+    const legendData = [
+      { label: "Low Stringency", value: 30 },
+      { label: "Medium Stringency", value: 60 },
+      { label: "High Stringency", value: 100 }
+    ];
+    
+    const legend = svg.selectAll(".legend")
+      .data(legendData)
+      .enter()
+      .append("g")
+      .attr("class", "legend")
+      .attr("transform", (d, i) => `translate(0,${i * 20})`);
+
+    legend.append("rect")
+      .attr("x", width - 18)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", d => colorScale(d.value));
+
+    legend.append("text")
+      .attr("x", width - 24)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(d => d.label);
+  }
+
+  // Close modal functionality
+  d3.select(".close").on("click", () => {
+    d3.select("#intervention-modal").style("display", "none");
   });
-  console.log(formattedData);
 
-  // Create scales for X and Y axis
-  const xScale = d3.scaleBand()
-    .domain(formattedData.map(d => d.country))
-    .range([0, width])
-    .padding(0.2);
-  
-  const yScale = d3.scaleLinear()
-    .domain([0, d3.max(formattedData, d => Math.max(d.firstWave, d.secondWave))])
-    .range([height, 0]);
+  // Initial chart load
+  updateChart([countries[0]]);
 
-  // Add X axis
-  svg.append("g")
-    .attr("transform", `translate(0,${height})`)
-    .call(d3.axisBottom(xScale))
-    .selectAll("text")
-    .attr("transform", "rotate(-45)")
-    .style("text-anchor", "end");
-
-  // Add Y axis
-  svg.append("g")
-    .call(d3.axisLeft(yScale));
-
-  // Add bars for First Wave
-  svg.selectAll(".bar.first-wave")
-    .data(formattedData)
-    .enter()
-    .append("rect")
-    .attr("class", "bar first-wave")
-    .attr("x", d => xScale(d.country))
-    .attr("y", d => yScale(d.firstWave))
-    .attr("width", xScale.bandwidth() / 2)
-    .attr("height", d => height - yScale(d.firstWave))
-    .attr("fill", "#69b3a2");
-
-  // Add bars for Second Wave
-  svg.selectAll(".bar.second-wave")
-    .data(formattedData)
-    .enter()
-    .append("rect")
-    .attr("class", "bar second-wave")
-    .attr("x", d => xScale(d.country) + xScale.bandwidth() / 2)
-    .attr("y", d => yScale(d.secondWave))
-    .attr("width", xScale.bandwidth() / 2)
-    .attr("height", d => height - yScale(d.secondWave))
-    .attr("fill", "#404080");
-
-  // Add legend
-  svg.append("text")
-    .attr("x", width - 150)
-    .attr("y", 20)
-    .attr("class", "legend")
-    .style("fill", "#69b3a2")
-    .text("First Wave");
-
-  svg.append("text")
-    .attr("x", width - 150)
-    .attr("y", 40)
-    .attr("class", "legend")
-    .style("fill", "#404080")
-    .text("Second Wave");
-  
+  // Update chart on country selection change
+  countrySelector.on("change", function() {
+    const selectedCountries = Array.from(d3.select(this).property("selectedOptions"), option => option.value);
+    updateChart(selectedCountries);
+  });
 });
