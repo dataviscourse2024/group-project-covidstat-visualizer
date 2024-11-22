@@ -2,7 +2,8 @@
 
 View the project proposal:
 <ul>
-  <li>Web Page : https://himamynampaty.github.io./
-  <li>PDF : https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Project%20Proposal-final.pdf
+  <li>Web Page hosted on github pages: https://himamynampaty.github.io./
+  <li>Process book PDF : https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Process%20Book.pdf
+  <li>Screencast Video:
 <ul/>
 <br />
