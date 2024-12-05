@@ -37,9 +37,11 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
 
 ## Resources
 
-<ul>
-  <li>**Process Book**: https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Process%20Book.pdf
-  <li>**Data Source**: 
-<ul/>
+- **Process Book**: [process book](https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Process%20Book.pdf)
+- **Data Source**: 
+  - [Cases and Deaths](https://www.ecdc.europa.eu/en/publications-data/data-national-14-day-notification-rate-covid-19)
+  - [Vaccination](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
+  - [Testing by week and country](https://www.ecdc.europa.eu/en/publications-data/covid-19-testing)
+  - [Response Measures](https://www.ecdc.europa.eu/en/publications-data/download-data-response-measures-covid-19)
 
 ---
