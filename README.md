@@ -7,10 +7,8 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
 
 ## Project 
 
-<ul>
-  <li>**Web Page**: [CovidStat Visualizer](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)
-  <li>**Screencast Video**: [Watch Demo](https://www.youtube.com/watch?v=av1WpKiVSVQ)
-<ul/>
+- **Web Page**: [CovidStat Visualizer](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)
+- **Screencast Video**: [Watch Demo](https://www.youtube.com/watch?v=av1WpKiVSVQ)
 
 ---
 
