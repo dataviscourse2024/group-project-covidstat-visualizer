@@ -8,20 +8,16 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <!-- Page Title -->
     <h2 style="text-align: center;">Government Responses and COVID-19 Case Peaks</h2>
     
-    <!-- Country Selector -->
     <div style="text-align: center; margin-bottom: 20px;">
         <label for="countrySelect">Select Country:</label>
         <select id="countrySelect"></select>
     </div>
     
-    <!-- Intervention Type Filter (Checkboxes) -->
     <div style="text-align: center; margin-bottom: 20px;">
         <span>Filter Interventions:</span>
         <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-            <!-- Significant Intervention Checkboxes -->
             <label><input type="checkbox" value="StayHomeOrder" class="intervention-filter"> Lockdown (Stay Home Order)</label>
             <label><input type="checkbox" value="RegionalStayHomeOrder" class="intervention-filter"> Regional Stay Home Order</label>
             <label><input type="checkbox" value="StayHomeGen" class="intervention-filter"> General Stay Home Order</label>
@@ -44,18 +40,14 @@
         </div>
     </div>
     
-    <!-- Container for the Timeline Chart -->
     <div id="chart-container">
         <div id="cases-chart" class="chart"></div>
     </div>
     
-    <!-- Tooltip for Hover Information -->
-     <!-- Tooltip for Hover Information -->
     <div id="tooltip" class="tooltip" style="display: none; position: absolute;"></div>
 
 
     
-    <!-- JavaScript for D3 Visualization -->
     <script src="js/script.js"></script>
 </body>
 </html>

@@ -22,7 +22,6 @@ svg {
   border: 1px solid #ccc;
 }
 
-/* Tooltip styling */
 .tooltip {
   position: absolute;
   background-color: #333;
@@ -33,7 +32,6 @@ svg {
   font-size: 12px;
 }
 
-/* Side Panel styling */
 .side-panel {
   position: fixed;
   top: 20%;
@@ -45,7 +43,6 @@ svg {
   display: none;
 }
 
-/* Modal styling */
 .modal {
   display: none;
   position: fixed;

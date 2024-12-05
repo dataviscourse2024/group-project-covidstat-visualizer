@@ -24,10 +24,10 @@ body {
 }
 
 .bar.cases { 
-    fill: #36abd6; /* Pastel Blue */
+    fill: #36abd6; 
 }
 .bar.deaths { 
-    fill: #df4242; /* Pastel Red */
+    fill: #df4242; 
 }
 .selector { 
     margin: 20px; 

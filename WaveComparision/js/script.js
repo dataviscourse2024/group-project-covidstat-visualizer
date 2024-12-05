@@ -1,9 +1,7 @@
-// Set dimensions for the SVG container
 const margin = {top: 60, right: 30, bottom: 120, left: 80};
 const width = 900 - margin.left - margin.right;
 const height = 500 - margin.top - margin.bottom;
 
-// Create SVG element
 const svg = d3.select("#chart-container")
   .append("svg")
   .attr("width", width + margin.left + margin.right)
@@ -11,7 +9,6 @@ const svg = d3.select("#chart-container")
   .append("g")
   .attr("transform", `translate(${margin.left},${margin.top})`);
 
-// Side Panel div for detailed information
 const sidePanel = d3.select("body")
   .append("div")
   .attr("class", "side-panel")
@@ -23,13 +20,10 @@ const sidePanel = d3.select("body")
   .style("padding", "10px")
   .style("box-shadow", "0px 0px 10px rgba(0, 0, 0, 0.1)");
 
-// Define color scale for stringency levels
 const colorScale = d3.scaleSequential(d3.interpolateBlues).domain([0, 100]);
 
-// Load the modified dataset with case reductions and interventions
 d3.csv("data/modified_pandemic_data.csv").then(function(data) {
   
-  // Function to interpret intervention details based on stringency level
   function getInterventionDetails(stringency) {
     if (stringency > 50) {
       return "Strict lockdowns, school closures, and travel restrictions.";
@@ -40,7 +34,6 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
     }
   }
 
-  // Populate country selector
   const countries = [...new Set(data.map(d => d.country))];
   const countrySelector = d3.select("#country-selector");
 
@@ -51,11 +44,9 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
     .text(d => d)
     .attr("value", d => d);
 
-  // Filter data by selected country
   function updateChart(selectedCountries) {
     const filteredData = data.filter(d => selectedCountries.includes(d.country));
 
-    // Prepare data structure for each wave in each selected country
     const formattedData = filteredData.map(d => [
       {
         wave: "First Wave",
@@ -79,7 +70,6 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
       }
     ]).flat();
 
-    // Set up scales and axes
     const xScale = d3.scaleBand()
       .domain(formattedData.map(d => `${d.country} - ${d.wave}`))
       .range([0, width])
@@ -89,9 +79,8 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
       .domain([0, d3.max(formattedData, d => d.cases)])
       .range([height, 0]);
     
-    svg.selectAll("*").remove();  // Clear previous elements
+    svg.selectAll("*").remove();  
 
-    // Add X axis with label
     svg.append("g")
       .attr("transform", `translate(0,${height})`)
       .call(d3.axisBottom(xScale))
@@ -107,7 +96,6 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
       .attr("text-anchor", "middle")
       .text("Pandemic Waves by Country");
 
-    // Add Y axis with label
     svg.append("g")
       .call(d3.axisLeft(yScale).ticks(10))
       .selectAll("text")
@@ -118,19 +106,17 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
       .attr("transform", `translate(${-margin.left / 1.5},${height / 2})rotate(-90)`)
       .text("Total Cases Reduced");
 
-    // Bars with color gradient based on stringency
     const bars = svg.selectAll(".bar")
       .data(formattedData)
       .enter()
       .append("rect")
       .attr("class", "bar")
       .attr("x", d => xScale(`${d.country} - ${d.wave}`))
-      .attr("y", height) // Start from the bottom for animation
+      .attr("y", height) 
       .attr("width", xScale.bandwidth())
-      .attr("height", 0) // Start with height 0 for animation
+      .attr("height", 0) 
       .attr("fill", d => colorScale(d.stringency))
       .on("mouseover", (event, d) => {
-        // Show side panel with detailed information
         sidePanel.style("display", "block")
           .style("left", (event.pageX + 20) + "px")
           .style("top", (event.pageY - 50) + "px")
@@ -152,13 +138,11 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
         d3.select("#intervention-modal").style("display", "block");
       });
 
-    // Animation for bar transitions
     bars.transition()
       .duration(750)
       .attr("y", d => yScale(d.cases))
       .attr("height", d => height - yScale(d.cases));
 
-    // Display reduction percentage on top of bars
     svg.selectAll(".text")
       .data(formattedData)
       .enter()
@@ -169,7 +153,6 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
       .attr("text-anchor", "middle")
       .text(d => d.percentage ? `${d.percentage}%` : "");
 
-    // Add color legend for stringency levels
     const legendData = [
       { label: "Low Stringency", value: 30 },
       { label: "Medium Stringency", value: 60 },
@@ -197,15 +180,12 @@ d3.csv("data/modified_pandemic_data.csv").then(function(data) {
       .text(d => d.label);
   }
 
-  // Close modal functionality
   d3.select(".close").on("click", () => {
     d3.select("#intervention-modal").style("display", "none");
   });
 
-  // Initial chart load
   updateChart([countries[0]]);
 
-  // Update chart on country selection change
   countrySelector.on("change", function() {
     const selectedCountries = Array.from(d3.select(this).property("selectedOptions"), option => option.value);
     updateChart(selectedCountries);
