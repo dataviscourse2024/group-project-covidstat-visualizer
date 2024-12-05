@@ -3,14 +3,30 @@
 ## Project Overview
 CovidStat Visualizer is an interactive web tool built to help users visualize COVID-19 data across EU/EEA region. It allows users to explore statistics such as cases, deaths, and vaccination rates in an engaging, intuitive manner.
 
+## Team Members
+- Hima Mynampaty, u1528521, u1528521@utah.edu
+- Praneeth Chavva: u1465506, u1465506@utah.edu
+- Hemasundar Tatipudi: u1465343, u1465343@utah.edu
+
 ---
 
 ## Project 
 
 - **Web Page**: [CovidStat Visualizer](https://dataviscourse2024.github.io/group-project-covidstat-visualizer/)
 - **Screencast Video**: [Watch Demo](https://www.youtube.com/watch?v=av1WpKiVSVQ)
+- **Process Book**: [process book](https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Process%20Book.pdf)
 
 ---
+
+## Background and Motivation
+The COVID-19 pandemic has significantly impacted all regions of the world, and understanding the differences in outcomes across countries can provide valuable insights for policy decisions and future health crises. We chose to concentrate on the European Union (EU) and the European Economic Area (EEA) due to the region's diverse pandemic responses, which includes a variety of lockdown measures, vaccination strategies, and testing protocols. This project combines our interests in public health, data visualization, and interactive technologies to create a valuable tool for analyzing COVID-19 trends in these regions. Furthermore, we are motivated by the tool's ability to inform policymakers and health professionals about the efficacy of interventions in mitigating the virus's impact.
+
+## Primary Questions
+- How have COVID-19 cases and death rates varied over time in different EU/EEA countries?
+- What effect did vaccination campaigns have on reducing cases and deaths in the region?
+- How do testing and positivity rates correlate with case and death trends in various countries?
+- Which countries responded most effectively, and what factors contributed to their success (e.g., vaccination rates, testing strategies, and government responses)?
+- How did the pandemic's waves (e.g., first wave, post-vaccine era) differ regarding case surges and control strategies?
 
 ## Features
 - **Weekly Deaths and Cases by Country**:
@@ -56,8 +72,10 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
 ---
 
 ## Resources
-
-- **Process Book**: [process book](https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Process%20Book.pdf)
+- **Libraries Used**:
+  - **D3.js**: Used for data manipulation and rendering the SVG elements.
+  - **CS**: Stylesheets used to style HTML elements and SVG graphics.
+  - **HTML5**: Used for implementing dynamic behaviors, interactions, and event handling.
 - **Data Source**: 
   - [Cases and Deaths](https://www.ecdc.europa.eu/en/publications-data/data-national-14-day-notification-rate-covid-19)
   - [Vaccination](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
