@@ -21,7 +21,7 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
 
 ---
 
-## Installation
+## Installation in your local machine
 
 1. Clone the repository:
     ```bash
@@ -31,8 +31,15 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
     ```bash
     cd group-project-covidstat-visualizer
 
-3. Open the **index.html** file in your browser.
-
+3. Run the web aplication in your local using Python 2 to load all files properly. Run the command in command prompt
+    ```bash
+    python -m SimpleHTTPServer 8080
+4. If you are using Python 3, please run the below command in command prompt
+    ```bash
+    python -m http.server 8080
+5. After the Python command is sucessfull run the below command in any brower to open the web page!
+    ```bash
+    http://localhost:8080
 ---
 
 ## Resources
