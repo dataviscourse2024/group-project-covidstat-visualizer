@@ -17,7 +17,14 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
 - **Process Book**: [process book](https://github.com/dataviscourse2024/group-project-covidstat-visualizer/blob/main/Process%20Book.pdf)
 
 ---
+## Table of Contents
+1. [Background and Motivation](#background-and-motivation)
+2. [Primary Questions](#primary-questions)
+3. [Features](#features)
+4. [Installation](#installation-in-your-local-machine)
+5. [Resources](#resources)
 
+---
 ## Background and Motivation
 The COVID-19 pandemic has significantly impacted all regions of the world, and understanding the differences in outcomes across countries can provide valuable insights for policy decisions and future health crises. We chose to concentrate on the European Union (EU) and the European Economic Area (EEA) due to the region's diverse pandemic responses, which includes a variety of lockdown measures, vaccination strategies, and testing protocols. This project combines our interests in public health, data visualization, and interactive technologies to create a valuable tool for analyzing COVID-19 trends in these regions. Furthermore, we are motivated by the tool's ability to inform policymakers and health professionals about the efficacy of interventions in mitigating the virus's impact.
 
