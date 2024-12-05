@@ -13,11 +13,24 @@ CovidStat Visualizer is an interactive web tool built to help users visualize CO
 ---
 
 ## Features
-
-- **Interactive Maps**: Visualize COVID-19 statistics with color-coded maps.
-- **Dynamic Graphs**: Explore trends over time with interactive charts.
-- **Filtering Options**: Filter by country, region, or time period.
-- **User-friendly Interface**: Simple and accessible layout with intuitive navigation.
+- **Weekly Deaths and Cases by Country**:
+  - **Dropdown Menus:** Users can select countries to display specific data.
+  - **Hover Tooltips:** Provide detailed data points for cases, deaths, and vaccination rates.
+  - **Highlighted Peaks:** Markers and annotations highlight key events, like vaccination campaigns.
+  - **Animated Line Charts:** Smooth animations for drawing trends over time.
+- **Government Responses and COVID-19 Case Peaks:**
+  - **Checkbox Filters:** Enable selection of intervention types (e.g., lockdowns, mask mandates) with corresponding markers on the chart.
+  - **Hover Tooltips:** Reveal details about intervention types, dates, and impacts on cases.
+  - **Animated Progression:** Shows the timeline of case trends.
+- **Government Response Stringency Index vs. Cases and Deaths:**
+  - **Dropdown Menus:** Allow country-specific selection.
+  - **Dual Data Representation:** Line graph for stringency index overlaid with bar charts for normalized cases and deaths.
+  - **Hover Tooltips:** Provide monthly breakdowns for cases, deaths, and response stringency.
+- **Comparing Case Reductions Between Pandemic Waves:**
+  - **Bar Chart Grouping:** Visualizes case reductions for different pandemic waves with color-coded stringency levels.
+  - **Hover Side Panel:** Displays expanded information about the intervention stringency and wave details.
+  - **Country Selection:** Customizable country-specific data.
+- **Embedded Screencast Video:** Explains visualization purposes, navigation, and interactive features.
 
 ---
 
